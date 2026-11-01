@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Dansk — мой план</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* One reading column; top nav (Сегодня / График / Подкасты / Радио); transport bar pinned to the bottom like a cab radio. */
+:root{
+  --bg:#f3f4f1; --surface:#ffffff; --ink:#1b2125; --muted:#5d666c; --line:#d9ddd8;
+  --accent:#e0a100; --accent-ink:#1b2125; --now:#fff3cc; --ru:#3f5a6b; --mark:#b07a00; --done:#2f7d4f;
+  --f-display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --f-read:"Literata",Georgia,"Times New Roman",serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#14191c; --surface:#1d2428; --ink:#e8ebe6; --muted:#9aa4a9; --line:#2f383d;
+  --accent:#f2b51c; --accent-ink:#14191c; --now:#2e2a17; --ru:#9cc0d4; --mark:#f2c14e; --done:#6cc492; color-scheme:dark}}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:16px/1.5 var(--f-read);margin:0}
+.wrap{max-width:720px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:8px 150px}
+h1,h2,h3{font-family:var(--f-display);font-weight:700;letter-spacing:.01em;text-wrap:balance;margin:0}
+h1{font-size:2.1rem;line-height:1.05} h2{font-size:1.7rem;line-height:1.1} h3{font-size:1.25rem;line-height:1.15;margin-top:22px}
+.eyebrow{font:500 .78rem/1 var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.lede,.summary{color:var(--muted);margin:.4rem 0 0;font-size:.95rem}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+a{color:inherit}
+/* top nav */
+.nav{position:sticky;top:0;z-index:10;background:var(--bg);display:flex;gap:2px;border-bottom:1px solid var(--line);margin:0 0 16px;padding-top:calc(6px + env(safe-area-inset-top,0px))}
+.nav a{font:600 1.05rem/1 var(--f-display);padding:10px 10px;text-decoration:none;color:var(--muted);border-bottom:3px solid transparent}
+.nav a[aria-current="page"]{color:var(--ink);border-color:var(--accent)}
+/* day card */
+.dayhead{display:flex;align-items:flex-end;gap:10px}
+.dayhead .arr{font:600 1.4rem/1 var(--f-display);padding:6px 10px;border:1px solid var(--line);border-radius:8px;text-decoration:none}
+.dayhead .grow{flex:1;min-width:0}
+.blocks{list-style:none;margin:16px 0 0;padding:0;display:grid;gap:10px}
+.blk{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px;display:grid;grid-template-columns:2.2rem 1fr auto;gap:4px 12px;align-items:start}
+.blk.done{border-color:var(--done)}
+.blk .no{font:700 1.8rem/1 var(--f-display);color:var(--mark)}
+.blk .k{font:600 1.2rem/1.2 var(--f-display)}
+.blk .d{grid-column:2/-1;font-size:.95rem}
+.blk .d small{color:var(--muted)}
+.chk{width:30px;height:30px;border:2px solid var(--line);border-radius:8px;font:700 1rem/1 var(--f-display);color:var(--done)}
+.blk.done .chk{border-color:var(--done)}
+.acts{grid-column:2/-1;display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+.btn{display:inline-flex;align-items:center;gap:6px;background:var(--accent);color:var(--accent-ink);font:600 1.05rem/1 var(--f-display);padding:10px 14px;border-radius:10px;text-decoration:none}
+.btn.ghost{background:none;border:1px solid var(--line);color:var(--ink)}
+.tag{display:inline-block;font:500 .7rem/1 var(--f-mono);padding:3px 7px;border-radius:999px;border:1px solid var(--line);color:var(--muted);vertical-align:middle}
+.note{margin-top:12px;padding:10px 12px;border-left:3px solid var(--accent);background:var(--surface);border-radius:0 8px 8px 0;font-size:.93rem}
+.words{font-family:var(--f-display);font-weight:600;font-size:1.05rem}
+/* plan list */
+.plan{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:6px}
+.pd{display:grid;grid-template-columns:4.2rem 1fr auto;gap:10px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:9px 12px;text-decoration:none}
+.pd.today{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.pd .dt{font:700 1.15rem/1 var(--f-display)} .pd .dt small{display:block;font:500 .7rem/1.4 var(--f-mono);color:var(--muted)}
+.pd .what{font-size:.88rem;min-width:0} .pd .what b{font-family:var(--f-display);font-size:1rem}
+.pd .st{font:500 .8rem/1 var(--f-mono);color:var(--done);white-space:nowrap}
+/* episode list */
+.list{display:grid;gap:10px;margin-top:16px;padding:0;list-style:none}
+.ep{display:grid;grid-template-columns:3.2rem 1fr auto;gap:12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;text-decoration:none}
+.ep .num{font:700 2rem/1 var(--f-display);color:var(--mark);text-align:center}
+.ep .t{min-width:0} .ep .da{font:600 1.15rem/1.2 var(--f-display);display:block} .ep .ru{font-size:.88rem;color:var(--muted);display:block;margin-top:2px}
+.ep .meta{font:400 .75rem/1.4 var(--f-mono);color:var(--muted);text-align:right;white-space:nowrap}
+.badge{display:inline-block;font:500 .68rem/1 var(--f-mono);padding:3px 6px;border-radius:999px;border:1px solid var(--line);margin-top:4px}
+.badge.ok{border-color:var(--accent);color:var(--mark)}
+.how{margin-top:28px;font-size:.9rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px} .how b{color:var(--ink)}
+/* episode view */
+.back{font:500 .85rem/1 var(--f-mono);text-decoration:none;color:var(--muted);display:inline-block;margin-bottom:12px}
+.tabs{display:flex;gap:6px;margin:18px 0 6px;border-bottom:1px solid var(--line);position:sticky;top:calc(44px + env(safe-area-inset-top,0px));background:var(--bg);z-index:5;padding-top:6px;flex-wrap:wrap;align-items:flex-end}
+.tab{font:600 1.05rem/1 var(--f-display);padding:8px 10px;border-bottom:3px solid transparent;color:var(--muted)}
+.tab[aria-selected="true"]{color:var(--ink);border-color:var(--accent)}
+.tools{margin-left:auto;display:flex;gap:6px;padding-bottom:6px}
+.chip{font:500 .75rem/1 var(--f-mono);border:1px solid var(--line);border-radius:999px;padding:6px 9px;color:var(--muted)}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.lines{list-style:none;margin:0;padding:0}
+.ln{display:grid;grid-template-columns:3.4rem 1fr;gap:10px;padding:9px 8px;border-radius:8px;scroll-margin:130px}
+.ln.now{background:var(--now)}
+.ts{font:400 .75rem/1.9 var(--f-mono);color:var(--muted);text-align:left;padding:0}
+.txt{min-width:0} .da-t{font-size:1.08rem;line-height:1.5;cursor:pointer} .ru-t{color:var(--ru);font-size:.93rem;line-height:1.45;margin-top:3px}
+mark.g{background:none;color:inherit;border-bottom:2px solid var(--accent);cursor:help;padding:0}
+.gl{list-style:none;margin:0;padding:0;display:grid;gap:2px}
+.gi{display:grid;grid-template-columns:1fr auto;gap:4px 10px;padding:10px 6px;border-bottom:1px solid var(--line)}
+.gi .w{font:600 1.15rem/1.25 var(--f-display)} .gi .m{grid-column:1/-1;font-size:.95rem} .gi .n{grid-column:1/-1;font-size:.83rem;color:var(--muted)}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:10px;padding:16px;margin-top:16px;color:var(--muted)}
+/* radio sentence list */
+.rs{list-style:decimal;margin:12px 0 0;padding-left:2.2rem}
+.rs li{padding:6px 0;border-bottom:1px solid var(--line)} .rs .da-t{cursor:default} .rs .ru-t{margin-top:1px}
+/* transport bar */
+.bar{position:fixed;left:0;right:0;bottom:0;background:var(--surface);border-top:1px solid var(--line);z-index:20;
+  padding:8px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+.bar-in{max-width:720px;margin:0 auto;display:grid;gap:6px}
+.row{display:flex;align-items:center;gap:8px}
+.now-t{font:600 .95rem/1.2 var(--f-display);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none}
+.play{width:46px;height:46px;border-radius:50%;background:var(--accent);color:var(--accent-ink);font:700 1.1rem/1 var(--f-display);flex:none}
+.sk{font:500 .8rem/1 var(--f-mono);padding:8px 6px;border:1px solid var(--line);border-radius:8px;flex:none}
+.spd{margin-left:auto}
+.time{font:400 .75rem/1 var(--f-mono);color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+input[type=range]{width:100%;accent-color:var(--accent)}
+.pop{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(130px + env(safe-area-inset-bottom,0px));max-width:min(92vw,520px);background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:10px;font-size:.95rem;z-index:30;box-shadow:0 6px 24px rgba(0,0,0,.25)}
+.pop b{font-family:var(--f-display);font-size:1.1rem}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto!important}}
+@media (max-width:460px){h1{font-size:1.85rem}.ep{grid-template-columns:2.4rem 1fr}.ep .meta{grid-column:2;text-align:left}.nav a{padding:10px 7px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav class="nav" id="nav">
+    <a href="#today" data-n="today">Сегодня</a><a href="#plan" data-n="plan">График</a><a href="#pod" data-n="pod">Подкасты</a><a href="#radio" data-n="radio">Радио</a>
+  </nav>
+  <main id="app"><p class="lede">Загружаю…</p></main>
+</div>
+
+<div class="bar" id="bar" hidden>
+  <div class="bar-in">
+    <a class="now-t" id="nowt" href="#"></a>
+    <div class="row">
+      <button class="sk" id="b10" aria-label="Назад 10 секунд">−10</button>
+      <button class="play" id="pp" aria-label="Играть">▶</button>
+      <button class="sk" id="f10" aria-label="Вперёд 10 секунд">+10</button>
+      <span class="time" id="tm">0:00 / 0:00</span>
+      <button class="sk spd" id="spd" aria-label="Скорость">1×</button>
+    </div>
+    <input type="range" id="seek" min="0" max="1000" value="0" aria-label="Позиция">
+  </div>
+</div>
+<div class="pop" id="pop" hidden></div>
+<audio id="au" preload="metadata"></audio>
+
+<script>
+(function(){
+const $=s=>document.querySelector(s);
+const app=$('#app'), au=$('#au'), bar=$('#bar'), pop=$('#pop');
+const store={get(k,d){try{const v=localStorage.getItem('dp:'+k);return v==null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem('dp:'+k,JSON.stringify(v))}catch(e){}}};
+let EPS=[], RADIO=[], PLAN=null, CACHE={}, cur=null, lineEls=[], lineT=[], last=-1;
+let follow=store.get('follow',true), ruAll=store.get('ruAll',false), tab='text';
+const SPEEDS=[0.75,0.85,1,1.15]; let spd=store.get('spd',1);
+const fmt=s=>{s=Math.max(0,Math.floor(s||0));return Math.floor(s/60)+':'+String(s%60).padStart(2,'0')};
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const MODE={S:['📖','изучение','в плеере с текстом и переводом, пройти слова (на перерыве или дома)'],R:['🔁','повтор','в кабине без текста, ловить слова из списка'],I:['🔄','интервальный повтор','без текста; непонятные места — открыть текст'],T:['🧪','тест','попробовать плеер с текстом']};
+const MON=['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
+
+function todayISO(){const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0')}
+function human(iso){const [y,m,d]=iso.split('-').map(Number);return d+' '+MON[m-1]}
+async function getJSON(u){try{const r=await fetch(u,{cache:'no-cache'});return r.ok?await r.json():null}catch(e){return null}}
+async function loadData(id){ if(!(id in CACHE)) CACHE[id]=await getJSON('data/'+id+'.json'); return CACHE[id]; }
+
+async function init(){
+  [EPS,RADIO,PLAN]=await Promise.all([getJSON('data/episodes.json'),getJSON('data/radio.json'),getJSON('data/schedule.json')]);
+  EPS=EPS||[]; RADIO=RADIO||[];
+  await Promise.all(EPS.filter(e=>e.text).map(e=>loadData(e.id)));
+  route(); window.addEventListener('hashchange',route);
+}
+function nav(n){document.querySelectorAll('#nav a').forEach(a=>a.toggleAttribute('aria-current',a.dataset.n===n)&&a.setAttribute('aria-current','page'))}
+function route(){
+  const h=decodeURIComponent(location.hash.slice(1))||'today';
+  pop.hidden=true; lineEls=[];
+  if(h==='today'){nav('today');return showDay(pickToday())}
+  if(h.startsWith('day/')){nav('plan');return showDay(h.slice(4))}
+  if(h==='plan'){nav('plan');return showPlan()}
+  if(h==='pod'){nav('pod');return showPods()}
+  if(h==='radio'){nav('radio');return showRadioList()}
+  if(h.startsWith('radio/')){nav('radio');return showRadio(h.slice(6))}
+  const ep=EPS.find(e=>e.id===h); if(ep){nav('pod');return showEp(ep)}
+  nav('today'); showDay(pickToday());
+}
+function pickToday(){
+  if(!PLAN) return null; const t=todayISO(), ds=PLAN.days.map(d=>d.date);
+  if(ds.includes(t)) return t; if(t<ds[0]) return ds[0]; return ds[ds.length-1];
+}
+
+/* ---------- player ---------- */
+function load(item,{play=false}={}){
+  // item: {key, src, title, href}
+  if(!cur||cur.key!==item.key){
+    if(cur) store.set('pos:'+cur.key,au.currentTime||0);
+    cur=item; au.src=item.src; au.playbackRate=spd;
+    const p=store.get('pos:'+item.key,0);
+    au.addEventListener('loadedmetadata',()=>{ if(p>0&&p<au.duration-5) au.currentTime=p; },{once:true});
+  }
+  bar.hidden=false; $('#nowt').textContent='▸ '+item.title; $('#nowt').href=item.href;
+  if(play) au.play().catch(()=>{});
+}
+const epItem=ep=>({key:ep.id,src:'audio/'+ep.id+'.mp3',title:'NLM-'+String(ep.n).padStart(2,'0')+' · '+ep.da,href:'#'+ep.id});
+const radioItem=r=>({key:'radio-'+r.id,src:'audio/radio-'+r.id+'.mp3',title:'Радио · '+r.label,href:'#radio/'+r.id});
+au.addEventListener('timeupdate',()=>{
+  $('#tm').textContent=fmt(au.currentTime)+' / '+fmt(au.duration);
+  if(au.duration) $('#seek').value=Math.round(au.currentTime/au.duration*1000);
+  highlight(false);
+  if(cur && Math.floor(au.currentTime)%5===0) store.set('pos:'+cur.key,au.currentTime);
+});
+au.addEventListener('play',()=>{$('#pp').textContent='❚❚';$('#pp').setAttribute('aria-label','Пауза')});
+au.addEventListener('pause',()=>{$('#pp').textContent='▶';$('#pp').setAttribute('aria-label','Играть'); if(cur) store.set('pos:'+cur.key,au.currentTime)});
+au.addEventListener('ended',()=>{ if(cur) store.set('pos:'+cur.key,0) });
+$('#pp').onclick=()=>au.paused?au.play().catch(()=>{}):au.pause();
+$('#b10').onclick=()=>au.currentTime=Math.max(0,au.currentTime-10);
+$('#f10').onclick=()=>au.currentTime=Math.min(au.duration||1e9,au.currentTime+10);
+$('#seek').oninput=e=>{ if(au.duration) au.currentTime=e.target.value/1000*au.duration; };
+const spdBtn=$('#spd'); const spdTxt=()=>spdBtn.textContent=(+spd.toFixed(2))+'×'; spdTxt();
+spdBtn.onclick=()=>{spd=SPEEDS[(SPEEDS.indexOf(spd)+1)%SPEEDS.length]||1;au.playbackRate=spd;store.set('spd',spd);spdTxt()};
+
+/* ---------- today / day ---------- */
+function showDay(iso){
+  if(!PLAN){app.innerHTML='<p class="empty">График не загрузился.</p>';return}
+  const i=PLAN.days.findIndex(d=>d.date===iso); const d=PLAN.days[i>=0?i:0]; iso=d.date;
+  const prev=PLAN.days[i-1], next=PLAN.days[i+1], isToday=iso===todayISO();
+  const done=store.get('done:'+iso,{});
+  const ep=EPS.find(e=>e.id===d.pod.id), r=RADIO.find(x=>x.id===d.radio), m=MODE[d.pod.mode]||MODE.S;
+  const weekT=d.week?(PLAN.weeks[String(d.week)]||''):'Подготовка';
+  const newTxt=d.cm.new.length?d.cm.new.map(n=>`${esc(n.col)} <b>${n.n}</b>${n.words?` — <span class="words" lang="da">${esc(n.words)}</span>`:''}`).join('<br>'):'нет';
+  const blk=(no,k,body,acts)=>`<li class="blk ${done[no]?'done':''}" data-no="${no}"><span class="no">${no}</span><span class="k">${k}</span>
+    <button class="chk" data-no="${no}" aria-label="Отметить пункт ${no}" aria-pressed="${!!done[no]}">${done[no]?'✓':''}</button>
+    <div class="d">${body}</div>${acts?`<div class="acts">${acts}</div>`:''}</li>`;
+  app.innerHTML=`<div class="dayhead">
+    ${prev?`<a class="arr" href="#day/${prev.date}" aria-label="Предыдущий день">‹</a>`:''}
+    <div class="grow"><p class="eyebrow">${isToday?'Сегодня · ':''}${esc(weekT)}</p><h1>${d.dow} ${human(iso)}</h1></div>
+    ${next?`<a class="arr" href="#day/${next.date}" aria-label="Следующий день">›</a>`:''}</div>
+  ${d.note?`<div class="note">📌 ${esc(d.note)}</div>`:''}
+  <ol class="blocks">
+  ${blk(1,'Clozemaster',`Повторы <b>${d.cm.reviews}</b> <small>(цель: ${esc(d.cm.goal)})</small><br>Новые <b>${d.cm.new_total}</b>:<br>${newTxt}<br><small>Порядок повторов: 2000MC → Connectors → Prefix verbs → 3000MC → PD3 → 100MC → 1000MC → 500MC. Не открывать Fluency и ADR.</small>`,
+     `<a class="btn ghost" href="https://www.clozemaster.com/l/dan-eng" target="_blank" rel="noopener">Открыть Clozemaster ↗</a>`)}
+  ${blk(2,'Радио'+(d.radio_opt?' <span class="tag">по желанию</span>':''),r?`${esc(r.label)} · ${fmt(r.dur)} · ${r.count} предложений<br><small>DA → RU → DA медленно. Запустить до выезда.</small>`:`<small>Выпуск ${esc(d.radio)} ещё не собран (собирается в воскресенье).</small>`,
+     r?`<button class="btn" data-play="radio:${r.id}">▶ Радио</button><a class="btn ghost" href="#radio/${r.id}">Предложения</a>`:'')}
+  ${blk(3,'Подкаст',ep?`<b>NLM-${String(ep.n).padStart(2,'0')}</b> · <span lang="da">${esc(ep.da)}</span> · ${fmt(ep.dur)}<br>${m[0]} <b>${m[1]}</b>: <small>${m[2]}</small>${ep.text?'':'<br><small>Текст и перевод ещё готовятся — пока только аудио.</small>'}`:`<small>${esc(d.pod.id)} — эпизода нет.</small>`,
+     ep?`<button class="btn" data-play="ep:${ep.id}">▶ Слушать</button><a class="btn ghost" href="#${ep.id}">${ep.text?'Текст и слова':'Открыть'}</a>`:'')}
+  ${blk(4,'Фон',esc(d.bg))}
+  </ol>
+  <p class="how">Отметки ✓ сохраняются только в этом браузере. Вечером напиши Claude «аудио N мин» — он внесёт день в журнал.</p>`;
+  app.onclick=e=>{
+    const c=e.target.closest('.chk'); if(c){const no=c.dataset.no;const dn=store.get('done:'+iso,{});dn[no]=!dn[no];store.set('done:'+iso,dn);showDay(iso);return}
+    const p=e.target.closest('[data-play]'); if(p){const [t,id]=p.dataset.play.split(':');
+      if(t==='ep'){const ep=EPS.find(x=>x.id===id); load(epItem(ep),{play:true});}
+      else {const r=RADIO.find(x=>x.id===id); load(radioItem(r),{play:true});}}
+  };
+  window.scrollTo(0,0);
+}
+
+/* ---------- plan ---------- */
+function showPlan(){
+  if(!PLAN){app.innerHTML='<p class="empty">График не загрузился.</p>';return}
+  const t=todayISO(); let html=`<p class="eyebrow">Ноябрь 2026</p><h1>График</h1><p class="lede">Нажми на день, чтобы открыть его. Сегодняшний выделен.</p>`;
+  let wk=null;
+  PLAN.days.forEach(d=>{
+    if(d.week!==wk){ if(wk!==null) html+='</ul>'; wk=d.week; html+=`<h3>${esc(d.week?PLAN.weeks[String(d.week)]:'Подготовка')}</h3><ul class="plan">`; }
+    const ep=EPS.find(e=>e.id===d.pod.id), m=MODE[d.pod.mode]||MODE.S, dn=store.get('done:'+d.date,{}), n=Object.values(dn).filter(Boolean).length;
+    const pv=d.cm.new.find(x=>x.col==='Prefix verbs');
+    html+=`<li><a class="pd ${d.date===t?'today':''}" href="#day/${d.date}"><span class="dt">${d.dow} ${+d.date.slice(8)}.${d.date.slice(5,7)}<small>${d.cm.reviews} повт · ${d.cm.new_total} нов</small></span>
+      <span class="what">${m[0]} <b>NLM-${d.pod.id.slice(4)}</b> ${ep?esc(ep.topic):''}${pv?`<br><span lang="da">${esc(pv.words)}</span>`:''}</span><span class="st">${n?n+'/4 ✓':''}</span></a></li>`;
+  });
+  html+='</ul>'; app.innerHTML=html; window.scrollTo(0,0);
+  const el=app.querySelector('.pd.today'); if(el) el.scrollIntoView({block:'center'});
+}
+
+/* ---------- podcasts ---------- */
+function showPods(){
+  const ready=EPS.filter(e=>CACHE[e.id]).length;
+  app.innerHTML=`<p class="eyebrow">NotebookLM · dansk B1</p><h1>Подкасты</h1>
+  <p class="lede">${EPS.length} эпизодов · текст с переводом готов для ${ready}. Строка, которую говорят сейчас, подсвечивается.</p>
+  <ul class="list">${EPS.map(e=>{const d=CACHE[e.id];const pos=store.get('pos:'+e.id,0);
+    return `<li><a class="ep" href="#${e.id}"><span class="num">${String(e.n).padStart(2,'0')}</span>
+    <span class="t"><span class="da" lang="da">${esc(e.da)}</span><span class="ru">${esc(d&&d.title_ru||e.topic)}</span>
+    <span class="badge ${d?'ok':''}">${d?'текст + перевод + '+d.glossary.length+' слов':'только аудио · текст готовится'}</span></span>
+    <span class="meta">${fmt(e.dur)}${pos>30?'<br>с '+fmt(pos):''}</span></a></li>`}).join('')}</ul>
+  <div class="how"><b>Как пользоваться.</b> Нажми на время строки — переход к этому месту. Нажми на датский текст — перевод этой строки, или включи <b>RU</b> для всех. Подчёркнутые слова есть в словарике. Позиция в каждом эпизоде запоминается.</div>`;
+  app.onclick=null; window.scrollTo(0,0);
+}
+function glossForms(gl){
+  const stop=['en','et','at','sig','noget','nogen','til','i','på','om','med','af','for','den','det','de','der','er','har','jeg','man','ikke'];
+  const forms=[];
+  (gl||[]).forEach((g,i)=>String(g.da).toLowerCase().split(/[\/,;()]+/).forEach(part=>part.trim().split(/\s+/)
+    .filter(w=>w&&!stop.includes(w)&&w.length>=3).forEach(w=>forms.push([w.replace(/[^a-zæøåé-]/g,''),i]))));
+  return forms.filter(f=>f[0].length>=3);
+}
+function markLine(text,forms){
+  return esc(text).replace(/[A-Za-zÆØÅæøåÉé-]+/g,tok=>{const t=tok.toLowerCase();
+    for(const [f,i] of forms){ if(t===f||(f.length>=5&&t.startsWith(f.slice(0,-1))&&t.length<=f.length+4)) return `<mark class="g" data-i="${i}">${tok}</mark>`; }
+    return tok;});
+}
+function showEp(ep){
+  const d=CACHE[ep.id]; load(epItem(ep)); tab='text';
+  const n=String(ep.n).padStart(2,'0');
+  app.innerHTML=`<a class="back" href="#pod">← все подкасты</a>
+  <p class="eyebrow">Эпизод ${n} · ${fmt(ep.dur)}</p><h2 lang="da">${esc(ep.da)}</h2>
+  <p class="summary">${esc(d?(d.title_ru+'. '+(d.summary_ru||'')):ep.topic)}</p>
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" id="t-text" aria-selected="true">Текст</button>
+    <button class="tab" role="tab" id="t-gl" aria-selected="false">Слова${d?' ('+d.glossary.length+')':''}</button>
+    <span class="tools"><button class="chip" id="ru" aria-pressed="${ruAll}">RU</button><button class="chip" id="fol" aria-pressed="${follow}">следить</button></span>
+  </div><div id="pane"></div>`;
+  $('#t-text').onclick=()=>{tab='text';renderPane(d)};
+  $('#t-gl').onclick=()=>{tab='gl';renderPane(d)};
+  $('#ru').onclick=e=>{ruAll=!ruAll;store.set('ruAll',ruAll);e.currentTarget.setAttribute('aria-pressed',ruAll);document.querySelectorAll('.ru-t').forEach(x=>x.hidden=!ruAll)};
+  $('#fol').onclick=e=>{follow=!follow;store.set('follow',follow);e.currentTarget.setAttribute('aria-pressed',follow)};
+  app.onclick=null; renderPane(d); window.scrollTo(0,0);
+}
+function renderPane(d){
+  $('#t-text').setAttribute('aria-selected',tab==='text'); $('#t-gl').setAttribute('aria-selected',tab==='gl');
+  const pane=$('#pane'); lineEls=[]; lineT=[]; last=-1;
+  if(!d){ pane.innerHTML='<div class="empty">Текст и перевод для этого эпизода ещё готовятся. Аудио уже можно слушать — кнопка ▶ внизу.</div>'; return; }
+  const ST={known:'знаешь в Clozemaster',learning:'учишь в Clozemaster',new:'есть в Clozemaster, ещё не начато'};
+  if(tab==='gl'){
+    pane.innerHTML=`<ul class="gl">${d.glossary.map(g=>`<li class="gi"><span class="w" lang="da">${esc(g.da)}</span>
+      <button class="ts" data-t="${g.t}">${fmt(g.t)} ▸</button><span class="m">${esc(g.ru)}</span>
+      ${g.note?`<span class="n">${esc(g.note)}</span>`:''}${ST[g.status]?`<span class="n">${ST[g.status]}</span>`:''}</li>`).join('')}</ul>`;
+  } else {
+    const forms=glossForms(d.glossary);
+    pane.innerHTML=`<ol class="lines">${d.lines.map((l,i)=>`<li class="ln" data-i="${i}"><button class="ts" data-t="${l.t}">${fmt(l.t)}</button>
+      <div class="txt"><div class="da-t" lang="da">${markLine(l.da,forms)}</div><div class="ru-t" lang="ru" ${ruAll?'':'hidden'}>${esc(l.ru)}</div></div></li>`).join('')}</ol>`;
+    lineEls=[...pane.querySelectorAll('.ln')]; lineT=d.lines.map(l=>l.t); highlight(true);
+  }
+  pane.onclick=e=>{
+    const ts=e.target.closest('.ts'); if(ts){ au.currentTime=+ts.dataset.t; au.play().catch(()=>{}); if(tab==='gl'){tab='text';renderPane(d)} return; }
+    const m=e.target.closest('mark.g'); if(m){ const g=d.glossary[+m.dataset.i]; showPop(`<b>${esc(g.da)}</b> — ${esc(g.ru)}${g.note?'<br><small>'+esc(g.note)+'</small>':''}`); return; }
+    const da=e.target.closest('.da-t'); if(da){ const r=da.nextElementSibling; r.hidden=!r.hidden; }
+  };
+}
+function highlight(force){
+  if(!lineEls.length||!cur||cur.key!==(location.hash.slice(1))) return;
+  const t=au.currentTime; let i=0,lo=0,hi=lineT.length-1;
+  while(lo<=hi){const m=(lo+hi)>>1; if(lineT[m]<=t+0.15){i=m;lo=m+1}else hi=m-1}
+  if(i!==last||force){ if(lineEls[last]) lineEls[last].classList.remove('now'); lineEls[i].classList.add('now');
+    if(follow&&!au.paused&&i!==last) lineEls[i].scrollIntoView({block:'center',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+    last=i; }
+}
+let popT; function showPop(h){pop.innerHTML=h;pop.hidden=false;clearTimeout(popT);popT=setTimeout(()=>pop.hidden=true,4500)}
+pop.onclick=()=>pop.hidden=true;
+
+/* ---------- radio ---------- */
+function showRadioList(){
+  app.innerHTML=`<p class="eyebrow">Предложения из Clozemaster</p><h1>Радио</h1>
+  <p class="lede">Каждая неделя — новый выпуск из твоей очереди повторов: датский (Christel / Jeppe) → русский → датский медленно → пауза.</p>
+  <ul class="list">${RADIO.map(r=>`<li><a class="ep" href="#radio/${r.id}"><span class="num">${esc(r.week)}</span>
+    <span class="t"><span class="da">${esc(r.label)}</span><span class="ru">${esc(r.desc||'')}</span></span><span class="meta">${fmt(r.dur)}<br>${r.count} предл.</span></a></li>`).join('')||'<li class="empty">Выпусков пока нет.</li>'}</ul>`;
+  app.onclick=null; window.scrollTo(0,0);
+}
+async function showRadio(id){
+  const r=RADIO.find(x=>x.id===id); if(!r){showRadioList();return}
+  load(radioItem(r));
+  const items=await loadData('radio-'+id)||[];
+  app.innerHTML=`<a class="back" href="#radio">← все выпуски</a><p class="eyebrow">Радио · ${fmt(r.dur)}</p><h2>${esc(r.label)}</h2>
+  <p class="summary">${esc(r.desc||'')}</p>
+  <p><button class="btn" id="rp">▶ Слушать</button> <button class="chip" id="ru" aria-pressed="${ruAll}">RU</button></p>
+  <ol class="rs">${items.map(x=>`<li><div class="da-t" lang="da">${esc(x[0])}</div><div class="ru-t" lang="ru" ${ruAll?'':'hidden'}>${esc(x[1])}</div></li>`).join('')}</ol>`;
+  $('#rp').onclick=()=>au.play().catch(()=>{});
+  $('#ru').onclick=e=>{ruAll=!ruAll;store.set('ruAll',ruAll);e.currentTarget.setAttribute('aria-pressed',ruAll);document.querySelectorAll('.ru-t').forEach(x=>x.hidden=!ruAll)};
+  app.onclick=null; window.scrollTo(0,0);
+}
+init();
+})();
+</script>
+</body>
+</html>

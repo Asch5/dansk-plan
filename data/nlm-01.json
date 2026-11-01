@@ -1,0 +1,3119 @@
+{
+ "id": "nlm-01",
+ "title_da": "Lær dansk med Antons ødelagte sidespejl",
+ "title_ru": "Учим датский на примере разбитого бокового зеркала Антона",
+ "summary_ru": "В четыре утра на депо в Глострупе Антон обнаруживает, что правое боковое зеркало его грузовика разбито: он сразу вызывает механика, ведь ехать без зеркала незаконно из-за велосипедистов в слепой зоне. Вечером дома в Вальбю он объясняет сыну Ивану разницу между stadig и endnu, а также слова egentlig и bestemt. Ведущие разбирают 10 ключевых слов (skade, skidt, straks, nødvendigt, forbi, nogensinde, endnu/stadig, egentlig, bestemt, ødelagt) с их произношением и в конце повторяют их все.",
+ "lines": [
+  {
+   "t": 0.0,
+   "da": "Altså, forestil dig lige det her. Klokken er fire om morgenen, ikke? Du står udenfor i mørket.",
+   "ru": "Итак, представь себе вот что. Четыре часа утра, да? Ты стоишь на улице в темноте."
+  },
+  {
+   "t": 7.4,
+   "da": "Åh, det er koldt på det tidspunkt.",
+   "ru": "Ох, в это время холодно."
+  },
+  {
+   "t": 8.9,
+   "da": "Det er rigtig koldt. Du står på et depot i Glostrup, vinden blæser, og du har din kaffe i hånden. Du vil bare gerne ind i varmen.",
+   "ru": "Очень холодно. Ты стоишь на депо в Глострупе, дует ветер, в руке у тебя кофе. Хочется просто поскорее в тепло."
+  },
+  {
+   "t": 16.4,
+   "da": "Ja, man vil bare ind i sin lastbil.",
+   "ru": "Да, хочется просто забраться в свой грузовик."
+  },
+  {
+   "t": 18.5,
+   "da": "Lige præcis. Man vil starte motoren og komme i gang med dagens rute. Men da du går hen mod døren, så ser du det.",
+   "ru": "Именно. Хочется завести мотор и начать дневной маршрут. Но когда ты подходишь к двери, ты это видишь."
+  },
+  {
+   "t": 26.0,
+   "da": "Hvad ser du?",
+   "ru": "Что ты видишь?"
+  },
+  {
+   "t": 26.5,
+   "da": "Højre sidespejl på din lastbil. Det hænger bare og dingler. Spejlglasset ligger på jorden i tusind små stykker.",
+   "ru": "Правое боковое зеркало твоего грузовика. Оно просто висит и болтается. Стекло зеркала лежит на земле, разбитое на тысячу мелких осколков."
+  },
+  {
+   "t": 33.5,
+   "da": "Det er simpelthen fuldstændig ødelagt.",
+   "ru": "Оно просто полностью разбито (*ødelagt*)."
+  },
+  {
+   "t": 36.2,
+   "da": "Ej, sikke en start på dagen.",
+   "ru": "Ну и начало дня!"
+  },
+  {
+   "t": 38.3,
+   "da": "Ja, hvad gør du så? Det er spørgsmålet. Og velkommen til dig, kære lytter.",
+   "ru": "Да, и что ты тогда делаешь? Вот в чём вопрос. И добро пожаловать, дорогой слушатель."
+  },
+  {
+   "t": 43.2,
+   "da": "Ja, velkommen.",
+   "ru": "Да, добро пожаловать."
+  },
+  {
+   "t": 44.1,
+   "da": "Dig, der måske sidder bag rattet i din helt egen lastbil et sted i København lige nu.",
+   "ru": "Тебе, кто, может быть, сидит сейчас за рулём своего собственного грузовика где-то в Копенгагене."
+  },
+  {
+   "t": 48.4,
+   "da": "Vi ved nemlig godt, at du lytter med ude på vejene.",
+   "ru": "Мы ведь знаем, что ты слушаешь нас в дороге."
+  },
+  {
+   "t": 51.0,
+   "da": "Jamen, det er præcis den her situation, vi skal tale om i dag.",
+   "ru": "Так вот, именно об этой ситуации мы сегодня и поговорим."
+  },
+  {
+   "t": 53.7,
+   "da": "Den skete nemlig i virkeligheden for en anden chauffør.",
+   "ru": "Она ведь на самом деле случилась с другим водителем."
+  },
+  {
+   "t": 56.6,
+   "da": "Ja, en chauffør, der hedder Anton.",
+   "ru": "Да, с водителем по имени Антон."
+  },
+  {
+   "t": 58.3,
+   "da": "Rigtigt. Og i dag bruger vi Antons virkelige historie til at lære noget.",
+   "ru": "Верно. И сегодня мы используем реальную историю Антона, чтобы кое-чему научиться."
+  },
+  {
+   "t": 62.6,
+   "da": "Vi skal bruge hans morgen og hans dag til at forstå 10 meget vigtige danske ord.",
+   "ru": "На примере его утра и его дня мы разберём 10 очень важных датских слов."
+  },
+  {
+   "t": 67.3,
+   "da": "Lige præcis, 10 ord. Målet er nemlig at knække koden til det danske sprog, alt imens du kører din lastbil.",
+   "ru": "Именно, 10 слов. Цель — взломать код датского языка, пока ты ведёшь свой грузовик."
+  },
+  {
+   "t": 73.8,
+   "da": "Men vi har en meget vigtig grundregel for vores samtale i dag.",
+   "ru": "Но у нас есть одно очень важное основное правило для сегодняшнего разговора."
+  },
+  {
+   "t": 77.8,
+   "da": "Ja, fortæl om den.",
+   "ru": "Да, расскажи о нём."
+  },
+  {
+   "t": 78.7,
+   "da": "Altså, vi ved jo godt, at du arbejder lige nu. Du skal holde øje med trafikken i København, cyklerne, lyskrydsene, det hele.",
+   "ru": "Мы ведь знаем, что ты сейчас работаешь. Тебе нужно следить за движением в Копенгагене, за велосипедами, светофорами — за всем."
+  },
+  {
+   "t": 86.5,
+   "da": "Der er nok at se til.",
+   "ru": "Есть за чем следить."
+  },
+  {
+   "t": 87.6,
+   "da": "Nemlig. Derfor taler vi ekstra langsomt i dag. Vi taler meget tydeligt.",
+   "ru": "Вот именно. Поэтому сегодня мы говорим особенно медленно. Говорим очень чётко."
+  },
+  {
+   "t": 92.4,
+   "da": "Vi bruger et enkelt og klart dansk sprog, så du kan være med på niveau B1.",
+   "ru": "Мы используем простой и ясный датский, чтобы ты мог следить на уровне B1."
+  },
+  {
+   "t": 97.3,
+   "da": "Ja, så du kan lære ordene uden stress overhovedet. Du skal bare holde begge hænder på rattet og lytte til os.",
+   "ru": "Да, чтобы ты мог учить слова совсем без стресса. Просто держи обе руки на руле и слушай нас."
+  },
+  {
+   "t": 103.2,
+   "da": "Præcis. Så lad os vende tilbage til Anton ude i mørket i Glostrup.",
+   "ru": "Точно. Так что давай вернёмся к Антону, который стоит в темноте в Глострупе."
+  },
+  {
+   "t": 109.5,
+   "da": "Ja, men Anton står jo der, og hans spejl er ikke bare lidt ridset. Det er helt ødelagt.",
+   "ru": "Да, Антон стоит там, и его зеркало не просто слегка поцарапано. Оно полностью разбито."
+  },
+  {
+   "t": 114.3,
+   "da": "Ja, det er fuldstændig ødelagt. Og at noget er ødelagt, det betyder altså, at det er gået helt i stykker.",
+   "ru": "Да, оно совершенно разбито. А то, что что-то *ødelagt*, значит, что оно полностью сломалось, разлетелось на куски."
+  },
+  {
+   "t": 120.4,
+   "da": "Det virker simpelthen slet ikke mere.",
+   "ru": "Оно просто вообще больше не работает."
+  },
+  {
+   "t": 121.7,
+   "da": "Nej, slet ikke. Du kan ikke bruge det til noget. Når et sidespejl er ødelagt, så kan du jo ikke se bilerne i det.",
+   "ru": "Нет, совсем. Им нельзя пользоваться. Когда боковое зеркало разбито, ты же не видишь в нём машины."
+  },
+  {
+   "t": 126.6,
+   "da": "Nej, det giver sig selv.",
+   "ru": "Нет, это само собой понятно."
+  },
+  {
+   "t": 128.1,
+   "da": "Det er et stærkt ord, ikke?",
+   "ru": "Это сильное слово, правда?"
+  },
+  {
+   "t": 129.2,
+   "da": "Jo, meget stærkt.",
+   "ru": "Да, очень сильное."
+  },
+  {
+   "t": 129.9,
+   "da": "Altså, hvis du taber din mobiltelefon ned på asfalten, og skærmen knækker i mange stykker. Sådan ødelagt.",
+   "ru": "Например, если уронишь мобильник на асфальт и экран треснет на множество кусочков. Вот такое *ødelagt*."
+  },
+  {
+   "t": 136.7,
+   "da": "Åh, jeg kender godt følelsen i maven, når man ser det. Du ved, den her følelse af, at alt bare starter dårligt.",
+   "ru": "Ох, знаю это чувство в животе, когда такое видишь. Знаешь, это ощущение, что всё просто начинается плохо."
+  },
+  {
+   "t": 143.0,
+   "da": "Ja, man mister lidt modet.",
+   "ru": "Да, немного падаешь духом."
+  },
+  {
+   "t": 144.9,
+   "da": "Helt vildt. Det minder mig faktisk om at køre ind på H.C. Andersens Boulevard, du ved, midt inde i København.",
+   "ru": "Ужасно. Это мне, кстати, напоминает въезд на бульвар Х. К. Андерсена — знаешь, в самом центре Копенгагена."
+  },
+  {
+   "t": 150.2,
+   "da": "Åh, ja. Den er slem om morgenen.",
+   "ru": "О да. Утром там жуть."
+  },
+  {
+   "t": 152.4,
+   "da": "Ja, man er allerede forsinket. Og så rammer man bare hver eneste røde lys i træk. Rød, rød, rød.",
+   "ru": "Да, ты уже опаздываешь. И тут попадаешь на каждый красный свет подряд. Красный, красный, красный."
+  },
+  {
+   "t": 158.1,
+   "da": "Det er så frustrerende.",
+   "ru": "Это так бесит."
+  },
+  {
+   "t": 160.5,
+   "da": "Man tænker bare, det her, det er virkelig skidt. Alt er bare skidt lige nu.",
+   "ru": "И думаешь: вот это действительно паршиво (*skidt*). Сейчас просто всё плохо."
+  },
+  {
+   "t": 165.2,
+   "da": "Og det er præcis det samme, Anton siger højt til sig selv ude i kulden.",
+   "ru": "И ровно то же самое Антон говорит вслух сам себе там, на холоде."
+  },
+  {
+   "t": 168.9,
+   "da": "Han siger simpelthen ordet skidt.",
+   "ru": "Он просто говорит слово *skidt*."
+  },
+  {
+   "t": 171.1,
+   "da": "Ja, han kigger på det knuste glas og siger, det her, det er skidt.",
+   "ru": "Да, он смотрит на разбитое стекло и говорит: «Вот это плохо»."
+  },
+  {
+   "t": 176.2,
+   "da": "Altså, det er jo en perfekt sammenligning.",
+   "ru": "Это же идеальное сравнение."
+  },
+  {
+   "t": 179.0,
+   "da": "At holde for rødt lys hele tiden er også meget skidt.",
+   "ru": "Всё время стоять на красном — тоже очень плохо."
+  },
+  {
+   "t": 183.1,
+   "da": "Ordet skidt er et fantastisk ord i hverdagen.",
+   "ru": "Слово *skidt* — отличное слово для повседневной жизни."
+  },
+  {
+   "t": 185.1,
+   "da": "Hvad betyder det sådan helt præcis for dem, der ikke ved det?",
+   "ru": "А что оно значит совсем точно — для тех, кто не знает?"
+  },
+  {
+   "t": 188.2,
+   "da": "Det betyder slet og ret dårligt.",
+   "ru": "Оно значит просто-напросто „плохо“."
+  },
+  {
+   "t": 190.8,
+   "da": "Når noget slet ikke er godt, så er det skidt.",
+   "ru": "Когда что-то совсем не хорошо, это *skidt*."
+  },
+  {
+   "t": 193.9,
+   "da": "Men man skal lige lytte godt til, hvordan vi udtaler det.",
+   "ru": "Но нужно внимательно послушать, как мы его произносим."
+  },
+  {
+   "t": 196.9,
+   "da": "Ja, for det lyder lidt specielt.",
+   "ru": "Да, потому что звучит оно немного необычно."
+  },
+  {
+   "t": 198.7,
+   "da": "Præcis. Vi siger ikke 'skidt' med et hårdt d i midten.",
+   "ru": "Точно. Мы не говорим *skidt* с твёрдым d посередине."
+  },
+  {
+   "t": 203.5,
+   "da": "Bogstavet d er helt stumt her.",
+   "ru": "Буква d здесь полностью немая."
+  },
+  {
+   "t": 205.6,
+   "da": "Så det forsvinder bare?",
+   "ru": "То есть она просто исчезает?"
+  },
+  {
+   "t": 206.8,
+   "da": "Ja, det forsvinder. Så vi siger bare 'skit'.",
+   "ru": "Да, исчезает. Так что мы говорим просто „скит“."
+  },
+  {
+   "t": 209.7,
+   "da": "En rigtig skidt morgen.",
+   "ru": "По-настоящему паршивое утро."
+  },
+  {
+   "t": 212.0,
+   "da": "Jamen, hov, vent lidt (?)",
+   "ru": "Так, погоди-ка."
+  },
+  {
+   "t": 212.5,
+   "da": "Hvorfor staver vi det overhovedet med et d, hvis vi ikke siger det?",
+   "ru": "Зачем мы вообще пишем его с d, если не произносим?"
+  },
+  {
+   "t": 216.4,
+   "da": "Ja, det er et godt spørgsmål.",
+   "ru": "Да, хороший вопрос."
+  },
+  {
+   "t": 217.8,
+   "da": "Det virker jo ret irriterende for alle, der prøver at lære at tale dansk.",
+   "ru": "Это же довольно раздражает всех, кто пытается научиться говорить по-датски."
+  },
+  {
+   "t": 221.2,
+   "da": "Altså, det forstår jeg virkelig godt, at du synes.",
+   "ru": "Я правда хорошо понимаю, почему ты так считаешь."
+  },
+  {
+   "t": 223.2,
+   "da": "Og det synes vores lytter nok også.",
+   "ru": "И наш слушатель, наверное, тоже так думает."
+  },
+  {
+   "t": 225.2,
+   "da": "Grunden er simpelthen, at danskerne taler meget hurtigt.",
+   "ru": "Причина просто в том, что датчане говорят очень быстро."
+  },
+  {
+   "t": 228.1,
+   "da": "Og vi taler meget blødt.",
+   "ru": "И мы говорим очень мягко."
+  },
+  {
+   "t": 229.6,
+   "da": "Vi er lidt dovne med sproget.",
+   "ru": "Мы немного ленивы в обращении с языком."
+  },
+  {
+   "t": 231.4,
+   "da": "Lige netop. Vi kan godt lide at spare på energien.",
+   "ru": "Именно. Мы любим экономить энергию."
+  },
+  {
+   "t": 234.2,
+   "da": "Gennem mange, mange år har vi besluttet os for at sluge nogle af bogstaverne.",
+   "ru": "За много-много лет мы решили «проглатывать» некоторые буквы."
+  },
+  {
+   "t": 237.6,
+   "da": "Det gør nemlig sproget nemmere at udtale hurtigt.",
+   "ru": "Так язык легче произносить быстро."
+  },
+  {
+   "t": 240.9,
+   "da": "Okay. Så det hårde d forsvandt bare.",
+   "ru": "Окей. Значит, твёрдое d просто исчезло."
+  },
+  {
+   "t": 243.8,
+   "da": "Ja. Og nu har vi kun den bløde lyd tilbage. Skidt.",
+   "ru": "Да. И теперь у нас остался только мягкий звук. *Skidt*."
+  },
+  {
+   "t": 247.2,
+   "da": "Jamen, så sluger vi bogstaverne for at spare energi.",
+   "ru": "Ну вот, мы глотаем буквы, чтобы экономить энергию."
+  },
+  {
+   "t": 249.9,
+   "da": "Det skal du huske, kære lytter.",
+   "ru": "Запомни это, дорогой слушатель."
+  },
+  {
+   "t": 251.2,
+   "da": "Men Anton har ikke tid til at spare energi.",
+   "ru": "Но у Антона нет времени экономить энергию."
+  },
+  {
+   "t": 254.0,
+   "da": "Han har travlt.",
+   "ru": "Он торопится."
+  },
+  {
+   "t": 255.0,
+   "da": "Selvfølgelig har han det. Han har en tidsplan.",
+   "ru": "Конечно. У него есть график."
+  },
+  {
+   "t": 256.7,
+   "da": "Ja. Han skal ud med sine varer til supermarkederne.",
+   "ru": "Да. Ему нужно развезти свои товары по супермаркетам."
+  },
+  {
+   "t": 259.2,
+   "da": "Så han ringer til sine mekanikere.",
+   "ru": "Поэтому он звонит своим механикам."
+  },
+  {
+   "t": 260.7,
+   "da": "Og han ringer straks.",
+   "ru": "И звонит сразу же (*straks*)."
+  },
+  {
+   "t": 262.2,
+   "da": "Han venter simpelthen ikke.",
+   "ru": "Он просто не ждёт."
+  },
+  {
+   "t": 263.2,
+   "da": "Han venter ikke engang to minutter. For hvert minut koster jo penge.",
+   "ru": "Не ждёт даже двух минут. Ведь каждая минута стоит денег."
+  },
+  {
+   "t": 267.0,
+   "da": "Han ringer straks.",
+   "ru": "Он звонит немедленно."
+  },
+  {
+   "t": 268.4,
+   "da": "Og ordet straks er jo virkelig vigtigt at kende i en travl hverdag på vejene.",
+   "ru": "А слово *straks* действительно важно знать в напряжённых буднях на дороге."
+  },
+  {
+   "t": 272.3,
+   "da": "Ja, hvad betyder det præcist for lytteren?",
+   "ru": "Да, а что именно оно значит для слушателя?"
+  },
+  {
+   "t": 274.5,
+   "da": "At gøre noget straks betyder, at man gør det med det samme.",
+   "ru": "Сделать что-то *straks* значит сделать это сразу же (*med det samme*)."
+  },
+  {
+   "t": 278.1,
+   "da": "Man venter slet ikke. Man venter ikke til i morgen.",
+   "ru": "Совсем не ждёшь. Не ждёшь до завтра."
+  },
+  {
+   "t": 280.2,
+   "da": "Og man venter ikke en time.",
+   "ru": "И не ждёшь час."
+  },
+  {
+   "t": 281.6,
+   "da": "Nej, man tager telefonen med det samme.",
+   "ru": "Нет, сразу же берёшь телефон."
+  },
+  {
+   "t": 283.6,
+   "da": "Præcis. Man gør det lige i dette sekund.",
+   "ru": "Точно. Делаешь это прямо в эту секунду."
+  },
+  {
+   "t": 286.1,
+   "da": "Og mekanikeren er heldigvis en mand, der godt forstår situationen.",
+   "ru": "И механик, к счастью, человек, который хорошо понимает ситуацию."
+  },
+  {
+   "t": 289.1,
+   "da": "Han siger i telefonen, at jeg kommer straks.",
+   "ru": "Он говорит в трубку: «Я сейчас же приеду»."
+  },
+  {
+   "t": 291.5,
+   "da": "Så han kører straks afsted mod Glostrup.",
+   "ru": "И сразу же выезжает в Глоструп."
+  },
+  {
+   "t": 294.8,
+   "da": "Det er god service.",
+   "ru": "Вот это хороший сервис."
+  },
+  {
+   "t": 295.7,
+   "da": "Det må man sige.",
+   "ru": "Это надо признать."
+  },
+  {
+   "t": 297.0,
+   "da": "Men mens de taler i telefonen, spørger mekanikeren om noget vigtigt.",
+   "ru": "Но пока они говорят по телефону, механик спрашивает кое-что важное."
+  },
+  {
+   "t": 301.2,
+   "da": "Han siger til Anton, at der er andre ting, der er gået i stykker.",
+   "ru": "Он спрашивает Антона, не сломалось ли что-нибудь ещё."
+  },
+  {
+   "t": 304.7,
+   "da": "Er der andre skader på din lastbil?",
+   "ru": "«Есть ли другие повреждения на твоём грузовике?»"
+  },
+  {
+   "t": 307.3,
+   "da": "Ah, det er klogt at spørge om.",
+   "ru": "А, об этом умно спросить."
+  },
+  {
+   "t": 309.0,
+   "da": "Ja, så Anton tager sin lommelygte frem.",
+   "ru": "Да, и Антон достаёт свой фонарик."
+  },
+  {
+   "t": 311.2,
+   "da": "Han går en lille tur rundt om bilen i mørket og kigger grundigt.",
+   "ru": "Он обходит машину в темноте и внимательно осматривает."
+  },
+  {
+   "t": 314.3,
+   "da": "Og så siger han, at der er ingen anden skade.",
+   "ru": "А потом говорит, что других повреждений нет."
+  },
+  {
+   "t": 317.2,
+   "da": "Det er kun spejlet.",
+   "ru": "Только зеркало."
+  },
+  {
+   "t": 318.4,
+   "da": "Lige her skal vi faktisk kigge lidt nærmere på ordet en skade.",
+   "ru": "Вот здесь нам как раз стоит присмотреться к слову *en skade*."
+  },
+  {
+   "t": 322.4,
+   "da": "Okay, jeg skal gøre det.",
+   "ru": "Хорошо, давай."
+  },
+  {
+   "t": 323.6,
+   "da": "For en skade er resultatet, når noget er gået i stykker.",
+   "ru": "Потому что *en skade* — это результат, когда что-то сломалось."
+  },
+  {
+   "t": 326.4,
+   "da": "Altså et navnord.",
+   "ru": "То есть существительное."
+  },
+  {
+   "t": 327.8,
+   "da": "En bil kan fx have en skade på døren, hvis der er en stor bule.",
+   "ru": "У машины, например, может быть повреждение на двери, если там большая вмятина."
+  },
+  {
+   "t": 331.9,
+   "da": "Okay, men med mennesker kan vi have en skade?",
+   "ru": "Хорошо, а у людей может быть *skade*?"
+  },
+  {
+   "t": 334.0,
+   "da": "Ja, præcis.",
+   "ru": "Да, именно."
+  },
+  {
+   "t": 335.4,
+   "da": "En person kan også få en skade.",
+   "ru": "Человек тоже может получить травму (*en skade*)."
+  },
+  {
+   "t": 336.9,
+   "da": "Fx hvis personen falder og slår sit knæ meget hårdt.",
+   "ru": "Например, если он упадёт и сильно ударит колено."
+  },
+  {
+   "t": 340.4,
+   "da": "Så er mekanikeren klog og spørger, om der er en skade andre steder.",
+   "ru": "Так что механик поступает умно и спрашивает, нет ли повреждений в других местах."
+  },
+  {
+   "t": 343.4,
+   "da": "Men lad mig lige prøve at teste dig her.",
+   "ru": "Но давай я тебя тут немного проверю."
+  },
+  {
+   "t": 346.0,
+   "da": "For jeg har hørt, at man kan bruge ordet på en anden måde på dansk.",
+   "ru": "Я слышал, что в датском это слово можно использовать и по-другому."
+  },
+  {
+   "t": 349.0,
+   "da": "Okay, lad mig høre.",
+   "ru": "Хорошо, слушаю."
+  },
+  {
+   "t": 350.2,
+   "da": "Man kan sige 'at skade nogen' eller 'at skade bilen', altså som en handling.",
+   "ru": "Можно сказать *at skade nogen* (навредить кому-то) или *at skade bilen* (повредить машину), то есть как действие."
+  },
+  {
+   "t": 355.5,
+   "da": "Er det rigtigt?",
+   "ru": "Это правильно?"
+  },
+  {
+   "t": 356.1,
+   "da": "Ja, det er helt rigtigt.",
+   "ru": "Да, совершенно верно."
+  },
+  {
+   "t": 357.4,
+   "da": "Der er en ret stor forskel på at have en skade og at lave en skade.",
+   "ru": "Есть довольно большая разница между тем, чтобы иметь повреждение, и тем, чтобы его нанести."
+  },
+  {
+   "t": 361.4,
+   "da": "Hvordan det?",
+   "ru": "Как это?"
+  },
+  {
+   "t": 361.7,
+   "da": "Altså, hvis du mod forventning kører din lastbil ind i et træ, så vil du skade bilen.",
+   "ru": "Ну, если ты вдруг, против ожиданий, въедешь грузовиком в дерево, ты повредишь (*skade*) машину."
+  },
+  {
+   "t": 367.4,
+   "da": "Handlingen skaber et problem.",
+   "ru": "Действие создаёт проблему."
+  },
+  {
+   "t": 369.1,
+   "da": "Ja, og bagefter?",
+   "ru": "Да, а потом?"
+  },
+  {
+   "t": 370.3,
+   "da": "Det du kigger på bagefter, fx den smadrede dør, det er selve skaden.",
+   "ru": "То, на что ты смотришь потом, например, разбитая дверь, — это и есть само повреждение (*skaden*)."
+  },
+  {
+   "t": 375.6,
+   "da": "Men Anton kan heldigvis se, at lastbilen kun har én skade.",
+   "ru": "Но Антон, к счастью, видит, что у грузовика только одно повреждение."
+  },
+  {
+   "t": 379.5,
+   "da": "Ja, men lad os lige være helt ærlige her et øjeblik.",
+   "ru": "Да, но давай на секунду будем совсем честными."
+  },
+  {
+   "t": 383.9,
+   "da": "Jeg tænker lidt over Antons situation.",
+   "ru": "Я тут немного думаю о ситуации Антона."
+  },
+  {
+   "t": 386.5,
+   "da": "Hvad tænker du på?",
+   "ru": "О чём ты думаешь?"
+  },
+  {
+   "t": 387.4,
+   "da": "Jamen, han har jo vildt travlt.",
+   "ru": "Ну, он же ужасно торопится."
+  },
+  {
+   "t": 389.8,
+   "da": "Og lastbilen fungerer egentlig perfekt, ikke?",
+   "ru": "А грузовик, вообще-то (*egentlig*), работает отлично, так ведь?"
+  },
+  {
+   "t": 392.1,
+   "da": "Motoren virker, hjulene er fine.",
+   "ru": "Мотор работает, колёса в порядке."
+  },
+  {
+   "t": 394.0,
+   "da": "Jo, det er kun spejlet.",
+   "ru": "Да, только зеркало."
+  },
+  {
+   "t": 395.6,
+   "da": "Ja, det er kun et sidespejl på højre side, der har en skade.",
+   "ru": "Да, повреждено только одно боковое зеркало справа."
+  },
+  {
+   "t": 398.7,
+   "da": "Bilen kan sagtens køre, så mit spørgsmål er, er det virkelig nødvendigt at vente på en mekaniker kl. 4 om morgenen?",
+   "ru": "Машина вполне может ехать, так что мой вопрос: действительно ли необходимо (*nødvendigt*) ждать механика в 4 утра?"
+  },
+  {
+   "t": 405.5,
+   "da": "Jeg kan godt se, hvor du vil hen.",
+   "ru": "Я понимаю, к чему ты клонишь."
+  },
+  {
+   "t": 407.1,
+   "da": "Hvorfor starter han ikke bare motoren og kører ud på ruten?",
+   "ru": "Почему бы ему просто не завести мотор и не выехать на маршрут?"
+  },
+  {
+   "t": 409.7,
+   "da": "Er det nødvendigt at spilde kostbar tid?",
+   "ru": "Нужно ли тратить драгоценное время?"
+  },
+  {
+   "t": 411.9,
+   "da": "Altså, det er jo en meget naturlig tanke.",
+   "ru": "Ну, это очень естественная мысль."
+  },
+  {
+   "t": 413.3,
+   "da": "Man vil jo gerne i gang med sit arbejde.",
+   "ru": "Хочется ведь поскорее взяться за работу."
+  },
+  {
+   "t": 414.7,
+   "da": "Men svaret er ja. Det er absolut nødvendigt at vente.",
+   "ru": "Но ответ — да. Ждать абсолютно необходимо."
+  },
+  {
+   "t": 418.9,
+   "da": "Så man må slet ikke køre?",
+   "ru": "То есть ехать вообще нельзя?"
+  },
+  {
+   "t": 420.1,
+   "da": "Nej, du må simpelthen ikke køre en stor lastbil uden et højrespejl, der virker. Det er ulovligt.",
+   "ru": "Нет, просто нельзя ехать на большом грузовике без работающего правого зеркала. Это незаконно."
+  },
+  {
+   "t": 424.8,
+   "da": "Så det er loven i Danmark?",
+   "ru": "Значит, так по закону в Дании?"
+  },
+  {
+   "t": 426.5,
+   "da": "Ja, det er et lovkrav.",
+   "ru": "Да, это требование закона."
+  },
+  {
+   "t": 428.2,
+   "da": "Spejlet hjælper nemlig chaufføren med at se alle cyklisterne.",
+   "ru": "Зеркало ведь помогает водителю видеть всех велосипедистов."
+  },
+  {
+   "t": 431.0,
+   "da": "Ah ja, cyklisterne i København.",
+   "ru": "А, да, велосипедисты в Копенгагене."
+  },
+  {
+   "t": 433.1,
+   "da": "Præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 433.4,
+   "da": "Cyklisterne kan nemt gemme sig i den blinde vinkel på højre side af lastbilen.",
+   "ru": "Велосипедисты легко могут оказаться в слепой зоне с правой стороны грузовика."
+  },
+  {
+   "t": 437.8,
+   "da": "Så for cyklisternes sikkerhed er det 100% nødvendigt, at spejlet er i orden.",
+   "ru": "Так что ради безопасности велосипедистов на 100% необходимо, чтобы зеркало было в порядке."
+  },
+  {
+   "t": 442.2,
+   "da": "Det må ikke være ødelagt.",
+   "ru": "Оно не должно быть разбито."
+  },
+  {
+   "t": 443.9,
+   "da": "Så Anton har faktisk intet valg.",
+   "ru": "Так что у Антона, по сути, нет выбора."
+  },
+  {
+   "t": 446.0,
+   "da": "Han må pænt stå og fryse i kulden, fordi det er nødvendigt.",
+   "ru": "Ему приходится смиренно стоять и мёрзнуть на холоде, потому что так нужно."
+  },
+  {
+   "t": 448.6,
+   "da": "Ja, sikkerhed frem for alt.",
+   "ru": "Да, безопасность превыше всего."
+  },
+  {
+   "t": 450.3,
+   "da": "Det giver rigtig god mening.",
+   "ru": "Это очень логично."
+  },
+  {
+   "t": 451.6,
+   "da": "Men må jeg lige spørge dig om udtalen af det ord?",
+   "ru": "Но можно спросить тебя о произношении этого слова?"
+  },
+  {
+   "t": 454.3,
+   "da": "Nødvendigt.",
+   "ru": "*Nødvendigt*."
+  },
+  {
+   "t": 455.0,
+   "da": "Ja, selvfølgelig.",
+   "ru": "Да, конечно."
+  },
+  {
+   "t": 455.7,
+   "da": "Det lyder som et ret langt og tungt ord (?)",
+   "ru": "Звучит как довольно длинное и тяжёлое слово."
+  },
+  {
+   "t": 458.6,
+   "da": "Der er et stumt g i midten, ikke?",
+   "ru": "Там ведь немая g в середине?"
+  },
+  {
+   "t": 460.1,
+   "da": "Og et t helt til sidst.",
+   "ru": "И t в самом конце."
+  },
+  {
+   "t": 461.7,
+   "da": "Jo, du har helt ret.",
+   "ru": "Да, ты совершенно прав."
+  },
+  {
+   "t": 463.1,
+   "da": "Og her ser vi faktisk igen, at danskerne elsker at sluge bogstaverne.",
+   "ru": "И тут мы опять видим, что датчане обожают глотать буквы."
+  },
+  {
+   "t": 466.7,
+   "da": "Igen?",
+   "ru": "Опять?"
+  },
+  {
+   "t": 467.4,
+   "da": "Ja, igen.",
+   "ru": "Да, опять."
+  },
+  {
+   "t": 468.4,
+   "da": "Vi siger slet ikke 'nødvendigt' med et hårdt g i midten.",
+   "ru": "Мы вовсе не говорим *nødvendigt* с твёрдым g в середине."
+  },
+  {
+   "t": 472.1,
+   "da": "Vi siger bare 'nødvendit'.",
+   "ru": "Мы говорим просто „нёвендит“."
+  },
+  {
+   "t": 474.0,
+   "da": "Det lyder næsten som et blødt i.",
+   "ru": "Звучит почти как мягкое i."
+  },
+  {
+   "t": 475.3,
+   "da": "Okay, nødvendigt.",
+   "ru": "Окей, *nødvendigt*."
+  },
+  {
+   "t": 476.9,
+   "da": "Men hvorfor sætter vi så et t til sidst i ordet?",
+   "ru": "Но почему тогда мы ставим t в конце слова?"
+  },
+  {
+   "t": 479.7,
+   "da": "Det gør vi, fordi vi bruger ordet 'det' foran.",
+   "ru": "Потому что перед ним мы используем слово *det*."
+  },
+  {
+   "t": 482.9,
+   "da": "Vi siger, det er nødvendigt.",
+   "ru": "Мы говорим: *det er nødvendigt* — это необходимо."
+  },
+  {
+   "t": 484.9,
+   "da": "Og i dansk grammatik kræver ordet 'det' altid et t i slutningen af ordet bagefter.",
+   "ru": "А в датской грамматике слово *det* всегда требует t в конце следующего за ним слова."
+  },
+  {
+   "t": 491.2,
+   "da": "Ah, okay.",
+   "ru": "А, понятно."
+  },
+  {
+   "t": 492.3,
+   "da": "Men hvad så, hvis jeg bruger ordet 'en'?",
+   "ru": "А что, если я использую слово *en*?"
+  },
+  {
+   "t": 494.5,
+   "da": "Altså f.eks. en regel.",
+   "ru": "Например, *en regel* — правило."
+  },
+  {
+   "t": 496.6,
+   "da": "Kan jeg sige en nødvendig regel?",
+   "ru": "Могу я сказать *en nødvendig regel*?"
+  },
+  {
+   "t": 499.4,
+   "da": "Lige netop.",
+   "ru": "Именно."
+  },
+  {
+   "t": 500.8,
+   "da": "Hvis du bruger en, f.eks. en bil eller en regel, så skal der ikke være et t til sidst.",
+   "ru": "Если ты используешь *en*, например *en bil* или *en regel*, то t в конце не нужно."
+  },
+  {
+   "t": 506.0,
+   "da": "Så siger vi bare en nødvendig regel.",
+   "ru": "Тогда говорим просто *en nødvendig regel* — необходимое правило."
+  },
+  {
+   "t": 508.9,
+   "da": "Men her hos Anton er det jo en handling.",
+   "ru": "Но у Антона здесь речь о действии."
+  },
+  {
+   "t": 512.0,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 512.5,
+   "da": "Og så siger vi, det er nødvendigt at vente.",
+   "ru": "И тогда говорим: *det er nødvendigt at vente* — необходимо подождать."
+  },
+  {
+   "t": 516.0,
+   "da": "Okay, super.",
+   "ru": "Окей, супер."
+  },
+  {
+   "t": 517.9,
+   "da": "Så vi har styr på den meget skidte morgen (?)",
+   "ru": "Итак, подведём итог этого очень паршивого утра."
+  },
+  {
+   "t": 519.9,
+   "da": "Spejlet er jo fuldstændig ødelagt.",
+   "ru": "Зеркало полностью разбито."
+  },
+  {
+   "t": 522.6,
+   "da": "Anton ringer straks.",
+   "ru": "Антон сразу же звонит."
+  },
+  {
+   "t": 524.3,
+   "da": "Bilen har heldigvis kun én skade i mørket.",
+   "ru": "У машины, к счастью, в темноте обнаружилось только одно повреждение."
+  },
+  {
+   "t": 526.9,
+   "da": "Og det er lovpligtigt og helt nødvendigt at vente.",
+   "ru": "И ждать обязательно по закону и совершенно необходимо."
+  },
+  {
+   "t": 530.4,
+   "da": "Rigtig flot opsummeret.",
+   "ru": "Отлично подытожено."
+  },
+  {
+   "t": 532.1,
+   "da": "Tak. Men altså, mens Anton sidder der i førerhuset og venter.",
+   "ru": "Спасибо. Но вот пока Антон сидит в кабине и ждёт..."
+  },
+  {
+   "t": 536.4,
+   "da": "Han må have tænkt over noget ret logisk.",
+   "ru": "...он, должно быть, задумался о чём-то вполне логичном."
+  },
+  {
+   "t": 539.0,
+   "da": "Hvad tænker du på?",
+   "ru": "Что ты имеешь в виду?"
+  },
+  {
+   "t": 540.3,
+   "da": "Jamen, hvordan sker det overhovedet?",
+   "ru": "Ну, как такое вообще происходит?"
+  },
+  {
+   "t": 542.3,
+   "da": "Hvem kører ind i en parkeret lastbil midt om natten og smadrer et spejl?",
+   "ru": "Кто посреди ночи врезается в припаркованный грузовик и разбивает зеркало?"
+  },
+  {
+   "t": 546.3,
+   "da": "Ja, det er jo et mysterium for ham.",
+   "ru": "Да, для него это загадка."
+  },
+  {
+   "t": 548.8,
+   "da": "Det spørger han også mekanikeren om, da han endelig ankommer.",
+   "ru": "Об этом он и спрашивает механика, когда тот наконец приезжает."
+  },
+  {
+   "t": 551.5,
+   "da": "Mekanikeren kigger på resterne af spejlet og siger,",
+   "ru": "Механик смотрит на остатки зеркала и говорит:"
+  },
+  {
+   "t": 555.0,
+   "da": "det er en anden bil, der er kørt forbi.",
+   "ru": "«Это другая машина проезжала мимо (*forbi*)»."
+  },
+  {
+   "t": 557.5,
+   "da": "Og her er ordet forbi meget interessant at kigge på for vores lyttere.",
+   "ru": "И вот тут слово *forbi* очень интересно рассмотреть для наших слушателей."
+  },
+  {
+   "t": 562.0,
+   "da": "Når mekanikeren siger, at en bil er kørt forbi,",
+   "ru": "Когда механик говорит, что машина проехала мимо,"
+  },
+  {
+   "t": 565.4,
+   "da": "så taler han nemlig om bevægelse.",
+   "ru": "он говорит о движении."
+  },
+  {
+   "t": 567.6,
+   "da": "Bevægelse i et rum?",
+   "ru": "О движении в пространстве?"
+  },
+  {
+   "t": 568.8,
+   "da": "Ja, bevægelse i et fysisk rum på en gade.",
+   "ru": "Да, о движении в физическом пространстве, на улице."
+  },
+  {
+   "t": 571.6,
+   "da": "Er det ligesom, når man kører ude på motorvejene og overhaler en anden bil?",
+   "ru": "Это как когда едешь по трассе и обгоняешь другую машину?"
+  },
+  {
+   "t": 575.2,
+   "da": "Ja, lige præcis.",
+   "ru": "Да, именно."
+  },
+  {
+   "t": 577.0,
+   "da": "Forestil dig det.",
+   "ru": "Представь себе."
+  },
+  {
+   "t": 578.0,
+   "da": "Du kører på vejen.",
+   "ru": "Ты едешь по дороге."
+  },
+  {
+   "t": 579.3,
+   "da": "Du ser et hus på højre side.",
+   "ru": "Видишь дом справа."
+  },
+  {
+   "t": 580.4,
+   "da": "Og du stopper ikke.",
+   "ru": "И не останавливаешься."
+  },
+  {
+   "t": 582.0,
+   "da": "Du kører bare videre frem.",
+   "ru": "Просто едешь дальше вперёд."
+  },
+  {
+   "t": 583.1,
+   "da": "Ja. Så er du kørt forbi huset.",
+   "ru": "Да. Значит, ты проехал мимо дома."
+  },
+  {
+   "t": 585.8,
+   "da": "I vores situation med Anton har en anden person kørt sin bil ned ad vejen.",
+   "ru": "В нашей ситуации с Антоном другой человек ехал на своей машине по дороге."
+  },
+  {
+   "t": 590.9,
+   "da": "Personen er kørt forbi Antons parkerede lastbil.",
+   "ru": "Этот человек проехал мимо припаркованного грузовика Антона."
+  },
+  {
+   "t": 594.5,
+   "da": "Men bilen kom simpelthen alt for tæt på.",
+   "ru": "Но машина просто подъехала слишком близко."
+  },
+  {
+   "t": 596.8,
+   "da": "Ja, den kom alt, alt for tæt på.",
+   "ru": "Да, слишком-слишком близко."
+  },
+  {
+   "t": 598.9,
+   "da": "Og så ramte den spejlet med et brag, da den kørte forbi.",
+   "ru": "И, проезжая мимо, с грохотом задела зеркало."
+  },
+  {
+   "t": 601.9,
+   "da": "Men den anden bil stoppede jo slet ikke.",
+   "ru": "Но та машина вообще не остановилась."
+  },
+  {
+   "t": 604.1,
+   "da": "Personen kørte bare forbi og direkte ud i natten,",
+   "ru": "Человек просто проехал мимо и прямиком скрылся в ночи,"
+  },
+  {
+   "t": 606.4,
+   "da": "uden at kigge sig tilbage en eneste gang.",
+   "ru": "ни разу не оглянувшись."
+  },
+  {
+   "t": 608.7,
+   "da": "Det er ret uansvarligt.",
+   "ru": "Это довольно безответственно."
+  },
+  {
+   "t": 609.5,
+   "da": "Anton er også meget chokeret over, at folk kan gøre sådan noget mod en anden chauffør.",
+   "ru": "Антон тоже очень потрясён тем, что люди могут так поступить с другим водителем."
+  },
+  {
+   "t": 613.8,
+   "da": "Så han spørger mekanikeren.",
+   "ru": "И он спрашивает механика:"
+  },
+  {
+   "t": 615.2,
+   "da": "Har du nogensinde set noget lignende?",
+   "ru": "«Ты когда-нибудь видел что-то подобное?»"
+  },
+  {
+   "t": 616.9,
+   "da": "Og her bruger Anton et meget stærkt lille ord.",
+   "ru": "И тут Антон использует очень сильное маленькое слово."
+  },
+  {
+   "t": 620.3,
+   "da": "Ordet nogensinde.",
+   "ru": "Слово *nogensinde* — когда-нибудь."
+  },
+  {
+   "t": 621.9,
+   "da": "Hvad betyder det præcist?",
+   "ru": "Что оно точно значит?"
+  },
+  {
+   "t": 623.4,
+   "da": "Når man spørger, om du nogensinde har oplevet noget,",
+   "ru": "Когда спрашивают, испытывал ли ты *nogensinde* что-то,"
+  },
+  {
+   "t": 626.4,
+   "da": "så spørger man simpelthen til hele dit liv.",
+   "ru": "то спрашивают просто обо всей твоей жизни."
+  },
+  {
+   "t": 628.9,
+   "da": "Hele livet?",
+   "ru": "Обо всей жизни?"
+  },
+  {
+   "t": 629.8,
+   "da": "Ja, fra den dag du blev født, og helt frem til i dag.",
+   "ru": "Да, с того дня, как ты родился, и вплоть до сегодняшнего дня."
+  },
+  {
+   "t": 632.6,
+   "da": "I dette minut.",
+   "ru": "До этой самой минуты."
+  },
+  {
+   "t": 633.3,
+   "da": "Er det sket for dig på noget som helst tidspunkt?",
+   "ru": "Случалось ли это с тобой хоть когда-нибудь?"
+  },
+  {
+   "t": 635.8,
+   "da": "Okay, så hvis jeg spørger dig.",
+   "ru": "Окей, то есть если я спрошу тебя:"
+  },
+  {
+   "t": 638.1,
+   "da": "Har du nogensinde været i Aarhus?",
+   "ru": "«Ты когда-нибудь был в Орхусе?»"
+  },
+  {
+   "t": 639.6,
+   "da": "Præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 640.4,
+   "da": "Eller har du nogensinde spist en dansk ristet hotdog?",
+   "ru": "Или: «Ты когда-нибудь ел датский хот-дог с жареной сосиской?»"
+  },
+  {
+   "t": 644.3,
+   "da": "Anton vil gerne vide, om mekanikeren i hele sit lange liv",
+   "ru": "Антон хочет знать, видел ли механик за всю свою долгую жизнь"
+  },
+  {
+   "t": 647.6,
+   "da": "nogensinde har set en person knuse et spejl på den måde og stikke af.",
+   "ru": "хоть раз, чтобы кто-то вот так разбил зеркало и скрылся."
+  },
+  {
+   "t": 651.8,
+   "da": "Og mekanikeren griner lidt af det.",
+   "ru": "А механик немного над этим посмеивается."
+  },
+  {
+   "t": 653.5,
+   "da": "Og så giver han et svar, som overrasker mig meget.",
+   "ru": "И даёт ответ, который меня очень удивляет."
+  },
+  {
+   "t": 656.1,
+   "da": "Hvad siger han?",
+   "ru": "Что он говорит?"
+  },
+  {
+   "t": 656.5,
+   "da": "Han siger, at det sker rigtig tit.",
+   "ru": "Он говорит, что такое случается очень часто."
+  },
+  {
+   "t": 658.5,
+   "da": "Han siger, at folk kører tit forbi.",
+   "ru": "Говорит, что люди часто проезжают мимо."
+  },
+  {
+   "t": 661.4,
+   "da": "De rammer et spejl og laver en stor skade.",
+   "ru": "Задевают зеркало и наносят большой ущерб."
+  },
+  {
+   "t": 664.3,
+   "da": "Men ingen har nogensinde ringet til firmaet for at sige undskyld.",
+   "ru": "Но никто никогда не звонил в фирму, чтобы извиниться."
+  },
+  {
+   "t": 667.4,
+   "da": "Wow.",
+   "ru": "Ого."
+  },
+  {
+   "t": 668.1,
+   "da": "Ja, ikke en eneste person nogensinde.",
+   "ru": "Да, ни один человек, ни разу."
+  },
+  {
+   "t": 671.3,
+   "da": "Hvorfor i alverden tror du, det er sådan?",
+   "ru": "Как ты думаешь, почему же, чёрт возьми, так происходит?"
+  },
+  {
+   "t": 673.1,
+   "da": "Altså, det fortæller os faktisk ret meget om menneskers adfærd.",
+   "ru": "Ну, это, вообще-то, многое говорит о поведении людей."
+  },
+  {
+   "t": 676.6,
+   "da": "Når der sker et uheld, og det er mørkt, så går folk lidt i panik.",
+   "ru": "Когда случается авария и темно, люди немного паникуют."
+  },
+  {
+   "t": 680.6,
+   "da": "Ja, de bliver bange.",
+   "ru": "Да, они пугаются."
+  },
+  {
+   "t": 681.7,
+   "da": "Nemlig.",
+   "ru": "Вот именно."
+  },
+  {
+   "t": 682.0,
+   "da": "De laver måske en skade på en anden bil.",
+   "ru": "Возможно, они повредили чужую машину."
+  },
+  {
+   "t": 684.9,
+   "da": "De hører et højt brag fra spejlet.",
+   "ru": "Слышат громкий треск от зеркала."
+  },
+  {
+   "t": 687.0,
+   "da": "Og fordi der ikke er nogen mennesker på gaden klokken fire om morgenen, så vælger de den nemme løsning.",
+   "ru": "И поскольку в четыре утра на улице никого нет, они выбирают лёгкий путь."
+  },
+  {
+   "t": 691.4,
+   "da": "De stikker bare af.",
+   "ru": "Просто сбегают."
+  },
+  {
+   "t": 692.2,
+   "da": "Ja, de kører bare videre.",
+   "ru": "Да, просто едут дальше."
+  },
+  {
+   "t": 693.9,
+   "da": "Ingen har nogensinde taget ansvar og ringet for at sige undskyld.",
+   "ru": "Никто никогда не взял на себя ответственность и не позвонил извиниться:"
+  },
+  {
+   "t": 697.5,
+   "da": "Det var faktisk min skyld.",
+   "ru": "«Это вообще-то была моя вина»."
+  },
+  {
+   "t": 699.0,
+   "da": "Det er nemmere at forsvinde.",
+   "ru": "Проще исчезнуть."
+  },
+  {
+   "t": 699.8,
+   "da": "Det kender du måske godt, kære lytter.",
+   "ru": "Тебе, дорогой слушатель, это, может быть, знакомо."
+  },
+  {
+   "t": 701.8,
+   "da": "Jeg vil egentlig gerne spørge dig direkte.",
+   "ru": "Мне, вообще-то, хочется спросить тебя напрямую."
+  },
+  {
+   "t": 703.7,
+   "da": "Dig, der sidder i lastbilen lige nu.",
+   "ru": "Тебя, кто сейчас сидит в грузовике."
+  },
+  {
+   "t": 705.7,
+   "da": "Ja, det er et godt spørgsmål til chaufføren.",
+   "ru": "Да, это хороший вопрос водителю."
+  },
+  {
+   "t": 707.7,
+   "da": "Har du nogensinde oplevet noget lignende?",
+   "ru": "Случалось ли с тобой когда-нибудь что-то подобное?"
+  },
+  {
+   "t": 709.3,
+   "da": "Har du nogensinde oplevet, at en anden person bare kører forbi dig og laver en skade på din lastbil, og så forsvinder de bare uden et ord?",
+   "ru": "Бывало ли, что кто-то просто проезжает мимо, повреждает твой грузовик и исчезает, не сказав ни слова?"
+  },
+  {
+   "t": 718.0,
+   "da": "Det må være virkelig frustrerende.",
+   "ru": "Это, должно быть, очень обидно."
+  },
+  {
+   "t": 720.1,
+   "da": "Ja, helt vildt.",
+   "ru": "Да, ужасно."
+  },
+  {
+   "t": 721.4,
+   "da": "Uden overhovedet at sige undskyld.",
+   "ru": "Даже не извинившись."
+  },
+  {
+   "t": 723.3,
+   "da": "Man føler sig utrolig alene med problemet.",
+   "ru": "Чувствуешь себя невероятно одиноким со своей проблемой."
+  },
+  {
+   "t": 726.1,
+   "da": "Det er en meget ubehagelig oplevelse at stå med.",
+   "ru": "Очень неприятное переживание."
+  },
+  {
+   "t": 729.6,
+   "da": "Heldigvis er mekanikeren god og hurtig.",
+   "ru": "К счастью, механик хороший и быстрый."
+  },
+  {
+   "t": 731.8,
+   "da": "Han sætter straks et helt nyt spejl på bilen for Anton.",
+   "ru": "Он сразу же ставит Антону на машину совершенно новое зеркало."
+  },
+  {
+   "t": 734.7,
+   "da": "Ja, og nu virker alt igen.",
+   "ru": "Да, и теперь всё снова работает."
+  },
+  {
+   "t": 736.2,
+   "da": "Det hele er fikset, og Anton kan endelig starte den store motor.",
+   "ru": "Всё починено, и Антон наконец может завести большой мотор."
+  },
+  {
+   "t": 740.9,
+   "da": "Han kører ud på ruten i København.",
+   "ru": "Он выезжает на маршрут по Копенгагену."
+  },
+  {
+   "t": 743.2,
+   "da": "Og han kører naturligvis meget, meget forsigtigt ud af porten, ikke?",
+   "ru": "И, конечно же, выезжает из ворот очень-очень осторожно, да?"
+  },
+  {
+   "t": 747.3,
+   "da": "Helt sikkert.",
+   "ru": "Конечно."
+  },
+  {
+   "t": 748.2,
+   "da": "Han vil for alt i verden ikke skade bilen igen på præcis den samme dag.",
+   "ru": "Он ни за что на свете не хочет снова повредить машину в тот же самый день."
+  },
+  {
+   "t": 752.6,
+   "da": "En skade er jo mere end rigelig.",
+   "ru": "Одного повреждения более чем достаточно."
+  },
+  {
+   "t": 754.8,
+   "da": "Ja, det må man sige.",
+   "ru": "Да, что верно, то верно."
+  },
+  {
+   "t": 756.8,
+   "da": "Men lad os lige forlade morgenen i Glostrup et øjeblik.",
+   "ru": "Но давай на минутку оставим утро в Глострупе."
+  },
+  {
+   "t": 759.7,
+   "da": "Vi bevæger os frem i tiden til slutningen af Antons arbejdsdag.",
+   "ru": "Перенесёмся вперёд во времени, в конец рабочего дня Антона."
+  },
+  {
+   "t": 764.9,
+   "da": "Arbejdet er slut.",
+   "ru": "Работа закончена."
+  },
+  {
+   "t": 766.4,
+   "da": "Det er blevet aften.",
+   "ru": "Наступил вечер."
+  },
+  {
+   "t": 767.4,
+   "da": "Ja, det er aften.",
+   "ru": "Да, вечер."
+  },
+  {
+   "t": 769.1,
+   "da": "Anton sidder nu hjemme ved spisebordet i sin lejlighed i Valby.",
+   "ru": "Антон теперь сидит дома за обеденным столом в своей квартире в Вальбю."
+  },
+  {
+   "t": 772.0,
+   "da": "Han sidder sammen med sin søn Ivan.",
+   "ru": "Он сидит вместе с сыном Иваном."
+  },
+  {
+   "t": 773.7,
+   "da": "Det er hyggeligt.",
+   "ru": "Уютно."
+  },
+  {
+   "t": 775.0,
+   "da": "Ivan spørger sin far, hvordan arbejdsdagen egentlig har været.",
+   "ru": "Иван спрашивает отца, как вообще прошёл рабочий день."
+  },
+  {
+   "t": 778.2,
+   "da": "Anton tager bare en dyb indånding, kigger på sin søn og siger,",
+   "ru": "Антон просто глубоко вдыхает, смотрит на сына и говорит:"
+  },
+  {
+   "t": 781.3,
+   "da": "Den skidte morgen, den er heldigvis forbi nu.",
+   "ru": "«Это паршивое утро, к счастью, уже позади (*forbi*)»."
+  },
+  {
+   "t": 786.3,
+   "da": "Hov. Ja.",
+   "ru": "Опа. Да."
+  },
+  {
+   "t": 787.4,
+   "da": "Her skal du virkelig lytte godt efter, kære lytter.",
+   "ru": "Вот здесь, дорогой слушатель, слушай очень внимательно."
+  },
+  {
+   "t": 790.0,
+   "da": "Ordet forbi har lige ændret betydning.",
+   "ru": "Слово *forbi* только что поменяло значение."
+  },
+  {
+   "t": 793.1,
+   "da": "Har det? Ja.",
+   "ru": "Правда? Да."
+  },
+  {
+   "t": 794.6,
+   "da": "Før talte vi jo om en bil, der fysisk kørte forbi en anden lastbil på gaden.",
+   "ru": "Раньше мы говорили о машине, которая физически проехала мимо грузовика на улице."
+  },
+  {
+   "t": 799.0,
+   "da": "Ja, bevægelse i rummet.",
+   "ru": "Да, движение в пространстве."
+  },
+  {
+   "t": 800.3,
+   "da": "Lige præcis. Et sted.",
+   "ru": "Именно. Место."
+  },
+  {
+   "t": 801.7,
+   "da": "Men nu siger Anton, at morgenen er forbi.",
+   "ru": "А теперь Антон говорит, что утро *forbi*."
+  },
+  {
+   "t": 804.6,
+   "da": "Her handler det pludselig om tid.",
+   "ru": "Здесь речь вдруг идёт о времени."
+  },
+  {
+   "t": 806.9,
+   "da": "Okay.",
+   "ru": "Окей."
+  },
+  {
+   "t": 807.1,
+   "da": "Så det betyder simpelthen bare, at morgenen er helt slut.",
+   "ru": "То есть это просто значит, что утро совсем закончилось."
+  },
+  {
+   "t": 809.8,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 810.0,
+   "da": "Når vi bruger ordet forbi om tid, så betyder det, at noget er helt afsluttet.",
+   "ru": "Когда мы используем *forbi* о времени, это значит, что что-то полностью завершено."
+  },
+  {
+   "t": 814.9,
+   "da": "Det kommer ikke tilbage igen.",
+   "ru": "Оно больше не вернётся."
+  },
+  {
+   "t": 816.4,
+   "da": "Som for eksempel at sige, vinteren er forbi.",
+   "ru": "Например, сказать: *vinteren er forbi* — зима прошла."
+  },
+  {
+   "t": 819.2,
+   "da": "Lige netop.",
+   "ru": "Именно."
+  },
+  {
+   "t": 819.9,
+   "da": "Eller sommerferien er forbi.",
+   "ru": "Или: летние каникулы закончились."
+  },
+  {
+   "t": 822.4,
+   "da": "Antons lange og svære arbejdsdag er forbi.",
+   "ru": "Долгий и трудный рабочий день Антона позади."
+  },
+  {
+   "t": 826.3,
+   "da": "Giver mening.",
+   "ru": "Логично."
+  },
+  {
+   "t": 827.4,
+   "da": "Så vi har altså to vigtige måder at bruge ordet på på dansk.",
+   "ru": "Итак, в датском у нас есть два важных способа использовать это слово."
+  },
+  {
+   "t": 830.8,
+   "da": "Fysisk bevægelse, at køre forbi.",
+   "ru": "Физическое движение — *at køre forbi*, проехать мимо."
+  },
+  {
+   "t": 833.6,
+   "da": "Og tid, at dagen er forbi.",
+   "ru": "И время — *dagen er forbi*, день закончился."
+  },
+  {
+   "t": 835.4,
+   "da": "Ja, men det er da rart for Anton, at den stressende situation endelig er forbi.",
+   "ru": "Да, ну и хорошо же для Антона, что стрессовая ситуация наконец позади."
+  },
+  {
+   "t": 840.0,
+   "da": "Men nu starter der faktisk en ny udfordring.",
+   "ru": "Но теперь начинается новая задача."
+  },
+  {
+   "t": 842.6,
+   "da": "Åh nej, hvad nu?",
+   "ru": "О нет, что теперь?"
+  },
+  {
+   "t": 843.9,
+   "da": "Ivan sidder nemlig med sine lektier ved bordet.",
+   "ru": "Иван сидит за столом с домашним заданием."
+  },
+  {
+   "t": 846.4,
+   "da": "Han har dansk (?), og han kæmper lidt med sproget.",
+   "ru": "У него датский, и он немного борется с языком."
+  },
+  {
+   "t": 849.2,
+   "da": "Ah ja.",
+   "ru": "А, да."
+  },
+  {
+   "t": 850.1,
+   "da": "Det kan mange af os, der lærer et nyt sprog, godt relatere til.",
+   "ru": "Многим из нас, кто учит новый язык, это хорошо знакомо."
+  },
+  {
+   "t": 852.6,
+   "da": "Dansk kan være svært.",
+   "ru": "Датский бывает трудным."
+  },
+  {
+   "t": 853.8,
+   "da": "Rigtig svært.",
+   "ru": "Очень трудным."
+  },
+  {
+   "t": 855.0,
+   "da": "Og Ivan forstår især ikke to specifikke små ord.",
+   "ru": "И Иван особенно не понимает два конкретных маленьких слова."
+  },
+  {
+   "t": 859.0,
+   "da": "Ordene endnu og stadig.",
+   "ru": "Слова *endnu* и *stadig*."
+  },
+  {
+   "t": 860.9,
+   "da": "Åh, det er et meget klassisk problem.",
+   "ru": "О, это очень классическая проблема."
+  },
+  {
+   "t": 863.1,
+   "da": "Rigtig mange bliver forvirret over netop de to ord.",
+   "ru": "Очень многие путаются именно в этих двух словах."
+  },
+  {
+   "t": 865.8,
+   "da": "Fordi de minder lidt om hinanden.",
+   "ru": "Потому что они немного похожи друг на друга."
+  },
+  {
+   "t": 867.3,
+   "da": "Ja, de handler vel begge to om tid, ikke?",
+   "ru": "Да, они ведь оба про время, так?"
+  },
+  {
+   "t": 869.2,
+   "da": "Jo, det gør de.",
+   "ru": "Да, про время."
+  },
+  {
+   "t": 870.4,
+   "da": "Men Anton er en god far, så han forklarer det meget logisk for sin søn.",
+   "ru": "Но Антон хороший отец, поэтому объясняет сыну очень логично."
+  },
+  {
+   "t": 874.4,
+   "da": "Jamen, lad os tage stadig først.",
+   "ru": "Давай начнём со *stadig*."
+  },
+  {
+   "t": 877.0,
+   "da": "Hvordan forklarer Anton det?",
+   "ru": "Как Антон это объясняет?"
+  },
+  {
+   "t": 878.8,
+   "da": "Anton fortæller Ivan, at ordet stadig betyder, at noget startede før.",
+   "ru": "Антон говорит Ивану, что *stadig* значит: что-то началось раньше,"
+  },
+  {
+   "t": 884.0,
+   "da": "Det sker lige nu.",
+   "ru": "происходит прямо сейчас,"
+  },
+  {
+   "t": 885.4,
+   "da": "Og det fortsætter fremad.",
+   "ru": "и продолжается дальше."
+  },
+  {
+   "t": 887.2,
+   "da": "Det stopper altså ikke.",
+   "ru": "То есть оно не прекращается."
+  },
+  {
+   "t": 888.0,
+   "da": "Nej, det bliver bare ved.",
+   "ru": "Нет, оно просто продолжается."
+  },
+  {
+   "t": 889.9,
+   "da": "Hvis vi for eksempel taler om vejret, kan vi sige, at det regnede meget i går, og det regner stadig i dag.",
+   "ru": "Если говорить, например, о погоде: вчера шёл сильный дождь, и сегодня он всё ещё (*stadig*) идёт."
+  },
+  {
+   "t": 896.5,
+   "da": "Regnen er slet ikke stoppet.",
+   "ru": "Дождь вообще не прекратился."
+  },
+  {
+   "t": 898.1,
+   "da": "Okay.",
+   "ru": "Окей."
+  },
+  {
+   "t": 899.6,
+   "da": "Anton siger også til Ivan, at jeg vågnede klokken tre i morges, og jeg er stadig træt.",
+   "ru": "Ещё Антон говорит Ивану: «Я проснулся сегодня в три утра и до сих пор устал»."
+  },
+  {
+   "t": 905.4,
+   "da": "Trætheden fortsætter.",
+   "ru": "Усталость продолжается."
+  },
+  {
+   "t": 906.9,
+   "da": "Ja, det forstår jeg godt.",
+   "ru": "Да, это я хорошо понимаю."
+  },
+  {
+   "t": 908.2,
+   "da": "Det bliver simpelthen ved med at ske.",
+   "ru": "Это просто продолжает происходить."
+  },
+  {
+   "t": 909.9,
+   "da": "Ligesom at sige på motorvejen, at jeg kører stadig mod København.",
+   "ru": "Как сказать на трассе: «Я всё ещё еду в сторону Копенгагена»."
+  },
+  {
+   "t": 914.1,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 914.9,
+   "da": "Men hvad er så forskellen til ordet endnu?",
+   "ru": "А в чём тогда отличие от слова *endnu*?"
+  },
+  {
+   "t": 918.0,
+   "da": "Det er det svære for Ivan.",
+   "ru": "Вот это и трудно для Ивана."
+  },
+  {
+   "t": 919.4,
+   "da": "Ordet endnu bruger vi på en lidt anden måde.",
+   "ru": "Слово *endnu* мы используем немного по-другому."
+  },
+  {
+   "t": 921.8,
+   "da": "For det meste bruger vi det sammen med ordet ikke.",
+   "ru": "Чаще всего мы используем его вместе со словом *ikke*."
+  },
+  {
+   "t": 924.1,
+   "da": "Ikke endnu. Ja.",
+   "ru": "*Ikke endnu* — ещё нет. Да."
+  },
+  {
+   "t": 925.9,
+   "da": "Når vi siger ikke endnu, betyder det, at noget ikke er sket i dette øjeblik, men vi forventer helt klart, at det vil ske i fremtiden.",
+   "ru": "Когда мы говорим *ikke endnu*, это значит, что что-то не произошло в данный момент, но мы явно ожидаем, что это произойдёт в будущем."
+  },
+  {
+   "t": 933.0,
+   "da": "Vi venter på det.",
+   "ru": "Мы этого ждём."
+  },
+  {
+   "t": 934.4,
+   "da": "Ah, okay.",
+   "ru": "А, понятно."
+  },
+  {
+   "t": 935.4,
+   "da": "Ivan kigger for eksempel på sine lektier og siger, at jeg ikke er færdig med opgaverne endnu.",
+   "ru": "Иван, например, смотрит на свои уроки и говорит: «Я ещё не закончил задания»."
+  },
+  {
+   "t": 941.0,
+   "da": "Han er ikke færdig lige nu, men han har en klar plan om at blive færdig.",
+   "ru": "Сейчас он не закончил, но у него есть чёткий план закончить."
+  },
+  {
+   "t": 944.4,
+   "da": "Okay, så ikke endnu betyder, at vi forventer en forandring snart.",
+   "ru": "Окей, значит, *ikke endnu* значит, что мы ждём скорых изменений."
+  },
+  {
+   "t": 948.9,
+   "da": "Lad mig lige prøve et eksempel, der passer til vores lytter i lastbilen.",
+   "ru": "Дай-ка я попробую пример, который подойдёт нашему слушателю в грузовике."
+  },
+  {
+   "t": 951.8,
+   "da": "Gør det.",
+   "ru": "Давай."
+  },
+  {
+   "t": 952.3,
+   "da": "Hvis man for eksempel kører over broen fra Sverige til Danmark, så kan man sige, at vi ikke er kommet til Danmark endnu, fordi man forventer at ankomme lige om fem minutter.",
+   "ru": "Если, например, едешь по мосту из Швеции в Данию, можно сказать, что мы ещё не доехали до Дании, потому что ожидаешь приехать минут через пять."
+  },
+  {
+   "t": 962.4,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 963.3,
+   "da": "Det er et fantastisk eksempel.",
+   "ru": "Отличный пример."
+  },
+  {
+   "t": 964.9,
+   "da": "Du kører jo stadig på broen, og du er ikke kommet til Danmark endnu.",
+   "ru": "Ты всё ещё (*stadig*) едешь по мосту и ещё не (*ikke endnu*) приехал в Данию."
+  },
+  {
+   "t": 968.7,
+   "da": "Der har du begge ord.",
+   "ru": "Вот тебе оба слова."
+  },
+  {
+   "t": 969.9,
+   "da": "Det giver faktisk rigtig god mening, når du siger det sådan.",
+   "ru": "Когда ты так говоришь, это действительно очень понятно."
+  },
+  {
+   "t": 972.3,
+   "da": "Men altså, kan man slet ikke bruge endnu uden ordet ikke?",
+   "ru": "Но разве *endnu* совсем нельзя использовать без *ikke*?"
+  },
+  {
+   "t": 975.4,
+   "da": "Jo, i nogle få tilfælde kan man godt.",
+   "ru": "Можно, в некоторых случаях."
+  },
+  {
+   "t": 978.2,
+   "da": "Endnu kan nemlig også bruges til at forstærke noget andet.",
+   "ru": "*Endnu* может также использоваться, чтобы усилить что-то другое."
+  },
+  {
+   "t": 981.1,
+   "da": "Det kan betyde mere.",
+   "ru": "Оно может значить „ещё больше“."
+  },
+  {
+   "t": 982.9,
+   "da": "Har du et eksempel på det?",
+   "ru": "Есть пример?"
+  },
+  {
+   "t": 984.2,
+   "da": "Ja, for eksempel.",
+   "ru": "Да, например:"
+  },
+  {
+   "t": 985.3,
+   "da": "Det var koldt i morges, men nu er det faktisk blevet endnu koldere.",
+   "ru": "Утром было холодно, а теперь стало ещё холоднее (*endnu koldere*)."
+  },
+  {
+   "t": 988.8,
+   "da": "Altså, temperaturen faldt mere?",
+   "ru": "То есть температура упала ещё сильнее?"
+  },
+  {
+   "t": 990.5,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 991.5,
+   "da": "Men langt de fleste gange, når du hører folk på gaden bruge ordet endnu, så betyder det ikke endnu.",
+   "ru": "Но в подавляющем большинстве случаев, когда ты слышишь на улице слово *endnu*, оно значит *ikke endnu* — ещё нет."
+  },
+  {
+   "t": 996.9,
+   "da": "Okay.",
+   "ru": "Окей."
+  },
+  {
+   "t": 997.9,
+   "da": "Ivan er jo ikke dum.",
+   "ru": "Иван ведь не глупый."
+  },
+  {
+   "t": 999.9,
+   "da": "Og han lytter rigtig godt efter sin far.",
+   "ru": "И он очень внимательно слушает отца."
+  },
+  {
+   "t": 1002.1,
+   "da": "Han giver dog ikke op.",
+   "ru": "Но он не сдаётся."
+  },
+  {
+   "t": 1002.8,
+   "da": "Han er ret stædig med de der lektier.",
+   "ru": "Он довольно упорный с этими уроками."
+  },
+  {
+   "t": 1004.9,
+   "da": "Det er godt at være stædig, når man lærer dansk.",
+   "ru": "Когда учишь датский, хорошо быть упрямым."
+  },
+  {
+   "t": 1006.7,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 1008.1,
+   "da": "Han peger på et helt nyt ord i bogen og spørger Anton.",
+   "ru": "Он показывает на совсем новое слово в книге и спрашивает Антона:"
+  },
+  {
+   "t": 1011.3,
+   "da": "Hvad med det her ord, far?",
+   "ru": "«А это слово, папа?"
+  },
+  {
+   "t": 1012.3,
+   "da": "Hvad betyder 'egentlig'?",
+   "ru": "Что значит *egentlig*?»"
+  },
+  {
+   "t": 1014.1,
+   "da": "Egentlig?",
+   "ru": "*Egentlig*?"
+  },
+  {
+   "t": 1015.7,
+   "da": "Og her griner Anton nok lidt.",
+   "ru": "И тут Антон, наверное, немного смеётся."
+  },
+  {
+   "t": 1017.5,
+   "da": "For danskerne elsker virkelig ordet egentlig.",
+   "ru": "Потому что датчане действительно обожают слово *egentlig*."
+  },
+  {
+   "t": 1019.5,
+   "da": "Det er måske et af de ord, vi bruger allermest i hverdagen, uden overhovedet at tænke over det.",
+   "ru": "Это, пожалуй, одно из слов, которые мы используем чаще всего в повседневной жизни, даже не задумываясь."
+  },
+  {
+   "t": 1024.0,
+   "da": "Men hvad er det simple svar til Ivan?",
+   "ru": "Но какой простой ответ дать Ивану?"
+  },
+  {
+   "t": 1025.6,
+   "da": "Det direkte og simple svar er, at egentlig bare betyder i virkeligheden.",
+   "ru": "Прямой и простой ответ: *egentlig* просто значит „на самом деле“."
+  },
+  {
+   "t": 1030.4,
+   "da": "Anton giver Ivan et eksempel.",
+   "ru": "Антон приводит Ивану пример:"
+  },
+  {
+   "t": 1032.4,
+   "da": "Jeg ville egentlig gerne sove meget længere i morges, men jeg skulle jo på arbejde.",
+   "ru": "«Я, вообще-то, хотел бы сегодня утром поспать намного дольше, но мне надо было на работу»."
+  },
+  {
+   "t": 1036.8,
+   "da": "Ah, så inderst inde, i virkeligheden, der ville han gerne sove.",
+   "ru": "А, то есть в глубине души, на самом деле, он хотел спать."
+  },
+  {
+   "t": 1040.1,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 1040.9,
+   "da": "Men den ydre virkelighed krævede, at han stod op og kørte lastbil.",
+   "ru": "Но внешняя реальность требовала, чтобы он встал и поехал на грузовике."
+  },
+  {
+   "t": 1044.3,
+   "da": "Det giver mening.",
+   "ru": "Логично."
+  },
+  {
+   "t": 1045.6,
+   "da": "Men jeg tænker, at det også gør noget ved tonen i selve samtalen, synes jeg.",
+   "ru": "Но мне кажется, оно ещё и влияет на тон самого разговора."
+  },
+  {
+   "t": 1050.0,
+   "da": "Det skifter ligesom melodi i sproget.",
+   "ru": "Как будто меняется мелодия речи."
+  },
+  {
+   "t": 1052.5,
+   "da": "Hvordan mener du?",
+   "ru": "Что ты имеешь в виду?"
+  },
+  {
+   "t": 1053.1,
+   "da": "Altså, hvis jeg for eksempel kigger på dig med et meget hårdt blik og siger, hvad laver du?",
+   "ru": "Ну, если я, например, посмотрю на тебя очень жёстким взглядом и скажу: «Что ты делаешь?»"
+  },
+  {
+   "t": 1059.9,
+   "da": "Så lyder jeg meget sur, som om jeg skælder dig ud.",
+   "ru": "То я звучу очень сердито, как будто тебя ругаю."
+  },
+  {
+   "t": 1062.2,
+   "da": "Ja, det lyder ret aggressivt.",
+   "ru": "Да, звучит довольно агрессивно."
+  },
+  {
+   "t": 1063.9,
+   "da": "Men hvis jeg lægger hovedet lidt på skrå, smiler lidt og siger, hvad laver du egentlig?",
+   "ru": "А если я слегка наклоню голову, немного улыбнусь и скажу: «А что ты, собственно, делаешь?»"
+  },
+  {
+   "t": 1069.1,
+   "da": "Så lyder det pludselig meget blødere og venligere.",
+   "ru": "То вдруг звучит гораздо мягче и дружелюбнее."
+  },
+  {
+   "t": 1071.0,
+   "da": "Det er fuldstændig rigtigt.",
+   "ru": "Совершенно верно."
+  },
+  {
+   "t": 1073.7,
+   "da": "Det lyder bare mere nysgerrigt, som om jeg gerne ville kende dine inderste tanker, ikke?",
+   "ru": "Звучит просто более любопытно, как будто я хочу знать твои сокровенные мысли, да?"
+  },
+  {
+   "t": 1077.7,
+   "da": "Det er en utrolig præcis observation.",
+   "ru": "Это невероятно точное наблюдение."
+  },
+  {
+   "t": 1080.5,
+   "da": "Ordet egentlig fungerer nærmest som en støddæmper i det danske sprog.",
+   "ru": "Слово *egentlig* работает в датском почти как амортизатор."
+  },
+  {
+   "t": 1084.1,
+   "da": "Det gør sætningen blødere.",
+   "ru": "Оно делает фразу мягче."
+  },
+  {
+   "t": 1086.1,
+   "da": "Men prøv lige at kigge på stavningen igen.",
+   "ru": "Но посмотри-ка ещё раз на написание."
+  },
+  {
+   "t": 1087.8,
+   "da": "Vi staver det... Åh nej, ikke igen.",
+   "ru": "Мы пишем его... — О нет, только не опять."
+  },
+  {
+   "t": 1094.8,
+   "da": "Jo, hvordan udtaler vi det?",
+   "ru": "Да, как мы его произносим?"
+  },
+  {
+   "t": 1096.6,
+   "da": "Igen, vi sluger det sidste g.",
+   "ru": "Опять, мы глотаем последнюю g."
+  },
+  {
+   "t": 1098.3,
+   "da": "Igen.",
+   "ru": "Опять."
+  },
+  {
+   "t": 1098.8,
+   "da": "Vi siger slet ikke 'egentlig'.",
+   "ru": "Мы вовсе не говорим *egentlig* так, как пишется."
+  },
+  {
+   "t": 1100.4,
+   "da": "Vi siger bare 'enlig'.",
+   "ru": "Мы говорим просто „энли“."
+  },
+  {
+   "t": 1102.2,
+   "da": "Det slutter med en i-lyd.",
+   "ru": "Слово заканчивается на звук „и“."
+  },
+  {
+   "t": 1103.9,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1104.7,
+   "da": "Igen.",
+   "ru": "Опять."
+  },
+  {
+   "t": 1105.4,
+   "da": "Hvorfor gør danskerne det så svært for alle andre at lære?",
+   "ru": "Почему датчане так усложняют обучение всем остальным?"
+  },
+  {
+   "t": 1108.6,
+   "da": "Fordi sproget lever, og det går stærkt.",
+   "ru": "Потому что язык живой, и всё происходит быстро."
+  },
+  {
+   "t": 1111.4,
+   "da": "Hvis du lytter til meget gamle danske film, så talte de faktisk meget tydeligere.",
+   "ru": "Если послушать очень старые датские фильмы, там говорили гораздо чётче."
+  },
+  {
+   "t": 1115.7,
+   "da": "Men i dag taler vi lynhurtigt sammen.",
+   "ru": "А сегодня мы говорим друг с другом молниеносно."
+  },
+  {
+   "t": 1117.8,
+   "da": "Det er sandt.",
+   "ru": "Это правда."
+  },
+  {
+   "t": 1118.5,
+   "da": "Ordet egentlig er simpelthen bare blevet til en lille blød lyd.",
+   "ru": "Слово *egentlig* просто превратилось в маленький мягкий звук."
+  },
+  {
+   "t": 1122.2,
+   "da": "Vi putter det ind alle vegne for at vise, at vi er venlige.",
+   "ru": "Мы вставляем его везде, чтобы показать, что мы дружелюбны."
+  },
+  {
+   "t": 1125.1,
+   "da": "Så vi lader bare være med at udtale det sidste bogstav.",
+   "ru": "Поэтому последнюю букву мы просто не произносим."
+  },
+  {
+   "t": 1127.6,
+   "da": "Okay.",
+   "ru": "Окей."
+  },
+  {
+   "t": 1128.2,
+   "da": "Så vi har styr på, at vi ikke er færdige endnu.",
+   "ru": "Итак, мы разобрались, что мы ещё не закончили (*ikke endnu*)."
+  },
+  {
+   "t": 1131.5,
+   "da": "Og hvad egentlig betyder i hverdagen.",
+   "ru": "И что значит *egentlig* в повседневной жизни."
+  },
+  {
+   "t": 1134.4,
+   "da": "Ivan har faktisk et allersidste ord på sin liste.",
+   "ru": "У Ивана в списке есть ещё одно, самое последнее слово."
+  },
+  {
+   "t": 1137.7,
+   "da": "Hvad er det sidste ord?",
+   "ru": "Какое последнее слово?"
+  },
+  {
+   "t": 1139.0,
+   "da": "Det er ordet bestemt.",
+   "ru": "Это слово *bestemt*."
+  },
+  {
+   "t": 1141.2,
+   "da": "Han spørger sin far, hvad bestemt egentlig betyder.",
+   "ru": "Он спрашивает отца, что, собственно, значит *bestemt*."
+  },
+  {
+   "t": 1144.0,
+   "da": "Det er også et af de meget vigtige ord.",
+   "ru": "Это тоже одно из очень важных слов."
+  },
+  {
+   "t": 1146.3,
+   "da": "Og det er et stærkt ord.",
+   "ru": "И это сильное слово."
+  },
+  {
+   "t": 1147.2,
+   "da": "Det har faktisk to forskellige betydninger.",
+   "ru": "У него, вообще-то, два разных значения."
+  },
+  {
+   "t": 1149.9,
+   "da": "Okay. Hvad er den første?",
+   "ru": "Окей. Какое первое?"
+  },
+  {
+   "t": 1151.1,
+   "da": "Den første betydning er helt og aldeles sikkert.",
+   "ru": "Первое значение — совершенно и абсолютно точно."
+  },
+  {
+   "t": 1154.9,
+   "da": "Man er overhovedet ikke i tvivl.",
+   "ru": "Ты нисколько не сомневаешься."
+  },
+  {
+   "t": 1156.5,
+   "da": "Okay.",
+   "ru": "Окей."
+  },
+  {
+   "t": 1157.4,
+   "da": "Hvis jeg for eksempel spørger dig nu.",
+   "ru": "Если я, например, спрошу тебя сейчас:"
+  },
+  {
+   "t": 1159.1,
+   "da": "Skal vi to holde en pause og drikke kaffe med mælk (?)",
+   "ru": "«Устроим перерыв и выпьем кофе с молоком?»"
+  },
+  {
+   "t": 1161.7,
+   "da": "Så kan du svare med stor energi.",
+   "ru": "Ты можешь ответить с большим энтузиазмом:"
+  },
+  {
+   "t": 1163.2,
+   "da": "Ja. Bestemt.",
+   "ru": "«Да. Безусловно (*bestemt*)»."
+  },
+  {
+   "t": 1163.9,
+   "da": "Det betyder altså et kæmpe, stort og sikkert ja.",
+   "ru": "То есть это огромное, большое и уверенное „да“."
+  },
+  {
+   "t": 1167.7,
+   "da": "Ja. Bestemt.",
+   "ru": "Да. Безусловно."
+  },
+  {
+   "t": 1169.3,
+   "da": "Lidt ligesom den samtale Anton havde med sin mekaniker.",
+   "ru": "Немного похоже на разговор Антона с механиком."
+  },
+  {
+   "t": 1172.1,
+   "da": "Da Anton spurgte, om mekanikeren nogensinde havde set en bil køre forbi og lave en skade for bagefter at flygte.",
+   "ru": "Когда Антон спросил, видел ли механик когда-нибудь, как машина проезжает мимо, наносит повреждение, а потом убегает."
+  },
+  {
+   "t": 1177.6,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1178.6,
+   "da": "Så kunne mekanikeren have sagt.",
+   "ru": "Механик мог бы ответить:"
+  },
+  {
+   "t": 1180.1,
+   "da": "Ja. Bestemt.",
+   "ru": "«Да. Безусловно."
+  },
+  {
+   "t": 1181.0,
+   "da": "Det ser jeg jo hele tiden.",
+   "ru": "Я такое постоянно вижу»."
+  },
+  {
+   "t": 1182.3,
+   "da": "Lige netop.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1183.3,
+   "da": "Han er helt sikker.",
+   "ru": "Он совершенно уверен."
+  },
+  {
+   "t": 1184.7,
+   "da": "Men der er også en anden betydning af bestemt.",
+   "ru": "Но у *bestemt* есть и другое значение."
+  },
+  {
+   "t": 1186.7,
+   "da": "Det betyder, at noget er helt fastlagt.",
+   "ru": "Оно значит, что что-то точно установлено."
+  },
+  {
+   "t": 1189.6,
+   "da": "At du har truffet et konkret valg i forvejen.",
+   "ru": "Что ты заранее сделал конкретный выбор."
+  },
+  {
+   "t": 1192.4,
+   "da": "Som en plan (?) Ja.",
+   "ru": "Как план? Да."
+  },
+  {
+   "t": 1194.5,
+   "da": "Forestil dig for eksempel, at du skal aflevere varer på et bestemt tidspunkt.",
+   "ru": "Представь, например, что тебе нужно доставить товар в определённое (*bestemt*) время."
+  },
+  {
+   "t": 1198.5,
+   "da": "Det betyder, at du ikke bare kan komme, når du har lyst.",
+   "ru": "Это значит, что ты не можешь просто приехать, когда захочешь."
+  },
+  {
+   "t": 1201.3,
+   "da": "Nej. Man har en aftale. Ja.",
+   "ru": "Нет. Есть договорённость. Да."
+  },
+  {
+   "t": 1203.3,
+   "da": "Du kan ikke bare komme klokken 10, hvis det bestemte tidspunkt er klokken 8 om morgenen.",
+   "ru": "Нельзя просто приехать в 10, если назначенное время — 8 утра."
+  },
+  {
+   "t": 1207.3,
+   "da": "Det er en fast aftale.",
+   "ru": "Это твёрдая договорённость."
+  },
+  {
+   "t": 1208.5,
+   "da": "Men her vil jeg altså lige stoppe dig et øjeblik.",
+   "ru": "Но здесь я хочу тебя на минутку остановить."
+  },
+  {
+   "t": 1210.7,
+   "da": "Jeg kigger på Ivan i den her historie, og jeg føler faktisk lidt med ham.",
+   "ru": "Я смотрю на Ивана в этой истории и, честно говоря, немного ему сочувствую."
+  },
+  {
+   "t": 1214.3,
+   "da": "Gør du det?",
+   "ru": "Правда?"
+  },
+  {
+   "t": 1216.7,
+   "da": "Han kigger på ord som egentlig, stadig og endnu.",
+   "ru": "Он смотрит на такие слова, как *egentlig*, *stadig* и *endnu*."
+  },
+  {
+   "t": 1221.3,
+   "da": "Og han spørger sin far.",
+   "ru": "И спрашивает отца:"
+  },
+  {
+   "t": 1222.7,
+   "da": "Far, er det virkelig nødvendigt at lære alle disse små ord?",
+   "ru": "«Папа, правда необходимо учить все эти маленькие слова?»"
+  },
+  {
+   "t": 1225.9,
+   "da": "Ja. Det er hårdt.",
+   "ru": "Да. Это тяжело."
+  },
+  {
+   "t": 1227.6,
+   "da": "Og helt ærligt.",
+   "ru": "И, честно говоря,"
+  },
+  {
+   "t": 1228.4,
+   "da": "Jeg er egentlig ret enig med Ivan.",
+   "ru": "я, вообще-то, вполне согласен с Иваном."
+  },
+  {
+   "t": 1229.8,
+   "da": "De virker utrolig små og meget irriterende at huske.",
+   "ru": "Они кажутся невероятно мелкими, и их очень раздражает запоминать."
+  },
+  {
+   "t": 1232.7,
+   "da": "Det forstår jeg godt, du tænker.",
+   "ru": "Я понимаю, почему ты так думаешь."
+  },
+  {
+   "t": 1234.1,
+   "da": "Kan vi ikke bare tale uden dem?",
+   "ru": "Нельзя ли просто говорить без них?"
+  },
+  {
+   "t": 1235.7,
+   "da": "Kan vi ikke bare sige ja i stedet for at sige ja bestemt?",
+   "ru": "Нельзя ли просто сказать „да“ вместо „да, безусловно“?"
+  },
+  {
+   "t": 1239.0,
+   "da": "Er det bestemt nødvendigt for en udenlandsk chauffør i Danmark at kende dem alle sammen?",
+   "ru": "Так ли уж необходимо иностранному водителю в Дании знать их все?"
+  },
+  {
+   "t": 1242.7,
+   "da": "Altså, jeg forstår til fulde din og Ivans frustration her.",
+   "ru": "Я полностью понимаю твоё и Иваново раздражение."
+  },
+  {
+   "t": 1246.1,
+   "da": "Og det kan sikkert virke som meget små ligegyldige detaljer.",
+   "ru": "И это наверняка может показаться очень мелкими, неважными деталями."
+  },
+  {
+   "t": 1250.1,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1251.2,
+   "da": "Men her må jeg svare dig fuldstændig ligesom Antons svar til sin søn.",
+   "ru": "Но тут я должен ответить тебе точно так же, как Антон ответил сыну."
+  },
+  {
+   "t": 1255.1,
+   "da": "Ja, det er bestemt nødvendigt.",
+   "ru": "Да, это безусловно необходимо."
+  },
+  {
+   "t": 1257.6,
+   "da": "Disse små ord er den lim, der holder det danske sprog sammen i hverdagen.",
+   "ru": "Эти маленькие слова — тот клей, который скрепляет датский язык в повседневной жизни."
+  },
+  {
+   "t": 1261.8,
+   "da": "Limen? Ja.",
+   "ru": "Клей? Да."
+  },
+  {
+   "t": 1263.3,
+   "da": "De binder de store ord som lastbil, spejl og skade sammen til en ægte levende samtale mellem to mennesker.",
+   "ru": "Они связывают большие слова вроде „грузовик“, „зеркало“ и „повреждение“ в настоящий живой разговор двух людей."
+  },
+  {
+   "t": 1270.6,
+   "da": "Men kan vores lytter ude i lastbilen ikke bare fjerne dem og stadig blive forstået?",
+   "ru": "Но разве наш слушатель в грузовике не может просто их убрать и всё равно быть понятым?"
+  },
+  {
+   "t": 1274.3,
+   "da": "Jo, man kan godt blive forstået rent praktisk.",
+   "ru": "Да, чисто практически тебя поймут."
+  },
+  {
+   "t": 1276.6,
+   "da": "Det kan man.",
+   "ru": "Это можно."
+  },
+  {
+   "t": 1277.6,
+   "da": "Men det kommer til at lyde lidt mærkeligt.",
+   "ru": "Но звучать это будет немного странно."
+  },
+  {
+   "t": 1280.2,
+   "da": "Det kommer til at lyde som en robot, der læser højt fra en maskine.",
+   "ru": "Будет звучать как робот, который читает вслух с машины."
+  },
+  {
+   "t": 1283.6,
+   "da": "Øh, det lyder ikke så rart.",
+   "ru": "Э-э, звучит не очень приятно."
+  },
+  {
+   "t": 1284.7,
+   "da": "Nej.",
+   "ru": "Нет."
+  },
+  {
+   "t": 1285.8,
+   "da": "Hvis du vil have den rigtige danske melodi ind i dit sprog, hvis du vil vise den anden person, at du er høflig, eller at du undrer dig, så er det bestemt nødvendigt at bruge de her små ord.",
+   "ru": "Если хочешь, чтобы в твоей речи была настоящая датская мелодия, если хочешь показать собеседнику, что ты вежлив или что ты удивляешься, то эти маленькие слова использовать безусловно необходимо."
+  },
+  {
+   "t": 1295.7,
+   "da": "Okay, jeg er med.",
+   "ru": "Окей, понял."
+  },
+  {
+   "t": 1297.4,
+   "da": "Anton spørger sin søn.",
+   "ru": "Антон спрашивает сына:"
+  },
+  {
+   "t": 1299.1,
+   "da": "Ivan, har du nogensinde hørt en dansk samtale uden ordet egentlig?",
+   "ru": "«Иван, ты когда-нибудь слышал датский разговор без слова *egentlig*?»"
+  },
+  {
+   "t": 1303.9,
+   "da": "Ivan tænker sig længe om og ryster på hovedet.",
+   "ru": "Иван долго думает и качает головой."
+  },
+  {
+   "t": 1306.6,
+   "da": "Nej far, aldrig.",
+   "ru": "«Нет, папа, никогда»."
+  },
+  {
+   "t": 1308.3,
+   "da": "Og han har jo ret.",
+   "ru": "И он ведь прав."
+  },
+  {
+   "t": 1309.5,
+   "da": "Det er en superstærk pointe at slutte på.",
+   "ru": "Это очень сильная мысль, чтобы ей закончить."
+  },
+  {
+   "t": 1312.5,
+   "da": "Uden ordene lyder man simpelthen som en maskine.",
+   "ru": "Без этих слов ты просто звучишь как машина."
+  },
+  {
+   "t": 1315.1,
+   "da": "Det handler hele tiden om melodien i sproget.",
+   "ru": "Всё время дело в мелодии языка."
+  },
+  {
+   "t": 1317.5,
+   "da": "Så lad os sikre os, at vi har lært melodien ordentligt i dag.",
+   "ru": "Так что давай убедимся, что сегодня мы как следует выучили эту мелодию."
+  },
+  {
+   "t": 1321.1,
+   "da": "Det synes jeg lyder som en god idé.",
+   "ru": "По-моему, хорошая идея."
+  },
+  {
+   "t": 1323.5,
+   "da": "Kære lytter i lastbilen, vi gav dig et løfte i starten.",
+   "ru": "Дорогой слушатель в грузовике, в начале мы дали тебе обещание."
+  },
+  {
+   "t": 1326.6,
+   "da": "Et løfte om at lære 10 vigtige ord i dag.",
+   "ru": "Обещание выучить сегодня 10 важных слов."
+  },
+  {
+   "t": 1329.8,
+   "da": "Nu laver vi en lynhurtig opsummering.",
+   "ru": "Сейчас сделаем молниеносное повторение."
+  },
+  {
+   "t": 1331.9,
+   "da": "Vi siger dem langsomt, og du kan eventuelt sige dem højt inde i din lastbil.",
+   "ru": "Мы произносим их медленно, а ты, если хочешь, можешь повторять их вслух у себя в грузовике."
+  },
+  {
+   "t": 1336.0,
+   "da": "Ja, lad os gøre det sammen.",
+   "ru": "Да, давай вместе."
+  },
+  {
+   "t": 1337.9,
+   "da": "Vi startede morgenen med noget, der bliver knust eller bulet.",
+   "ru": "Утро мы начали с чего-то разбитого или помятого."
+  },
+  {
+   "t": 1341.3,
+   "da": "En skade. En skade.",
+   "ru": "*En skade* — повреждение. *En skade*."
+  },
+  {
+   "t": 1343.6,
+   "da": "Bilen har en stor skade.",
+   "ru": "У машины большое повреждение."
+  },
+  {
+   "t": 1346.6,
+   "da": "Bilen har en stor skade.",
+   "ru": "У машины большое повреждение."
+  },
+  {
+   "t": 1349.0,
+   "da": "Og følelsen af, at dagen bare starter dårligt.",
+   "ru": "И ощущение, что день просто начинается плохо."
+  },
+  {
+   "t": 1351.2,
+   "da": "Med røde lys overalt.",
+   "ru": "С красными светофорами повсюду."
+  },
+  {
+   "t": 1353.0,
+   "da": "Skidt. Skidt.",
+   "ru": "*Skidt* — плохо. *Skidt*."
+  },
+  {
+   "t": 1355.1,
+   "da": "Det er udtalt med et stumt d.",
+   "ru": "Произносится с немой d."
+  },
+  {
+   "t": 1356.6,
+   "da": "Når noget skal ske med det samme, og man overhovedet ikke vil vente et minut.",
+   "ru": "Когда что-то должно произойти сразу же и не хочется ждать ни минуты."
+  },
+  {
+   "t": 1360.8,
+   "da": "Straks. Straks.",
+   "ru": "*Straks* — немедленно. *Straks*."
+  },
+  {
+   "t": 1362.1,
+   "da": "Mekanikeren kommer straks.",
+   "ru": "Механик приедет немедленно."
+  },
+  {
+   "t": 1364.4,
+   "da": "Og når man spørger til hele livet, lige fra fødsel til nu.",
+   "ru": "А когда спрашиваешь обо всей жизни, от рождения до сего дня."
+  },
+  {
+   "t": 1367.6,
+   "da": "Nogensinde. Nogensinde.",
+   "ru": "*Nogensinde* — когда-нибудь. *Nogensinde*."
+  },
+  {
+   "t": 1369.7,
+   "da": "Har du nogensinde oplevet det på gaden?",
+   "ru": "С тобой когда-нибудь такое случалось на улице?"
+  },
+  {
+   "t": 1371.7,
+   "da": "Når en bil kører forbi dig uden at stoppe, eller tiden bare er slut.",
+   "ru": "Когда машина проезжает мимо тебя не останавливаясь или когда время просто закончилось."
+  },
+  {
+   "t": 1374.8,
+   "da": "Forbi. Forbi.",
+   "ru": "*Forbi* — мимо; прошло. *Forbi*."
+  },
+  {
+   "t": 1376.7,
+   "da": "Den skidte morgen er heldigvis forbi.",
+   "ru": "Паршивое утро, к счастью, позади."
+  },
+  {
+   "t": 1378.7,
+   "da": "Når noget ikke er sket i dag, men du forventer, det sker meget snart.",
+   "ru": "Когда что-то сегодня ещё не произошло, но ты ожидаешь, что произойдёт очень скоро."
+  },
+  {
+   "t": 1381.7,
+   "da": "Endnu. Endnu.",
+   "ru": "*Endnu* — ещё (не). *Endnu*."
+  },
+  {
+   "t": 1383.4,
+   "da": "Vi er ikke færdige med ruten endnu.",
+   "ru": "Мы ещё не закончили маршрут."
+  },
+  {
+   "t": 1384.3,
+   "da": "Det lille ord, der blødgør hele samtalen, der betyder i virkeligheden.",
+   "ru": "Маленькое слово, которое смягчает весь разговор и значит „на самом деле“."
+  },
+  {
+   "t": 1388.5,
+   "da": "Egentlig. Egentlig.",
+   "ru": "*Egentlig* — вообще-то, на самом деле. *Egentlig*."
+  },
+  {
+   "t": 1390.5,
+   "da": "Det er udtalt med et helt stumt g.",
+   "ru": "Произносится с совершенно немой g."
+  },
+  {
+   "t": 1392.5,
+   "da": "Når noget er helt sikkert, altså et stærkt og positivt ja.",
+   "ru": "Когда что-то совершенно точно, то есть сильное и положительное „да“."
+  },
+  {
+   "t": 1396.4,
+   "da": "Bestemt. Ja, bestemt.",
+   "ru": "*Bestemt* — безусловно. Да, безусловно."
+  },
+  {
+   "t": 1398.6,
+   "da": "Det er vi helt enige om.",
+   "ru": "Тут мы полностью согласны."
+  },
+  {
+   "t": 1400.0,
+   "da": "Ordet for regler, og at man slet ikke har et valg i situationen.",
+   "ru": "Слово для правил и для того, когда в ситуации совсем нет выбора."
+  },
+  {
+   "t": 1404.0,
+   "da": "Nødvendigt. Nødvendigt.",
+   "ru": "*Nødvendigt* — необходимо. *Nødvendigt*."
+  },
+  {
+   "t": 1405.9,
+   "da": "Det er helt nødvendigt for trafikkens sikkerhed.",
+   "ru": "Это совершенно необходимо для безопасности движения."
+  },
+  {
+   "t": 1409.0,
+   "da": "Og til allersidst, da spejlet overhovedet ikke virkede mere og lå på jorden.",
+   "ru": "И напоследок: когда зеркало совсем перестало работать и лежало на земле."
+  },
+  {
+   "t": 1413.1,
+   "da": "Ødelagt. Ødelagt.",
+   "ru": "*Ødelagt* — разбитый, сломанный. *Ødelagt*."
+  },
+  {
+   "t": 1415.3,
+   "da": "Spejlet var fuldstændig ødelagt.",
+   "ru": "Зеркало было полностью разбито."
+  },
+  {
+   "t": 1417.5,
+   "da": "Ti stærke ord.",
+   "ru": "Десять сильных слов."
+  },
+  {
+   "t": 1419.6,
+   "da": "Kære lytter, vi håber virkelig, du har haft en god tur gennem byen med os i ørene i dag.",
+   "ru": "Дорогой слушатель, мы очень надеемся, что сегодня у тебя была хорошая поездка по городу с нами в ушах."
+  },
+  {
+   "t": 1423.9,
+   "da": "Ja, vi håber, det hjælper på sproget.",
+   "ru": "Да, надеемся, это поможет с языком."
+  },
+  {
+   "t": 1425.9,
+   "da": "Men inden vi siger helt farvel, vil jeg give dig en lille opgave med på vejen.",
+   "ru": "Но прежде чем окончательно попрощаться, я хочу дать тебе небольшое задание в дорогу."
+  },
+  {
+   "t": 1429.7,
+   "da": "En opgave? Ja.",
+   "ru": "Задание? Да."
+  },
+  {
+   "t": 1431.5,
+   "da": "Næste gang du holder for et rødt lys på H.C. Andersens Boulevard,",
+   "ru": "В следующий раз, когда будешь стоять на красном на бульваре Х. К. Андерсена"
+  },
+  {
+   "t": 1434.5,
+   "da": "eller næste gang en hurtig bil kører forbi derude på motorvejen,",
+   "ru": "или когда мимо тебя на трассе пронесётся быстрая машина,"
+  },
+  {
+   "t": 1438.1,
+   "da": "så prøv lige at tænde for den danske radio.",
+   "ru": "попробуй включить датское радио."
+  },
+  {
+   "t": 1439.8,
+   "da": "Det er en god idé.",
+   "ru": "Хорошая идея."
+  },
+  {
+   "t": 1440.6,
+   "da": "Bare tænd i fem minutter.",
+   "ru": "Просто включи на пять минут."
+  },
+  {
+   "t": 1441.6,
+   "da": "Tænk over, hvor mange gange studieværterne siger ordet egentlig.",
+   "ru": "Обрати внимание, сколько раз ведущие в студии говорят слово *egentlig*."
+  },
+  {
+   "t": 1445.9,
+   "da": "Eller lyt til, hvor ofte de siger endnu.",
+   "ru": "Или послушай, как часто они говорят *endnu*."
+  },
+  {
+   "t": 1448.7,
+   "da": "Når man først begynder at lægge mærke til de ord i radioen,",
+   "ru": "Стоит только начать замечать эти слова по радио,"
+  },
+  {
+   "t": 1451.0,
+   "da": "så kan man slet ikke stoppe med at høre dem.",
+   "ru": "и уже невозможно перестать их слышать."
+  },
+  {
+   "t": 1452.6,
+   "da": "Nej, de gemmer sig overalt i det danske sprog.",
+   "ru": "Да, они прячутся повсюду в датском языке."
+  },
+  {
+   "t": 1454.7,
+   "da": "Det gør de.",
+   "ru": "Это точно."
+  },
+  {
+   "t": 1455.0,
+   "da": "Tusind tak, fordi du lyttede med i dag.",
+   "ru": "Огромное спасибо, что слушал нас сегодня."
+  },
+  {
+   "t": 1457.7,
+   "da": "Kør forsigtigt derude, og pas ekstra godt på spejlene i mørket.",
+   "ru": "Езжай осторожно и особенно береги зеркала в темноте."
+  }
+ ],
+ "glossary": [
+  {
+   "da": "at dingle",
+   "ru": "болтаться, висеть",
+   "note": "«Det hænger bare og dingler» — висит и болтается",
+   "t": 26.5,
+   "status": "-"
+  },
+  {
+   "da": "et sidespejl / sidespejlet",
+   "ru": "боковое зеркало",
+   "note": "højre sidespejl — правое зеркало; ASR: «side spejl»",
+   "t": 26.5,
+   "status": "-"
+  },
+  {
+   "da": "ødelagt",
+   "ru": "сломанный, разбитый, испорченный",
+   "note": "ключевое слово; причастие от at ødelægge (past: ødelagde); t в конце немое",
+   "t": 33.5,
+   "status": "known"
+  },
+  {
+   "da": "et rat / rattet",
+   "ru": "руль",
+   "note": "sidde bag rattet — сидеть за рулём",
+   "t": 44.1,
+   "status": "-"
+  },
+  {
+   "da": "et lyskryds",
+   "ru": "перекрёсток со светофором",
+   "note": "pl. lyskryds / lyskrydsene",
+   "t": 78.7,
+   "status": "-"
+  },
+  {
+   "da": "slem",
+   "ru": "плохой, скверный, тяжёлый",
+   "note": "«Den er slem om morgenen» — утром там жуть",
+   "t": 150.2,
+   "status": "-"
+  },
+  {
+   "da": "forsinket",
+   "ru": "опоздавший, задержанный",
+   "note": "være forsinket — опаздывать",
+   "t": 152.4,
+   "status": "new"
+  },
+  {
+   "da": "skidt",
+   "ru": "плохо, паршиво",
+   "note": "ключевое слово; d немое: «скит»; det er skidt; en skidt morgen",
+   "t": 160.5,
+   "status": "known"
+  },
+  {
+   "da": "stum",
+   "ru": "немой (о букве)",
+   "note": "et stumt d / g — немая буква; ср. род stumt",
+   "t": 203.5,
+   "status": "-"
+  },
+  {
+   "da": "at sluge",
+   "ru": "глотать",
+   "note": "о произношении: sluge bogstaverne — «глотать» буквы",
+   "t": 234.2,
+   "status": "-"
+  },
+  {
+   "da": "straks",
+   "ru": "сразу, немедленно",
+   "note": "ключевое слово; = med det samme; «Jeg kommer straks»",
+   "t": 260.7,
+   "status": "known"
+  },
+  {
+   "da": "en skade / skaden; at skade",
+   "ru": "повреждение, ущерб, травма; повредить, навредить",
+   "note": "ключевое слово; pl. skader; have en skade ≠ at skade bilen (действие)",
+   "t": 304.7,
+   "status": "learning"
+  },
+  {
+   "da": "en lommelygte",
+   "ru": "карманный фонарик",
+   "note": "tage sin lommelygte frem — достать фонарик",
+   "t": 309.0,
+   "status": "-"
+  },
+  {
+   "da": "en bule",
+   "ru": "вмятина",
+   "note": "ASR: «bul»; bulet — помятый",
+   "t": 327.8,
+   "status": "-"
+  },
+  {
+   "da": "egentlig",
+   "ru": "вообще-то, собственно, на самом деле",
+   "note": "ключевое слово; g немое: «энли»; смягчает вопрос: Hvad laver du egentlig?",
+   "t": 389.8,
+   "status": "known"
+  },
+  {
+   "da": "sagtens",
+   "ru": "вполне, запросто, легко",
+   "note": "«Bilen kan sagtens køre» — машина вполне может ехать",
+   "t": 398.7,
+   "status": "-"
+  },
+  {
+   "da": "nødvendig",
+   "ru": "необходимый",
+   "note": "ключевое слово; det er nødvendigt (t после det), en nødvendig regel; d и g немые: «нёвендит»",
+   "t": 398.7,
+   "status": "learning"
+  },
+  {
+   "da": "at spilde",
+   "ru": "тратить впустую; проливать",
+   "note": "spilde kostbar tid — терять драгоценное время; d немое",
+   "t": 409.7,
+   "status": "-"
+  },
+  {
+   "da": "et lovkrav",
+   "ru": "требование закона",
+   "note": "ulovligt — незаконно; lovpligtigt — обязательно по закону",
+   "t": 426.5,
+   "status": "-"
+  },
+  {
+   "da": "den blinde vinkel",
+   "ru": "слепая зона, мёртвая зона",
+   "note": "очень важно для водителя грузовика: справа — велосипедисты",
+   "t": 433.4,
+   "status": "-"
+  },
+  {
+   "da": "et førerhus / førerhuset",
+   "ru": "кабина водителя",
+   "note": "ASR: «førehuset»",
+   "t": 532.3,
+   "status": "-"
+  },
+  {
+   "da": "at smadre",
+   "ru": "разбить вдребезги, раскурочить",
+   "note": "past: smadrede; den smadrede dør",
+   "t": 542.3,
+   "status": "-"
+  },
+  {
+   "da": "forbi",
+   "ru": "мимо; прошло, закончилось",
+   "note": "ключевое слово; at køre forbi — проехать мимо; morgenen er forbi — утро позади",
+   "t": 555.0,
+   "status": "known"
+  },
+  {
+   "da": "at overhale",
+   "ru": "обгонять",
+   "note": "overhale en anden bil på motorvejen",
+   "t": 571.6,
+   "status": "-"
+  },
+  {
+   "da": "et brag",
+   "ru": "грохот, треск, удар",
+   "note": "med et brag — с грохотом",
+   "t": 598.9,
+   "status": "-"
+  },
+  {
+   "da": "nogensinde",
+   "ru": "когда-либо, когда-нибудь",
+   "note": "ключевое слово; Har du nogensinde...? — Ты когда-нибудь...? ingen har nogensinde — никто никогда",
+   "t": 615.2,
+   "status": "known"
+  },
+  {
+   "da": "at stikke af",
+   "ru": "сбежать, смыться",
+   "note": "разг.; past: stak af; «De stikker bare af»",
+   "t": 647.6,
+   "status": "new"
+  },
+  {
+   "da": "et uheld",
+   "ru": "авария, несчастный случай; неудача",
+   "note": "når der sker et uheld",
+   "t": 676.6,
+   "status": "learning"
+  },
+  {
+   "da": "et ansvar",
+   "ru": "ответственность",
+   "note": "tage ansvar — взять на себя ответственность",
+   "t": 693.9,
+   "status": "new"
+  },
+  {
+   "da": "forsigtig",
+   "ru": "осторожный",
+   "note": "køre forsigtigt — ехать осторожно; «Kør forsigtigt!»",
+   "t": 743.2,
+   "status": "-"
+  },
+  {
+   "da": "endnu",
+   "ru": "ещё (не); ещё (более)",
+   "note": "ключевое слово; обычно ikke endnu — ещё нет (ожидаем, что будет); endnu koldere — ещё холоднее",
+   "t": 859.0,
+   "status": "known"
+  },
+  {
+   "da": "stadig",
+   "ru": "всё ещё, по-прежнему",
+   "note": "ключевое слово; началось раньше и продолжается: det regner stadig",
+   "t": 859.0,
+   "status": "known"
+  },
+  {
+   "da": "stædig",
+   "ru": "упрямый, упорный",
+   "note": "ASR: «stedig»",
+   "t": 1002.8,
+   "status": "-"
+  },
+  {
+   "da": "at skælde ud",
+   "ru": "ругать, отчитывать",
+   "note": "skælde nogen ud; past: skældte",
+   "t": 1059.9,
+   "status": "-"
+  },
+  {
+   "da": "på skrå",
+   "ru": "наискось, набок",
+   "note": "lægge hovedet på skrå — наклонить голову набок",
+   "t": 1063.9,
+   "status": "-"
+  },
+  {
+   "da": "nysgerrig",
+   "ru": "любопытный",
+   "note": "det lyder nysgerrigt",
+   "t": 1073.7,
+   "status": "-"
+  },
+  {
+   "da": "bestemt",
+   "ru": "безусловно, определённо; определённый, назначенный",
+   "note": "ключевое слово; «Ja, bestemt!»; på et bestemt tidspunkt — в назначенное время",
+   "t": 1139.0,
+   "status": "known"
+  },
+  {
+   "da": "i forvejen",
+   "ru": "заранее",
+   "note": "truffet et valg i forvejen — сделал выбор заранее",
+   "t": 1189.6,
+   "status": "-"
+  },
+  {
+   "da": "at træffe et valg",
+   "ru": "сделать выбор, принять решение",
+   "note": "past: traf, perf.: har truffet",
+   "t": 1189.6,
+   "status": "-"
+  },
+  {
+   "da": "høflig",
+   "ru": "вежливый",
+   "note": "vise, at man er høflig",
+   "t": 1285.8,
+   "status": "-"
+  },
+  {
+   "da": "at undre sig",
+   "ru": "удивляться, недоумевать",
+   "note": "at du undrer dig",
+   "t": 1285.8,
+   "status": "-"
+  },
+  {
+   "da": "at lægge mærke til",
+   "ru": "замечать, обращать внимание",
+   "note": "past: lagde mærke til",
+   "t": 1448.7,
+   "status": "-"
+  }
+ ]
+}

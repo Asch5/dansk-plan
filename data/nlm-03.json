@@ -1,0 +1,1750 @@
+{
+ "id": "nlm-03",
+ "title_da": "Vigtige fagord til hverdagen som skraldemand",
+ "title_ru": "Важные профессиональные слова для будней мусорщика",
+ "summary_ru": "Ведущие разбирают один рабочий день Антона: он опорожняет контейнеры на участке к западу от Копенгагена, оставляет неопорожнённым бак для картона, забитый пластиковыми пакетами (наклейка «неправильная сортировка»), и не убирает разбросанный мусор, а фотографирует его для офиса; дома в Вальбю Иван ополаскивает банку из-под варенья, потому что грязный пластик нельзя переработать, а вечером семья выносит вёдра. В конце объясняют, что остаточные отходы сжигают и получают из них центральное отопление и электричество, и повторяют 8 ключевых слов: sortere, fraktion, beholder, tømme, ren/rene, fjerne, rod, område (с произношением område и мягкого d в rod).",
+ "lines": [
+  {
+   "t": 0.2,
+   "da": "Forestil dig lige, at en lille skefuld leverpostej kan ødelægge et helt ton plastik.",
+   "ru": "Только представь: маленькая ложка печёночного паштета может испортить целую тонну пластика."
+  },
+  {
+   "t": 6.3,
+   "da": "Ja, det lyder jo helt skørt.",
+   "ru": "Да, звучит совершенно безумно."
+  },
+  {
+   "t": 7.6,
+   "da": "Det lyder fuldstændig skørt.",
+   "ru": "Звучит абсолютно безумно."
+  },
+  {
+   "t": 9.0,
+   "da": "Men altså, det er faktisk den hårde virkelighed i dit arbejde.",
+   "ru": "Но вообще-то это суровая реальность твоей работы."
+  },
+  {
+   "t": 12.6,
+   "da": "Og vi ved jo, at du arbejder rigtig hårdt som skraldebilchauffør her i København.",
+   "ru": "И мы ведь знаем, что ты очень тяжело работаешь водителем мусоровоза здесь, в Копенгагене."
+  },
+  {
+   "t": 17.8,
+   "da": "Så velkommen til vores dybtgående samtale i dag.",
+   "ru": "Так что добро пожаловать на наш сегодняшний подробный разговор."
+  },
+  {
+   "t": 20.3,
+   "da": "Mange tak.",
+   "ru": "Большое спасибо."
+  },
+  {
+   "t": 21.6,
+   "da": "I dag er vores mission at dykke ned i en tekst om din kollega. Han hedder Anton.",
+   "ru": "Сегодня наша задача — углубиться в текст о твоём коллеге. Его зовут Антон."
+  },
+  {
+   "t": 26.2,
+   "da": "Og vi skal bruge Antons dag til at forstå det helt store billede af dit vigtige arbejde.",
+   "ru": "И мы используем один день Антона, чтобы увидеть всю большую картину твоей важной работы."
+  },
+  {
+   "t": 31.2,
+   "da": "Ja, og vi skal kigge på nogle rigtig vigtige danske ord, som du kan bruge på dit job, ikke?",
+   "ru": "Да, и мы разберём несколько очень важных датских слов, которые пригодятся тебе на работе, так?"
+  },
+  {
+   "t": 34.8,
+   "da": "Præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 35.8,
+   "da": "Vi har otte bestemte ord i dag.",
+   "ru": "Сегодня у нас восемь определённых слов."
+  },
+  {
+   "t": 38.9,
+   "da": "Og vi kan jo starte med et meget vigtigt ord. Ordet et område.",
+   "ru": "И начнём, пожалуй, с очень важного слова. Слово *et område*."
+  },
+  {
+   "t": 43.5,
+   "da": "Ja, et område. Det er et sted.",
+   "ru": "Да, *et område*. Это место."
+  },
+  {
+   "t": 46.7,
+   "da": "Altså en bestemt del af byen.",
+   "ru": "То есть определённая часть города."
+  },
+  {
+   "t": 48.4,
+   "da": "Det kan fx være bydelen Valby, hvor Anton bor.",
+   "ru": "Например, это может быть район Вальбю, где живёт Антон."
+  },
+  {
+   "t": 51.5,
+   "da": "Lige præcis. Det er det sted, hvor du kører din bil. Dit område.",
+   "ru": "Именно. Это место, где ты ездишь на своей машине. Твой участок."
+  },
+  {
+   "t": 55.3,
+   "da": "Og hvordan udtaler man det bedst?",
+   "ru": "А как его лучше всего произносить?"
+  },
+  {
+   "t": 60.1,
+   "da": "Jamen på dansk lægger man trykket helt fremme. Man siger 'område'.",
+   "ru": "Ну, по-датски ударение ставится в самом начале. Говорят: «ÓМРОДЕ»."
+  },
+  {
+   "t": 63.9,
+   "da": "'Område.' 'Område.'",
+   "ru": "«Område». «Område»."
+  },
+  {
+   "t": 66.3,
+   "da": "Rigtigt.",
+   "ru": "Верно."
+  },
+  {
+   "t": 67.0,
+   "da": "Det er en lille detalje, men det hjælper meget i radioen, ikke?",
+   "ru": "Это мелочь, но по рации она очень помогает, правда?"
+  },
+  {
+   "t": 69.6,
+   "da": "Jo, helt sikkert.",
+   "ru": "Да, безусловно."
+  },
+  {
+   "t": 70.7,
+   "da": "Hvis du siger det tydeligt, så forstår kontoret, hvad du mener, når du ringer om problemer i dit område.",
+   "ru": "Если ты произносишь его чётко, то в офисе понимают, что ты имеешь в виду, когда звонишь насчёт проблем на своём участке."
+  },
+  {
+   "t": 75.2,
+   "da": "Og uden chaufføren i et område, så dør byen jo.",
+   "ru": "А без водителя на участке город ведь просто умрёт."
+  },
+  {
+   "t": 79.6,
+   "da": "Jeg plejer at sige, at du er byens blodårer.",
+   "ru": "Я обычно говорю, что ты — кровеносные сосуды города."
+  },
+  {
+   "t": 82.9,
+   "da": "Uden dig, så stopper Københavns hjerte simpelthen med at slå.",
+   "ru": "Без тебя сердце Копенгагена просто перестанет биться."
+  },
+  {
+   "t": 86.0,
+   "da": "Det er en meget flot måde at sige det på.",
+   "ru": "Очень красиво сказано."
+  },
+  {
+   "t": 87.8,
+   "da": "Og sandt.",
+   "ru": "И верно."
+  },
+  {
+   "t": 89.4,
+   "da": "Men lad os kigge på det første store ord fra Antons dag. Ordet at sortere.",
+   "ru": "Но давай посмотрим на первое большое слово из дня Антона. Слово *at sortere*."
+  },
+  {
+   "t": 93.7,
+   "da": "Ja. At sortere.",
+   "ru": "Да. *At sortere*."
+  },
+  {
+   "t": 94.9,
+   "da": "Det betyder jo at dele ting op.",
+   "ru": "Оно означает разделять вещи на группы."
+  },
+  {
+   "t": 98.4,
+   "da": "Altså ligesom når man vasker tøj.",
+   "ru": "То есть как при стирке белья."
+  },
+  {
+   "t": 99.9,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 100.9,
+   "da": "Du lægger mørktøj i én bunke og lystøj i en anden bunke. Det er at sortere.",
+   "ru": "Ты кладёшь тёмные вещи в одну кучу, а светлые — в другую. Это и есть *at sortere* — сортировать."
+  },
+  {
+   "t": 105.8,
+   "da": "Og reglen her i Danmark er, at alle borgere og alle store firmaer skal sortere deres affald.",
+   "ru": "А правило здесь, в Дании, такое: все жители и все крупные фирмы обязаны сортировать свои отходы."
+  },
+  {
+   "t": 111.1,
+   "da": "Men her vil jeg gerne lege djævelens advokat.",
+   "ru": "Но тут я хочу побыть адвокатом дьявола."
+  },
+  {
+   "t": 113.8,
+   "da": "For hvorfor i alverden skal vi sortere så meget?",
+   "ru": "Ну зачем, скажи на милость, нам столько сортировать?"
+  },
+  {
+   "t": 116.5,
+   "da": "Ja, men det... Altså det hele skal jo bare ned i den samme store bil til sidst.",
+   "ru": "Да, но это... В конце концов всё равно всё отправляется в одну и ту же большую машину."
+  },
+  {
+   "t": 119.1,
+   "da": "Hvorfor har vi så mange forskellige spande?",
+   "ru": "Зачем нам столько разных вёдер?"
+  },
+  {
+   "t": 120.3,
+   "da": "Gør det overhovedet en forskel, eller er det bare for at irritere folk?",
+   "ru": "Это вообще что-то меняет, или это просто чтобы позлить людей?"
+  },
+  {
+   "t": 123.3,
+   "da": "Det gør en kæmpe forskel.",
+   "ru": "Это огромная разница."
+  },
+  {
+   "t": 124.9,
+   "da": "Og her skal vi bruge vores næste ord, som er en fraktion.",
+   "ru": "И тут нам понадобится следующее слово — *en fraktion*."
+  },
+  {
+   "t": 128.0,
+   "da": "En fraktion?",
+   "ru": "*En fraktion*?"
+  },
+  {
+   "t": 128.9,
+   "da": "Ja, en fraktion. Det er et fagord, som betyder en slags affald.",
+   "ru": "Да, *en fraktion*. Это профессиональный термин, означающий вид отходов."
+  },
+  {
+   "t": 132.6,
+   "da": "For eksempel er madaffald en fraktion, pap er en anden fraktion, glas er en tredje fraktion.",
+   "ru": "Например, пищевые отходы — одна фракция, картон — другая, стекло — третья."
+  },
+  {
+   "t": 138.8,
+   "da": "Ah, på den måde.",
+   "ru": "А, вот оно что."
+  },
+  {
+   "t": 140.1,
+   "da": "Så hver type skrald er en fraktion?",
+   "ru": "Значит, каждый вид мусора — это фракция?"
+  },
+  {
+   "t": 142.5,
+   "da": "Nemlig, hver fraktion har sin egen spand.",
+   "ru": "Точно, у каждой фракции своё ведро (бак)."
+  },
+  {
+   "t": 145.3,
+   "da": "Og det fører os til ordet en beholder.",
+   "ru": "И это подводит нас к слову *en beholder*."
+  },
+  {
+   "t": 147.7,
+   "da": "En beholder er den spand eller container, som fraktionen ligger i.",
+   "ru": "*En beholder* — это ведро или контейнер, в котором лежит фракция."
+  },
+  {
+   "t": 151.5,
+   "da": "Jeg har hørt folk sige, at jeg vil gerne beholde min jakke på.",
+   "ru": "Я слышал, как люди говорят: «я хочу остаться в куртке» (*beholde min jakke på*)."
+  },
+  {
+   "t": 154.9,
+   "da": "Det er da det samme ord.",
+   "ru": "Это же то же самое слово."
+  },
+  {
+   "t": 156.1,
+   "da": "Ja, det er lidt sjovt på dansk.",
+   "ru": "Да, в датском это немного забавно."
+  },
+  {
+   "t": 158.2,
+   "da": "Du kan sige udsagnsordet at beholde. At beholde noget selv.",
+   "ru": "Можно сказать глагол *at beholde* — оставить что-то себе, сохранить."
+  },
+  {
+   "t": 161.5,
+   "da": "Men her taler vi om et navneord. En beholder.",
+   "ru": "Но здесь мы говорим о существительном. *En beholder*."
+  },
+  {
+   "t": 164.7,
+   "da": "Altså kassen til skraldet.",
+   "ru": "То есть ящик для мусора."
+  },
+  {
+   "t": 166.5,
+   "da": "Giver god mening.",
+   "ru": "Вполне логично."
+  },
+  {
+   "t": 167.6,
+   "da": "Så glasfraktionen skal i glasbeholderen?",
+   "ru": "Значит, стеклянная фракция идёт в контейнер для стекла?"
+  },
+  {
+   "t": 170.3,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 171.3,
+   "da": "Og grunden til, at vi skal sortere i hver sin beholder, det er jo for at genbruge materialerne.",
+   "ru": "А сортировать каждую фракцию в свой контейнер нужно для того, чтобы перерабатывать материалы."
+  },
+  {
+   "t": 175.9,
+   "da": "Glas bliver smeltet og bliver til nyt glas.",
+   "ru": "Стекло переплавляют, и из него получается новое стекло."
+  },
+  {
+   "t": 178.0,
+   "da": "Pap bliver til nyt pap.",
+   "ru": "Из картона получается новый картон."
+  },
+  {
+   "t": 179.0,
+   "da": "Og hvis vi blander det?",
+   "ru": "А если мы это смешаем?"
+  },
+  {
+   "t": 180.9,
+   "da": "Hvis du blander fraktionerne, så bliver materialerne ødelagt.",
+   "ru": "Если смешать фракции, материалы будут испорчены."
+  },
+  {
+   "t": 183.7,
+   "da": "Så må vi brænde det hele i stedet for at genbruge det.",
+   "ru": "Тогда придётся всё сжечь вместо того, чтобы переработать."
+  },
+  {
+   "t": 185.9,
+   "da": "Og det er skidt for naturen.",
+   "ru": "А это плохо для природы."
+  },
+  {
+   "t": 187.3,
+   "da": "Nå, så er systemet der for at beskytte miljøet.",
+   "ru": "А, значит, система существует, чтобы защищать окружающую среду."
+  },
+  {
+   "t": 190.8,
+   "da": "Det forstår jeg.",
+   "ru": "Это я понимаю."
+  },
+  {
+   "t": 191.5,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 192.1,
+   "da": "Og det er her, Antons virkelighed ude på gaden starter.",
+   "ru": "И вот здесь начинается реальность Антона на улице."
+  },
+  {
+   "t": 195.3,
+   "da": "For han møder tidligt ind om morgenen i et område vest for København.",
+   "ru": "Он рано утром выходит на работу на участке к западу от Копенгагена."
+  },
+  {
+   "t": 199.1,
+   "da": "I de der rækkehuse, ikke?",
+   "ru": "В тех самых таунхаусах, да?"
+  },
+  {
+   "t": 200.4,
+   "da": "Jo.",
+   "ru": "Да."
+  },
+  {
+   "t": 201.3,
+   "da": "Og hvert hus har to eller måske tre beholdere stående.",
+   "ru": "И у каждого дома стоят два или, может, три контейнера."
+  },
+  {
+   "t": 205.0,
+   "da": "Antons store opgave er nu at tømme dem en efter en.",
+   "ru": "Главная задача Антона — опорожнить их один за другим."
+  },
+  {
+   "t": 209.0,
+   "da": "At tømme, det er et rigtig godt udsagnsord.",
+   "ru": "*At tømme* — очень хороший глагол."
+  },
+  {
+   "t": 212.5,
+   "da": "Ja, at tømme betyder at gøre noget tomt.",
+   "ru": "Да, *at tømme* значит сделать что-то пустым."
+  },
+  {
+   "t": 215.0,
+   "da": "Du kan tømme et glas vand ved at drikke det hele.",
+   "ru": "Можно опустошить стакан воды, выпив его до дна."
+  },
+  {
+   "t": 218.0,
+   "da": "Eller du kan tømme en beholder ved at hælde skraldet ned i bilen.",
+   "ru": "Или можно опорожнить контейнер, высыпав мусор в машину."
+  },
+  {
+   "t": 221.6,
+   "da": "Hvordan bøjer vi det ord?",
+   "ru": "А как это слово спрягается?"
+  },
+  {
+   "t": 223.5,
+   "da": "Det er meget nemt.",
+   "ru": "Очень просто."
+  },
+  {
+   "t": 224.4,
+   "da": "Jeg tømmer i dag, jeg tømte i går, og jeg har tømt bilen.",
+   "ru": "*Jeg tømmer* сегодня, *jeg tømte* вчера и *jeg har tømt* машину."
+  },
+  {
+   "t": 229.0,
+   "da": "Men ude på arbejdspladsen, der hører man også tit en passiv form: tømmes (?).",
+   "ru": "Но на работе часто слышишь и пассивную форму — *tømmes*."
+  },
+  {
+   "t": 232.8,
+   "da": "Jo, meget tit.",
+   "ru": "Да, очень часто."
+  },
+  {
+   "t": 234.1,
+   "da": "Man siger, at beholderen tømmes i morgen.",
+   "ru": "Говорят: *beholderen tømmes i morgen* — контейнер опорожнят завтра."
+  },
+  {
+   "t": 236.5,
+   "da": "Det er meget almindeligt at bruge om faste opgaver.",
+   "ru": "Так очень часто говорят о регулярных задачах."
+  },
+  {
+   "t": 239.4,
+   "da": "Rigtig godt.",
+   "ru": "Отлично."
+  },
+  {
+   "t": 240.4,
+   "da": "Men når Anton skal tømme de her beholdere, så går det jo stærkt, når folk har gjort det rigtigt.",
+   "ru": "Когда Антону нужно опорожнять эти контейнеры, дело идёт быстро — если люди всё сделали правильно."
+  },
+  {
+   "t": 245.1,
+   "da": "Men hvad sker der, når der er problemer?",
+   "ru": "Но что происходит, когда есть проблемы?"
+  },
+  {
+   "t": 247.1,
+   "da": "Så opstår der det, vi på dansk kalder rod.",
+   "ru": "Тогда возникает то, что по-датски мы называем *rod*."
+  },
+  {
+   "t": 250.2,
+   "da": "Rod. Med det der bløde d til sidst.",
+   "ru": "*Rod*. С тем самым мягким d на конце."
+  },
+  {
+   "t": 252.6,
+   "da": "Ja. R-O-D. Rod.",
+   "ru": "Да. R-O-D. *Rod*."
+  },
+  {
+   "t": 255.1,
+   "da": "Du må endelig ikke sige 'rot', for så tror folk, at du taler om dyret en rotte.",
+   "ru": "Только ни в коем случае не говори «rot», а то люди подумают, что ты говоришь о животном — крысе (*en rotte*)."
+  },
+  {
+   "t": 259.6,
+   "da": "Rod betyder, at ting ligger de forkerte steder, og der er uorden.",
+   "ru": "*Rod* значит, что вещи лежат не на своих местах, — беспорядок."
+  },
+  {
+   "t": 264.6,
+   "da": "Og vi har faktisk et eksempel fra teksten.",
+   "ru": "И у нас как раз есть пример из текста."
+  },
+  {
+   "t": 266.6,
+   "da": "Anton åbner låget til en beholder.",
+   "ru": "Антон открывает крышку контейнера."
+  },
+  {
+   "t": 268.7,
+   "da": "Det er den beholder, som kun er til pap.",
+   "ru": "Это контейнер только для картона."
+  },
+  {
+   "t": 270.9,
+   "da": "Men der er rod. Den er fyldt med plastposer.",
+   "ru": "Но в нём бардак. Он забит пластиковыми пакетами."
+  },
+  {
+   "t": 273.5,
+   "da": "Lige præcis. Okay.",
+   "ru": "Именно. Так."
+  },
+  {
+   "t": 274.8,
+   "da": "Det er den helt forkerte fraktion nede i papbeholderen.",
+   "ru": "В контейнере для картона совершенно не та фракция."
+  },
+  {
+   "t": 278.4,
+   "da": "Så hvad gør Anton der?",
+   "ru": "И что же Антон делает?"
+  },
+  {
+   "t": 280.0,
+   "da": "Tager han bare og tømmer det hele ned i bilen?",
+   "ru": "Просто берёт и вываливает всё в машину?"
+  },
+  {
+   "t": 281.7,
+   "da": "Nej, det må han simpelthen ikke. Han må ikke tømme den.",
+   "ru": "Нет, этого ему просто нельзя. Ему нельзя его опорожнять."
+  },
+  {
+   "t": 284.8,
+   "da": "Hvorfor ikke?",
+   "ru": "Почему?"
+  },
+  {
+   "t": 285.6,
+   "da": "Fordi hvis han tømmer beholderen med rod ned i bilen, så blander han jo plast ned i alt det gode pap fra de andre huse.",
+   "ru": "Потому что если он высыплет контейнер с мусором не той фракции в машину, он смешает пластик со всем хорошим картоном из других домов."
+  },
+  {
+   "t": 291.3,
+   "da": "Det ødelægger maskinerne på papfabrikken senere.",
+   "ru": "Потом это портит машины на картонной фабрике."
+  },
+  {
+   "t": 293.9,
+   "da": "Det minder mig faktisk om at lave mad.",
+   "ru": "Это мне, кстати, напоминает готовку."
+  },
+  {
+   "t": 295.8,
+   "da": "Hvis du har en stor gryde suppe, og du kommer til at hælde salt i kaffen.",
+   "ru": "Допустим, у тебя большая кастрюля супа, и ты случайно сыплешь соль в кофе."
+  },
+  {
+   "t": 300.1,
+   "da": "Nej, vent. Du putter salt i suppen. Det er fint.",
+   "ru": "Нет, подожди. Ты кладёшь соль в суп. Это нормально."
+  },
+  {
+   "t": 302.9,
+   "da": "Men hvis du taber en kop sand ned i gryden.",
+   "ru": "Но если ты уронишь в кастрюлю чашку песка..."
+  },
+  {
+   "t": 305.5,
+   "da": "Ja, det er en god sammenligning.",
+   "ru": "Да, хорошее сравнение."
+  },
+  {
+   "t": 307.5,
+   "da": "Sandet er et rod.",
+   "ru": "Песок — это и есть *rod*, «чужое»."
+  },
+  {
+   "t": 309.0,
+   "da": "Selvom det kun er lidt, så kan du ikke servere suppen.",
+   "ru": "Даже если его совсем немного, суп уже не подашь."
+  },
+  {
+   "t": 311.3,
+   "da": "Hele portionen er ødelagt, fordi du blandede tingene.",
+   "ru": "Вся порция испорчена, потому что ты смешал вещи."
+  },
+  {
+   "t": 313.6,
+   "da": "Fuldstændig rigtigt.",
+   "ru": "Совершенно верно."
+  },
+  {
+   "t": 314.7,
+   "da": "Derfor lukker Anton beholderen uden at tømme den.",
+   "ru": "Поэтому Антон закрывает контейнер, не опорожняя его."
+  },
+  {
+   "t": 317.2,
+   "da": "Så sætter han et lille klistermærke på: Forkert sortering. Beholderen er ikke tømt.",
+   "ru": "Затем он клеит на него маленькую наклейку: «Неправильная сортировка. Контейнер не опорожнён»."
+  },
+  {
+   "t": 321.9,
+   "da": "Det er klogt.",
+   "ru": "Это разумно."
+  },
+  {
+   "t": 322.8,
+   "da": "Men der er også en anden type rod, han ser, ikke?",
+   "ru": "Но он видит и другой вид беспорядка, да?"
+  },
+  {
+   "t": 325.0,
+   "da": "Jo.",
+   "ru": "Да."
+  },
+  {
+   "t": 325.7,
+   "da": "Nogle gange ligger der skrald spredt ud over jorden, rundt om beholderen.",
+   "ru": "Иногда мусор валяется разбросанным по земле вокруг контейнера."
+  },
+  {
+   "t": 329.3,
+   "da": "Og så kan jeg godt tænke, at Anton bare lige kunne tage det op og smide det ind i bilen.",
+   "ru": "И тут я вполне могу подумать: Антон ведь мог бы просто поднять его и закинуть в машину."
+  },
+  {
+   "t": 333.3,
+   "da": "Hvorfor gør han ikke det? Hvorfor bruger han ikke lige to minutter på at fjerne det?",
+   "ru": "Почему он этого не делает? Почему бы не потратить пару минут, чтобы убрать его?"
+  },
+  {
+   "t": 336.3,
+   "da": "At fjerne. Det er vores næste ord.",
+   "ru": "*At fjerne*. Это наше следующее слово."
+  },
+  {
+   "t": 338.6,
+   "da": "Det betyder at tage noget væk.",
+   "ru": "Оно означает убрать что-то, удалить."
+  },
+  {
+   "t": 340.1,
+   "da": "Og grunden til, at han så ikke bare fjerner det fra jorden, det handler om tid.",
+   "ru": "А причина, по которой он не убирает его с земли, — во времени."
+  },
+  {
+   "t": 344.0,
+   "da": "Ej, hvis han gør det ved hvert hus.",
+   "ru": "Ну да, если он будет делать это у каждого дома..."
+  },
+  {
+   "t": 345.8,
+   "da": "Ja, hvis han skal fjerne rod fra jorden ved alle huse, så tager hans rute dobbelt så lang tid.",
+   "ru": "Да, если он будет убирать мусор с земли у всех домов, его маршрут займёт вдвое больше времени."
+  },
+  {
+   "t": 350.9,
+   "da": "Desuden trækker mad på jorden rotter til.",
+   "ru": "К тому же еда на земле привлекает крыс."
+  },
+  {
+   "t": 353.2,
+   "da": "Det er slet ikke hans ansvar.",
+   "ru": "Это вообще не его ответственность."
+  },
+  {
+   "t": 354.5,
+   "da": "Nå, okay.",
+   "ru": "А, ясно."
+  },
+  {
+   "t": 356.0,
+   "da": "Lige en grammatikting.",
+   "ru": "Небольшой момент по грамматике."
+  },
+  {
+   "t": 357.3,
+   "da": "Jeg har hørt tillægsordet fjern, for eksempel: Han er meget fjern.",
+   "ru": "Я слышал прилагательное *fjern*, например: *han er meget fjern* — он очень отстранённый (далёкий)."
+  },
+  {
+   "t": 360.3,
+   "da": "Ja, hvis en person eller en by er fjern, betyder det langt væk.",
+   "ru": "Да, если человек или город *fjern*, это значит «далёкий»."
+  },
+  {
+   "t": 365.3,
+   "da": "Men her bruger vi det som et udsagnsord. At fjerne skraldet.",
+   "ru": "Но здесь мы используем его как глагол. *At fjerne skraldet* — убрать мусор."
+  },
+  {
+   "t": 369.3,
+   "da": "Så Anton nægter at fjerne det.",
+   "ru": "Значит, Антон отказывается его убирать."
+  },
+  {
+   "t": 371.7,
+   "da": "Hvad gør han så?",
+   "ru": "Что же он тогда делает?"
+  },
+  {
+   "t": 372.7,
+   "da": "Han tager sin telefon.",
+   "ru": "Он берёт телефон."
+  },
+  {
+   "t": 373.9,
+   "da": "Han tager et billede af det her rod.",
+   "ru": "Фотографирует этот беспорядок."
+  },
+  {
+   "t": 375.8,
+   "da": "Han sender det ind til kontoret.",
+   "ru": "Отправляет снимок в офис."
+  },
+  {
+   "t": 377.7,
+   "da": "Og så må kontoret fortælle familien, at de selv skal fjerne deres rod fra jorden.",
+   "ru": "А офис уже сообщает семье, что они сами должны убрать свой мусор с земли."
+  },
+  {
+   "t": 382.6,
+   "da": "Det er en god regel. De må selv fjerne det.",
+   "ru": "Хорошее правило. Пусть сами убирают."
+  },
+  {
+   "t": 384.6,
+   "da": "Og det leder os jo frem til tekstens næste del, som er meget spændende.",
+   "ru": "И это подводит нас к следующей части текста, очень интересной."
+  },
+  {
+   "t": 389.5,
+   "da": "Ja, for nu kigger vi ind i husene. Ind i køkkenerne.",
+   "ru": "Да, потому что теперь мы заглянем в дома. На кухни."
+  },
+  {
+   "t": 392.6,
+   "da": "Præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 393.5,
+   "da": "Vi besøger Antons egen familie i Valby. Hans kone Elena og sønnen Ivan.",
+   "ru": "Мы в гостях у собственной семьи Антона в Вальбю. У его жены Елены и сына Ивана."
+  },
+  {
+   "t": 398.5,
+   "da": "Hvorfor skal vi egentlig tale om folks køkkener?",
+   "ru": "А зачем нам, собственно, говорить о чужих кухнях?"
+  },
+  {
+   "t": 400.8,
+   "da": "Jamen det skal vi, fordi rodet ude på gaden altid starter inde i køkkenet.",
+   "ru": "А затем, что беспорядок на улице всегда начинается на кухне."
+  },
+  {
+   "t": 405.2,
+   "da": "Hvis familien sorterer dårligt derinde, så bliver der rod ude i din beholder.",
+   "ru": "Если семья плохо сортирует дома, в твоём контейнере будет бардак."
+  },
+  {
+   "t": 408.6,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 410.4,
+   "da": "Og i Antons køkken er der meget strenge regler. Særligt for plast og glas.",
+   "ru": "А на кухне у Антона очень строгие правила. Особенно для пластика и стекла."
+  },
+  {
+   "t": 415.6,
+   "da": "Reglen er, at det skal være rent.",
+   "ru": "Правило такое: всё должно быть чистым."
+  },
+  {
+   "t": 417.7,
+   "da": "Rigtigt. Ren, rent, rene.",
+   "ru": "Верно. *Ren, rent, rene*."
+  },
+  {
+   "t": 421.1,
+   "da": "Et rent glas. En ren beholder. Eller rene plastbakker.",
+   "ru": "*Et rent glas* — чистая банка. *En ren beholder* — чистый контейнер. Или *rene plastbakker* — чистые пластиковые лотки."
+  },
+  {
+   "t": 425.7,
+   "da": "Og lille Ivan står ved vasken.",
+   "ru": "А маленький Иван стоит у раковины."
+  },
+  {
+   "t": 427.5,
+   "da": "Han arbejder med et gammelt syltetøjsglas.",
+   "ru": "Он возится со старой банкой из-под варенья."
+  },
+  {
+   "t": 429.6,
+   "da": "Han skyller det, så det bliver rent.",
+   "ru": "Он ополаскивает её, чтобы она стала чистой."
+  },
+  {
+   "t": 431.4,
+   "da": "Han vil nemlig gerne fjerne de sidste madrester.",
+   "ru": "Он ведь хочет убрать последние остатки еды."
+  },
+  {
+   "t": 434.0,
+   "da": "Han fjerner syltetøjet, så glasset er rent.",
+   "ru": "Он убирает варенье, чтобы банка была чистой."
+  },
+  {
+   "t": 436.1,
+   "da": "Men hør her, det lyder jo fuldstændig skørt.",
+   "ru": "Но послушай, это же звучит совершенно безумно."
+  },
+  {
+   "t": 438.8,
+   "da": "Gør du det? Ja.",
+   "ru": "Ты так делаешь? Да."
+  },
+  {
+   "t": 439.9,
+   "da": "Er det virkelig meningen, at vi skal vaske vores skrald?",
+   "ru": "Неужели действительно предполагается, что мы должны мыть свой мусор?"
+  },
+  {
+   "t": 443.2,
+   "da": "Skal det måske i opvaskemaskinen?",
+   "ru": "Может, его ещё в посудомойку класть?"
+  },
+  {
+   "t": 445.2,
+   "da": "Det dér spilder rent drikkevand, at vaske affald? (?)",
+   "ru": "Это же трата чистой питьевой воды — мыть отходы?"
+  },
+  {
+   "t": 447.9,
+   "da": "Det er et rigtig godt spørgsmål.",
+   "ru": "Очень хороший вопрос."
+  },
+  {
+   "t": 449.4,
+   "da": "Og det sjove er, at lille Ivan faktisk spørger sin far om præcis det samme.",
+   "ru": "И забавно, что маленький Иван спрашивает у папы ровно то же самое."
+  },
+  {
+   "t": 453.6,
+   "da": "Hvorfor skal skrald være rent, far?",
+   "ru": "«Папа, почему мусор должен быть чистым?»"
+  },
+  {
+   "t": 455.7,
+   "da": "Og hvad svarer Anton så?",
+   "ru": "И что Антон ему отвечает?"
+  },
+  {
+   "t": 457.2,
+   "da": "For det vil jeg også gerne vide.",
+   "ru": "Потому что я тоже хочу это знать."
+  },
+  {
+   "t": 458.7,
+   "da": "Anton forklarer, at hvis materialerne ikke er rene, så kan de ikke bruges igen.",
+   "ru": "Антон объясняет, что если материалы не чистые, их нельзя использовать снова."
+  },
+  {
+   "t": 463.0,
+   "da": "Snavset plastik kan ikke genbruges.",
+   "ru": "Грязный пластик нельзя переработать."
+  },
+  {
+   "t": 464.3,
+   "da": "Så hvis der sidder et tykt lag leverpostej nede i en plastbakke?",
+   "ru": "То есть если на дне пластикового лотка остался толстый слой печёночного паштета?"
+  },
+  {
+   "t": 468.6,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 469.7,
+   "da": "Hvis plastikken er snavset med mad og fedt, så bliver det ødelagt, når maskinerne på fabrikken varmer det op og smelter det.",
+   "ru": "Если пластик испачкан едой и жиром, он портится, когда машины на заводе нагревают и плавят его."
+  },
+  {
+   "t": 475.8,
+   "da": "Ah, det brænder simpelthen på i maskinen.",
+   "ru": "А, оно просто пригорает в машине."
+  },
+  {
+   "t": 478.7,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 479.4,
+   "da": "Men du behøver ikke bruge meget rent vand på det.",
+   "ru": "Но тратить на это много чистой воды не нужно."
+  },
+  {
+   "t": 481.8,
+   "da": "Det skal ikke i opvaskemaskinen, og det skal ikke vaskes med sæbe.",
+   "ru": "Его не надо класть в посудомойку и не надо мыть с мылом."
+  },
+  {
+   "t": 484.4,
+   "da": "Så det skal ikke være helt skinnende rent?",
+   "ru": "То есть оно не должно быть идеально, до блеска чистым?"
+  },
+  {
+   "t": 486.2,
+   "da": "Nej.",
+   "ru": "Нет."
+  },
+  {
+   "t": 486.4,
+   "da": "Man skal bare fjerne de grove madrester.",
+   "ru": "Нужно просто убрать крупные остатки еды."
+  },
+  {
+   "t": 489.5,
+   "da": "Man kan lige skylle bakken med lidt koldt vand eller bruge et stykke brugt køkkenrulle til at fjerne fedtet.",
+   "ru": "Можно быстро ополоснуть лоток небольшим количеством холодной воды или стереть жир кусочком использованного бумажного полотенца."
+  },
+  {
+   "t": 493.8,
+   "da": "Det er alt.",
+   "ru": "Вот и всё."
+  },
+  {
+   "t": 494.7,
+   "da": "Bare så materialet ikke er snavset.",
+   "ru": "Лишь бы материал не был грязным."
+  },
+  {
+   "t": 496.7,
+   "da": "For snavset skrald bliver kasseret og brændt.",
+   "ru": "Потому что грязный мусор отбраковывают и сжигают."
+  },
+  {
+   "t": 499.5,
+   "da": "Og så har alt dit arbejde ude på gaden jo været helt spildt.",
+   "ru": "И тогда вся твоя работа на улице оказывается совершенно напрасной."
+  },
+  {
+   "t": 502.7,
+   "da": "Præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 503.6,
+   "da": "Antons kone Elena, hun havde også råd (?) inde i huset.",
+   "ru": "У жены Антона, Елены, тоже был совет (правило) для дома."
+  },
+  {
+   "t": 507.0,
+   "da": "Ja, for madaffald begynder jo hurtigt at lugte, ikke?",
+   "ru": "Да, ведь пищевые отходы быстро начинают пахнуть, так?"
+  },
+  {
+   "t": 509.4,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 509.9,
+   "da": "Og derfor har de en vigtig rutine.",
+   "ru": "Поэтому у них есть важный распорядок."
+  },
+  {
+   "t": 513.0,
+   "da": "Hver eneste aften sørger de for at tømme de små spande under vasken.",
+   "ru": "Каждый вечер они обязательно опорожняют маленькие вёдра под раковиной."
+  },
+  {
+   "t": 516.4,
+   "da": "Så de venter simpelthen ikke på, at de bliver fulde?",
+   "ru": "То есть они просто не ждут, пока вёдра наполнятся?"
+  },
+  {
+   "t": 518.3,
+   "da": "Nej. De tømmer dem hver aften.",
+   "ru": "Нет. Они опорожняют их каждый вечер."
+  },
+  {
+   "t": 520.5,
+   "da": "Ivan tager posen med bioaffald, og Anton tager pap og glas.",
+   "ru": "Иван берёт пакет с биоотходами, а Антон — картон и стекло."
+  },
+  {
+   "t": 523.7,
+   "da": "Og de fjerner det fra køkkenet med det samme (?).",
+   "ru": "И они сразу же убирают это из кухни."
+  },
+  {
+   "t": 526.0,
+   "da": "Og det er her, tingene hænger sammen.",
+   "ru": "И вот здесь всё связано."
+  },
+  {
+   "t": 527.9,
+   "da": "Fordi når en familie som Antons gør det helt rent og fjerner deres rod, så forsvinder problemerne for den chauffør, der arbejder på gaden næste dag.",
+   "ru": "Потому что когда семья вроде Антоновой всё отмывает и убирает свой мусор, у водителя, который работает на улице на следующий день, пропадают проблемы."
+  },
+  {
+   "t": 534.6,
+   "da": "Det er årsag og virkning.",
+   "ru": "Это причина и следствие."
+  },
+  {
+   "t": 536.4,
+   "da": "Anton siger det faktisk direkte i teksten.",
+   "ru": "Антон, кстати, прямо говорит об этом в тексте."
+  },
+  {
+   "t": 538.2,
+   "da": "Han har et godt citat.",
+   "ru": "У него есть хорошая цитата."
+  },
+  {
+   "t": 539.0,
+   "da": "Hvad siger han?",
+   "ru": "Что он говорит?"
+  },
+  {
+   "t": 540.1,
+   "da": "Han siger: Min dag er god, når fraktionerne er rene, og der er orden i området.",
+   "ru": "Он говорит: «Мой день хороший, когда фракции чистые и на участке порядок»."
+  },
+  {
+   "t": 545.0,
+   "da": "Når der er orden i området.",
+   "ru": "Когда на участке порядок."
+  },
+  {
+   "t": 546.8,
+   "da": "Det er jo sandt.",
+   "ru": "Это правда."
+  },
+  {
+   "t": 547.6,
+   "da": "Så kan du bare køre bilen op, tømme det lynhurtigt og køre videre.",
+   "ru": "Тогда ты просто подъезжаешь, молниеносно опорожняешь контейнер и едешь дальше."
+  },
+  {
+   "t": 550.6,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 551.3,
+   "da": "Men vi skal også have slutningen af arbejdsdagen med, ikke?",
+   "ru": "Но нам нужно рассказать и про конец рабочего дня, так?"
+  },
+  {
+   "t": 553.5,
+   "da": "Jo.",
+   "ru": "Да."
+  },
+  {
+   "t": 554.6,
+   "da": "Anton er færdig med sin rute ude i sit område.",
+   "ru": "Антон закончил свой маршрут на участке."
+  },
+  {
+   "t": 556.7,
+   "da": "Hvad gør han så?",
+   "ru": "Что он делает дальше?"
+  },
+  {
+   "t": 557.7,
+   "da": "Om eftermiddagen kører han sin store skraldebil til forbrændingsanlægget.",
+   "ru": "Днём он везёт свой большой мусоровоз на мусоросжигательный завод."
+  },
+  {
+   "t": 561.9,
+   "da": "Her skal han tømme bilen en allersidste gang. Alt det, han har samlet ind.",
+   "ru": "Здесь он должен разгрузить машину в самый последний раз. Всё, что он собрал."
+  },
+  {
+   "t": 565.2,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 565.7,
+   "da": "Og her er der forskel.",
+   "ru": "И вот тут есть разница."
+  },
+  {
+   "t": 566.5,
+   "da": "Det rene materiale, altså rent glas og rent pap, det sendes til maskiner, der genbruger det.",
+   "ru": "Чистый материал, то есть чистое стекло и чистый картон, отправляют на машины, которые его перерабатывают."
+  },
+  {
+   "t": 571.7,
+   "da": "Men alt det, der hedder restaffald.",
+   "ru": "А всё, что называется остаточными отходами (*restaffald*)..."
+  },
+  {
+   "t": 573.6,
+   "da": "Altså alt det, vi ikke kan genbruge.",
+   "ru": "То есть всё, что мы не можем переработать."
+  },
+  {
+   "t": 575.4,
+   "da": "Nemlig. Nej. Det bliver brændt.",
+   "ru": "Именно. Нет. Его сжигают."
+  },
+  {
+   "t": 577.1,
+   "da": "Bliver brændt?",
+   "ru": "Сжигают?"
+  },
+  {
+   "t": 578.1,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 578.5,
+   "da": "Jamen hvorfor det?",
+   "ru": "Но почему?"
+  },
+  {
+   "t": 579.3,
+   "da": "Det bliver brændt i store ovne ved meget høje temperaturer.",
+   "ru": "Его сжигают в больших печах при очень высоких температурах."
+  },
+  {
+   "t": 582.5,
+   "da": "Og varmen fra den forbrænding (?) bruger vi faktisk i byen.",
+   "ru": "И тепло от этого сжигания мы на самом деле используем в городе."
+  },
+  {
+   "t": 585.6,
+   "da": "Varmen giver fjernvarme til folks radiatorer, og det giver elektrisk strøm til hele København.",
+   "ru": "Тепло идёт в центральное отопление — в батареи людей — и даёт электричество всему Копенгагену."
+  },
+  {
+   "t": 590.2,
+   "da": "Wow.",
+   "ru": "Ух ты."
+  },
+  {
+   "t": 591.1,
+   "da": "Det er jo et fantastisk lukket system.",
+   "ru": "Это же потрясающая замкнутая система."
+  },
+  {
+   "t": 593.2,
+   "da": "Ja. Alt hænger sammen.",
+   "ru": "Да. Всё взаимосвязано."
+  },
+  {
+   "t": 594.6,
+   "da": "Det er vildt at tænke på.",
+   "ru": "Об этом даже удивительно подумать."
+  },
+  {
+   "t": 596.0,
+   "da": "Så når lille Ivan står derhjemme og fjerner mad fra sin plastbakke for at holde den ren, og når familien tømmer skraldespanden og undgår rod.",
+   "ru": "Значит, когда маленький Иван стоит дома и счищает еду со своего пластикового лотка, чтобы он был чистым, и когда семья опорожняет мусорное ведро и не допускает беспорядка..."
+  },
+  {
+   "t": 604.8,
+   "da": "Så starter de cyklussen.",
+   "ru": "...они запускают весь цикл."
+  },
+  {
+   "t": 606.1,
+   "da": "Præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 607.1,
+   "da": "Så gør de det ikke bare lidt nemmere for chaufføren.",
+   "ru": "Тогда они не просто немного облегчают жизнь водителю."
+  },
+  {
+   "t": 608.7,
+   "da": "De sørger direkte for, at skraldet kan blive til nye materialer.",
+   "ru": "Они напрямую обеспечивают, чтобы мусор мог превратиться в новые материалы."
+  },
+  {
+   "t": 611.9,
+   "da": "Og resterne giver varme og strøm tilbage til byen.",
+   "ru": "А остатки возвращают городу тепло и электричество."
+  },
+  {
+   "t": 614.6,
+   "da": "Du rammer hovedet på sømmet der.",
+   "ru": "Ты попал в самую точку."
+  },
+  {
+   "t": 616.7,
+   "da": "Chaufføren er simpelthen bindeleddet.",
+   "ru": "Водитель — это просто связующее звено."
+  },
+  {
+   "t": 618.9,
+   "da": "Du flytter det vigtige materiale fra folks private hjem til de store fabrikker.",
+   "ru": "Ты перемещаешь ценный материал из частных домов людей на большие заводы."
+  },
+  {
+   "t": 622.9,
+   "da": "Det er fascinerende.",
+   "ru": "Это захватывающе."
+  },
+  {
+   "t": 624.6,
+   "da": "Nå, men før vi runder af, så lover vi jo en kort opsummering af vores otte ord, ikke?",
+   "ru": "Ну что ж, прежде чем закончить, мы обещали краткое повторение наших восьми слов, так?"
+  },
+  {
+   "t": 629.0,
+   "da": "Jo. Lad os tage dem.",
+   "ru": "Да. Давай пройдёмся по ним."
+  },
+  {
+   "t": 630.2,
+   "da": "Otte ord, som du sikkert skal bruge i radioen eller med chefen.",
+   "ru": "Восемь слов, которые тебе наверняка понадобятся по рации или в разговоре с начальником."
+  },
+  {
+   "t": 633.5,
+   "da": "Det første var ordet at sortere.",
+   "ru": "Первым было слово *at sortere*."
+  },
+  {
+   "t": 635.7,
+   "da": "Det betyder, at du deler affaldet op i forskellige grupper.",
+   "ru": "Оно значит, что ты разделяешь отходы на разные группы."
+  },
+  {
+   "t": 639.2,
+   "da": "Ordet fraktion.",
+   "ru": "Слово *fraktion*."
+  },
+  {
+   "t": 640.5,
+   "da": "Det er den bestemte type affald, fx pap eller plastik.",
+   "ru": "Это определённый вид отходов, например картон или пластик."
+  },
+  {
+   "t": 643.7,
+   "da": "Så har vi en beholder.",
+   "ru": "Дальше у нас *en beholder*."
+  },
+  {
+   "t": 645.1,
+   "da": "Det er kassen eller containeren på gaden, hvor fraktionen ligger i.",
+   "ru": "Это ящик или контейнер на улице, в котором лежит фракция."
+  },
+  {
+   "t": 648.6,
+   "da": "Og at tømme.",
+   "ru": "И *at tømme*."
+  },
+  {
+   "t": 650.3,
+   "da": "Handlingen, hvor du gør beholderen helt tom for affald.",
+   "ru": "Действие, когда ты полностью освобождаешь контейнер от отходов."
+  },
+  {
+   "t": 653.1,
+   "da": "Det femte ord er ren eller rene.",
+   "ru": "Пятое слово — *ren* или *rene*."
+  },
+  {
+   "t": 655.6,
+   "da": "Altså at affaldet er uden snavs og tykke lag mad.",
+   "ru": "То есть отходы без грязи и толстых слоёв еды."
+  },
+  {
+   "t": 659.2,
+   "da": "Det sjette er at fjerne.",
+   "ru": "Шестое — *at fjerne*."
+  },
+  {
+   "t": 661.6,
+   "da": "At tage noget væk, fx at fjerne syltetøj fra et glas.",
+   "ru": "Убрать что-то, например убрать варенье из банки."
+  },
+  {
+   "t": 664.9,
+   "da": "Så har vi rod.",
+   "ru": "Дальше у нас *rod*."
+  },
+  {
+   "t": 666.3,
+   "da": "Det er, når ting er placeret i en forkert beholder.",
+   "ru": "Это когда вещи положены не в тот контейнер."
+  },
+  {
+   "t": 668.4,
+   "da": "Eller når affald ligger spredt på jorden.",
+   "ru": "Или когда отходы разбросаны по земле."
+  },
+  {
+   "t": 670.8,
+   "da": "Og endelig et område.",
+   "ru": "И наконец, *et område*."
+  },
+  {
+   "t": 673.2,
+   "da": "Det er det bestemte sted i byen, hvor du kører din rute.",
+   "ru": "Это определённое место в городе, где ты проезжаешь свой маршрут."
+  },
+  {
+   "t": 677.0,
+   "da": "Otte rigtig stærke ord.",
+   "ru": "Восемь очень сильных слов."
+  },
+  {
+   "t": 679.0,
+   "da": "Og med hele det her store system i tankerne, så vil jeg gerne give dig en lille tanke med på vejen til i morgen.",
+   "ru": "И держа в голове всю эту большую систему, я хочу дать тебе небольшую мысль в дорогу на завтра."
+  },
+  {
+   "t": 684.9,
+   "da": "Ja, hvad er det for en tanke?",
+   "ru": "Да, что за мысль?"
+  },
+  {
+   "t": 686.0,
+   "da": "Prøv at tænke over det her.",
+   "ru": "Попробуй подумать вот о чём."
+  },
+  {
+   "t": 687.7,
+   "da": "I morgen tidlig, når du sætter dig ind i din store skraldebil.",
+   "ru": "Завтра рано утром, когда ты сядешь в свой большой мусоровоз."
+  },
+  {
+   "t": 690.1,
+   "da": "Og kører langsomt gennem dit område i København.",
+   "ru": "И будешь медленно ехать по своему участку в Копенгагене."
+  },
+  {
+   "t": 692.8,
+   "da": "Når du stopper ved det første hus. Går ud. Åbner låget.",
+   "ru": "Когда остановишься у первого дома. Выйдешь. Откроешь крышку."
+  },
+  {
+   "t": 696.9,
+   "da": "Og kigger ned i en beholder.",
+   "ru": "И заглянешь в контейнер."
+  },
+  {
+   "t": 698.5,
+   "da": "Så se lige godt efter.",
+   "ru": "Тогда присмотрись хорошенько."
+  },
+  {
+   "t": 700.2,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 701.3,
+   "da": "Du kigger jo ikke bare på noget beskidt skrald.",
+   "ru": "Ты ведь смотришь не просто на какой-то грязный мусор."
+  },
+  {
+   "t": 703.5,
+   "da": "Du kigger direkte på grænsen mellem folks helt private liv inde i deres køkken.",
+   "ru": "Ты смотришь прямо на границу между совершенно частной жизнью людей у них на кухне..."
+  },
+  {
+   "t": 708.5,
+   "da": "Og så hele byens overlevelse og energi.",
+   "ru": "...и выживанием и энергией всего города."
+  },
+  {
+   "t": 711.1,
+   "da": "Det er en flot tanke.",
+   "ru": "Красивая мысль."
+  },
+  {
+   "t": 713.1,
+   "da": "Du står bogstaveligt talt på den fysiske grænse mellem folks vaner og byens fremtid.",
+   "ru": "Ты буквально стоишь на физической границе между привычками людей и будущим города."
+  },
+  {
+   "t": 718.4,
+   "da": "Så næste gang du ser forfærdeligt rod eller helt perfekt orden nede i en beholder.",
+   "ru": "Так что в следующий раз, когда увидишь в контейнере ужасный бардак или идеальный порядок..."
+  },
+  {
+   "t": 723.3,
+   "da": "Hvad fortæller det egentlig om de mennesker, der bor lige præcis i det område?",
+   "ru": "...что это на самом деле говорит о людях, которые живут именно на этом участке?"
+  },
+  {
+   "t": 727.1,
+   "da": "Det er et enormt spændende perspektiv at tage med sig ud på gaden.",
+   "ru": "Это невероятно интересный взгляд, который стоит взять с собой на улицу."
+  },
+  {
+   "t": 729.7,
+   "da": "Så sandt.",
+   "ru": "Чистая правда."
+  },
+  {
+   "t": 730.6,
+   "da": "Vi vil gerne sige tusind tak, fordi du lyttede med på vores samtale i dag.",
+   "ru": "Огромное спасибо, что ты слушал наш сегодняшний разговор."
+  },
+  {
+   "t": 734.8,
+   "da": "Ja, mange tak.",
+   "ru": "Да, большое спасибо."
+  },
+  {
+   "t": 736.5,
+   "da": "Og vigtigst af alt: stor respekt og tak for det hårde og vigtige arbejde, du udfører i regn og blæst på gaderne i København.",
+   "ru": "И самое главное: большое уважение и спасибо за тяжёлую и важную работу, которую ты делаешь в дождь и ветер на улицах Копенгагена."
+  },
+  {
+   "t": 743.4,
+   "da": "Det er dig, der holder byen kørende.",
+   "ru": "Это ты поддерживаешь жизнь города."
+  },
+  {
+   "t": 744.9,
+   "da": "Pas godt på dig selv derude.",
+   "ru": "Береги себя там."
+  },
+  {
+   "t": 746.4,
+   "da": "Tak for i dag, og rigtig god arbejdslyst på ruten i morgen.",
+   "ru": "Спасибо за сегодня, и удачной, приятной работы на маршруте завтра."
+  }
+ ],
+ "glossary": [
+  {
+   "da": "en skefuld",
+   "ru": "полная ложка (мера)",
+   "note": "en lille skefuld leverpostej",
+   "t": 0.2,
+   "status": "-"
+  },
+  {
+   "da": "en leverpostej",
+   "ru": "печёночный паштет",
+   "note": "j на конце: «левер-постай»; ASR: «deropåsteg», «leverposteg»",
+   "t": 0.2,
+   "status": "-"
+  },
+  {
+   "da": "at ødelægge",
+   "ru": "портить, ломать, разрушать",
+   "note": "past: ødelagde; perf./прич.: ødelagt — materialerne bliver ødelagt",
+   "t": 0.2,
+   "status": "-"
+  },
+  {
+   "da": "et område / området",
+   "ru": "участок, район, территория",
+   "note": "ключевое слово; ударение на первый слог: ÓMråde; dit område — твой участок",
+   "t": 38.9,
+   "status": "new"
+  },
+  {
+   "da": "at sortere",
+   "ru": "сортировать",
+   "note": "ключевое слово; sortere affald; сущ. en sortering — forkert sortering",
+   "t": 89.4,
+   "status": "-"
+  },
+  {
+   "da": "affald / affaldet",
+   "ru": "отходы, мусор",
+   "note": "без артикля (неисчисл.); madaffald, bioaffald, restaffald",
+   "t": 105.8,
+   "status": "-"
+  },
+  {
+   "da": "at lege djævelens advokat",
+   "ru": "играть роль адвоката дьявола",
+   "note": "нарочно спорить; ASR: «Joulens»",
+   "t": 111.1,
+   "status": "-"
+  },
+  {
+   "da": "en fraktion / fraktionen",
+   "ru": "фракция, вид отходов",
+   "note": "ключевое слово; мн.: fraktioner; glasfraktionen",
+   "t": 124.9,
+   "status": "-"
+  },
+  {
+   "da": "et fagord",
+   "ru": "профессиональный термин",
+   "note": "fag — профессия, предмет + ord",
+   "t": 128.9,
+   "status": "-"
+  },
+  {
+   "da": "pap / pappet",
+   "ru": "картон",
+   "note": "без артикля; papbeholderen — контейнер для картона",
+   "t": 132.6,
+   "status": "-"
+  },
+  {
+   "da": "en beholder / beholderen",
+   "ru": "контейнер, бак, ёмкость",
+   "note": "ключевое слово; мн.: beholdere; ≠ глагол at beholde — оставить себе",
+   "t": 145.3,
+   "status": "-"
+  },
+  {
+   "da": "at genbruge",
+   "ru": "перерабатывать; использовать повторно",
+   "note": "passiv: genbruges; сущ. genbrug — переработка",
+   "t": 171.3,
+   "status": "-"
+  },
+  {
+   "da": "at blande",
+   "ru": "смешивать",
+   "note": "past: blandede; blande fraktionerne",
+   "t": 179.0,
+   "status": "-"
+  },
+  {
+   "da": "at brænde",
+   "ru": "жечь, сжигать; гореть",
+   "note": "past/прич.: brændte / brændt; det bliver brændt — его сжигают",
+   "t": 183.7,
+   "status": "new"
+  },
+  {
+   "da": "et miljø / miljøet",
+   "ru": "окружающая среда",
+   "note": "beskytte miljøet — защищать природу",
+   "t": 187.3,
+   "status": "-"
+  },
+  {
+   "da": "et rækkehus",
+   "ru": "таунхаус, рядный дом",
+   "note": "мн.: rækkehuse",
+   "t": 199.1,
+   "status": "-"
+  },
+  {
+   "da": "at tømme",
+   "ru": "опорожнять, опустошать (вываливать)",
+   "note": "ключевое слово; tømmer – tømte – har tømt; passiv: tømmes; прил. tom — пустой",
+   "t": 205.0,
+   "status": "-"
+  },
+  {
+   "da": "at hælde",
+   "ru": "лить, высыпать",
+   "note": "hælde skraldet ned i bilen",
+   "t": 218.0,
+   "status": "-"
+  },
+  {
+   "da": "at bøje",
+   "ru": "спрягать/склонять; гнуть",
+   "note": "hvordan bøjer vi det ord?",
+   "t": 221.6,
+   "status": "-"
+  },
+  {
+   "da": "rod / rodet",
+   "ru": "беспорядок, бардак; мусор не той фракции",
+   "note": "ключевое слово; мягкое d: «роð», не «rot» (≈ en rotte — крыса)",
+   "t": 247.1,
+   "status": "new"
+  },
+  {
+   "da": "et låg / låget",
+   "ru": "крышка",
+   "note": "åbne låget — открыть крышку",
+   "t": 266.6,
+   "status": "-"
+  },
+  {
+   "da": "et klistermærke",
+   "ru": "наклейка, стикер",
+   "note": "",
+   "t": 317.2,
+   "status": "-"
+  },
+  {
+   "da": "spredt",
+   "ru": "разбросанный",
+   "note": "от at sprede — разбрасывать; skrald spredt ud over jorden",
+   "t": 325.7,
+   "status": "-"
+  },
+  {
+   "da": "at smide",
+   "ru": "бросать, кидать; выбрасывать",
+   "note": "past: smed; smide det ind i bilen / smide ud",
+   "t": 329.3,
+   "status": "-"
+  },
+  {
+   "da": "at fjerne",
+   "ru": "убирать, удалять",
+   "note": "ключевое слово; прил. fjern — далёкий",
+   "t": 333.3,
+   "status": "new"
+  },
+  {
+   "da": "et ansvar",
+   "ru": "ответственность",
+   "note": "det er ikke hans ansvar",
+   "t": 353.2,
+   "status": "new"
+  },
+  {
+   "da": "at nægte",
+   "ru": "отказываться; отрицать",
+   "note": "Anton nægter at fjerne det",
+   "t": 369.3,
+   "status": "new"
+  },
+  {
+   "da": "ren (rent, rene)",
+   "ru": "чистый",
+   "note": "ключевое слово; en ren beholder, et rent glas, rene plastbakker",
+   "t": 417.7,
+   "status": "new"
+  },
+  {
+   "da": "en plastbakke",
+   "ru": "пластиковый лоток (упаковка)",
+   "note": "мн.: plastbakker",
+   "t": 421.1,
+   "status": "-"
+  },
+  {
+   "da": "syltetøj / syltetøjet",
+   "ru": "варенье, джем",
+   "note": "et syltetøjsglas — банка из-под варенья",
+   "t": 427.5,
+   "status": "-"
+  },
+  {
+   "da": "at skylle",
+   "ru": "ополаскивать, полоскать",
+   "note": "skylle bakken med koldt vand",
+   "t": 429.6,
+   "status": "-"
+  },
+  {
+   "da": "madrester (en madrest)",
+   "ru": "остатки еды",
+   "note": "de grove madrester — крупные остатки",
+   "t": 431.4,
+   "status": "-"
+  },
+  {
+   "da": "en opvaskemaskine",
+   "ru": "посудомоечная машина",
+   "note": "",
+   "t": 443.2,
+   "status": "-"
+  },
+  {
+   "da": "snavset",
+   "ru": "грязный, испачканный",
+   "note": "сущ. snavs — грязь; snavset plastik kan ikke genbruges",
+   "t": 463.0,
+   "status": "-"
+  },
+  {
+   "da": "at kassere",
+   "ru": "браковать, выбраковывать (на выброс)",
+   "note": "bliver kasseret og brændt",
+   "t": 496.7,
+   "status": "-"
+  },
+  {
+   "da": "spildt",
+   "ru": "потраченный зря, напрасный",
+   "note": "от at spilde — тратить впустую, проливать",
+   "t": 499.5,
+   "status": "-"
+  },
+  {
+   "da": "at lugte",
+   "ru": "пахнуть; нюхать",
+   "note": "madaffald begynder hurtigt at lugte",
+   "t": 507.0,
+   "status": "new"
+  },
+  {
+   "da": "et forbrændingsanlæg",
+   "ru": "мусоросжигательный завод",
+   "note": "for-brænding — сжигание + anlæg — установка",
+   "t": 557.7,
+   "status": "-"
+  },
+  {
+   "da": "restaffald",
+   "ru": "остаточные (несортируемые) отходы",
+   "note": "то, что нельзя переработать — идёт на сжигание",
+   "t": 571.7,
+   "status": "-"
+  },
+  {
+   "da": "fjernvarme",
+   "ru": "центральное (районное) отопление",
+   "note": "fjern — далёкий + varme — тепло",
+   "t": 585.6,
+   "status": "-"
+  },
+  {
+   "da": "strøm / strømmen",
+   "ru": "электричество, ток",
+   "note": "elektrisk strøm",
+   "t": 585.6,
+   "status": "new"
+  },
+  {
+   "da": "at ramme hovedet på sømmet",
+   "ru": "попасть в точку",
+   "note": "дословно «попасть по шляпке гвоздя»",
+   "t": 614.6,
+   "status": "-"
+  },
+  {
+   "da": "et bindeled",
+   "ru": "связующее звено",
+   "note": "ASR: «bindelidet»",
+   "t": 616.7,
+   "status": "-"
+  },
+  {
+   "da": "i regn og blæst",
+   "ru": "в дождь и ветер, в любую погоду",
+   "note": "",
+   "t": 736.5,
+   "status": "-"
+  },
+  {
+   "da": "god arbejdslyst",
+   "ru": "приятной работы! (пожелание)",
+   "note": "arbejdslyst — желание/охота работать; ASR: «arbejdsløst»",
+   "t": 746.4,
+   "status": "-"
+  }
+ ]
+}

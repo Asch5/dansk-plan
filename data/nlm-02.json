@@ -1,0 +1,2355 @@
+{
+ "id": "nlm-02",
+ "title_da": "Vigtige danske ord for lastbilchauffører",
+ "title_ru": "Важные датские слова для водителей грузовиков",
+ "summary_ru": "Утро на депо в Глострупе: Антон приходит к четырём, получает у начальника задание (ordre) — подменить постоянного водителя на маршруте в Брёндбю, — слушает напоминание о правилах (закрывать баки, перерыв после 4,5 часов) и вставляет карту в тахограф; в начале смены он не находит контейнер и звонит начальнику, что в датской «плоской структуре» совершенно нормально. Ведущие разбирают 8 ключевых слов (fører, chef, plan, ordre, regler, tidlig, starten, begyndelsen), их произношение (немое d в tidlig, мягкое g в regler), разницу tidlig/tidligt и обратный порядок слов, а в конце повторяют все слова.",
+ "lines": [
+  {
+   "t": 0.0,
+   "da": "Kender du det? Altså den der helt specielle følelse, når du sidder i din lastbil midt om natten?",
+   "ru": "Знакомо тебе это? То самое совершенно особенное чувство, когда сидишь в своём грузовике посреди ночи?"
+  },
+  {
+   "t": 4.6,
+   "da": "Åh ja, når alt bare er mørkt.",
+   "ru": "О да, когда вокруг всё просто тёмное."
+  },
+  {
+   "t": 6.9,
+   "da": "Lige præcis. Klokken er måske tre eller fire om morgenen. Du kører gennem København.",
+   "ru": "Именно. Сейчас, может быть, три или четыре часа утра. Ты едешь через Копенгаген."
+  },
+  {
+   "t": 12.3,
+   "da": "Og gaderne er jo helt tomme, ikke?",
+   "ru": "И улицы ведь совсем пустые, правда?"
+  },
+  {
+   "t": 14.0,
+   "da": "Jo, helt tomme. Der er ingen biler. Ingen mennesker på gaden.",
+   "ru": "Да, совсем пустые. Ни машин. Ни людей на улице."
+  },
+  {
+   "t": 18.2,
+   "da": "Der er kun dig, din store lastbil og så den der dybe lyd fra motoren.",
+   "ru": "Есть только ты, твой большой грузовик и этот низкий гул мотора."
+  },
+  {
+   "t": 23.0,
+   "da": "Det er en meget rolig tid på dagen.",
+   "ru": "Это очень спокойное время суток."
+  },
+  {
+   "t": 25.8,
+   "da": "Nemlig. Måske har du lidt kaffe i din kop. Du kigger ud på byen, der stadig sover.",
+   "ru": "Точно. Может быть, у тебя в чашке немного кофе. Ты смотришь на город, который ещё спит."
+  },
+  {
+   "t": 31.1,
+   "da": "Velkommen til vores samtale i dag. Vi taler direkte til dig, som lytter med ude i lastbilen.",
+   "ru": "Добро пожаловать на наш сегодняшний разговор. Мы обращаемся прямо к тебе — к тому, кто слушает нас там, в грузовике."
+  },
+  {
+   "t": 36.0,
+   "da": "Ja, velkommen til.",
+   "ru": "Да, добро пожаловать."
+  },
+  {
+   "t": 37.6,
+   "da": "Dig, som arbejder som lastbilchauffør her i København. Du er en professionel.",
+   "ru": "К тебе, кто работает водителем грузовика здесь, в Копенгагене. Ты профессионал."
+  },
+  {
+   "t": 41.7,
+   "da": "Du har måske russisk som dit modersmål. Men lige nu er du i gang med at lære det danske sprog.",
+   "ru": "Возможно, твой родной язык — русский. Но сейчас ты учишь датский язык."
+  },
+  {
+   "t": 46.5,
+   "da": "Og det er jo lige præcis vores mission med vores gennemgang i dag.",
+   "ru": "И именно в этом наша задача в сегодняшнем разборе."
+  },
+  {
+   "t": 49.4,
+   "da": "Ja, vi vil gerne hjælpe dig.",
+   "ru": "Да, мы хотим тебе помочь."
+  },
+  {
+   "t": 50.5,
+   "da": "Nemlig. Vi vil hjælpe dig med at forstå nogle af de rigtig vigtige danske ord, som du møder på dit arbejde.",
+   "ru": "Именно. Мы хотим помочь тебе понять несколько по-настоящему важных датских слов, которые встречаются тебе на работе."
+  },
+  {
+   "t": 56.1,
+   "da": "Ord, der kan være lidt svære, ikke?",
+   "ru": "Слов, которые могут быть немного трудными, верно?"
+  },
+  {
+   "t": 57.9,
+   "da": "Jo, de skaber ofte lidt forvirring.",
+   "ru": "Да, они часто вызывают некоторую путаницу."
+  },
+  {
+   "t": 59.5,
+   "da": "Vi har otte bestemte ord i dag.",
+   "ru": "Сегодня у нас восемь определённых слов."
+  },
+  {
+   "t": 61.6,
+   "da": "Det er ord om tid og ord om din leder og ord om de ting, du skal gøre på jobbet.",
+   "ru": "Это слова о времени, слова о твоём руководителе и слова о том, что ты должен делать на работе."
+  },
+  {
+   "t": 67.9,
+   "da": "Og for at gøre det hele meget enkelt og nemt, så skal vi i dag høre en historie.",
+   "ru": "А чтобы всё было очень просто и легко, сегодня мы послушаем историю."
+  },
+  {
+   "t": 72.5,
+   "da": "Ja, en historie om en dansk chauffør.",
+   "ru": "Да, историю о датском водителе."
+  },
+  {
+   "t": 75.0,
+   "da": "Han hedder Anton.",
+   "ru": "Его зовут Антон."
+  },
+  {
+   "t": 76.4,
+   "da": "Og Anton kører skraldebil.",
+   "ru": "И Антон водит мусоровоз."
+  },
+  {
+   "t": 78.0,
+   "da": "Altså, han kører en stor lastbil, der henter affald.",
+   "ru": "То есть он водит большой грузовик, который собирает мусор."
+  },
+  {
+   "t": 80.5,
+   "da": "Rigtigt. Og han kører ud i Brøndby og Glostrup. Det er lidt uden for København.",
+   "ru": "Верно. И он ездит в Брёндбю и Глоструп. Это немного за пределами Копенгагена."
+  },
+  {
+   "t": 85.0,
+   "da": "Og Antons dag ligner helt sikkert din arbejdsdag på rigtig mange måder.",
+   "ru": "И день Антона наверняка во многом похож на твой рабочий день."
+  },
+  {
+   "t": 88.7,
+   "da": "Så skal vi ikke bare hoppe ind i historien?",
+   "ru": "Ну что, может, сразу прыгнем в историю?"
+  },
+  {
+   "t": 90.5,
+   "da": "Jo, lad os gøre det.",
+   "ru": "Да, давай."
+  },
+  {
+   "t": 92.0,
+   "da": "Vi begynder historien midt om natten.",
+   "ru": "Начинаем историю посреди ночи."
+  },
+  {
+   "t": 94.4,
+   "da": "Midt om natten, ja.",
+   "ru": "Посреди ночи, да."
+  },
+  {
+   "t": 95.4,
+   "da": "Antons vækkeur ringer. Klokken er kun tre.",
+   "ru": "У Антона звонит будильник. Всего три часа."
+  },
+  {
+   "t": 98.6,
+   "da": "Han bor i Valby, og han står op i mørket.",
+   "ru": "Он живёт в Вальбю и встаёт в темноте."
+  },
+  {
+   "t": 100.5,
+   "da": "Puh, klokken tre.",
+   "ru": "Уф, три часа."
+  },
+  {
+   "t": 102.5,
+   "da": "Mens familien stadig sover tungt, tænker jeg.",
+   "ru": "Пока семья ещё крепко спит, я полагаю."
+  },
+  {
+   "t": 104.5,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 105.0,
+   "da": "Han går ud i køkkenet, drikker en stærk kop kaffe, og så kører han afsted til depotet i Glostrup.",
+   "ru": "Он идёт на кухню, выпивает чашку крепкого кофе и едет на депо в Глоструп."
+  },
+  {
+   "t": 110.7,
+   "da": "Det er der, alle lastbilerne holder.",
+   "ru": "Там стоят все грузовики."
+  },
+  {
+   "t": 112.7,
+   "da": "Okay, så han møder ind på depotet.",
+   "ru": "Хорошо, значит, он приходит на смену на депо."
+  },
+  {
+   "t": 114.5,
+   "da": "Hvornår begynder hans arbejde så?",
+   "ru": "А когда тогда начинается его работа?"
+  },
+  {
+   "t": 115.9,
+   "da": "Det begynder formelt klokken fire.",
+   "ru": "Официально она начинается в четыре."
+  },
+  {
+   "t": 118.3,
+   "da": "Så det er en meget tidlig morgen for Anton.",
+   "ru": "Так что для Антона это очень раннее утро."
+  },
+  {
+   "t": 120.4,
+   "da": "En meget tidlig morgen, ja.",
+   "ru": "Очень раннее утро, да."
+  },
+  {
+   "t": 122.0,
+   "da": "Klokken tre, det er godt nok tidligt.",
+   "ru": "Три часа — это и правда рано."
+  },
+  {
+   "t": 123.9,
+   "da": "Og hov, der brugte du faktisk allerede et af vores vigtige ord.",
+   "ru": "О, а ты, кстати, уже использовал одно из наших важных слов."
+  },
+  {
+   "t": 127.2,
+   "da": "Gjorde jeg det?",
+   "ru": "Правда?"
+  },
+  {
+   "t": 127.5,
+   "da": "Ja, ordet tidlig.",
+   "ru": "Да, слово *tidlig*."
+  },
+  {
+   "t": 129.8,
+   "da": "Anton har en meget tidlig start på dagen.",
+   "ru": "У Антона очень ранний старт дня."
+  },
+  {
+   "t": 132.3,
+   "da": "Men vi skal lige tale om, hvordan vi siger det ord på dansk.",
+   "ru": "Но давай поговорим о том, как это слово произносится по-датски."
+  },
+  {
+   "t": 135.7,
+   "da": "Åh ja, udtalen.",
+   "ru": "О да, произношение."
+  },
+  {
+   "t": 137.1,
+   "da": "Den er svær.",
+   "ru": "Оно трудное."
+  },
+  {
+   "t": 138.3,
+   "da": "For hvis man ser på papiret, så staves det T-I-D-L-I-G.",
+   "ru": "Потому что на бумаге оно пишется T-I-D-L-I-G."
+  },
+  {
+   "t": 142.8,
+   "da": "Der er et D i midten af ordet.",
+   "ru": "В середине слова есть D."
+  },
+  {
+   "t": 144.6,
+   "da": "Nemlig.",
+   "ru": "Точно."
+  },
+  {
+   "t": 145.4,
+   "da": "Men vi siger jo altså ikke D'et.",
+   "ru": "Но D мы ведь не произносим."
+  },
+  {
+   "t": 147.0,
+   "da": "Nej, vi siger ikke \"tid-lig\".",
+   "ru": "Нет, мы не говорим «тид-лиг» (с D)."
+  },
+  {
+   "t": 148.7,
+   "da": "Nej, det gør vi ikke.",
+   "ru": "Нет, не говорим."
+  },
+  {
+   "t": 150.1,
+   "da": "Det er meget typisk for dansk.",
+   "ru": "Это очень типично для датского."
+  },
+  {
+   "t": 151.2,
+   "da": "Vi har mange bogstaver, som vi skriver, men som vi overhovedet ikke siger højt.",
+   "ru": "У нас много букв, которые мы пишем, но вслух вообще не произносим."
+  },
+  {
+   "t": 154.4,
+   "da": "Det, vi kalder stumme bogstaver.",
+   "ru": "То, что мы называем немыми буквами."
+  },
+  {
+   "t": 156.0,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 156.5,
+   "da": "Du skal sige ordet, som om der slet ikke er noget D.",
+   "ru": "Произноси слово так, будто никакого D там нет."
+  },
+  {
+   "t": 159.3,
+   "da": "Med en lang, blød I-lyd.",
+   "ru": "С долгим, мягким звуком «и»."
+  },
+  {
+   "t": 161.3,
+   "da": "Prøv at sige tidlig.",
+   "ru": "Попробуй сказать *tidlig*."
+  },
+  {
+   "t": 163.7,
+   "da": "Tidlig.",
+   "ru": "*Tidlig*."
+  },
+  {
+   "t": 164.8,
+   "da": "Prøv at sige det højt ude i din lastbil lige nu, mens du lytter.",
+   "ru": "Попробуй сказать это вслух прямо сейчас у себя в грузовике, пока слушаешь."
+  },
+  {
+   "t": 168.1,
+   "da": "En tidlig start.",
+   "ru": "*En tidlig start* — ранний старт."
+  },
+  {
+   "t": 170.2,
+   "da": "Det lyder godt.",
+   "ru": "Звучит хорошо."
+  },
+  {
+   "t": 171.5,
+   "da": "Men man kan også sige tidligt med et T til sidst.",
+   "ru": "Но можно сказать и *tidligt* — с T на конце."
+  },
+  {
+   "t": 175.2,
+   "da": "Ja, for hvornår er det nu, man gør det?",
+   "ru": "Да, а когда так говорят?"
+  },
+  {
+   "t": 176.7,
+   "da": "Det kommer an på sætningen.",
+   "ru": "Это зависит от предложения."
+  },
+  {
+   "t": 178.2,
+   "da": "Hvis du taler om en ting, altså en start, så siger du bare en tidlig start.",
+   "ru": "Если говоришь о предмете, то есть о старте, то говоришь просто *en tidlig start*."
+  },
+  {
+   "t": 183.2,
+   "da": "Okay, så om en ting. (?)",
+   "ru": "Хорошо, значит, когда речь о предмете."
+  },
+  {
+   "t": 184.2,
+   "da": "Ja, men hvis du taler om at gøre noget.",
+   "ru": "Да, а если говоришь о действии..."
+  },
+  {
+   "t": 186.5,
+   "da": "For eksempel, at han står op, så siger du, at han står tidligt op.",
+   "ru": "Например, что он встаёт, — тогда говоришь: *han står tidligt op* (он рано встаёт)."
+  },
+  {
+   "t": 191.0,
+   "da": "Ah, så han har en tidlig start, men han står tidligt op.",
+   "ru": "А, значит, у него *tidlig start*, но он *står tidligt op*."
+  },
+  {
+   "t": 195.0,
+   "da": "Nemlig. Godt.",
+   "ru": "Именно. Хорошо."
+  },
+  {
+   "t": 196.0,
+   "da": "Det er en lille grammatikting. (?)",
+   "ru": "Это маленькая грамматическая деталь."
+  },
+  {
+   "t": 197.1,
+   "da": "Okay, så du nævnte også ordet starten.",
+   "ru": "Хорошо, ты ещё упомянул слово *starten*."
+  },
+  {
+   "t": 198.9,
+   "da": "Altså, i starten af dagen er gaderne jo helt mørke.",
+   "ru": "Ну да, в начале дня улицы ведь совсем тёмные."
+  },
+  {
+   "t": 201.9,
+   "da": "Ja, helt tomme.",
+   "ru": "Да, совсем пустые."
+  },
+  {
+   "t": 202.8,
+   "da": "Og her vil jeg gerne spørge dig om noget.",
+   "ru": "И тут я хочу кое о чём тебя спросить."
+  },
+  {
+   "t": 204.4,
+   "da": "Hvor vigtigt er det at have en god rutine i starten af dagen?",
+   "ru": "Насколько важно иметь хороший распорядок в начале дня?"
+  },
+  {
+   "t": 207.5,
+   "da": "Det er utrolig vigtigt for en chauffør.",
+   "ru": "Для водителя это невероятно важно."
+  },
+  {
+   "t": 210.4,
+   "da": "Jeg tænker på det lidt ligesom at varme lastbilens motor op, før man kører.",
+   "ru": "Я представляю это примерно как прогрев мотора грузовика перед поездкой."
+  },
+  {
+   "t": 214.5,
+   "da": "Man sætter sig jo ikke bare ind og træder speederen helt i bund i starten, vel?",
+   "ru": "Не садишься же ты и не выжимаешь сразу газ в пол, правда?"
+  },
+  {
+   "t": 217.3,
+   "da": "Nej, det gør man bestemt ikke.",
+   "ru": "Нет, так точно не делают."
+  },
+  {
+   "t": 218.7,
+   "da": "Det er faktisk et virkelig godt billede.",
+   "ru": "Это, кстати, очень удачный образ."
+  },
+  {
+   "t": 220.0,
+   "da": "Maskinen skal jo langsomt i gang.",
+   "ru": "Машина ведь должна разогнаться постепенно."
+  },
+  {
+   "t": 221.7,
+   "da": "Ja, og hvis du stresser i starten af din arbejdsdag, hvis du bare løber rundt fra det første minut,",
+   "ru": "Да, и если ты нервничаешь в начале рабочего дня, если просто носишься с первой же минуты,"
+  },
+  {
+   "t": 226.4,
+   "da": "så bliver hele din tur ofte rigtig dårlig.",
+   "ru": "то вся твоя смена часто проходит очень плохо."
+  },
+  {
+   "t": 228.8,
+   "da": "Fordi man glemmer ting?",
+   "ru": "Потому что что-то забываешь?"
+  },
+  {
+   "t": 229.9,
+   "da": "Ja, og fordi du selv er motoren.",
+   "ru": "Да, и потому что мотор — это ты сам."
+  },
+  {
+   "t": 232.0,
+   "da": "Din krop er motoren.",
+   "ru": "Твоё тело — это мотор."
+  },
+  {
+   "t": 233.9,
+   "da": "Hvis du tager en tidlig kop kaffe og har ro på i starten, så får du en god dag.",
+   "ru": "Если ты пораньше выпьешь чашку кофе и в начале не будешь спешить, день пройдёт хорошо."
+  },
+  {
+   "t": 238.6,
+   "da": "Anton er klar til sit arbejde.",
+   "ru": "Антон готов к работе."
+  },
+  {
+   "t": 239.9,
+   "da": "Okay, så Anton er ankommet til depotet i Glostrup.",
+   "ru": "Итак, Антон приехал на депо в Глострупе."
+  },
+  {
+   "t": 243.6,
+   "da": "De store skraldebiler holder i lange rækker under lamperne.",
+   "ru": "Большие мусоровозы стоят длинными рядами под фонарями."
+  },
+  {
+   "t": 247.2,
+   "da": "Og Anton går direkte ind på kontoret.",
+   "ru": "И Антон идёт прямо в контору."
+  },
+  {
+   "t": 249.3,
+   "da": "For når man møder så tidligt, skal man jo vide, hvad man skal lave.",
+   "ru": "Ведь когда приходишь так рано, нужно знать, что делать."
+  },
+  {
+   "t": 253.0,
+   "da": "Man kører ikke bare ud i byen.",
+   "ru": "Нельзя же просто так выехать в город."
+  },
+  {
+   "t": 254.7,
+   "da": "Nej, det dur jo ikke.",
+   "ru": "Нет, так не пойдёт."
+  },
+  {
+   "t": 256.4,
+   "da": "Så på kontoret møder Anton sin leder.",
+   "ru": "И вот в конторе Антон встречает своего руководителя."
+  },
+  {
+   "t": 259.0,
+   "da": "Han møder chefen.",
+   "ru": "Он встречает начальника."
+  },
+  {
+   "t": 260.1,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 261.3,
+   "da": "Og her kommer to nye ord.",
+   "ru": "И тут появляются два новых слова."
+  },
+  {
+   "t": 263.7,
+   "da": "I begyndelsen af sin vagt går Anton altid ind på kontoret.",
+   "ru": "В начале смены Антон всегда заходит в контору."
+  },
+  {
+   "t": 267.3,
+   "da": "Ordet begyndelsen og ordet chefen.",
+   "ru": "Слово *begyndelsen* (начало) и слово *chefen* (начальник)."
+  },
+  {
+   "t": 270.8,
+   "da": "Men stop engang. (?)",
+   "ru": "Подожди-ка."
+  },
+  {
+   "t": 272.2,
+   "da": "Du sagde begyndelsen.",
+   "ru": "Ты сказал *begyndelsen*."
+  },
+  {
+   "t": 274.7,
+   "da": "Ja, i begyndelsen af dagen.",
+   "ru": "Да, в начале дня."
+  },
+  {
+   "t": 276.4,
+   "da": "Men før der talte vi jo hele tiden om ordet starten.",
+   "ru": "Но до этого мы всё время говорили о слове *starten*."
+  },
+  {
+   "t": 280.2,
+   "da": "Betyder i begyndelsen det samme som i starten?",
+   "ru": "*I begyndelsen* значит то же самое, что *i starten*?"
+  },
+  {
+   "t": 283.2,
+   "da": "Ja, det gør det.",
+   "ru": "Да, то же самое."
+  },
+  {
+   "t": 284.6,
+   "da": "Men hvis de to ord betyder fuldstændig det samme, hvorfor har vi så to forskellige ord?",
+   "ru": "Но если эти два слова значат абсолютно одно и то же, зачем нам тогда два разных слова?"
+  },
+  {
+   "t": 287.8,
+   "da": "Det er da virkelig forvirrende, når man skal lære dansk.",
+   "ru": "Это же сильно сбивает с толку, когда учишь датский."
+  },
+  {
+   "t": 289.8,
+   "da": "Ja, det forstår jeg godt.",
+   "ru": "Да, я это хорошо понимаю."
+  },
+  {
+   "t": 291.5,
+   "da": "De er det, vi kalder synonymer.",
+   "ru": "Это то, что мы называем синонимами."
+  },
+  {
+   "t": 293.4,
+   "da": "De betyder stort set det samme, og du kan frit bruge dem begge to.",
+   "ru": "Они значат практически одно и то же, и ты можешь свободно использовать оба."
+  },
+  {
+   "t": 296.9,
+   "da": "Så jeg kan sige både i starten og i begyndelsen.",
+   "ru": "Значит, я могу сказать и *i starten*, и *i begyndelsen*."
+  },
+  {
+   "t": 300.6,
+   "da": "Helt rigtigt.",
+   "ru": "Совершенно верно."
+  },
+  {
+   "t": 302.3,
+   "da": "Forskellen er utrolig lille.",
+   "ru": "Разница невероятно маленькая."
+  },
+  {
+   "t": 304.9,
+   "da": "Starten er jo ofte et meget hurtigt øjeblik.",
+   "ru": "*Starten* — это часто очень быстрый момент."
+  },
+  {
+   "t": 307.2,
+   "da": "Tænk på starten af et løb.",
+   "ru": "Представь себе старт забега."
+  },
+  {
+   "t": 308.5,
+   "da": "Bang, siger pistolen, og løbet er i gang.",
+   "ru": "Бах — стреляет пистолет, и забег начался."
+  },
+  {
+   "t": 311.3,
+   "da": "Ah, okay.",
+   "ru": "А, понятно."
+  },
+  {
+   "t": 312.7,
+   "da": "Mens begyndelsen nogle gange kan føles som lidt mere tid, som en proces.",
+   "ru": "А *begyndelsen* иногда ощущается как более длительный отрезок времени, как процесс."
+  },
+  {
+   "t": 317.2,
+   "da": "For eksempel kan man sige:",
+   "ru": "Например, можно сказать:"
+  },
+  {
+   "t": 318.5,
+   "da": "I begyndelsen af min tid i Danmark var det svært at tale dansk.",
+   "ru": "«В начале моего времени в Дании было трудно говорить по-датски»."
+  },
+  {
+   "t": 321.6,
+   "da": "Det giver rigtig god mening.",
+   "ru": "Это очень логично."
+  },
+  {
+   "t": 323.0,
+   "da": "Så i begyndelsen af dagen går Anton altså ind på kontoret.",
+   "ru": "Итак, в начале дня Антон заходит в контору."
+  },
+  {
+   "t": 327.2,
+   "da": "Og derinde står chefen.",
+   "ru": "А там стоит начальник."
+  },
+  {
+   "t": 328.3,
+   "da": "Nemlig. Chefen er lederen.",
+   "ru": "Точно. Начальник — это руководитель."
+  },
+  {
+   "t": 331.3,
+   "da": "Ham, der bestemmer.",
+   "ru": "Тот, кто принимает решения."
+  },
+  {
+   "t": 332.6,
+   "da": "Og chefen står ved en stor tavle.",
+   "ru": "И начальник стоит у большой доски."
+  },
+  {
+   "t": 334.7,
+   "da": "På tavlen er der papirer og skærme.",
+   "ru": "На доске бумаги и экраны."
+  },
+  {
+   "t": 338.0,
+   "da": "Og det er dagens plan, der hænger der.",
+   "ru": "И там висит план на день."
+  },
+  {
+   "t": 340.0,
+   "da": "Planen er meget vigtig.",
+   "ru": "План очень важен."
+  },
+  {
+   "t": 341.7,
+   "da": "Ja, for planen viser præcis, hvor Anton skal køre hen.",
+   "ru": "Да, потому что план точно показывает, куда Антону ехать."
+  },
+  {
+   "t": 345.2,
+   "da": "Anton siger godmorgen til chefen,",
+   "ru": "Антон говорит начальнику «доброе утро»,"
+  },
+  {
+   "t": 346.7,
+   "da": "og chefen siger, at Anton skal køre en helt ny rute i dag.",
+   "ru": "а начальник говорит, что сегодня Антон поедет по совершенно новому маршруту."
+  },
+  {
+   "t": 350.0,
+   "da": "Ja, han skal nemlig køre i stedet for den faste fører.",
+   "ru": "Да, ведь ему нужно ехать вместо постоянного водителя."
+  },
+  {
+   "t": 352.5,
+   "da": "Ja, den faste fører er taget på ferie.",
+   "ru": "Да, постоянный водитель уехал в отпуск."
+  },
+  {
+   "t": 354.9,
+   "da": "Til Spanien, tror jeg.",
+   "ru": "В Испанию, кажется."
+  },
+  {
+   "t": 355.8,
+   "da": "Men der brugte du ordet fører.",
+   "ru": "А вот тут ты использовал слово *fører*."
+  },
+  {
+   "t": 358.5,
+   "da": "Ja, en fører.",
+   "ru": "Да, *en fører* — водитель."
+  },
+  {
+   "t": 360.1,
+   "da": "Det er et meget vigtigt ord for dig, der lytter i dag.",
+   "ru": "Это очень важное слово для тебя, кто нас сегодня слушает."
+  },
+  {
+   "t": 362.3,
+   "da": "Du er en fører.",
+   "ru": "Ты — *fører*."
+  },
+  {
+   "t": 364.1,
+   "da": "Og ordet kommer fra at føre noget, ikke?",
+   "ru": "И слово происходит от *at føre* — вести что-то, да?"
+  },
+  {
+   "t": 366.9,
+   "da": "Jo, fra udsagnsordet at føre.",
+   "ru": "Да, от глагола *at føre*."
+  },
+  {
+   "t": 369.2,
+   "da": "Det betyder at styre noget stort.",
+   "ru": "Он значит управлять чем-то большим."
+  },
+  {
+   "t": 370.8,
+   "da": "For eksempel at føre en stor lastbil gennem trafikken.",
+   "ru": "Например, вести большой грузовик в потоке машин."
+  },
+  {
+   "t": 374.1,
+   "da": "Men hør her.",
+   "ru": "Но послушай."
+  },
+  {
+   "t": 374.8,
+   "da": "Jeg hører altid danskere sige ordet chauffør.",
+   "ru": "Я всегда слышу, как датчане говорят слово *chauffør*."
+  },
+  {
+   "t": 377.5,
+   "da": "De siger jo ikke fører.",
+   "ru": "Они же не говорят *fører*."
+  },
+  {
+   "t": 378.7,
+   "da": "De siger, han er lastbilchauffør.",
+   "ru": "Говорят: он *lastbilchauffør*."
+  },
+  {
+   "t": 380.9,
+   "da": "Det er rigtigt.",
+   "ru": "Это правда."
+  },
+  {
+   "t": 381.3,
+   "da": "Hvorfor skal vi så lære ordet fører i dag?",
+   "ru": "Зачем же тогда нам сегодня учить слово *fører*?"
+  },
+  {
+   "t": 384.7,
+   "da": "Fordi chauffør er et uformelt ord.",
+   "ru": "Потому что *chauffør* — разговорное, неофициальное слово."
+  },
+  {
+   "t": 387.1,
+   "da": "Det bruger du, når du taler med din nabo.",
+   "ru": "Его используешь, когда разговариваешь с соседом."
+  },
+  {
+   "t": 388.8,
+   "da": "Men i loven, i alle de papirer, du har fra staten, der hedder du en fører.",
+   "ru": "Но в законе, во всех бумагах от государства ты называешься *fører*."
+  },
+  {
+   "t": 393.2,
+   "da": "Nå, så når politiet stopper mig?",
+   "ru": "А, то есть когда меня останавливает полиция?"
+  },
+  {
+   "t": 396.2,
+   "da": "Ja, så kigger de på dine papirer, og der står du som fører.",
+   "ru": "Да, тогда они смотрят твои документы, и там ты записан как *fører*."
+  },
+  {
+   "t": 400.1,
+   "da": "Det hedder jo også et førerbevis, eller et førerkort til maskinen.",
+   "ru": "Ведь и права называются *førerbevis*, а карточка для тахографа — *førerkort*."
+  },
+  {
+   "t": 404.2,
+   "da": "Det er det officielle ord for dit job.",
+   "ru": "Это официальное название твоей профессии."
+  },
+  {
+   "t": 405.8,
+   "da": "Okay, så Anton er officielt en fører.",
+   "ru": "Хорошо, значит, Антон официально — *fører*."
+  },
+  {
+   "t": 409.5,
+   "da": "Men i dag er han afløser, fordi han tager en rute for en anden fører.",
+   "ru": "Но сегодня он сменщик (*afløser*), потому что берёт маршрут за другого водителя."
+  },
+  {
+   "t": 413.9,
+   "da": "Og det kan være svært.",
+   "ru": "А это может быть трудно."
+  },
+  {
+   "t": 415.0,
+   "da": "Det må være rigtig svært.",
+   "ru": "Наверное, очень трудно."
+  },
+  {
+   "t": 416.3,
+   "da": "Han kender ikke gaderne i begyndelsen.",
+   "ru": "Поначалу он не знает улиц."
+  },
+  {
+   "t": 418.7,
+   "da": "Så Anton kigger på chefen og beder om sin ordre.",
+   "ru": "Поэтому Антон смотрит на начальника и просит своё задание."
+  },
+  {
+   "t": 421.7,
+   "da": "Han spørger: Hvad skal jeg lave i dag?",
+   "ru": "Он спрашивает: «Что мне сегодня делать?»"
+  },
+  {
+   "t": 424.4,
+   "da": "Og her har vi ordet ordre.",
+   "ru": "И вот у нас слово *ordre*."
+  },
+  {
+   "t": 426.3,
+   "da": "Ja, en ordre.",
+   "ru": "Да, *en ordre* — распоряжение, приказ."
+  },
+  {
+   "t": 428.2,
+   "da": "En ordre er en vigtig besked fra din chef.",
+   "ru": "*Ordre* — это важное указание от твоего начальника."
+  },
+  {
+   "t": 430.6,
+   "da": "Det er den opgave, du får ud fra den store plan, chefen har lavet.",
+   "ru": "Это задание, которое ты получаешь исходя из большого плана, составленного начальником."
+  },
+  {
+   "t": 434.0,
+   "da": "Chefen giver Anton sin ordre.",
+   "ru": "Начальник даёт Антону его задание."
+  },
+  {
+   "t": 436.5,
+   "da": "Han skal køre til Brøndby.",
+   "ru": "Ему нужно ехать в Брёндбю."
+  },
+  {
+   "t": 437.8,
+   "da": "Han skal hente almindeligt restaffald først, og så skal han hente bioaffald bagefter.",
+   "ru": "Сначала он должен забрать обычные смешанные отходы, а потом — биоотходы."
+  },
+  {
+   "t": 441.6,
+   "da": "Det står i planen.",
+   "ru": "Так написано в плане."
+  },
+  {
+   "t": 442.5,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 443.3,
+   "da": "Men jeg tænker på noget her.",
+   "ru": "Но тут я кое о чём задумываюсь."
+  },
+  {
+   "t": 444.7,
+   "da": "Når man siger ordet ordre, så lyder det meget militært, meget hårdt.",
+   "ru": "Когда говоришь слово *ordre*, оно звучит очень по-военному, очень жёстко."
+  },
+  {
+   "t": 450.1,
+   "da": "Ja, det forstår jeg godt.",
+   "ru": "Да, я понимаю."
+  },
+  {
+   "t": 451.6,
+   "da": "Hvis jeg arbejdede i mange andre lande, og chefen gav mig en ordre, så ville jeg jo nærmest bukke og sige:",
+   "ru": "Если бы я работал во многих других странах и начальник отдал мне приказ, я бы чуть ли не поклонился и сказал:"
+  },
+  {
+   "t": 455.9,
+   "da": "Ja, hr. chef. Er en ordre i Danmark altid så streng?",
+   "ru": "«Есть, господин начальник». Приказ в Дании всегда такой строгий?"
+  },
+  {
+   "t": 460.3,
+   "da": "Det er et rigtig godt spørgsmål om den danske kultur.",
+   "ru": "Это очень хороший вопрос о датской культуре."
+  },
+  {
+   "t": 463.0,
+   "da": "Svaret er faktisk nej.",
+   "ru": "Ответ, вообще-то, — нет."
+  },
+  {
+   "t": 464.6,
+   "da": "Nej? Nej.",
+   "ru": "Нет? — Нет."
+  },
+  {
+   "t": 466.1,
+   "da": "I Danmark har vi nemlig det, vi kalder en flad struktur.",
+   "ru": "Дело в том, что в Дании у нас то, что называют плоской структурой."
+  },
+  {
+   "t": 469.8,
+   "da": "En flad struktur? Ja.",
+   "ru": "Плоской структурой? — Да."
+  },
+  {
+   "t": 471.4,
+   "da": "Hvad betyder det, når man står derinde på depotet?",
+   "ru": "А что это значит, когда стоишь там, на депо?"
+  },
+  {
+   "t": 473.9,
+   "da": "Det betyder, at chefen og føreren er næsten lige.",
+   "ru": "Это значит, что начальник и водитель почти на равных."
+  },
+  {
+   "t": 477.4,
+   "da": "Du siger bare du til din chef.",
+   "ru": "Ты просто говоришь начальнику «ты»."
+  },
+  {
+   "t": 479.6,
+   "da": "Og du drikker kaffe med chefen og griner med ham.",
+   "ru": "И пьёшь с начальником кофе и смеёшься вместе с ним."
+  },
+  {
+   "t": 482.9,
+   "da": "Så en ordre lyder måske slet ikke som en ordre?",
+   "ru": "Так что приказ, может быть, совсем не звучит как приказ?"
+  },
+  {
+   "t": 485.6,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 487.1,
+   "da": "Chefen siger måske bare: Kan du ikke lige tage ruten i Brøndby i dag, Anton?",
+   "ru": "Начальник, может, просто скажет: «Антон, не возьмёшь сегодня маршрут в Брёндбю?»"
+  },
+  {
+   "t": 490.2,
+   "da": "Det lyder jo som et venligt spørgsmål.",
+   "ru": "Звучит ведь как дружеский вопрос."
+  },
+  {
+   "t": 492.9,
+   "da": "Gud ja.",
+   "ru": "Ну да, ещё как."
+  },
+  {
+   "t": 493.8,
+   "da": "Det lyder jo bare som en helt almindelig hyggesnak.",
+   "ru": "Звучит просто как самая обычная болтовня."
+  },
+  {
+   "t": 496.2,
+   "da": "Jamen, her må du ikke tage fejl.",
+   "ru": "Но тут нельзя ошибиться."
+  },
+  {
+   "t": 497.5,
+   "da": "Okay.",
+   "ru": "Хорошо."
+  },
+  {
+   "t": 497.9,
+   "da": "Selvom det lyder hyggeligt, så er det stadig en vigtig ordre og en plan.",
+   "ru": "Хотя это звучит дружелюбно, это всё равно важное распоряжение и план."
+  },
+  {
+   "t": 501.6,
+   "da": "Chefen forventer 100 %, at du gør præcis det, I har aftalt.",
+   "ru": "Начальник на 100 % ожидает, что ты сделаешь ровно то, о чём вы договорились."
+  },
+  {
+   "t": 505.2,
+   "da": "Du skal følge planen.",
+   "ru": "Ты должен следовать плану."
+  },
+  {
+   "t": 507.1,
+   "da": "Okay, det er utrolig vigtigt at vide.",
+   "ru": "Понятно, это невероятно важно знать."
+  },
+  {
+   "t": 509.3,
+   "da": "Den danske venlighed betyder ikke, at man bare kan køre derhen, hvor man selv har lyst.",
+   "ru": "Датская доброжелательность не значит, что можно просто ехать куда захочется."
+  },
+  {
+   "t": 513.0,
+   "da": "Nej, slet ikke.",
+   "ru": "Нет, совсем нет."
+  },
+  {
+   "t": 513.7,
+   "da": "Nå.",
+   "ru": "Ну вот."
+  },
+  {
+   "t": 514.7,
+   "da": "Anton har nu fået sin ordre.",
+   "ru": "Антон получил своё задание."
+  },
+  {
+   "t": 516.2,
+   "da": "Han forstår planen.",
+   "ru": "Он понимает план."
+  },
+  {
+   "t": 517.5,
+   "da": "Men det er jo ikke nok kun at kende planen for at være en god fører.",
+   "ru": "Но чтобы быть хорошим водителем, мало только знать план."
+  },
+  {
+   "t": 520.3,
+   "da": "Nej, der er mere.",
+   "ru": "Нет, есть ещё кое-что."
+  },
+  {
+   "t": 521.4,
+   "da": "Man skal også følge loven.",
+   "ru": "Нужно ещё соблюдать закон."
+  },
+  {
+   "t": 522.8,
+   "da": "Og chefen minder lige Anton om nogle vigtige ting, før han går.",
+   "ru": "И начальник напоминает Антону о нескольких важных вещах, прежде чем тот уйдёт."
+  },
+  {
+   "t": 525.9,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 526.7,
+   "da": "Chefen minder Anton om vores næste ord.",
+   "ru": "Начальник напоминает Антону о нашем следующем слове."
+  },
+  {
+   "t": 528.9,
+   "da": "Og det ord er regler.",
+   "ru": "И это слово — *regler* (правила)."
+  },
+  {
+   "t": 530.7,
+   "da": "Regler, ja.",
+   "ru": "*Regler*, да."
+  },
+  {
+   "t": 532.0,
+   "da": "Regler er de ting, vi skal gøre på arbejdet.",
+   "ru": "Правила — это то, что мы обязаны делать на работе."
+  },
+  {
+   "t": 534.3,
+   "da": "Eller de ting, vi overhovedet ikke må gøre.",
+   "ru": "Или то, что нам категорически нельзя делать."
+  },
+  {
+   "t": 536.4,
+   "da": "En fører møder rigtig mange regler hver dag.",
+   "ru": "Водитель каждый день сталкивается с очень многими правилами."
+  },
+  {
+   "t": 538.7,
+   "da": "Chefen siger f.eks. til Anton, at han skal huske to bestemte regler i dag.",
+   "ru": "Например, начальник говорит Антону, что сегодня он должен помнить два определённых правила."
+  },
+  {
+   "t": 541.9,
+   "da": "Ja, hvad er det for nogen?",
+   "ru": "Да, а какие?"
+  },
+  {
+   "t": 542.8,
+   "da": "Den ene regel er, at alle skraldespandene skal lukkes helt på gaden, når han er færdig.",
+   "ru": "Первое правило: когда он закончит, все мусорные баки на улице должны быть плотно закрыты."
+  },
+  {
+   "t": 547.6,
+   "da": "De må ikke stå åbne.",
+   "ru": "Они не должны стоять открытыми."
+  },
+  {
+   "t": 549.0,
+   "da": "Den anden regel er, at Anton skal holde pause efter 4,5 times kørsel.",
+   "ru": "Второе правило: после 4,5 часов вождения Антон должен сделать перерыв."
+  },
+  {
+   "t": 553.0,
+   "da": "Ja, det hedder hviletid.",
+   "ru": "Да, это называется *hviletid* (время отдыха)."
+  },
+  {
+   "t": 555.0,
+   "da": "Der er rigtig mange regler.",
+   "ru": "Правил очень много."
+  },
+  {
+   "t": 556.4,
+   "da": "Der er regler for sikkerhed og regler for sortering af affald.",
+   "ru": "Есть правила безопасности и правила сортировки отходов."
+  },
+  {
+   "t": 559.5,
+   "da": "Før vi går videre, så ordet regler.",
+   "ru": "Прежде чем идти дальше — о слове *regler*."
+  },
+  {
+   "t": 561.7,
+   "da": "Det kan altså også drille med udtalen.",
+   "ru": "С его произношением тоже можно намучиться."
+  },
+  {
+   "t": 563.3,
+   "da": "Ja, for det staves R-E-G-L-E-R.",
+   "ru": "Да, ведь оно пишется R-E-G-L-E-R."
+  },
+  {
+   "t": 567.3,
+   "da": "Der er et G midt i ordet.",
+   "ru": "В середине слова есть G."
+  },
+  {
+   "t": 569.0,
+   "da": "Men vi siger ikke et hårdt G, vel?",
+   "ru": "Но твёрдое G мы ведь не произносим, верно?"
+  },
+  {
+   "t": 571.3,
+   "da": "Vi siger jo ikke \"reg-ler\".",
+   "ru": "Мы же не говорим «рег-лер» (с твёрдым G)."
+  },
+  {
+   "t": 573.5,
+   "da": "Nej, det er et utroligt blødt G.",
+   "ru": "Нет, это невероятно мягкое G."
+  },
+  {
+   "t": 575.3,
+   "da": "Det lyder næsten som et I eller en J-lyd. (?)",
+   "ru": "Оно звучит почти как «и» или как звук «й»."
+  },
+  {
+   "t": 578.0,
+   "da": "Regler.",
+   "ru": "*Regler*."
+  },
+  {
+   "t": 579.7,
+   "da": "Regler.",
+   "ru": "*Regler*."
+  },
+  {
+   "t": 581.0,
+   "da": "Det lyder meget blødt i munden, selvom reglerne ude i virkeligheden godt kan føles ret hårde at følge.",
+   "ru": "Во рту оно звучит очень мягко, хотя в реальной жизни соблюдать правила бывает довольно тяжело."
+  },
+  {
+   "t": 586.3,
+   "da": "Prøv at sige det ude i kabinen lige nu.",
+   "ru": "Попробуй сказать его прямо сейчас у себя в кабине."
+  },
+  {
+   "t": 588.1,
+   "da": "Regler.",
+   "ru": "*Regler*."
+  },
+  {
+   "t": 588.5,
+   "da": "Det er rigtigt.",
+   "ru": "Правильно."
+  },
+  {
+   "t": 590.2,
+   "da": "Og chefen siger faktisk noget klogt til Anton om det her.",
+   "ru": "И начальник, кстати, говорит Антону об этом кое-что умное."
+  },
+  {
+   "t": 592.8,
+   "da": "Han siger, at regler ikke er til for at gøre dit liv svært.",
+   "ru": "Он говорит, что правила существуют не для того, чтобы усложнять тебе жизнь."
+  },
+  {
+   "t": 595.8,
+   "da": "Regler er der for at passe på dig.",
+   "ru": "Правила нужны, чтобы тебя беречь."
+  },
+  {
+   "t": 597.5,
+   "da": "Det giver mening.",
+   "ru": "Логично."
+  },
+  {
+   "t": 598.8,
+   "da": "Jeg har altid tænkt, at regler i trafikken bare var ligesom skilte, der siger, hvor man må køre.",
+   "ru": "Я всегда думал, что правила движения — это просто как знаки, которые говорят, где можно ехать."
+  },
+  {
+   "t": 604.2,
+   "da": "Men regler om pauser, det er jo mere ligesom fartskriveren i bilen.",
+   "ru": "Но правила о перерывах — это скорее как тахограф в машине."
+  },
+  {
+   "t": 609.1,
+   "da": "Hvordan mener du?",
+   "ru": "Что ты имеешь в виду?"
+  },
+  {
+   "t": 610.5,
+   "da": "Jo, fartskriveren passer jo på maskinen.",
+   "ru": "Ну, тахограф ведь бережёт машину."
+  },
+  {
+   "t": 612.7,
+   "da": "Den sørger for, at motoren ikke brænder sammen.",
+   "ru": "Он следит, чтобы мотор не сгорел."
+  },
+  {
+   "t": 614.3,
+   "da": "Og reglerne passer bare på den menneskelige motor, altså føreren, så du ikke brænder sammen.",
+   "ru": "А правила просто берегут человеческий мотор, то есть водителя, чтобы ты не выгорел."
+  },
+  {
+   "t": 619.8,
+   "da": "Det er en utrolig god sammenligning.",
+   "ru": "Это невероятно удачное сравнение."
+  },
+  {
+   "t": 622.5,
+   "da": "Uden en sund fører kører lastbilen jo ingen steder.",
+   "ru": "Без здорового водителя грузовик ведь никуда не поедет."
+  },
+  {
+   "t": 624.6,
+   "da": "Nej, lige præcis.",
+   "ru": "Нет, именно."
+  },
+  {
+   "t": 625.9,
+   "da": "Men jeg har lige en lille sproglig ting, jeg gerne vil trække ud af teksten her.",
+   "ru": "Но я хочу вытащить из текста одну маленькую языковую штуку."
+  },
+  {
+   "t": 629.5,
+   "da": "Åh nej, er det dansk grammatik nu?",
+   "ru": "О нет, теперь датская грамматика?"
+  },
+  {
+   "t": 631.0,
+   "da": "Du elsker at forklare grammatik.",
+   "ru": "Ты обожаешь объяснять грамматику."
+  },
+  {
+   "t": 633.1,
+   "da": "Ja, det gør jeg.",
+   "ru": "Да, обожаю."
+  },
+  {
+   "t": 634.1,
+   "da": "Der er nemlig en vigtig regel her.",
+   "ru": "Тут есть одно важное правило."
+  },
+  {
+   "t": 636.3,
+   "da": "Vi kalder det omvendt ordstilling.",
+   "ru": "Мы называем это обратным порядком слов."
+  },
+  {
+   "t": 638.6,
+   "da": "Lad mig forklare.",
+   "ru": "Давай объясню."
+  },
+  {
+   "t": 639.7,
+   "da": "Normalt siger man hvem, og så hvad personen gør.",
+   "ru": "Обычно говорят, кто, а потом — что этот человек делает."
+  },
+  {
+   "t": 642.1,
+   "da": "Altså for eksempel: Anton kører lastbil.",
+   "ru": "То есть, например: *Anton kører lastbil* (Антон водит грузовик)."
+  },
+  {
+   "t": 645.6,
+   "da": "Ja, Anton er personen, kører er det, han gør.",
+   "ru": "Да, Антон — это человек, *kører* — то, что он делает."
+  },
+  {
+   "t": 648.6,
+   "da": "Udsagnsordet står bagefter.",
+   "ru": "Глагол стоит после."
+  },
+  {
+   "t": 650.2,
+   "da": "Han holder pause.",
+   "ru": "*Han holder pause* (он делает перерыв)."
+  },
+  {
+   "t": 651.6,
+   "da": "Det er logisk nok.",
+   "ru": "Вполне логично."
+  },
+  {
+   "t": 652.7,
+   "da": "Men hvis du nu starter din sætning med tid, så bytter de to ord plads.",
+   "ru": "Но если начать предложение со времени, эти два слова меняются местами."
+  },
+  {
+   "t": 657.9,
+   "da": "Bytter de plads? Ja.",
+   "ru": "Меняются местами? — Да."
+  },
+  {
+   "t": 659.1,
+   "da": "I historien om Anton kan vi sige, at klokken ni holder han pause.",
+   "ru": "В истории про Антона можно сказать: *klokken ni holder han pause* (в девять он делает перерыв)."
+  },
+  {
+   "t": 663.7,
+   "da": "Du starter med tid, klokken ni, og så kommer udsagnsordet holder direkte bagefter.",
+   "ru": "Начинаешь со времени — *klokken ni*, — и сразу после идёт глагол *holder*."
+  },
+  {
+   "t": 668.5,
+   "da": "Nåå... [ca. 30 sek. utydeligt] (?)",
+   "ru": "А-а, понятно… [около 30 секунд записи не распознаны]"
+  },
+  {
+   "t": 698.5,
+   "da": "Godt. Dagens ordre er klar. Planen er klar. Anton har styr på alle regler.",
+   "ru": "Хорошо. Задание на день ясно. План ясен. Антон знает все правила."
+  },
+  {
+   "t": 704.9,
+   "da": "Så nu skal lastbilen endelig ud og køre.",
+   "ru": "Так что теперь грузовик наконец выезжает."
+  },
+  {
+   "t": 708.4,
+   "da": "Før starten af ruten tjekker Anton lige sine dæk og sit lys.",
+   "ru": "Перед началом маршрута Антон проверяет шины и фары."
+  },
+  {
+   "t": 712.8,
+   "da": "Alt er i orden.",
+   "ru": "Всё в порядке."
+  },
+  {
+   "t": 713.8,
+   "da": "Og inden han starter motoren, gør han det vigtigste af alt.",
+   "ru": "И прежде чем завести мотор, он делает самое важное."
+  },
+  {
+   "t": 717.9,
+   "da": "Han tager sit lille førerkort frem og sætter det ind i fartskriveren.",
+   "ru": "Он достаёт свою маленькую карту водителя и вставляет её в тахограф."
+  },
+  {
+   "t": 722.4,
+   "da": "Fartskriveren, ja. Det er den lille kloge computer i bilen.",
+   "ru": "Тахограф, да. Это маленький умный компьютер в машине."
+  },
+  {
+   "t": 725.9,
+   "da": "Nemlig. Fart betyder jo, hvor hurtigt du kører.",
+   "ru": "Точно. *Fart* значит, с какой скоростью ты едешь."
+  },
+  {
+   "t": 729.0,
+   "da": "Og skriver betyder, at maskinen noterer det hele.",
+   "ru": "А *skriver* значит, что прибор всё записывает."
+  },
+  {
+   "t": 732.5,
+   "da": "Den skriver ned, hvornår føreren kører, og hvornår han holder stille.",
+   "ru": "Он записывает, когда водитель едет и когда стоит."
+  },
+  {
+   "t": 736.7,
+   "da": "Anton sætter kortet ind og kører ud fra depotet.",
+   "ru": "Антон вставляет карту и выезжает с депо."
+  },
+  {
+   "t": 739.6,
+   "da": "Men som vi talte om, han kender jo slet ikke ruten.",
+   "ru": "Но, как мы говорили, он совсем не знает маршрута."
+  },
+  {
+   "t": 742.1,
+   "da": "Så i begyndelsen af turen, der går det faktisk lidt galt.",
+   "ru": "Поэтому в начале смены кое-что действительно идёт не так."
+  },
+  {
+   "t": 744.8,
+   "da": "Åh ja, ude i Brøndby.",
+   "ru": "О да, там, в Брёндбю."
+  },
+  {
+   "t": 746.1,
+   "da": "Ja, det er svært for ham.",
+   "ru": "Да, ему трудно."
+  },
+  {
+   "t": 748.1,
+   "da": "Han kommer til et stort hus i mørket, og han kan simpelthen ikke finde affaldsbeholderen.",
+   "ru": "Он подъезжает к большому дому в темноте и просто не может найти мусорный контейнер."
+  },
+  {
+   "t": 753.0,
+   "da": "Han går rundt med sin lommelygte. Beholderen er bare væk.",
+   "ru": "Он ходит вокруг с фонариком. Контейнера просто нет."
+  },
+  {
+   "t": 755.3,
+   "da": "Det er frustrerende i starten.",
+   "ru": "Поначалу это бесит."
+  },
+  {
+   "t": 757.0,
+   "da": "Ja, og han ved slet ikke, hvad han skal gøre.",
+   "ru": "Да, и он совсем не знает, что делать."
+  },
+  {
+   "t": 759.0,
+   "da": "Så han går ind i lastbilen igen, og så tager han telefonen og ringer direkte til chefen for at få hjælp.",
+   "ru": "Тогда он возвращается в грузовик, берёт телефон и звонит прямо начальнику за помощью."
+  },
+  {
+   "t": 763.9,
+   "da": "Og chefen er jo stadig på kontoret, så han tager telefonen.",
+   "ru": "А начальник ещё в конторе, так что он берёт трубку."
+  },
+  {
+   "t": 767.6,
+   "da": "Chefen kigger i sin plan på computeren og siger:",
+   "ru": "Начальник смотрит в свой план на компьютере и говорит:"
+  },
+  {
+   "t": 770.2,
+   "da": "Anton, den store beholder står helt nede bag i haven.",
+   "ru": "«Антон, большой контейнер стоит в самом конце сада»."
+  },
+  {
+   "t": 773.6,
+   "da": "Det står faktisk også i planen på din skærm i bilen.",
+   "ru": "«Это, кстати, написано и в плане у тебя на экране в машине»."
+  },
+  {
+   "t": 776.5,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 777.3,
+   "da": "Så kigger Anton på skærmen, og han begynder at grine lidt af sig selv.",
+   "ru": "Тогда Антон смотрит на экран и начинает немного смеяться над собой."
+  },
+  {
+   "t": 780.2,
+   "da": "Han siger: Åh ja, nu kan jeg se det, chef. Tak for hjælpen.",
+   "ru": "Он говорит: «А, да, теперь вижу, шеф. Спасибо за помощь»."
+  },
+  {
+   "t": 784.0,
+   "da": "Altså, jeg griner også lidt af ham her.",
+   "ru": "Честно, я тоже над ним тут немного смеюсь."
+  },
+  {
+   "t": 785.7,
+   "da": "Han ringer ind for at få hjælp til noget, der står lige foran næsen på ham i planen.",
+   "ru": "Он звонит за помощью насчёт того, что в плане прямо у него перед носом."
+  },
+  {
+   "t": 789.6,
+   "da": "Ja, han overså det fuldstændig.",
+   "ru": "Да, он это совершенно проглядел."
+  },
+  {
+   "t": 791.7,
+   "da": "Men jeg forstår ham godt.",
+   "ru": "Но я его хорошо понимаю."
+  },
+  {
+   "t": 793.2,
+   "da": "Selv den allermest erfarne fører kan overse noget i starten af dagen.",
+   "ru": "Даже самый опытный водитель может что-то пропустить в начале дня."
+  },
+  {
+   "t": 797.0,
+   "da": "Det er mørkt, man er lidt træt, det er en ny rute.",
+   "ru": "Темно, немного устал, новый маршрут."
+  },
+  {
+   "t": 800.0,
+   "da": "Præcis. Det kan ske for alle.",
+   "ru": "Точно. С каждым может случиться."
+  },
+  {
+   "t": 802.0,
+   "da": "Og her er der en meget vigtig ting for dig, der lytter i lastbilen.",
+   "ru": "И тут есть очень важная вещь для тебя, кто слушает в грузовике."
+  },
+  {
+   "t": 804.4,
+   "da": "Hvad tænker du på?",
+   "ru": "Что ты имеешь в виду?"
+  },
+  {
+   "t": 804.9,
+   "da": "I Danmark, med vores flade struktur, er det helt normalt at bede sin chef om hjælp.",
+   "ru": "В Дании, с нашей плоской структурой, совершенно нормально попросить начальника о помощи."
+  },
+  {
+   "t": 809.7,
+   "da": "Især i begyndelsen af en ny rute, eller hvis man ikke helt forstod en ordre.",
+   "ru": "Особенно в начале нового маршрута или если ты не до конца понял задание."
+  },
+  {
+   "t": 813.1,
+   "da": "I nogle lande vil man måske være bange for at ringe, ikke?",
+   "ru": "В некоторых странах, наверное, побоялись бы звонить, да?"
+  },
+  {
+   "t": 815.7,
+   "da": "Jo, mange er bange for at få skældt ud af chefen, hvis de laver en fejl.",
+   "ru": "Да, многие боятся, что начальник их отругает, если они ошибутся."
+  },
+  {
+   "t": 818.3,
+   "da": "Men sådan er det slet ikke i Danmark. Tværtimod.",
+   "ru": "Но в Дании совсем не так. Наоборот."
+  },
+  {
+   "t": 820.5,
+   "da": "Chefen bliver glad?",
+   "ru": "Начальник радуется?"
+  },
+  {
+   "t": 821.6,
+   "da": "Ja, chefen ser det som noget meget positivt, at du ringer.",
+   "ru": "Да, начальник воспринимает то, что ты звонишь, как нечто очень положительное."
+  },
+  {
+   "t": 824.3,
+   "da": "Det viser, at du er en professionel fører, der gerne vil løse opgaven rigtigt, i stedet for bare at give op.",
+   "ru": "Это показывает, что ты профессиональный водитель, который хочет выполнить задачу правильно, а не просто сдаться."
+  },
+  {
+   "t": 828.8,
+   "da": "Det er virkelig en rar arbejdskultur at have.",
+   "ru": "Это действительно приятная рабочая культура."
+  },
+  {
+   "t": 831.5,
+   "da": "Og det hjælper også Anton.",
+   "ru": "И это помогает Антону."
+  },
+  {
+   "t": 832.4,
+   "da": "For efter en time går det meget bedre.",
+   "ru": "Потому что через час всё идёт гораздо лучше."
+  },
+  {
+   "t": 834.8,
+   "da": "Han finder sin rytme.",
+   "ru": "Он входит в ритм."
+  },
+  {
+   "t": 835.9,
+   "da": "Han kigger i planen før hvert hus.",
+   "ru": "Перед каждым домом он смотрит в план."
+  },
+  {
+   "t": 837.8,
+   "da": "Han følger reglerne.",
+   "ru": "Он соблюдает правила."
+  },
+  {
+   "t": 839.0,
+   "da": "Ja, og klokken ni holder han ind til siden og slukker motoren.",
+   "ru": "Да, и в девять он съезжает к обочине и глушит мотор."
+  },
+  {
+   "t": 842.3,
+   "da": "Han holder sin pause.",
+   "ru": "Он делает свой перерыв."
+  },
+  {
+   "t": 843.7,
+   "da": "Fartskriveren registrerer, at maskinen står stille.",
+   "ru": "Тахограф регистрирует, что машина стоит."
+  },
+  {
+   "t": 846.0,
+   "da": "Han drikker sin kaffe fra termokanden.",
+   "ru": "Он пьёт кофе из термоса."
+  },
+  {
+   "t": 848.0,
+   "da": "Alt er godt.",
+   "ru": "Всё хорошо."
+  },
+  {
+   "t": 849.0,
+   "da": "Og det viser, hvordan de her ord hænger sammen i virkeligheden.",
+   "ru": "И это показывает, как эти слова связаны между собой в реальной жизни."
+  },
+  {
+   "t": 852.8,
+   "da": "Anton havde problemer i begyndelsen.",
+   "ru": "Поначалу у Антона были проблемы."
+  },
+  {
+   "t": 854.9,
+   "da": "Men han brugte sin plan.",
+   "ru": "Но он пользовался своим планом."
+  },
+  {
+   "t": 856.2,
+   "da": "Han talte med chefen om sin ordre.",
+   "ru": "Он поговорил с начальником о своём задании."
+  },
+  {
+   "t": 858.2,
+   "da": "Og han overholdt sine regler.",
+   "ru": "И он соблюдал правила."
+  },
+  {
+   "t": 859.9,
+   "da": "Han er en dygtig fører.",
+   "ru": "Он умелый водитель."
+  },
+  {
+   "t": 860.6,
+   "da": "Solen står op, og eftermiddagen kommer.",
+   "ru": "Встаёт солнце, наступает день."
+  },
+  {
+   "t": 864.0,
+   "da": "Antons rute er færdig.",
+   "ru": "Маршрут Антона закончен."
+  },
+  {
+   "t": 865.7,
+   "da": "Han kører lastbilen tilbage til depotet i Glostrup.",
+   "ru": "Он отгоняет грузовик обратно на депо в Глоструп."
+  },
+  {
+   "t": 868.7,
+   "da": "Og så går han ind på kontoret igen.",
+   "ru": "И снова заходит в контору."
+  },
+  {
+   "t": 870.7,
+   "da": "For at sige farvel til chefen. Ja.",
+   "ru": "Чтобы попрощаться с начальником. — Да."
+  },
+  {
+   "t": 872.6,
+   "da": "Anton smiler og siger, at alt gik fint,",
+   "ru": "Антон улыбается и говорит, что всё прошло хорошо,"
+  },
+  {
+   "t": 875.2,
+   "da": "efter der lige var lidt små problemer i begyndelsen.",
+   "ru": "после того как поначалу были небольшие проблемы."
+  },
+  {
+   "t": 877.8,
+   "da": "Chefen er meget tilfreds.",
+   "ru": "Начальник очень доволен."
+  },
+  {
+   "t": 879.1,
+   "da": "Og de taler lige kort om i morgen, før Anton går hjem.",
+   "ru": "И они коротко обсуждают завтрашний день, прежде чем Антон уходит домой."
+  },
+  {
+   "t": 882.2,
+   "da": "I morgen er der nemlig præcis den samme ordre",
+   "ru": "Завтра будет ровно то же задание"
+  },
+  {
+   "t": 884.4,
+   "da": "og den samme plan for ruten.",
+   "ru": "и тот же план маршрута."
+  },
+  {
+   "t": 885.6,
+   "da": "Og en ny tidlig start.",
+   "ru": "И снова ранний старт."
+  },
+  {
+   "t": 888.1,
+   "da": "Han skal møde klokken fire i mørket igen.",
+   "ru": "Ему снова нужно быть на работе в четыре, в темноте."
+  },
+  {
+   "t": 890.8,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 891.5,
+   "da": "Anton kører hjemad mod Valby.",
+   "ru": "Антон едет домой, в Вальбю."
+  },
+  {
+   "t": 893.5,
+   "da": "Og han tænker, at en dygtig fører kender sine regler.",
+   "ru": "И он думает, что умелый водитель знает свои правила."
+  },
+  {
+   "t": 896.4,
+   "da": "Han lytter til sin chef.",
+   "ru": "Он слушает своего начальника."
+  },
+  {
+   "t": 897.8,
+   "da": "Og han følger planen.",
+   "ru": "И следует плану."
+  },
+  {
+   "t": 899.6,
+   "da": "Det har været en god dag.",
+   "ru": "Это был хороший день."
+  },
+  {
+   "t": 901.2,
+   "da": "Og det bringer os til slutningen af vores samtale i dag.",
+   "ru": "И на этом мы подходим к концу нашего сегодняшнего разговора."
+  },
+  {
+   "t": 904.0,
+   "da": "Ja, tiden går hurtigt.",
+   "ru": "Да, время летит быстро."
+  },
+  {
+   "t": 906.0,
+   "da": "Men inden vi slutter helt af,",
+   "ru": "Но прежде чем совсем закончить,"
+  },
+  {
+   "t": 907.3,
+   "da": "skal vi lige være helt sikre på, at du kan huske de vigtige ord.",
+   "ru": "давай убедимся, что ты помнишь важные слова."
+  },
+  {
+   "t": 911.1,
+   "da": "Vi tager en kort opsummering nu.",
+   "ru": "Сейчас сделаем короткое повторение."
+  },
+  {
+   "t": 912.4,
+   "da": "Vi læser ordene langsomt op.",
+   "ru": "Мы медленно прочитаем слова вслух."
+  },
+  {
+   "t": 914.6,
+   "da": "Lyt godt efter.",
+   "ru": "Слушай внимательно."
+  },
+  {
+   "t": 915.7,
+   "da": "Og sig dem gerne højt ude i din bil.",
+   "ru": "И обязательно повторяй их вслух у себя в машине."
+  },
+  {
+   "t": 917.5,
+   "da": "God idé.",
+   "ru": "Хорошая идея."
+  },
+  {
+   "t": 918.4,
+   "da": "Nummer 1:",
+   "ru": "Номер 1:"
+  },
+  {
+   "t": 919.9,
+   "da": "En fører.",
+   "ru": "*En fører*."
+  },
+  {
+   "t": 921.0,
+   "da": "Det er altså det officielle ord for dig, der styrer lastbilen.",
+   "ru": "Это официальное слово для тебя — того, кто управляет грузовиком."
+  },
+  {
+   "t": 923.8,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 924.5,
+   "da": "Nummer 2:",
+   "ru": "Номер 2:"
+  },
+  {
+   "t": 925.5,
+   "da": "En chef.",
+   "ru": "*En chef*."
+  },
+  {
+   "t": 926.5,
+   "da": "Det er din leder.",
+   "ru": "Это твой руководитель."
+  },
+  {
+   "t": 927.4,
+   "da": "Den person på kontoret, som hjælper dig.",
+   "ru": "Тот человек в конторе, который тебе помогает."
+  },
+  {
+   "t": 929.6,
+   "da": "Nummer 3:",
+   "ru": "Номер 3:"
+  },
+  {
+   "t": 930.6,
+   "da": "En plan.",
+   "ru": "*En plan*."
+  },
+  {
+   "t": 931.8,
+   "da": "Det er det papir eller den skærm, der viser ruten.",
+   "ru": "Это бумага или экран, где показан маршрут."
+  },
+  {
+   "t": 934.4,
+   "da": "Rigtigt.",
+   "ru": "Верно."
+  },
+  {
+   "t": 935.3,
+   "da": "Nummer 4 er en ordre.",
+   "ru": "Номер 4 — *en ordre*."
+  },
+  {
+   "t": 936.8,
+   "da": "Det er beskeden om, hvad du skal lave.",
+   "ru": "Это указание о том, что тебе нужно делать."
+  },
+  {
+   "t": 938.2,
+   "da": "I Danmark lyder den måske meget venlig,",
+   "ru": "В Дании оно, может быть, звучит очень дружелюбно,"
+  },
+  {
+   "t": 940.4,
+   "da": "men det er stadigvæk en ordre.",
+   "ru": "но это всё-таки распоряжение."
+  },
+  {
+   "t": 942.4,
+   "da": "Nummer 5:",
+   "ru": "Номер 5:"
+  },
+  {
+   "t": 944.1,
+   "da": "Regler.",
+   "ru": "*Regler*."
+  },
+  {
+   "t": 945.2,
+   "da": "Ting, du skal gøre for at køre sikkert, som at bruge fartskriveren.",
+   "ru": "То, что ты должен делать, чтобы ездить безопасно, — например, пользоваться тахографом."
+  },
+  {
+   "t": 948.8,
+   "da": "Nummer 6 er ordet tidlig.",
+   "ru": "Номер 6 — слово *tidlig*."
+  },
+  {
+   "t": 951.2,
+   "da": "Husk den bløde I-lyd: tidlig, som en tidlig start midt om natten.",
+   "ru": "Помни мягкий звук «и»: *tidlig*, как ранний старт посреди ночи."
+  },
+  {
+   "t": 956.6,
+   "da": "Nummer 7:",
+   "ru": "Номер 7:"
+  },
+  {
+   "t": 958.0,
+   "da": "Starten.",
+   "ru": "*Starten*."
+  },
+  {
+   "t": 959.0,
+   "da": "Det er det første, der sker på dagen.",
+   "ru": "Это первое, что происходит за день."
+  },
+  {
+   "t": 960.5,
+   "da": "Og nummer 8:",
+   "ru": "И номер 8:"
+  },
+  {
+   "t": 961.5,
+   "da": "Begyndelsen.",
+   "ru": "*Begyndelsen*."
+  },
+  {
+   "t": 962.6,
+   "da": "Det betyder fuldstændig det samme som starten,",
+   "ru": "Значит абсолютно то же самое, что *starten*,"
+  },
+  {
+   "t": 964.3,
+   "da": "men kan føles som en lidt længere tid.",
+   "ru": "но может ощущаться как чуть более долгий отрезок времени."
+  },
+  {
+   "t": 966.5,
+   "da": "Det var de 8 ord.",
+   "ru": "Вот эти 8 слов."
+  },
+  {
+   "t": 967.2,
+   "da": "8 simple ord, der gør hverdagen meget lettere.",
+   "ru": "8 простых слов, которые сильно облегчают повседневную жизнь."
+  },
+  {
+   "t": 971.2,
+   "da": "Og her til allersidst vil vi gerne give dig noget at tænke over.",
+   "ru": "И в самом конце мы хотим дать тебе пищу для размышлений."
+  },
+  {
+   "t": 974.9,
+   "da": "Næste gang du sidder derude alene i mørket.",
+   "ru": "В следующий раз, когда будешь сидеть там один в темноте..."
+  },
+  {
+   "t": 977.7,
+   "da": "Du har jo allerede styr på at køre den store lastbil.",
+   "ru": "Водить большой грузовик ты ведь уже умеешь."
+  },
+  {
+   "t": 980.0,
+   "da": "Du mestrer trafikken, og du er super professionel.",
+   "ru": "Ты владеешь ситуацией на дороге, ты настоящий профессионал."
+  },
+  {
+   "t": 983.3,
+   "da": "Men prøv at tænke over det her,",
+   "ru": "Но попробуй подумать вот о чём,"
+  },
+  {
+   "t": 984.7,
+   "da": "når du sætter kortet i fartskriveren til en ny, tidlig start i morgen:",
+   "ru": "когда завтра будешь вставлять карту в тахограф перед новым ранним стартом:"
+  },
+  {
+   "t": 987.6,
+   "da": "Hvordan gør det dig til en endnu dygtigere fører og en bedre kollega,",
+   "ru": "как это сделает тебя ещё более умелым водителем и лучшим коллегой —"
+  },
+  {
+   "t": 992.4,
+   "da": "at du nu også kan gå ind på kontoret og tale med chefen om planen og om reglerne på flot dansk?",
+   "ru": "то, что теперь ты можешь зайти в контору и поговорить с начальником о плане и о правилах на хорошем датском?"
+  },
+  {
+   "t": 998.0,
+   "da": "Dit sprog er nemlig et mindst lige så stærkt værktøj, som rattet i den lastbil er.",
+   "ru": "Ведь твой язык — инструмент не менее мощный, чем руль этого грузовика."
+  },
+  {
+   "t": 1003.0,
+   "da": "Tak, fordi du lyttede med.",
+   "ru": "Спасибо, что слушал нас."
+  },
+  {
+   "t": 1004.4,
+   "da": "Kør forsigtigt derude.",
+   "ru": "Езжай осторожно."
+  },
+  {
+   "t": 1005.1,
+   "da": "Tak, fordi du lyttede med.",
+   "ru": "Спасибо, что слушал нас."
+  }
+ ],
+ "glossary": [
+  {
+   "da": "en følelse",
+   "ru": "чувство, ощущение",
+   "note": "den der helt specielle følelse — то самое особенное чувство",
+   "t": 0.0,
+   "status": "new"
+  },
+  {
+   "da": "en forvirring",
+   "ru": "путаница, замешательство",
+   "note": "skabe forvirring — вызывать путаницу; прил. forvirrende — сбивающий с толку",
+   "t": 57.9,
+   "status": "-"
+  },
+  {
+   "da": "et vækkeur",
+   "ru": "будильник",
+   "note": "vækkeuret ringer; ASR: «vækord»",
+   "t": 95.4,
+   "status": "-"
+  },
+  {
+   "da": "at møde ind",
+   "ru": "приходить на работу, заступать на смену",
+   "note": "han møder ind på depotet; at møde klokken fire — выходить на работу в 4",
+   "t": 112.7,
+   "status": "-"
+  },
+  {
+   "da": "tidlig / tidligt",
+   "ru": "ранний; рано",
+   "note": "ключевое слово; d немое: «тили»; en tidlig start (о предмете), men han står tidligt op (о действии)",
+   "t": 118.3,
+   "status": "new"
+  },
+  {
+   "da": "en udtale / udtalen",
+   "ru": "произношение",
+   "note": "at udtale — произносить",
+   "t": 135.7,
+   "status": "-"
+  },
+  {
+   "da": "et stumt bogstav",
+   "ru": "немая буква",
+   "note": "pl. stumme bogstaver; ASR: «bukstaver»",
+   "t": 154.4,
+   "status": "-"
+  },
+  {
+   "da": "det kommer an på",
+   "ru": "это зависит от",
+   "note": "Det kommer an på sætningen; ASR: «kommer ind på»",
+   "t": 176.7,
+   "status": "-"
+  },
+  {
+   "da": "en start / starten",
+   "ru": "старт, начало",
+   "note": "ключевое слово; i starten af dagen — в начале дня; быстрый момент, как старт забега",
+   "t": 197.1,
+   "status": "learning"
+  },
+  {
+   "da": "en speeder / speederen",
+   "ru": "педаль газа",
+   "note": "træde speederen i bund — выжать газ в пол",
+   "t": 214.5,
+   "status": "-"
+  },
+  {
+   "da": "en chef / chefen",
+   "ru": "начальник, шеф",
+   "note": "ключевое слово; ch = «ш»: «шеф»",
+   "t": 259.0,
+   "status": "learning"
+  },
+  {
+   "da": "en begyndelse / begyndelsen",
+   "ru": "начало",
+   "note": "ключевое слово; i begyndelsen af sin vagt — в начале смены; синоним starten, но звучит как более длинный период",
+   "t": 263.7,
+   "status": "new"
+  },
+  {
+   "da": "en plan / planen",
+   "ru": "план",
+   "note": "ключевое слово; følge planen — следовать плану",
+   "t": 340.0,
+   "status": "new"
+  },
+  {
+   "da": "fast",
+   "ru": "постоянный, закреплённый",
+   "note": "den faste fører — постоянный водитель (на маршруте)",
+   "t": 350.0,
+   "status": "-"
+  },
+  {
+   "da": "en fører / føreren",
+   "ru": "водитель (официально), тот, кто ведёт ТС",
+   "note": "ключевое слово; от at føre — вести, управлять; в законе и документах; в разговоре — chauffør",
+   "t": 350.0,
+   "status": "new"
+  },
+  {
+   "da": "et udsagnsord",
+   "ru": "глагол",
+   "note": "ASR: «usavnsordet», «udsangsåret»",
+   "t": 366.9,
+   "status": "-"
+  },
+  {
+   "da": "at styre",
+   "ru": "управлять, рулить",
+   "note": "at styre noget stort — управлять чем-то большим",
+   "t": 369.2,
+   "status": "new"
+  },
+  {
+   "da": "et førerbevis",
+   "ru": "водительское удостоверение (офиц.)",
+   "note": "в быту: kørekort",
+   "t": 400.1,
+   "status": "-"
+  },
+  {
+   "da": "et førerkort",
+   "ru": "карта водителя для тахографа",
+   "note": "sætte førerkortet ind i fartskriveren",
+   "t": 400.1,
+   "status": "-"
+  },
+  {
+   "da": "en afløser",
+   "ru": "сменщик, подменный водитель",
+   "note": "han er afløser — берёт маршрут за другого водителя",
+   "t": 409.5,
+   "status": "-"
+  },
+  {
+   "da": "en ordre / ordren",
+   "ru": "распоряжение, задание, приказ",
+   "note": "ключевое слово; pl. ordrer; в Дании часто звучит как вежливая просьба, но это всё равно ordre",
+   "t": 418.7,
+   "status": "learning"
+  },
+  {
+   "da": "streng",
+   "ru": "строгий",
+   "note": "ASR: «strengt»; er en ordre altid så streng?",
+   "t": 455.9,
+   "status": "-"
+  },
+  {
+   "da": "en flad struktur",
+   "ru": "плоская (неиерархическая) структура",
+   "note": "flad — плоский; начальник и водитель почти на равных",
+   "t": 466.1,
+   "status": "-"
+  },
+  {
+   "da": "en hyggesnak",
+   "ru": "дружеская болтовня",
+   "note": "en helt almindelig hyggesnak",
+   "t": 493.8,
+   "status": "-"
+  },
+  {
+   "da": "at tage fejl",
+   "ru": "ошибаться",
+   "note": "her må du ikke tage fejl — тут не ошибись",
+   "t": 496.2,
+   "status": "-"
+  },
+  {
+   "da": "at forvente",
+   "ru": "ожидать (рассчитывать)",
+   "note": "chefen forventer, at du... — начальник ожидает, что ты...",
+   "t": 501.6,
+   "status": "-"
+  },
+  {
+   "da": "at aftale",
+   "ru": "договариваться",
+   "note": "det, I har aftalt — то, о чём вы договорились; en aftale — договорённость",
+   "t": 501.6,
+   "status": "-"
+  },
+  {
+   "da": "en regel / reglen, regler",
+   "ru": "правило, правила",
+   "note": "ключевое слово; g мягкое, почти как «й»: «райлер»",
+   "t": 528.9,
+   "status": "new"
+  },
+  {
+   "da": "en skraldespand",
+   "ru": "мусорный бак",
+   "note": "pl. skraldespande; ASR: «skraldspanden»",
+   "t": 542.8,
+   "status": "-"
+  },
+  {
+   "da": "en hviletid",
+   "ru": "время отдыха (по правилам)",
+   "note": "pause efter 4,5 times kørsel",
+   "t": 553.0,
+   "status": "-"
+  },
+  {
+   "da": "et skilt / skiltet",
+   "ru": "знак, табличка",
+   "note": "pl. skilte; trafikskilte — дорожные знаки",
+   "t": 598.8,
+   "status": "-"
+  },
+  {
+   "da": "en fartskriver / fartskriveren",
+   "ru": "тахограф",
+   "note": "fart (скорость) + skriver (записывающий)",
+   "t": 604.2,
+   "status": "-"
+  },
+  {
+   "da": "at sørge for",
+   "ru": "заботиться о, обеспечивать, следить, чтобы",
+   "note": "den sørger for, at motoren ikke brænder sammen",
+   "t": 612.7,
+   "status": "-"
+  },
+  {
+   "da": "at brænde sammen",
+   "ru": "сгореть (о моторе); выгореть (о человеке)",
+   "note": "past: brændte sammen",
+   "t": 612.7,
+   "status": "-"
+  },
+  {
+   "da": "omvendt ordstilling",
+   "ru": "обратный порядок слов",
+   "note": "klokken ni holder han pause — глагол сразу после обстоятельства времени",
+   "t": 636.3,
+   "status": "-"
+  },
+  {
+   "da": "at have styr på",
+   "ru": "держать под контролем, разбираться в",
+   "note": "Anton har styr på alle regler",
+   "t": 698.5,
+   "status": "-"
+  },
+  {
+   "da": "en lommelygte",
+   "ru": "карманный фонарик",
+   "note": "",
+   "t": 753.0,
+   "status": "-"
+  },
+  {
+   "da": "at overse",
+   "ru": "проглядеть, не заметить",
+   "note": "past: overså; han overså det fuldstændig",
+   "t": 789.6,
+   "status": "-"
+  },
+  {
+   "da": "erfaren",
+   "ru": "опытный",
+   "note": "pl./опр.: erfarne; den allermest erfarne fører",
+   "t": 793.2,
+   "status": "-"
+  },
+  {
+   "da": "at skælde ud",
+   "ru": "ругать, отчитывать",
+   "note": "at få skældt ud — получить нагоняй",
+   "t": 815.7,
+   "status": "-"
+  },
+  {
+   "da": "tværtimod",
+   "ru": "наоборот",
+   "note": "",
+   "t": 818.3,
+   "status": "-"
+  },
+  {
+   "da": "at overholde",
+   "ru": "соблюдать (правила, сроки)",
+   "note": "past: overholdt; overholde reglerne; ASR: «overholdte»",
+   "t": 858.2,
+   "status": "new"
+  },
+  {
+   "da": "tilfreds",
+   "ru": "довольный",
+   "note": "chefen er meget tilfreds",
+   "t": 877.8,
+   "status": "learning"
+  },
+  {
+   "da": "stadigvæk",
+   "ru": "всё ещё, всё-таки",
+   "note": "= stadig, чуть разговорнее",
+   "t": 940.4,
+   "status": "new"
+  },
+  {
+   "da": "et rat / rattet",
+   "ru": "руль",
+   "note": "ASR: «rettet»; værktøj som rattet",
+   "t": 998.0,
+   "status": "-"
+  }
+ ]
+}

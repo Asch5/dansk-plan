@@ -1,0 +1,826 @@
+{
+ "generated": "2026-11-01",
+ "days": [
+  {
+   "date": "2026-11-01",
+   "dow": "Вс",
+   "week": 0,
+   "title": "Нулевой день",
+   "cm": {
+    "reviews": 200,
+    "goal": "2000MC (290 ждут) → 100MC",
+    "new_total": 0,
+    "new": []
+   },
+   "radio": "uge45",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-01",
+    "mode": "T"
+   },
+   "bg": "по желанию",
+   "note": "Тест пилота: радио + читалка. Вечером — отзыв."
+  },
+  {
+   "date": "2026-11-02",
+   "dow": "Пн",
+   "week": 1,
+   "cm": {
+    "reviews": 180,
+    "goal": "закрыть 2000MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "anføre"
+     }
+    ]
+   },
+   "radio": "uge45",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-01",
+    "mode": "S"
+   },
+   "bg": "Dansk i ørerne 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-03",
+   "dow": "Вт",
+   "week": 1,
+   "cm": {
+    "reviews": 180,
+    "goal": "2000MC → 100MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "udføre"
+     }
+    ]
+   },
+   "radio": "uge45",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-01",
+    "mode": "R"
+   },
+   "bg": "Simple Danish Podcast 60 мин → DR P1",
+   "note": "Срок отзыва по пилоту (задача 18): радио + NLM-01 в читалке"
+  },
+  {
+   "date": "2026-11-04",
+   "dow": "Ср",
+   "week": 1,
+   "cm": {
+    "reviews": 180,
+    "goal": "100MC → начать 1000MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "medføre"
+     }
+    ]
+   },
+   "radio": "uge45",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-02",
+    "mode": "S"
+   },
+   "bg": "Danish with Christina 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-05",
+   "dow": "Чт",
+   "week": 1,
+   "cm": {
+    "reviews": 180,
+    "goal": "1000MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "overføre"
+     }
+    ]
+   },
+   "radio": "uge45",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-02",
+    "mode": "R"
+   },
+   "bg": "Koen på isen 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-06",
+   "dow": "Пт",
+   "week": 1,
+   "cm": {
+    "reviews": 180,
+    "goal": "1000MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "indføre"
+     }
+    ]
+   },
+   "radio": "uge45",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-04",
+    "mode": "S"
+   },
+   "bg": "Dansk i ørerne 60 мин → DR P1",
+   "note": "Эпизод совпадает с глаголами FØRE этой недели"
+  },
+  {
+   "date": "2026-11-07",
+   "dow": "Сб",
+   "week": 1,
+   "cm": {
+    "reviews": 220,
+    "goal": "1000MC → 500MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "henføre"
+     }
+    ]
+   },
+   "radio": "uge45",
+   "radio_opt": true,
+   "pod": {
+    "id": "nlm-04",
+    "mode": "R"
+   },
+   "bg": "по желанию",
+   "note": ""
+  },
+  {
+   "date": "2026-11-08",
+   "dow": "Вс",
+   "week": 1,
+   "cm": {
+    "reviews": 220,
+    "goal": "1000MC → 500MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "påføre"
+     }
+    ]
+   },
+   "radio": "uge45",
+   "radio_opt": true,
+   "pod": {
+    "id": "nlm-03",
+    "mode": "S"
+   },
+   "bg": "по желанию",
+   "note": "ИТОГ НЕДЕЛИ + пересчёт квот; Claude собирает радио uge46"
+  },
+  {
+   "date": "2026-11-09",
+   "dow": "Пн",
+   "week": 2,
+   "cm": {
+    "reviews": 165,
+    "goal": "1000MC → 500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "angive, afgive"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "ifølge, som beskrevet i, som anført i"
+     }
+    ]
+   },
+   "radio": "uge46",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-03",
+    "mode": "R"
+   },
+   "bg": "Dansk i ørerne 60 мин → DR P1",
+   "note": "Старт связок (Connectors)"
+  },
+  {
+   "date": "2026-11-10",
+   "dow": "Вт",
+   "week": 2,
+   "cm": {
+    "reviews": 165,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "afgive, udgive"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "der henvises til, jf., stk., anm., svarer til"
+     }
+    ]
+   },
+   "radio": "uge46",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-06",
+    "mode": "S"
+   },
+   "bg": "Simple Danish Podcast 60 мин → DR P1",
+   "note": "Эпизод совпадает с глаголами GIVE"
+  },
+  {
+   "date": "2026-11-11",
+   "dow": "Ср",
+   "week": 2,
+   "cm": {
+    "reviews": 165,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "opgive, omgive"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "svarer til, med hensyn til, mht., vedrørende"
+     }
+    ]
+   },
+   "radio": "uge46",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-06",
+    "mode": "R"
+   },
+   "bg": "Danish with Christina 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-12",
+   "dow": "Чт",
+   "week": 2,
+   "cm": {
+    "reviews": 165,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "omgive, tilgive, modtage"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "vedrørende, vedr., hvad angår, for så vidt (angår)"
+     }
+    ]
+   },
+   "radio": "uge46",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-07",
+    "mode": "S"
+   },
+   "bg": "Koen på isen 60 мин → DR P1",
+   "note": "Эпизод совпадает со связками этой недели"
+  },
+  {
+   "date": "2026-11-13",
+   "dow": "Пт",
+   "week": 2,
+   "cm": {
+    "reviews": 165,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "modtage, medtage"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "i forhold til, i forbindelse med, ifm."
+     }
+    ]
+   },
+   "radio": "uge46",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-07",
+    "mode": "R"
+   },
+   "bg": "Dansk i ørerne 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-14",
+   "dow": "Сб",
+   "week": 2,
+   "cm": {
+    "reviews": 205,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "indtage, antage"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "på grund af, som følge af, på baggrund af"
+     }
+    ]
+   },
+   "radio": "uge46",
+   "radio_opt": true,
+   "pod": {
+    "id": "nlm-08",
+    "mode": "S"
+   },
+   "bg": "по желанию",
+   "note": "Эпизод совпадает с глаголами TAGE"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "Вс",
+   "week": 2,
+   "cm": {
+    "reviews": 205,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "antage, undtage"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "på baggrund af, derfor, altså"
+     }
+    ]
+   },
+   "radio": "uge46",
+   "radio_opt": true,
+   "pod": {
+    "id": "nlm-08",
+    "mode": "R"
+   },
+   "bg": "по желанию",
+   "note": "Итог недели; Claude собирает радио uge47"
+  },
+  {
+   "date": "2026-11-16",
+   "dow": "Пн",
+   "week": 3,
+   "cm": {
+    "reviews": 165,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "deltage, overholde"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "under udvikling af, ved kontakt med, i berøring med"
+     }
+    ]
+   },
+   "radio": "uge47",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-05",
+    "mode": "S"
+   },
+   "bg": "Dansk i ørerne 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-17",
+   "dow": "Вт",
+   "week": 3,
+   "cm": {
+    "reviews": 165,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "overholde, indeholde, beholde"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "i tilfælde af, medmindre, forudsat at"
+     }
+    ]
+   },
+   "radio": "uge47",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-05",
+    "mode": "R"
+   },
+   "bg": "Simple Danish Podcast 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "dow": "Ср",
+   "week": 3,
+   "cm": {
+    "reviews": 165,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "beholde, forholde sig, opholde sig"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "forudsat at, såfremt, hvis ikke"
+     }
+    ]
+   },
+   "radio": "uge47",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-10",
+    "mode": "S"
+   },
+   "bg": "Danish with Christina 60 мин → DR P1",
+   "note": "Эпизод совпадает с HOLDE/FYLDE"
+  },
+  {
+   "date": "2026-11-19",
+   "dow": "Чт",
+   "week": 3,
+   "cm": {
+    "reviews": 165,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "opholde sig, opfylde, påfylde"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "ellers, i så fald, i givet fald"
+     }
+    ]
+   },
+   "radio": "uge47",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-10",
+    "mode": "R"
+   },
+   "bg": "Koen på isen 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "dow": "Пт",
+   "week": 3,
+   "cm": {
+    "reviews": 165,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "påfylde, udfylde"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "i givet fald, der er tale om, finder (ikke) anvendelse"
+     }
+    ]
+   },
+   "radio": "uge47",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-09",
+    "mode": "S"
+   },
+   "bg": "Dansk i ørerne 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-21",
+   "dow": "Сб",
+   "week": 3,
+   "cm": {
+    "reviews": 205,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "udfylde, overfylde, pålæsse"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "uanset, med undtagelse af, bortset fra"
+     }
+    ]
+   },
+   "radio": "uge47",
+   "radio_opt": true,
+   "pod": {
+    "id": "nlm-09",
+    "mode": "R"
+   },
+   "bg": "по желанию",
+   "note": ""
+  },
+  {
+   "date": "2026-11-22",
+   "dow": "Вс",
+   "week": 3,
+   "cm": {
+    "reviews": 205,
+    "goal": "500MC",
+    "new_total": 25,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 12
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 8,
+      "words": "pålæsse, aflæsse"
+     },
+     {
+      "col": "Connectors",
+      "n": 5,
+      "words": "bortset fra, dog, selv om / selvom"
+     }
+    ]
+   },
+   "radio": "uge47",
+   "radio_opt": true,
+   "pod": {
+    "id": "nlm-01",
+    "mode": "I"
+   },
+   "bg": "по желанию",
+   "note": "Итог недели; Claude собирает радио uge48 (на 23.11 + отпуск)"
+  },
+  {
+   "date": "2026-11-23",
+   "dow": "Пн",
+   "week": 4,
+   "cm": {
+    "reviews": 180,
+    "goal": "добить 500MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "aflæsse, omlæsse"
+     }
+    ]
+   },
+   "radio": "uge48",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-04",
+    "mode": "I"
+   },
+   "bg": "Dansk i ørerne 60 мин → DR P1",
+   "note": "Новых меньше — дожимаем завал до отпуска"
+  },
+  {
+   "date": "2026-11-24",
+   "dow": "Вт",
+   "week": 4,
+   "cm": {
+    "reviews": 180,
+    "goal": "добить 500MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "omlæsse, henvise"
+     }
+    ]
+   },
+   "radio": "uge48",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-06",
+    "mode": "I"
+   },
+   "bg": "Simple Danish Podcast 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-25",
+   "dow": "Ср",
+   "week": 4,
+   "cm": {
+    "reviews": 180,
+    "goal": "добить 500MC",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "henvise, anvise"
+     }
+    ]
+   },
+   "radio": "uge48",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-08",
+    "mode": "I"
+   },
+   "bg": "Danish with Christina 60 мин → DR P1",
+   "note": ""
+  },
+  {
+   "date": "2026-11-26",
+   "dow": "Чт",
+   "week": 4,
+   "cm": {
+    "reviews": 180,
+    "goal": "всё по порядку",
+    "new_total": 15,
+    "new": [
+     {
+      "col": "2000MC",
+      "n": 10
+     },
+     {
+      "col": "Prefix verbs",
+      "n": 5,
+      "words": "anvise, afvise"
+     }
+    ]
+   },
+   "radio": "uge48",
+   "radio_opt": false,
+   "pod": {
+    "id": "nlm-10",
+    "mode": "I"
+   },
+   "bg": "Koen på isen 60 мин → DR P1",
+   "note": "Скачать на телефон офлайн: все NLM-01…10 + радио uge48. Просрочено ≈ 30"
+  }
+ ],
+ "weeks": {
+  "1": "Неделя 1 · 02–08.11 · разбор завала (новых 15/день)",
+  "2": "Неделя 2 · 09–15.11 · разгон (новых 25/день)",
+  "3": "Неделя 3 · 16–22.11 · разгон (новых 25/день)",
+  "4": "Неделя 4 · 23–26.11 · перед отпуском (новых 15/день)"
+ }
+}
