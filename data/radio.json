@@ -1,10 +1,34 @@
 [
 {
 "id": "uge45",
+"num": "45",
+"group": "Очередь повторов Clozemaster",
+"group_desc": "Самые трудные предложения из текущей очереди повторов (уровень 0–2). Новый выпуск — по воскресеньям.",
+"label": "Неделя 45 (пилот)",
+"desc": "120 самых трудных предложений: 2000MC, 1000MC, 500MC, 100MC",
 "week": "45",
-"label": "Неделя 45",
-"desc": "Самые трудные предложения из очереди повторов Clozemaster",
 "count": 120,
 "dur": 1794
+},
+{
+"id": "ord-01",
+"num": "1",
+"group": "Глаголы с приставками + связки",
+"group_desc": "Коллекции Prefix verbs и Connectors: три глагола на одну связку, в том порядке, в каком они выходят новыми в Clozemaster.",
+"label": "Выпуск 1 · føre, give, tage",
+"desc": "anføre … påføre, angive … tilgive, modtage … undtage · связки: i henhold til, ifølge, jf., med hensyn til, vedrørende, i forbindelse med",
+"week": "1",
+"count": 117,
+"dur": 2174
+},
+{
+"id": "ord-02",
+"num": "2",
+"group": "Глаголы с приставками + связки",
+"label": "Выпуск 2 · tage, holde, fylde, læsse, vise",
+"desc": "deltage, overholde … opholde, opfylde … overfylde, pålæsse … omlæsse, henvise … påvise · связки: på grund af, derfor, altså, i tilfælde af, medmindre, forudsat at, ellers",
+"week": "2",
+"count": 116,
+"dur": 2142
 }
 ]

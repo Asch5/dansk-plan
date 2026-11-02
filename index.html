@@ -88,6 +88,7 @@ mark.g{background:none;color:inherit;border-bottom:2px solid var(--accent);curso
 .gi .w{font:600 1.15rem/1.25 var(--f-display)} .gi .m{grid-column:1/-1;font-size:.95rem} .gi .n{grid-column:1/-1;font-size:.83rem;color:var(--muted)}
 .empty{background:var(--surface);border:1px dashed var(--line);border-radius:10px;padding:16px;margin-top:16px;color:var(--muted)}
 /* radio sentence list */
+.rl{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center} .rl .rp{align-self:center}
 .rs{list-style:decimal;margin:12px 0 0;padding-left:2.2rem}
 .rs li{padding:6px 0;border-bottom:1px solid var(--line)} .rs .da-t{cursor:default} .rs .ru-t{margin-top:1px}
 /* transport bar */
@@ -331,11 +332,16 @@ pop.onclick=()=>pop.hidden=true;
 
 /* ---------- radio ---------- */
 function showRadioList(){
-  app.innerHTML=`<p class="eyebrow">Предложения из Clozemaster</p><h1>Радио</h1>
-  <p class="lede">Каждая неделя — новый выпуск из твоей очереди повторов: датский (Christel / Jeppe) → русский → датский медленно → пауза.</p>
-  <ul class="list">${RADIO.map(r=>`<li><a class="ep" href="#radio/${r.id}"><span class="num">${esc(r.week)}</span>
-    <span class="t"><span class="da">${esc(r.label)}</span><span class="ru">${esc(r.desc||'')}</span></span><span class="meta">${fmt(r.dur)}<br>${r.count} предл.</span></a></li>`).join('')||'<li class="empty">Выпусков пока нет.</li>'}</ul>`;
-  app.onclick=null; window.scrollTo(0,0);
+  const groups=[]; RADIO.forEach(r=>{let g=groups.find(x=>x.name===(r.group||'Радио')); if(!g){g={name:r.group||'Радио',desc:r.group_desc||'',items:[]};groups.push(g)} if(!g.desc&&r.group_desc) g.desc=r.group_desc; g.items.push(r)});
+  const total=RADIO.reduce((s,r)=>s+(r.dur||0),0), sent=RADIO.reduce((s,r)=>s+(r.count||0),0);
+  app.innerHTML=`<p class="eyebrow">Все выпуски · ${RADIO.length} · ${fmt(total)} · ${sent} предл.</p><h1>Радио</h1>
+  <p class="lede">Твои предложения из Clozemaster: датский (Christel / Jeppe) → русский → датский медленно → пауза. ▶ — слушать сразу, название — список предложений.</p>
+  ${groups.map(g=>`<h3>${esc(g.name)}</h3>${g.desc?`<p class="lede">${esc(g.desc)}</p>`:''}
+  <ul class="list">${g.items.map(r=>`<li class="rl"><a class="ep" href="#radio/${r.id}"><span class="num">${esc(r.week)}</span>
+    <span class="t"><span class="da">${esc(r.label)}</span><span class="ru">${esc(r.desc||'')}</span></span><span class="meta">${fmt(r.dur)}<br>${r.count} предл.</span></a>
+    <button class="play rp" data-play="radio:${r.id}" aria-label="Слушать ${esc(r.label)}">▶</button></li>`).join('')}</ul>`).join('')||'<p class="empty">Выпусков пока нет.</p>'}`;
+  app.onclick=e=>{const p=e.target.closest('[data-play]'); if(p){const r=RADIO.find(x=>x.id===p.dataset.play.split(':')[1]); if(r) load(radioItem(r),{play:true});}};
+  window.scrollTo(0,0);
 }
 async function showRadio(id){
   const r=RADIO.find(x=>x.id===id); if(!r){showRadioList();return}
