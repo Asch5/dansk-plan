@@ -1,0 +1,2076 @@
+{
+ "id": "nlm-f2",
+ "title_da": "Sådan forklarer du chefen hvorfor",
+ "title_ru": "Как объяснить начальнику «почему»",
+ "summary_ru": "Антон опоздал на депо в Глострупе на десять минут, и ведущие учат, как объяснить причину начальнику по-датски. Разбираются три пары связок: på grund af (+ существительное, «ящик») против fordi (+ предложение с глаголом, «мотор»); på grund af / som følge af / på baggrund af (обычная причина, официальное «в результате», «на основании» информации); derfor / altså (следствие, после derfor в начале сразу глагол — «магнит», и вывод). В конце — короткая история про лёд и мороз, где все связки стоят на своих местах, и итоговое правило.",
+ "lines": [
+  {
+   "t": 0.0,
+   "da": "Forestil dig det her, Anton. Du står inde på depotet i Glostrup.",
+   "ru": "Представь себе вот что, Антон. Ты стоишь на депо в Глострупе."
+  },
+  {
+   "t": 4.0,
+   "da": "Ja, det er tidligt om morgenen.",
+   "ru": "Да, раннее утро."
+  },
+  {
+   "t": 5.6,
+   "da": "Præcis, det er tidligt, det er koldt, og du har måske en kop kaffe i hånden.",
+   "ru": "Именно: рано, холодно, и у тебя, может быть, в руке чашка кофе."
+  },
+  {
+   "t": 9.5,
+   "da": "Og du er altså ti minutter for sent på den.",
+   "ru": "И ты, значит (*altså*), опаздываешь на десять минут."
+  },
+  {
+   "t": 12.1,
+   "da": "Åh, den er ikke god.",
+   "ru": "Ох, это нехорошо."
+  },
+  {
+   "t": 13.2,
+   "da": "Nej, vel? Og din chef kigger sådan lidt undersøgende på dig.",
+   "ru": "Да уж, правда? И твой начальник смотрит на тебя так, немного испытующе."
+  },
+  {
+   "t": 16.8,
+   "da": "Han venter på en forklaring.",
+   "ru": "Он ждёт объяснения."
+  },
+  {
+   "t": 18.4,
+   "da": "Og det er lige præcis her, det gælder.",
+   "ru": "И вот именно здесь всё и решается."
+  },
+  {
+   "t": 20.0,
+   "da": "Lige netop.",
+   "ru": "Вот именно."
+  },
+  {
+   "t": 21.3,
+   "da": "De ord, du vælger at sige i de næste fem sekunder, de bestemmer faktisk alt i den situation.",
+   "ru": "Слова, которые ты решишь сказать в следующие пять секунд, на самом деле определяют всё в этой ситуации."
+  },
+  {
+   "t": 26.1,
+   "da": "Ja, for tror han, at du bare kommer med en dårlig, dårlig undskyldning?",
+   "ru": "Да, ведь что он подумает — что ты просто приходишь с плохой отговоркой?"
+  },
+  {
+   "t": 31.0,
+   "da": "Eller lytter han til dig med respekt, fordi du lyder professionel og præcis?",
+   "ru": "Или он слушает тебя с уважением, потому что ты звучишь профессионально и точно?"
+  },
+  {
+   "t": 34.0,
+   "da": "Det er to meget forskellige scenarier.",
+   "ru": "Это два очень разных сценария."
+  },
+  {
+   "t": 35.6,
+   "da": "Det er det virkelig.",
+   "ru": "Это правда так."
+  },
+  {
+   "t": 36.8,
+   "da": "Velkommen til vores gennemgang i dag.",
+   "ru": "Добро пожаловать на наш сегодняшний разбор."
+  },
+  {
+   "t": 39.2,
+   "da": "Vi skal dykke dybt ned i de her usynlige regler for at forklare hvorfor på dansk.",
+   "ru": "Мы глубоко погрузимся в эти невидимые правила — как по-датски объяснять «почему»."
+  },
+  {
+   "t": 44.3,
+   "da": "Ja, og det er måske noget af det allersværeste overhovedet, når man som dig har russisk som modersmål.",
+   "ru": "Да, и это, пожалуй, вообще одно из самых трудных, когда у тебя, как у тебя, родной язык русский."
+  },
+  {
+   "t": 50.6,
+   "da": "Jamen, det er det.",
+   "ru": "Да, так и есть."
+  },
+  {
+   "t": 51.7,
+   "da": "Og du skal jo navigere i en travl dansk hverdag.",
+   "ru": "А тебе ведь приходится ориентироваться в напряжённых датских буднях."
+  },
+  {
+   "t": 54.1,
+   "da": "Så vi har simpelthen taget noter med.",
+   "ru": "Поэтому мы просто взяли с собой заметки."
+  },
+  {
+   "t": 55.8,
+   "da": "Vi har regler og eksempler, og vi vil bryde det hele ned til noget, du kan bruge direkte ude i skraldebilen.",
+   "ru": "У нас есть правила и примеры, и мы хотим разобрать всё на части, которые ты сможешь сразу использовать в мусоровозе."
+  },
+  {
+   "t": 61.6,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 62.7,
+   "da": "Og vi skal tale enkelt, og vi skal holde et roligt tempo.",
+   "ru": "И мы будем говорить просто и держать спокойный темп."
+  },
+  {
+   "t": 66.6,
+   "da": "Ja, for vi ved jo, at du måske sidder i din skraldebil lige nu ude på ruten i København.",
+   "ru": "Да, ведь мы знаем, что ты, может быть, прямо сейчас сидишь в своём мусоровозе на маршруте в Копенгагене."
+  },
+  {
+   "t": 72.3,
+   "da": "Nemlig.",
+   "ru": "Точно."
+  },
+  {
+   "t": 73.6,
+   "da": "Og vores mål er jo at hjælpe.",
+   "ru": "А наша цель — помочь."
+  },
+  {
+   "t": 75.6,
+   "da": "Det her handler ikke bare om kedelige grammatikregler eller en lang ordliste.",
+   "ru": "Речь не просто о скучных грамматических правилах или длинном списке слов."
+  },
+  {
+   "t": 80.0,
+   "da": "Nej, slet ikke.",
+   "ru": "Нет, совсем нет."
+  },
+  {
+   "t": 80.6,
+   "da": "Det handler om, hvordan du tager kontrol over samtalen.",
+   "ru": "Речь о том, как ты берёшь разговор под контроль."
+  },
+  {
+   "t": 84.2,
+   "da": "Hvordan du skifter fra at være ham, der prøver at forklare en fejl, til at være en professionel medarbejder.",
+   "ru": "Как из того, кто пытается оправдать ошибку, ты превращаешься в профессионального сотрудника."
+  },
+  {
+   "t": 89.6,
+   "da": "En, der bare roligt rapporterer en situation.",
+   "ru": "Того, кто просто спокойно докладывает о ситуации."
+  },
+  {
+   "t": 92.1,
+   "da": "Det lyder som meget bedre.",
+   "ru": "Звучит гораздо лучше."
+  },
+  {
+   "t": 93.2,
+   "da": "Helt sikkert. Så lad os bare springe ud i det.",
+   "ru": "Безусловно. Тогда давай просто нырнём в это."
+  },
+  {
+   "t": 95.6,
+   "da": "Vi starter med den allerstørste fælde.",
+   "ru": "Начнём с самой большой ловушки."
+  },
+  {
+   "t": 97.8,
+   "da": "Ja, den klassiske.",
+   "ru": "Да, классической."
+  },
+  {
+   "t": 99.1,
+   "da": "Den, som nærmest alle udlændinge falder i.",
+   "ru": "Той, в которую попадают почти все иностранцы."
+  },
+  {
+   "t": 101.3,
+   "da": "Og det er forskellen på »på grund af« og »fordi«.",
+   "ru": "Это разница между *på grund af* («из-за») и *fordi* («потому что»)."
+  },
+  {
+   "t": 106.2,
+   "da": "Ja, de er to små drillepinde.",
+   "ru": "Да, это два маленьких вредины."
+  },
+  {
+   "t": 108.3,
+   "da": "Begge dele betyder jo, hvorfor noget sker, ikke sandt?",
+   "ru": "Оба ведь выражают, почему что-то происходит, верно?"
+  },
+  {
+   "t": 111.5,
+   "da": "Så forestil dig min situation på depotet.",
+   "ru": "Тогда представь мою ситуацию на депо."
+  },
+  {
+   "t": 114.0,
+   "da": "Morgentrafikken var bare forfærdelig.",
+   "ru": "Утренний трафик был просто ужасный."
+  },
+  {
+   "t": 115.8,
+   "da": "Det var det godt (?)",
+   "ru": "Ещё бы."
+  },
+  {
+   "t": 116.3,
+   "da": "Jeg kommer ind, jeg er lidt stresset, og så udbryder jeg entusiastisk:",
+   "ru": "Я вхожу, немного на нервах, и с жаром восклицаю:"
+  },
+  {
+   "t": 121.4,
+   "da": "Vi kom for sent på grund af det sneede.",
+   "ru": "(неправильно) «Мы опоздали из-за шёл снег» (*på grund af det sneede*)."
+  },
+  {
+   "t": 124.3,
+   "da": "Av.",
+   "ru": "Ой."
+  },
+  {
+   "t": 125.2,
+   "da": "Jamen, det lyder da meget dansk, gør det ikke?",
+   "ru": "Ну это же звучит очень по-датски, разве нет?"
+  },
+  {
+   "t": 127.4,
+   "da": "Det lyder rigtig meget, ja.",
+   "ru": "Звучит очень похоже, да."
+  },
+  {
+   "t": 128.5,
+   "da": "Men det er desværre helt forkert.",
+   "ru": "Но, к сожалению, это совершенно неправильно."
+  },
+  {
+   "t": 131.4,
+   "da": "Er det? Ja.",
+   "ru": "Правда? — Да."
+  },
+  {
+   "t": 132.9,
+   "da": "Det er en meget typisk fejl.",
+   "ru": "Это очень типичная ошибка."
+  },
+  {
+   "t": 134.7,
+   "da": "For selvom det betyder fuldstændig det samme oppe i dit hoved, så fungerer de to ord rent teknisk helt forskelligt.",
+   "ru": "Хотя у тебя в голове это означает абсолютно одно и то же, технически эти два слова работают совершенно по-разному."
+  },
+  {
+   "t": 141.4,
+   "da": "Okay. Så hvad er reglen her?",
+   "ru": "Окей. Так какое здесь правило?"
+  },
+  {
+   "t": 144.5,
+   "da": "Reglen er helt rolig og fast.",
+   "ru": "Правило спокойное и твёрдое."
+  },
+  {
+   "t": 146.8,
+   "da": "Udtrykket »på grund af« skal altid stå foran et navneord.",
+   "ru": "Выражение *på grund af* всегда должно стоять перед существительным (*navneord*)."
+  },
+  {
+   "t": 150.4,
+   "da": "Og et navneord, det er?",
+   "ru": "А существительное — это?.."
+  },
+  {
+   "t": 152.2,
+   "da": "Det er en ting.",
+   "ru": "Это предмет, вещь."
+  },
+  {
+   "t": 153.2,
+   "da": "Det kan være sneen eller isen.",
+   "ru": "Это может быть снег или лёд."
+  },
+  {
+   "t": 155.1,
+   "da": "Det kan være chefen eller kaffen.",
+   "ru": "Это может быть начальник или кофе."
+  },
+  {
+   "t": 157.5,
+   "da": "Bare en ting. Okay.",
+   "ru": "Просто вещь. — Окей."
+  },
+  {
+   "t": 158.9,
+   "da": "Så »på grund af isen«, for eksempel?",
+   "ru": "То есть, например, *på grund af isen* («из-за льда»)?"
+  },
+  {
+   "t": 161.0,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 162.3,
+   "da": "Men ordet »fordi« derimod, det er anderledes.",
+   "ru": "А вот слово *fordi*, наоборот, устроено иначе."
+  },
+  {
+   "t": 165.2,
+   "da": "Det kræver en hel sætning.",
+   "ru": "Оно требует целого предложения."
+  },
+  {
+   "t": 167.2,
+   "da": "En hel sætning? Ja.",
+   "ru": "Целого предложения? — Да."
+  },
+  {
+   "t": 168.8,
+   "da": "Og en hel sætning betyder, at der skal være et verbum, et udsagnsord.",
+   "ru": "А целое предложение означает, что в нём должен быть глагол (*verbum*, *udsagnsord*)."
+  },
+  {
+   "t": 173.0,
+   "da": "Altså noget, man gør.",
+   "ru": "То есть что-то, что делают."
+  },
+  {
+   "t": 174.3,
+   "da": "Noget, man gør, eller noget, der sker, ja.",
+   "ru": "Что-то, что делают, или что-то, что происходит, да."
+  },
+  {
+   "t": 176.5,
+   "da": "For eksempel »det sneede«.",
+   "ru": "Например, *det sneede* («шёл снег»)."
+  },
+  {
+   "t": 178.1,
+   "da": "Her er »sneede« verbet.",
+   "ru": "Здесь *sneede* — это глагол."
+  },
+  {
+   "t": 179.5,
+   "da": "Men vent lidt.",
+   "ru": "Но подожди-ка."
+  },
+  {
+   "t": 180.6,
+   "da": "Hvorfor skal det være så stift?",
+   "ru": "Почему всё должно быть так жёстко?"
+  },
+  {
+   "t": 182.3,
+   "da": "Altså, hvorfor kan jeg ikke bare blande dem?",
+   "ru": "Ну то есть почему я не могу их просто смешивать?"
+  },
+  {
+   "t": 184.1,
+   "da": "Jamen, chefen forstår jo godt, hvad jeg mener (?)",
+   "ru": "Ну ведь начальник прекрасно понимает, что я имею в виду."
+  },
+  {
+   "t": 187.6,
+   "da": "»På grund af det sneede.«",
+   "ru": "(неправильно) «*På grund af det sneede*»."
+  },
+  {
+   "t": 189.2,
+   "da": "Man forstår det jo.",
+   "ru": "Это же понятно."
+  },
+  {
+   "t": 190.4,
+   "da": "Jo, jo. Man forstår det skam godt.",
+   "ru": "Да-да. Понятно, конечно, вполне."
+  },
+  {
+   "t": 191.8,
+   "da": "Men prøv at høre.",
+   "ru": "Но послушай."
+  },
+  {
+   "t": 192.8,
+   "da": "Det skærer altså i ørene på en dansker.",
+   "ru": "Датчанину это прямо режет слух."
+  },
+  {
+   "t": 195.0,
+   "da": "Det får sproget til at hakke.",
+   "ru": "Из-за этого речь спотыкается."
+  },
+  {
+   "t": 196.8,
+   "da": "Okay.",
+   "ru": "Окей."
+  },
+  {
+   "t": 197.6,
+   "da": "Prøv at tænke på det sådan her.",
+   "ru": "Попробуй представить это так."
+  },
+  {
+   "t": 198.4,
+   "da": "Udtrykket »på grund af« kan kun bære en enkelt lukket kasse.",
+   "ru": "Выражение *på grund af* может нести только один закрытый ящик."
+  },
+  {
+   "t": 203.4,
+   "da": "En lukket kasse? Ja.",
+   "ru": "Закрытый ящик? — Да."
+  },
+  {
+   "t": 205.2,
+   "da": "Kassen er navneordet.",
+   "ru": "Ящик — это существительное."
+  },
+  {
+   "t": 206.5,
+   "da": "Du tager kassen, for eksempel isen, og sætter den ned på grunden. Bum.",
+   "ru": "Ты берёшь ящик, например *isen*, и ставишь его на землю. Бум."
+  },
+  {
+   "t": 210.5,
+   "da": "Er det lidt ligesom, at »på grund af« kun kan bære den ene ting ad gangen? Inde på depotet.",
+   "ru": "Это немного как будто *på grund af* может нести только одну вещь за раз? Там, на депо."
+  },
+  {
+   "t": 215.6,
+   "da": "Nemlig.",
+   "ru": "Точно."
+  },
+  {
+   "t": 216.6,
+   "da": "Men ordet »fordi« er helt anderledes.",
+   "ru": "А слово *fordi* — совсем другое."
+  },
+  {
+   "t": 219.1,
+   "da": "Det er slet ikke en kasse.",
+   "ru": "Это вообще не ящик."
+  },
+  {
+   "t": 220.5,
+   "da": "Hvad er det så?",
+   "ru": "А что же тогда?"
+  },
+  {
+   "t": 221.2,
+   "da": "Det er en startknap til en maskine.",
+   "ru": "Это кнопка запуска машины."
+  },
+  {
+   "t": 223.4,
+   "da": "Åh, en maskine. Okay.",
+   "ru": "А, машина. Окей."
+  },
+  {
+   "t": 225.0,
+   "da": "Ja, når du siger »fordi«, så har maskinen brug for en motor for at køre.",
+   "ru": "Да, когда ты говоришь *fordi*, машине нужен мотор, чтобы работать."
+  },
+  {
+   "t": 228.0,
+   "da": "Ja, og motoren, det er verbet?",
+   "ru": "Да, а мотор — это глагол?"
+  },
+  {
+   "t": 230.4,
+   "da": "Præcis. Verbet er motoren.",
+   "ru": "Именно. Глагол — это мотор."
+  },
+  {
+   "t": 232.3,
+   "da": "Uden verbet kører maskinen altså ikke.",
+   "ru": "Без глагола машина, значит, не едет."
+  },
+  {
+   "t": 234.3,
+   "da": "Okay, så »fordi« har brug for hele maskinen med motoren, altså verbet, for overhovedet at køre.",
+   "ru": "Окей, значит *fordi* нужна вся машина с мотором, то есть с глаголом, чтобы вообще работать."
+  },
+  {
+   "t": 239.6,
+   "da": "Du har fat i det.",
+   "ru": "Ты уловил суть."
+  },
+  {
+   "t": 240.7,
+   "da": "Lad mig lige sige den korrekte sætning med navneordet to gange.",
+   "ru": "Давай я скажу правильное предложение с существительным два раза."
+  },
+  {
+   "t": 243.3,
+   "da": "Meget langsomt.",
+   "ru": "Очень медленно."
+  },
+  {
+   "t": 244.2,
+   "da": "Ja, lad os høre.",
+   "ru": "Да, давай послушаем."
+  },
+  {
+   "t": 245.2,
+   "da": "Lyt godt efter, hvordan »på grund af« bare tager fat i tingene.",
+   "ru": "Послушай внимательно, как *på grund af* просто хватается за вещь."
+  },
+  {
+   "t": 248.9,
+   "da": "Vi kom for sent på grund af is på vejen.",
+   "ru": "Мы опоздали из-за льда на дороге."
+  },
+  {
+   "t": 252.0,
+   "da": "Det lyder roligt, ja.",
+   "ru": "Звучит спокойно, да."
+  },
+  {
+   "t": 253.0,
+   "da": "Jeg siger den lige igen, så den sætter sig hos dig, Anton.",
+   "ru": "Скажу ещё раз, чтобы это у тебя отложилось, Антон."
+  },
+  {
+   "t": 255.2,
+   "da": "Vi kom for sent på grund af is på vejen.",
+   "ru": "Мы опоздали из-за льда на дороге."
+  },
+  {
+   "t": 259.3,
+   "da": "Is er kassen.",
+   "ru": "*Is* (лёд) — это ящик."
+  },
+  {
+   "t": 260.3,
+   "da": "Vi sætter den bare ned.",
+   "ru": "Мы его просто ставим."
+  },
+  {
+   "t": 261.4,
+   "da": "Det er virkelig solidt.",
+   "ru": "Это действительно надёжно."
+  },
+  {
+   "t": 262.8,
+   "da": "Men hvordan lyder det så, når vi starter maskinen med »fordi«?",
+   "ru": "А как это звучит, когда мы запускаем машину с *fordi*?"
+  },
+  {
+   "t": 265.9,
+   "da": "Nu trykker vi på startknappen, og vi skal bruge motoren.",
+   "ru": "Теперь мы жмём на кнопку запуска, и нам нужен мотор."
+  },
+  {
+   "t": 268.8,
+   "da": "Lyt godt til verbet »var« i den her sætning.",
+   "ru": "Послушай внимательно глагол *var* в этом предложении."
+  },
+  {
+   "t": 272.0,
+   "da": "Vi kom for sent, fordi det var glat.",
+   "ru": "Мы опоздали, потому что было скользко."
+  },
+  {
+   "t": 274.5,
+   "da": "Der var motoren, ja.",
+   "ru": "Вот он, мотор, да."
+  },
+  {
+   "t": 275.9,
+   "da": "Og vi gentager lige langsomt.",
+   "ru": "И повторим медленно."
+  },
+  {
+   "t": 277.3,
+   "da": "Vi kom for sent, fordi det var glat.",
+   "ru": "Мы опоздали, потому что было скользко."
+  },
+  {
+   "t": 279.9,
+   "da": "Kan du høre forskellen?",
+   "ru": "Слышишь разницу?"
+  },
+  {
+   "t": 281.0,
+   "da": "Ja, det kan jeg faktisk godt.",
+   "ru": "Да, на самом деле слышу."
+  },
+  {
+   "t": 281.9,
+   "da": "Det er en hel situation, der kører.",
+   "ru": "Это целая ситуация, которая «работает»."
+  },
+  {
+   "t": 283.8,
+   "da": "Ikke bare en kasse.",
+   "ru": "А не просто ящик."
+  },
+  {
+   "t": 285.2,
+   "da": "Lige netop. Det er hele forskellen.",
+   "ru": "Вот именно. В этом вся разница."
+  },
+  {
+   "t": 286.8,
+   "da": "Det giver rigtig god mening.",
+   "ru": "Это очень логично."
+  },
+  {
+   "t": 288.5,
+   "da": "Så lad os lige give dig en lille test ude i skraldebilen, Anton.",
+   "ru": "Тогда давай устроим тебе небольшой тест прямо в мусоровозе, Антон."
+  },
+  {
+   "t": 292.4,
+   "da": "Ja, lad os se, om maskinen virker.",
+   "ru": "Да, посмотрим, работает ли машина."
+  },
+  {
+   "t": 294.4,
+   "da": "Forestil dig, at du skal ringe til chefen og sige, at du tager en fridag.",
+   "ru": "Представь, что тебе нужно позвонить начальнику и сказать, что ты берёшь выходной."
+  },
+  {
+   "t": 297.7,
+   "da": "Din søn er syg.",
+   "ru": "Твой сын болен."
+  },
+  {
+   "t": 299.1,
+   "da": "Klassisk hverdagssituation.",
+   "ru": "Классическая бытовая ситуация."
+  },
+  {
+   "t": 300.6,
+   "da": "Hvad vælger din hjerne så her? (?)",
+   "ru": "Что тогда выберет твой мозг?"
+  },
+  {
+   "t": 301.9,
+   "da": "Du har sætningen: Jeg tog en fridag – blank – min søn var syg.",
+   "ru": "У тебя предложение: «Я взял выходной — пропуск — мой сын был болен»."
+  },
+  {
+   "t": 306.5,
+   "da": "Vælger du kassen, eller trykker du på startknappen til motoren?",
+   "ru": "Ты выбираешь ящик или жмёшь на кнопку запуска мотора?"
+  },
+  {
+   "t": 309.5,
+   "da": "Ja, Anton, prøv lige at kigge på ordene: min søn var syg.",
+   "ru": "Да, Антон, посмотри на слова: *min søn var syg*."
+  },
+  {
+   "t": 313.1,
+   "da": "Er der et verbum?",
+   "ru": "Есть ли там глагол?"
+  },
+  {
+   "t": 314.4,
+   "da": "Er der en motor derinde?",
+   "ru": "Есть ли там внутри мотор?"
+  },
+  {
+   "t": 316.4,
+   "da": "Tænk selv.",
+   "ru": "Подумай сам."
+  },
+  {
+   "t": 317.9,
+   "da": "Jeg holder lige en kort pause.",
+   "ru": "Я сделаю короткую паузу."
+  },
+  {
+   "t": 319.9,
+   "da": "Svaret er nemlig: fordi.",
+   "ru": "Ответ: *fordi*."
+  },
+  {
+   "t": 322.1,
+   "da": "For »min søn var syg« er en hel sætning.",
+   "ru": "Потому что *min søn var syg* — целое предложение."
+  },
+  {
+   "t": 324.4,
+   "da": "Motoren »var« kører.",
+   "ru": "Мотор *var* работает."
+  },
+  {
+   "t": 326.5,
+   "da": "Præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 327.6,
+   "da": "Hvis det var den anden, skulle du have sagt »på grund af min syge søn«.",
+   "ru": "Если бы это был другой вариант, тебе пришлось бы сказать *på grund af min syge søn* («из-за моего больного сына»)."
+  },
+  {
+   "t": 330.5,
+   "da": "Men det gjorde du ikke.",
+   "ru": "Но ты так не сказал."
+  },
+  {
+   "t": 332.2,
+   "da": "Så har vi styr på basen (?)",
+   "ru": "Итак, основа у нас в порядке."
+  },
+  {
+   "t": 334.0,
+   "da": "Kasse eller motor.",
+   "ru": "Ящик или мотор."
+  },
+  {
+   "t": 334.9,
+   "da": "Men ude i virkeligheden, der er det jo ikke kun vejret og sygdomme, vi taler om.",
+   "ru": "Но в реальной жизни речь ведь идёт не только о погоде и болезнях."
+  },
+  {
+   "t": 339.5,
+   "da": "Nej, slet ikke.",
+   "ru": "Нет, совсем нет."
+  },
+  {
+   "t": 340.3,
+   "da": "Nogle gange er der større ting på spil inde i Glostrup.",
+   "ru": "Иногда в Глострупе на кону вещи и покрупнее."
+  },
+  {
+   "t": 342.8,
+   "da": "Nedbrud. Store beslutninger.",
+   "ru": "Поломки. Важные решения."
+  },
+  {
+   "t": 344.4,
+   "da": "Og det fører os faktisk videre til næste skridt.",
+   "ru": "И это, собственно, ведёт нас к следующему шагу."
+  },
+  {
+   "t": 346.7,
+   "da": "Og det er et sted, hvor jeg virkelig har brug for at udfordre det danske sprog lidt.",
+   "ru": "И тут мне правда хочется немного поспорить с датским языком."
+  },
+  {
+   "t": 350.9,
+   "da": "Gør du bare det.",
+   "ru": "Давай, спорь."
+  },
+  {
+   "t": 351.8,
+   "da": "Fordi nu, hvor jeg endelig har lært reglen med kassen, at jeg bruger »på grund af« foran et navneord,",
+   "ru": "Потому что теперь, когда я наконец выучил правило с ящиком — что *på grund af* ставлю перед существительным,"
+  },
+  {
+   "t": 356.7,
+   "da": "så opdager jeg, at I danskere har flere ord for det samme.",
+   "ru": "я обнаруживаю, что у вас, датчан, есть несколько слов для одного и того же."
+  },
+  {
+   "t": 359.4,
+   "da": "Åh ja.",
+   "ru": "О да."
+  },
+  {
+   "t": 359.8,
+   "da": "Jeg hører tit »som følge af« og »på baggrund af«.",
+   "ru": "Я часто слышу *som følge af* и *på baggrund af*."
+  },
+  {
+   "t": 363.8,
+   "da": "Hvorfor skal vi komplicere det?",
+   "ru": "Зачем всё усложнять?"
+  },
+  {
+   "t": 365.4,
+   "da": "Kan I ikke bare bruge det samme ord hver gang?",
+   "ru": "Разве нельзя просто каждый раз использовать одно и то же слово?"
+  },
+  {
+   "t": 367.3,
+   "da": "Jeg forstår godt din frustration.",
+   "ru": "Я хорошо понимаю твоё раздражение."
+  },
+  {
+   "t": 368.8,
+   "da": "Det virker unødvendigt.",
+   "ru": "Это кажется лишним."
+  },
+  {
+   "t": 369.9,
+   "da": "Lad mig give et eksempel.",
+   "ru": "Давай я приведу пример."
+  },
+  {
+   "t": 371.1,
+   "da": "Chefen har truffet en beslutning, og jeg siger:",
+   "ru": "Начальник принял решение, и я говорю:"
+  },
+  {
+   "t": 373.5,
+   "da": "På baggrund af sneen kom vi for sent.",
+   "ru": "(неправильно) «На основании снега мы опоздали» (*på baggrund af sneen*)."
+  },
+  {
+   "t": 375.5,
+   "da": "Er det ikke bare helt fint?",
+   "ru": "Разве это не нормально?"
+  },
+  {
+   "t": 377.0,
+   "da": "Jamen, nej, det er det faktisk ikke.",
+   "ru": "Ну нет, на самом деле нет."
+  },
+  {
+   "t": 378.5,
+   "da": "Jeg retter dig lige roligt her, for det handler om mere end grammatik.",
+   "ru": "Я тебя тут спокойно поправлю, потому что дело не только в грамматике."
+  },
+  {
+   "t": 381.8,
+   "da": "Gør det?",
+   "ru": "Да?"
+  },
+  {
+   "t": 382.5,
+   "da": "Ja, det handler om tonen og psykologien.",
+   "ru": "Да, дело в тоне и в психологии."
+  },
+  {
+   "t": 385.3,
+   "da": "Vi har de her tre:",
+   "ru": "У нас есть эти три:"
+  },
+  {
+   "t": 386.5,
+   "da": "»på grund af«, »som følge af« og »på baggrund af«.",
+   "ru": "*på grund af*, *som følge af* и *på baggrund af*."
+  },
+  {
+   "t": 389.8,
+   "da": "De står alle tre foran et navneord. Ja.",
+   "ru": "Все три стоят перед существительным. — Да."
+  },
+  {
+   "t": 392.7,
+   "da": "Men de sender vidt forskellige signaler.",
+   "ru": "Но они посылают совершенно разные сигналы."
+  },
+  {
+   "t": 394.7,
+   "da": "»På grund af«, det er den almindelige fysiske virkelighed.",
+   "ru": "*På grund af* — это обычная физическая реальность."
+  },
+  {
+   "t": 397.8,
+   "da": "Det er regnen, isen, at man er træt.",
+   "ru": "Это дождь, лёд, то, что ты устал."
+  },
+  {
+   "t": 400.5,
+   "da": "Helt ned på jorden.",
+   "ru": "Совсем приземлённо."
+  },
+  {
+   "t": 401.9,
+   "da": "Okay, så det er den fysiske årsag.",
+   "ru": "Окей, значит это физическая причина."
+  },
+  {
+   "t": 404.3,
+   "da": "Hvad er »som følge af« så?",
+   "ru": "А что тогда *som følge af*?"
+  },
+  {
+   "t": 406.2,
+   "da": "Er det ikke bare et fint ord for det samme?",
+   "ru": "Разве это не просто красивое слово для того же самого?"
+  },
+  {
+   "t": 407.8,
+   "da": "Ikke kun.",
+   "ru": "Не только."
+  },
+  {
+   "t": 408.7,
+   "da": "»Som følge af« er meget formelt.",
+   "ru": "*Som følge af* — очень официальное."
+  },
+  {
+   "t": 410.8,
+   "da": "Det bruges om resultater af noget dramatisk.",
+   "ru": "Его используют для последствий чего-то драматического."
+  },
+  {
+   "t": 413.0,
+   "da": "En ulykke på ruten eller en voldsom storm, hvor skraldespanden vælter.",
+   "ru": "Авария на маршруте или сильный шторм, когда мусорный бак опрокидывается."
+  },
+  {
+   "t": 416.9,
+   "da": "Ja, okay.",
+   "ru": "Да, окей."
+  },
+  {
+   "t": 417.6,
+   "da": "Hvis du siger, at på grund af stormen væltede spandene, lyder du lidt som en tilfældig fyr på gaden.",
+   "ru": "Если ты скажешь «из-за шторма баки попадали», ты звучишь немного как случайный парень с улицы."
+  },
+  {
+   "t": 423.2,
+   "da": "Men siger du »som følge af stormen«, så lyder du som en professionel chauffør, der rapporterer til systemet.",
+   "ru": "А если скажешь *som følge af stormen* («в результате шторма»), то звучишь как профессиональный водитель, который докладывает в систему."
+  },
+  {
+   "t": 429.1,
+   "da": "Det giver mening.",
+   "ru": "Логично."
+  },
+  {
+   "t": 430.2,
+   "da": "Det handler om at tage sit arbejde seriøst.",
+   "ru": "Речь о том, чтобы серьёзно относиться к своей работе."
+  },
+  {
+   "t": 432.9,
+   "da": "Men hvad så med den tredje?",
+   "ru": "А как же третье?"
+  },
+  {
+   "t": 434.2,
+   "da": "Jeg siger jo, at på baggrund af sneen kom vi for sent.",
+   "ru": "(неправильно) Я же говорю: *på baggrund af sneen kom vi for sent*."
+  },
+  {
+   "t": 437.3,
+   "da": "Hvorfor var det galt?",
+   "ru": "Почему это было неправильно?"
+  },
+  {
+   "t": 437.9,
+   "da": "Fordi »på baggrund af« er grundlaget for en beslutning.",
+   "ru": "Потому что *på baggrund af* — это основание для решения."
+  },
+  {
+   "t": 442.1,
+   "da": "Det er information.",
+   "ru": "Это информация."
+  },
+  {
+   "t": 443.0,
+   "da": "Et stykke papir, en vejrudsigt, en mail.",
+   "ru": "Бумага, прогноз погоды, письмо по почте."
+  },
+  {
+   "t": 446.1,
+   "da": "Og sne er ikke mail.",
+   "ru": "А снег — это не письмо."
+  },
+  {
+   "t": 447.5,
+   "da": "Præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 448.5,
+   "da": "Sne, der ligger fysisk på gaden, er ikke information.",
+   "ru": "Снег, который физически лежит на улице, — это не информация."
+  },
+  {
+   "t": 451.0,
+   "da": "Du kan ikke træffe en beslutning på baggrund af fysisk is.",
+   "ru": "Нельзя принять решение на основании физического льда."
+  },
+  {
+   "t": 454.2,
+   "da": "Men du kan gøre det på baggrund af en advarsel i nyhederne.",
+   "ru": "Но можно — на основании предупреждения в новостях."
+  },
+  {
+   "t": 457.0,
+   "da": "Ah, det er jo et fantastisk billede.",
+   "ru": "А, это же отличный образ."
+  },
+  {
+   "t": 459.4,
+   "da": "Er det ikke?",
+   "ru": "Правда?"
+  },
+  {
+   "t": 459.7,
+   "da": "Så »på baggrund af« er ligesom at bygge en plan på et fundament af papir eller information.",
+   "ru": "То есть *på baggrund af* — это как строить план на фундаменте из бумаги или информации."
+  },
+  {
+   "t": 465.7,
+   "da": "Nemlig.",
+   "ru": "Точно."
+  },
+  {
+   "t": 466.2,
+   "da": "Mens »på grund af« er selve det våde vejr, der rammer skraldebilen.",
+   "ru": "А *på grund af* — это сама мокрая погода, которая обрушивается на мусоровоз."
+  },
+  {
+   "t": 470.4,
+   "da": "Fysisk virkelighed versus information på et skrivebord.",
+   "ru": "Физическая реальность против информации на письменном столе."
+  },
+  {
+   "t": 473.5,
+   "da": "Det er lige præcis det, det er.",
+   "ru": "Именно так и есть."
+  },
+  {
+   "t": 475.4,
+   "da": "Lad os få de to korrekte sætninger langsomt ind under huden.",
+   "ru": "Давай медленно впитаем два правильных предложения."
+  },
+  {
+   "t": 478.7,
+   "da": "Anton, lyt til den formelle her:",
+   "ru": "Антон, послушай официальное:"
+  },
+  {
+   "t": 481.5,
+   "da": "Som følge af stormen var mange skraldespande væltet.",
+   "ru": "В результате шторма многие мусорные баки были опрокинуты."
+  },
+  {
+   "t": 485.3,
+   "da": "Det lyder af en rapport.",
+   "ru": "Звучит как отчёт."
+  },
+  {
+   "t": 486.9,
+   "da": "Jeg siger den lige igen.",
+   "ru": "Скажу ещё раз."
+  },
+  {
+   "t": 487.8,
+   "da": "Som følge af stormen var mange skraldespande væltet.",
+   "ru": "В результате шторма многие мусорные баки были опрокинуты."
+  },
+  {
+   "t": 492.1,
+   "da": "Og så har vi beslutningen bygget på information.",
+   "ru": "А теперь решение, основанное на информации."
+  },
+  {
+   "t": 495.6,
+   "da": "Ja, lad os høre papirversionen.",
+   "ru": "Да, давай послушаем «бумажную» версию."
+  },
+  {
+   "t": 497.2,
+   "da": "På baggrund af vejrudsigten tager vi til Sverige på lørdag.",
+   "ru": "На основании прогноза погоды мы в субботу едем в Швецию."
+  },
+  {
+   "t": 500.8,
+   "da": "Okay.",
+   "ru": "Окей."
+  },
+  {
+   "t": 501.8,
+   "da": "En gang til.",
+   "ru": "Ещё раз."
+  },
+  {
+   "t": 502.8,
+   "da": "Mærk informationsgrundlaget.",
+   "ru": "Почувствуй информационную основу."
+  },
+  {
+   "t": 505.0,
+   "da": "På baggrund af vejrudsigten tager vi til Sverige på lørdag.",
+   "ru": "На основании прогноза погоды мы в субботу едем в Швецию."
+  },
+  {
+   "t": 508.6,
+   "da": "Fantastisk.",
+   "ru": "Великолепно."
+  },
+  {
+   "t": 509.5,
+   "da": "Anton, lad os teste det i virkeligheden.",
+   "ru": "Антон, давай проверим это на практике."
+  },
+  {
+   "t": 511.6,
+   "da": "Du står tidligt om morgenen, og bilen startede ikke.",
+   "ru": "Ты стоишь рано утром, и машина не завелась."
+  },
+  {
+   "t": 514.0,
+   "da": "Det er minus otte grader.",
+   "ru": "Минус восемь градусов."
+  },
+  {
+   "t": 515.3,
+   "da": "Det er koldt.",
+   "ru": "Холодно."
+  },
+  {
+   "t": 516.0,
+   "da": "Hvad sker der i din hjerne her?",
+   "ru": "Что происходит у тебя в голове?"
+  },
+  {
+   "t": 517.0,
+   "da": "Du siger: Bilen startede ikke – blank – frosten.",
+   "ru": "Ты говоришь: «Машина не завелась — пропуск — мороз»."
+  },
+  {
+   "t": 520.8,
+   "da": "Tænk dig lidt om ude i bilen (?)",
+   "ru": "Подумай немного там, в машине."
+  },
+  {
+   "t": 522.6,
+   "da": "Er frost et formelt papir?",
+   "ru": "Мороз — это официальная бумага?"
+  },
+  {
+   "t": 524.8,
+   "da": "Er det en stor rapport?",
+   "ru": "Это большой отчёт?"
+  },
+  {
+   "t": 526.5,
+   "da": "Vi holder lige en kort pause.",
+   "ru": "Сделаем короткую паузу."
+  },
+  {
+   "t": 528.8,
+   "da": "Tænk selv.",
+   "ru": "Подумай сам."
+  },
+  {
+   "t": 530.1,
+   "da": "Svaret er: på grund af.",
+   "ru": "Ответ: *på grund af*."
+  },
+  {
+   "t": 532.4,
+   "da": "For frosten er bare en almindelig fysisk årsag.",
+   "ru": "Потому что мороз — это просто обычная физическая причина."
+  },
+  {
+   "t": 535.2,
+   "da": "Kold og hård natur.",
+   "ru": "Холодная и суровая природа."
+  },
+  {
+   "t": 536.3,
+   "da": "Helt rigtigt.",
+   "ru": "Совершенно верно."
+  },
+  {
+   "t": 537.9,
+   "da": "Men vi er ikke færdige, for nu kommer det næste store skridt.",
+   "ru": "Но мы не закончили, потому что сейчас следующий большой шаг."
+  },
+  {
+   "t": 541.5,
+   "da": "Og hvad er det?",
+   "ru": "И какой же?"
+  },
+  {
+   "t": 542.6,
+   "da": "Når du har fortalt din chef, hvorfor noget skete, så skal du jo frem til resultatet.",
+   "ru": "Когда ты рассказал начальнику, почему что-то случилось, нужно ведь перейти к результату."
+  },
+  {
+   "t": 547.6,
+   "da": "Hvad skete der så?",
+   "ru": "Что произошло потом?"
+  },
+  {
+   "t": 548.6,
+   "da": "Åh ja, konsekvensen.",
+   "ru": "Ах да, последствие."
+  },
+  {
+   "t": 550.5,
+   "da": "Og her introducerer vi ordene »derfor« og »altså«.",
+   "ru": "И здесь мы вводим слова *derfor* и *altså*."
+  },
+  {
+   "t": 554.0,
+   "da": "Og her må jeg igen krybe til korset.",
+   "ru": "И тут мне опять придётся признать свою слабость."
+  },
+  {
+   "t": 556.0,
+   "da": "Det her, det driller mig altså.",
+   "ru": "Вот это меня прямо мучает (*altså* для усиления)."
+  },
+  {
+   "t": 557.6,
+   "da": "Hvad gør du da?",
+   "ru": "А что ты делаешь?"
+  },
+  {
+   "t": 558.9,
+   "da": "Jeg vil gerne fortælle chefen om min kørsel.",
+   "ru": "Я хочу рассказать начальнику, как я еду."
+  },
+  {
+   "t": 561.4,
+   "da": "At jeg kører det forsigtigt.",
+   "ru": "Что я еду осторожно."
+  },
+  {
+   "t": 562.9,
+   "da": "Så jeg siger: Isen var glat, derfor jeg kører langsomt.",
+   "ru": "И я говорю: (неправильно) «Лёд был скользкий, поэтому я еду медленно» (*derfor jeg kører*)."
+  },
+  {
+   "t": 567.2,
+   "da": "Nej, nej, nej.",
+   "ru": "Нет, нет, нет."
+  },
+  {
+   "t": 568.5,
+   "da": "Anton, hvis du lytter med nu, så skal du for alvor spidse ører.",
+   "ru": "Антон, если ты сейчас слушаешь, по-настоящему навостри уши."
+  },
+  {
+   "t": 571.7,
+   "da": "Hvorfor?",
+   "ru": "Почему?"
+  },
+  {
+   "t": 572.0,
+   "da": "Ordet »derfor«, så mig som person, og så handlingen »kører«.",
+   "ru": "Слово *derfor*, потом я как человек, а потом действие *kører*."
+  },
+  {
+   "t": 577.2,
+   "da": "Det er da logisk.",
+   "ru": "Это же логично."
+  },
+  {
+   "t": 578.3,
+   "da": "Mildest talt nej.",
+   "ru": "Мягко говоря, нет."
+  },
+  {
+   "t": 579.7,
+   "da": "Ordstillingen efter »derfor« i starten af en sætning er fuldstændig afgørende.",
+   "ru": "Порядок слов после *derfor* в начале предложения абсолютно решающий."
+  },
+  {
+   "t": 584.5,
+   "da": "Verbet kommer lige efter.",
+   "ru": "Глагол идёт сразу после него."
+  },
+  {
+   "t": 586.4,
+   "da": "Lige efter?",
+   "ru": "Сразу после?"
+  },
+  {
+   "t": 587.5,
+   "da": "Ja, dansk er stædig med det her.",
+   "ru": "Да, датский в этом упрям."
+  },
+  {
+   "t": 589.8,
+   "da": "Hvis »derfor« står først, så skal verbet komme som det allernæste.",
+   "ru": "Если *derfor* стоит первым, глагол должен идти самым следующим."
+  },
+  {
+   "t": 593.8,
+   "da": "Du sagde »derfor jeg kører«.",
+   "ru": "Ты сказал (неправильно) «*derfor jeg kører*»."
+  },
+  {
+   "t": 596.0,
+   "da": "Det er forkert.",
+   "ru": "Это неправильно."
+  },
+  {
+   "t": 597.2,
+   "da": "Okay, wow.",
+   "ru": "Окей, ого."
+  },
+  {
+   "t": 598.7,
+   "da": "Så det hedder »derfor kører jeg«.",
+   "ru": "Значит, правильно *derfor kører jeg*."
+  },
+  {
+   "t": 601.3,
+   "da": "Nemlig.",
+   "ru": "Точно."
+  },
+  {
+   "t": 602.9,
+   "da": "Så »derfor« er som en magnet i starten af sætningen, der simpelthen trækker verbet helt frem til sig med det samme.",
+   "ru": "Значит, *derfor* — как магнит в начале предложения, который сразу же притягивает глагол вплотную к себе."
+  },
+  {
+   "t": 608.6,
+   "da": "Lige præcis den følelse.",
+   "ru": "Именно такое ощущение."
+  },
+  {
+   "t": 610.1,
+   "da": "Det er en stærk magnet.",
+   "ru": "Это сильный магнит."
+  },
+  {
+   "t": 612.0,
+   "da": "De sidder klistret sammen: »derfor kører«.",
+   "ru": "Они прилипли друг к другу: *derfor kører*."
+  },
+  {
+   "t": 614.8,
+   "da": "Hold op.",
+   "ru": "Надо же."
+  },
+  {
+   "t": 615.7,
+   "da": "Og så skal vi lige huske, at »altså« er anderledes end »derfor«.",
+   "ru": "И ещё нужно помнить, что *altså* — не то же самое, что *derfor*."
+  },
+  {
+   "t": 619.2,
+   "da": "Er det ikke det samme? Nej.",
+   "ru": "Разве это не одно и то же? — Нет."
+  },
+  {
+   "t": 621.0,
+   "da": "»Derfor« viser direkte fra årsag til følge.",
+   "ru": "*Derfor* указывает прямо от причины к следствию."
+  },
+  {
+   "t": 623.3,
+   "da": "Regn, derfor våd.",
+   "ru": "Дождь — поэтому мокро."
+  },
+  {
+   "t": 624.9,
+   "da": "Men »altså« betyder mere »det betyder« eller »så« – vi kan konkludere.",
+   "ru": "А *altså* скорее значит «это значит» или «итак» — мы делаем вывод."
+  },
+  {
+   "t": 630.0,
+   "da": "Okay.",
+   "ru": "Окей."
+  },
+  {
+   "t": 630.2,
+   "da": "Og rent teknisk står »altså« tit lidt længere inde i sætningen.",
+   "ru": "И чисто технически *altså* часто стоит немного глубже в предложении."
+  },
+  {
+   "t": 634.1,
+   "da": "Efter verbet.",
+   "ru": "После глагола."
+  },
+  {
+   "t": 635.5,
+   "da": "Så ikke en magnet i starten?",
+   "ru": "То есть не магнит в начале?"
+  },
+  {
+   "t": 636.8,
+   "da": "Nej, ikke på samme måde.",
+   "ru": "Нет, не так же."
+  },
+  {
+   "t": 638.7,
+   "da": "Lad mig sige de korrekte sætninger to gange langsomt for at slå ordstillingen helt fast.",
+   "ru": "Давай я скажу правильные предложения по два раза медленно, чтобы закрепить порядок слов."
+  },
+  {
+   "t": 643.2,
+   "da": "Ja tak.",
+   "ru": "Да, пожалуйста."
+  },
+  {
+   "t": 644.2,
+   "da": "Først magneten: »derfor«.",
+   "ru": "Сначала магнит: *derfor*."
+  },
+  {
+   "t": 646.3,
+   "da": "Lyt til, hvordan det trækker verbet »går« frem.",
+   "ru": "Послушай, как он вытягивает вперёд глагол *går*."
+  },
+  {
+   "t": 649.5,
+   "da": "Jeg starter klokken fire.",
+   "ru": "Я начинаю в четыре."
+  },
+  {
+   "t": 650.8,
+   "da": "Derfor går jeg tidligt i seng.",
+   "ru": "Поэтому я рано ложусь спать."
+  },
+  {
+   "t": 652.7,
+   "da": "»Derfor går.«",
+   "ru": "*Derfor går*."
+  },
+  {
+   "t": 653.3,
+   "da": "Jeg gentager roligt.",
+   "ru": "Спокойно повторяю."
+  },
+  {
+   "t": 655.6,
+   "da": "Jeg starter klokken fire.",
+   "ru": "Я начинаю в четыре."
+  },
+  {
+   "t": 657.2,
+   "da": "Derfor går jeg tidligt i seng.",
+   "ru": "Поэтому я рано ложусь спать."
+  },
+  {
+   "t": 659.9,
+   "da": "Magneten virker.",
+   "ru": "Магнит работает."
+  },
+  {
+   "t": 661.7,
+   "da": "Og nu konklusionen: »altså«.",
+   "ru": "А теперь вывод: *altså*."
+  },
+  {
+   "t": 664.6,
+   "da": "Butikken lukker klokken otte.",
+   "ru": "Магазин закрывается в восемь."
+  },
+  {
+   "t": 666.1,
+   "da": "Vi skal altså af sted nu.",
+   "ru": "Значит, нам надо выходить сейчас."
+  },
+  {
+   "t": 668.2,
+   "da": "Okay.",
+   "ru": "Окей."
+  },
+  {
+   "t": 669.2,
+   "da": "En gang til.",
+   "ru": "Ещё раз."
+  },
+  {
+   "t": 669.6,
+   "da": "Butikken lukker klokken otte.",
+   "ru": "Магазин закрывается в восемь."
+  },
+  {
+   "t": 671.9,
+   "da": "Vi skal altså af sted nu.",
+   "ru": "Значит, нам надо выходить сейчас."
+  },
+  {
+   "t": 674.2,
+   "da": "Det er jo fantastisk.",
+   "ru": "Это же замечательно."
+  },
+  {
+   "t": 676.2,
+   "da": "Lad os lige teste magneten, Anton.",
+   "ru": "Давай проверим магнит, Антон."
+  },
+  {
+   "t": 678.3,
+   "da": "Det er glat i dag. – Blank – kører jeg langsomt.",
+   "ru": "Сегодня скользко. — Пропуск — еду я медленно."
+  },
+  {
+   "t": 682.5,
+   "da": "Tænk selv.",
+   "ru": "Подумай сам."
+  },
+  {
+   "t": 683.3,
+   "da": "Hvad trækker verbet »kører« frem?",
+   "ru": "Что вытягивает вперёд глагол *kører*?"
+  },
+  {
+   "t": 685.6,
+   "da": "Ja. Mærk magneten.",
+   "ru": "Да. Почувствуй магнит."
+  },
+  {
+   "t": 687.0,
+   "da": "Svaret er: derfor.",
+   "ru": "Ответ: *derfor*."
+  },
+  {
+   "t": 689.0,
+   "da": "Og læg mærke til, at verbet »kører« kommer lige efter »derfor«.",
+   "ru": "И обрати внимание, что глагол *kører* идёт сразу после *derfor*."
+  },
+  {
+   "t": 692.9,
+   "da": "Det er virkelig stærkt, hvis man fanger den.",
+   "ru": "Это действительно сильно, если уловить."
+  },
+  {
+   "t": 695.0,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 695.7,
+   "da": "Nu samler vi lige alle trådene.",
+   "ru": "Теперь соберём все нити вместе."
+  },
+  {
+   "t": 697.1,
+   "da": "Vi har skrevet en lille historie fra vores kildemateriale, som passer perfekt til Antons morgen.",
+   "ru": "Мы написали небольшую историю по нашим исходным материалам, которая идеально подходит к утру Антона."
+  },
+  {
+   "t": 702.0,
+   "da": "Ja. Vi vil læse den op sammen.",
+   "ru": "Да. Мы прочитаем её вместе вслух."
+  },
+  {
+   "t": 703.7,
+   "da": "Roligt og tydeligt, så man kan høre alle ordene.",
+   "ru": "Спокойно и отчётливо, чтобы были слышны все слова."
+  },
+  {
+   "t": 705.8,
+   "da": "Jeg glæder mig.",
+   "ru": "Жду с нетерпением."
+  },
+  {
+   "t": 706.4,
+   "da": "Starter du historien?",
+   "ru": "Начнёшь историю?"
+  },
+  {
+   "t": 707.8,
+   "da": "Det gør jeg.",
+   "ru": "Начну."
+  },
+  {
+   "t": 709.3,
+   "da": "I morges var der is på vejen.",
+   "ru": "Сегодня утром на дороге был лёд."
+  },
+  {
+   "t": 711.3,
+   "da": "På grund af isen kørte jeg langsomt.",
+   "ru": "Из-за льда я ехал медленно."
+  },
+  {
+   "t": 713.5,
+   "da": "Og derfor kom jeg ti minutter for sent til depotet.",
+   "ru": "И поэтому я на десять минут опоздал на депо."
+  },
+  {
+   "t": 716.2,
+   "da": "Som følge af frosten startede to biler slet ikke.",
+   "ru": "В результате мороза две машины вообще не завелись."
+  },
+  {
+   "t": 718.7,
+   "da": "På baggrund af vejrudsigten har chefen besluttet, at vi starter en halv time senere i morgen.",
+   "ru": "На основании прогноза погоды начальник решил, что завтра мы начинаем на полчаса позже."
+  },
+  {
+   "t": 723.1,
+   "da": "Vi skal altså først møde halv fem.",
+   "ru": "Значит, нам надо выходить на работу только в половине пятого."
+  },
+  {
+   "t": 725.0,
+   "da": "Prøv lige at høre, hvor fint det er.",
+   "ru": "Послушай, как это красиво."
+  },
+  {
+   "t": 727.1,
+   "da": "Alle ordene har deres faste plads.",
+   "ru": "У всех слов своё постоянное место."
+  },
+  {
+   "t": 729.6,
+   "da": "Ja, de binder årsag og virkning så smukt sammen.",
+   "ru": "Да, они так красиво связывают причину и следствие."
+  },
+  {
+   "t": 732.4,
+   "da": "Vi starter med kassen: »på grund af isen«.",
+   "ru": "Начинаем с ящика: *på grund af isen*."
+  },
+  {
+   "t": 735.1,
+   "da": "Den fysiske virkelighed.",
+   "ru": "Физическая реальность."
+  },
+  {
+   "t": 736.7,
+   "da": "Så kommer magneten: »derfor kom jeg«.",
+   "ru": "Потом магнит: *derfor kom jeg*."
+  },
+  {
+   "t": 739.3,
+   "da": "Direkte resultat.",
+   "ru": "Прямой результат."
+  },
+  {
+   "t": 740.9,
+   "da": "Og så blev det dramatisk og formelt med bilerne: »som følge af frosten«.",
+   "ru": "Потом стало драматично и официально с машинами: *som følge af frosten*."
+  },
+  {
+   "t": 744.8,
+   "da": "Og chefen med sit papirgrundlag: »på baggrund af vejrudsigten«.",
+   "ru": "И начальник со своей «бумажной» основой: *på baggrund af vejrudsigten*."
+  },
+  {
+   "t": 748.3,
+   "da": "Han har tænkt sig om.",
+   "ru": "Он всё обдумал."
+  },
+  {
+   "t": 749.7,
+   "da": "Nemlig.",
+   "ru": "Точно."
+  },
+  {
+   "t": 750.7,
+   "da": "Og til sidst konklusionen: »Vi skal altså først møde halv fem.«",
+   "ru": "И напоследок вывод: *Vi skal altså først møde halv fem*."
+  },
+  {
+   "t": 754.2,
+   "da": "Tænk at kunne tale sådan ovre i Glostrup, Anton.",
+   "ru": "Представь, Антон, — говорить так там, в Глострупе."
+  },
+  {
+   "t": 757.1,
+   "da": "Du vil fremstå med fuldstændigt overblik.",
+   "ru": "Ты будешь выглядеть человеком, который полностью владеет ситуацией."
+  },
+  {
+   "t": 759.9,
+   "da": "Uden tvivl.",
+   "ru": "Без сомнения."
+  },
+  {
+   "t": 761.3,
+   "da": "Tiden flyver.",
+   "ru": "Время летит."
+  },
+  {
+   "t": 762.3,
+   "da": "Vi skal til at opsummere.",
+   "ru": "Пора подводить итог."
+  },
+  {
+   "t": 763.7,
+   "da": "Dagens vigtigste regel meget kort:",
+   "ru": "Самое важное правило дня, очень кратко:"
+  },
+  {
+   "t": 765.9,
+   "da": "Der er to veje til at forklare hvorfor. Ja.",
+   "ru": "Есть два пути объяснить «почему». — Да."
+  },
+  {
+   "t": 767.9,
+   "da": "Enten udtrykket »på grund af« plus et navneord.",
+   "ru": "Либо выражение *på grund af* плюс существительное."
+  },
+  {
+   "t": 771.3,
+   "da": "Altså en kasse.",
+   "ru": "То есть ящик."
+  },
+  {
+   "t": 773.1,
+   "da": "Eller ordet »fordi« plus en hel sætning med et verbum.",
+   "ru": "Либо слово *fordi* плюс целое предложение с глаголом."
+  },
+  {
+   "t": 776.3,
+   "da": "Altså maskinen.",
+   "ru": "То есть машина."
+  },
+  {
+   "t": 777.9,
+   "da": "Det er lige præcis det, man skal huske.",
+   "ru": "Именно это и нужно запомнить."
+  },
+  {
+   "t": 779.7,
+   "da": "Har du noget til at slutte af på her til sidst?",
+   "ru": "У тебя есть что-нибудь, чем закончить напоследок?"
+  },
+  {
+   "t": 781.6,
+   "da": "Ja. Jeg har faktisk en lidt sjov og provokerende tanke til lytteren her.",
+   "ru": "Да. У меня есть немного забавная и провокационная мысль для слушателя."
+  },
+  {
+   "t": 784.7,
+   "da": "Okay. Skyd.",
+   "ru": "Окей. Выкладывай."
+  },
+  {
+   "t": 786.0,
+   "da": "Næste gang du hører radio, måske i morgen tidlig,",
+   "ru": "В следующий раз, когда будешь слушать радио, может быть, завтра рано утром,"
+  },
+  {
+   "t": 788.3,
+   "da": "så lyt godt efter politikerne, når de giver en besked.",
+   "ru": "послушай внимательно политиков, когда они делают заявление."
+  },
+  {
+   "t": 791.5,
+   "da": "Åh ja.",
+   "ru": "О да."
+  },
+  {
+   "t": 791.8,
+   "da": "Bruger politikerne »på baggrund af« for at lyde formelle og kloge med papirerne i hånden, når noget går godt?",
+   "ru": "Используют ли политики *på baggrund af*, чтобы звучать официально и умно, с бумагами в руках, когда что-то идёт хорошо?"
+  },
+  {
+   "t": 799.1,
+   "da": "Det gør de jo altid.",
+   "ru": "Они всегда так делают."
+  },
+  {
+   "t": 800.1,
+   "da": "Præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 801.0,
+   "da": "Men når der er en skandal, så siger de aldrig »på grund af os«.",
+   "ru": "Но когда случается скандал, они никогда не говорят *på grund af os* («из-за нас»)."
+  },
+  {
+   "t": 804.6,
+   "da": "Så er det bare en fysisk situation.",
+   "ru": "Тогда это просто физическая ситуация."
+  },
+  {
+   "t": 806.2,
+   "da": "Så siger de »som følge af« for at fjerne ansvaret.",
+   "ru": "Тогда они говорят *som følge af*, чтобы снять с себя ответственность."
+  },
+  {
+   "t": 809.3,
+   "da": "Det er jo genialt.",
+   "ru": "Это же гениально."
+  },
+  {
+   "t": 810.4,
+   "da": "Og lidt uhyggeligt.",
+   "ru": "И немного жутко."
+  },
+  {
+   "t": 811.7,
+   "da": "Grammatik som skjold.",
+   "ru": "Грамматика как щит."
+  },
+  {
+   "t": 813.3,
+   "da": "Ja, tænk lidt over det, når du sidder i skraldebilen i morgen tidlig, Anton.",
+   "ru": "Да, подумай об этом, Антон, когда будешь завтра рано утром сидеть в мусоровозе."
+  },
+  {
+   "t": 816.3,
+   "da": "Det er en rigtig god pointe.",
+   "ru": "Это очень хорошая мысль."
+  },
+  {
+   "t": 817.5,
+   "da": "Jamen, Anton, god arbejdslyst på ruten i morgen.",
+   "ru": "Ну что ж, Антон, хорошей работы завтра на маршруте."
+  },
+  {
+   "t": 819.7,
+   "da": "Kør forsigtigt, og husk magneten.",
+   "ru": "Езжай осторожно и помни про магнит."
+  },
+  {
+   "t": 821.8,
+   "da": "Tak, fordi du lyttede med.",
+   "ru": "Спасибо, что слушал."
+  }
+ ],
+ "glossary": [
+  {
+   "da": "altså",
+   "ru": "значит, итак, то есть; (в речи) ну правда, прямо",
+   "note": "целевое слово; вывод из сказанного; обычно стоит после глагола: «Vi skal altså af sted nu»; в речи (tale) ещё для эмоции: «Det driller mig altså»; дальше идёт обычное предложение",
+   "t": 9.5,
+   "status": "-"
+  },
+  {
+   "da": "være for sent på den",
+   "ru": "опаздывать",
+   "note": "разг. (tale); «du er altså ti minutter for sent på den»",
+   "t": 9.5,
+   "status": "-"
+  },
+  {
+   "da": "undersøgende",
+   "ru": "испытующий, изучающий",
+   "note": "kigge undersøgende på nogen — смотреть испытующе",
+   "t": 13.2,
+   "status": "-"
+  },
+  {
+   "da": "en undskyldning",
+   "ru": "извинение; отговорка, оправдание",
+   "note": "komme med en dårlig undskyldning — придумать плохую отговорку",
+   "t": 26.1,
+   "status": "learning"
+  },
+  {
+   "da": "fordi",
+   "ru": "потому что",
+   "note": "целевое слово; tale + skrift; после него — целое ПРЕДЛОЖЕНИЕ с глаголом: «fordi det var glat»",
+   "t": 31.0,
+   "status": "-"
+  },
+  {
+   "da": "et modersmål",
+   "ru": "родной язык",
+   "note": "have russisk som modersmål",
+   "t": 44.3,
+   "status": "-"
+  },
+  {
+   "da": "en fælde / fælden",
+   "ru": "ловушка",
+   "note": "falde i en fælde — попасть в ловушку; d немое; ASR: «fælle»",
+   "t": 95.6,
+   "status": "new"
+  },
+  {
+   "da": "på grund af",
+   "ru": "из-за, по причине",
+   "note": "целевое выражение; tale + skrift, обычная физическая причина; после него — СУЩЕСТВИТЕЛЬНОЕ: «på grund af isen»; ✗ «på grund af det sneede»",
+   "t": 101.3,
+   "status": "known"
+  },
+  {
+   "da": "en drillepind",
+   "ru": "дразнилка, вредина (кто/что любит подразнить)",
+   "note": "от at drille — дразнить: «Det driller mig altså»",
+   "t": 106.2,
+   "status": "-"
+  },
+  {
+   "da": "et navneord",
+   "ru": "существительное",
+   "note": "грамм. термин; ASR: «navnord»",
+   "t": 146.8,
+   "status": "-"
+  },
+  {
+   "da": "et udsagnsord / et verbum",
+   "ru": "глагол",
+   "note": "оба слова значат «глагол»; verbet — этот глагол; ASR: «udsamsord»",
+   "t": 168.8,
+   "status": "-"
+  },
+  {
+   "da": "stiv",
+   "ru": "жёсткий, негибкий",
+   "note": "в эпизоде: «så stift» (форма -t)",
+   "t": 180.6,
+   "status": "-"
+  },
+  {
+   "da": "det skærer i ørene",
+   "ru": "режет слух",
+   "note": "at skære — резать (skærer, skar, skåret)",
+   "t": 192.8,
+   "status": "new"
+  },
+  {
+   "da": "at hakke",
+   "ru": "спотыкаться, запинаться (о речи); рубить",
+   "note": "«Det får sproget til at hakke»",
+   "t": 195.0,
+   "status": "-"
+  },
+  {
+   "da": "glat",
+   "ru": "скользкий",
+   "note": "«Det er glat i dag» — сегодня скользко",
+   "t": 272.0,
+   "status": "-"
+  },
+  {
+   "da": "en fridag",
+   "ru": "выходной, отгул",
+   "note": "tage en fridag — взять отгул",
+   "t": 294.4,
+   "status": "-"
+  },
+  {
+   "da": "et nedbrud",
+   "ru": "поломка, авария (техники)",
+   "note": "pl. nedbrud",
+   "t": 342.8,
+   "status": "-"
+  },
+  {
+   "da": "som følge af",
+   "ru": "в результате, вследствие",
+   "note": "целевое выражение; формально, больше skrift (отчёты, новости); после него — СУЩЕСТВИТЕЛЬНОЕ; про аварии, шторм, повреждения: «som følge af stormen»",
+   "t": 359.8,
+   "status": "known"
+  },
+  {
+   "da": "på baggrund af",
+   "ru": "на основании, исходя из",
+   "note": "целевое выражение; tale + skrift, слегка официально; после него — СУЩЕСТВИТЕЛЬНОЕ-информация (прогноз, письмо, оценка), основание для решения: «på baggrund af vejrudsigten»; ✗ «på baggrund af sneen»",
+   "t": 359.8,
+   "status": "-"
+  },
+  {
+   "da": "at træffe en beslutning",
+   "ru": "принять решение",
+   "note": "past: traf; perf.: har truffet — «Chefen har truffet en beslutning»",
+   "t": 371.1,
+   "status": "new"
+  },
+  {
+   "da": "at rette",
+   "ru": "исправлять, поправлять",
+   "note": "«Jeg retter dig lige roligt»",
+   "t": 378.5,
+   "status": "-"
+  },
+  {
+   "da": "en årsag",
+   "ru": "причина",
+   "note": "årsag og virkning / årsag og følge — причина и следствие",
+   "t": 401.9,
+   "status": "new"
+  },
+  {
+   "da": "voldsom",
+   "ru": "сильный, бурный, яростный",
+   "note": "en voldsom storm",
+   "t": 413.0,
+   "status": "-"
+  },
+  {
+   "da": "at vælte",
+   "ru": "опрокидываться; опрокидывать",
+   "note": "past: væltede; «skraldespanden vælter»; være væltet — быть опрокинутым",
+   "t": 413.0,
+   "status": "-"
+  },
+  {
+   "da": "tilfældig",
+   "ru": "случайный",
+   "note": "en tilfældig fyr på gaden",
+   "t": 417.6,
+   "status": "-"
+  },
+  {
+   "da": "et grundlag / grundlaget",
+   "ru": "основа, основание",
+   "note": "grundlaget for en beslutning; informationsgrundlag",
+   "t": 437.9,
+   "status": "-"
+  },
+  {
+   "da": "en vejrudsigt / vejrudsigten",
+   "ru": "прогноз погоды",
+   "note": "j почти не слышно: «вайр-»; ASR: «værudsigten»",
+   "t": 443.0,
+   "status": "-"
+  },
+  {
+   "da": "en advarsel",
+   "ru": "предупреждение",
+   "note": "en advarsel i nyhederne",
+   "t": 454.2,
+   "status": "-"
+  },
+  {
+   "da": "frost / frosten",
+   "ru": "мороз",
+   "note": "som følge af frosten",
+   "t": 517.0,
+   "status": "-"
+  },
+  {
+   "da": "en konsekvens",
+   "ru": "последствие",
+   "note": "",
+   "t": 548.6,
+   "status": "-"
+  },
+  {
+   "da": "derfor",
+   "ru": "поэтому",
+   "note": "целевое слово; tale + skrift; причина → следствие; в начале предложения ГЛАГОЛ сразу после него: «Derfor går jeg…», ✗ «Derfor jeg går»",
+   "t": 550.5,
+   "status": "known"
+  },
+  {
+   "da": "at krybe til korset",
+   "ru": "признать свою вину/слабость, пойти на попятную",
+   "note": "идиома; букв. «ползти к кресту»",
+   "t": 554.0,
+   "status": "-"
+  },
+  {
+   "da": "at spidse ører",
+   "ru": "навострить уши",
+   "note": "«så skal du for alvor spidse ører»",
+   "t": 568.5,
+   "status": "-"
+  },
+  {
+   "da": "ordstilling / ordstillingen",
+   "ru": "порядок слов",
+   "note": "",
+   "t": 579.7,
+   "status": "-"
+  },
+  {
+   "da": "afgørende",
+   "ru": "решающий",
+   "note": "d немое: «аугёрене»",
+   "t": 579.7,
+   "status": "-"
+  },
+  {
+   "da": "et overblik",
+   "ru": "общая картина; контроль над ситуацией",
+   "note": "fremstå med overblik — выглядеть собранным; at fremstå — выглядеть, представать",
+   "t": 757.1,
+   "status": "-"
+  },
+  {
+   "da": "at opsummere",
+   "ru": "подводить итог, резюмировать",
+   "note": "en opsummering — резюме",
+   "t": 762.3,
+   "status": "-"
+  },
+  {
+   "da": "et ansvar / ansvaret",
+   "ru": "ответственность",
+   "note": "fjerne ansvaret — снять ответственность",
+   "t": 808.3,
+   "status": "new"
+  }
+ ]
+}

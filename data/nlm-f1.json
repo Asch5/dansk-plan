@@ -1,0 +1,1270 @@
+{
+ "id": "nlm-f1",
+ "title_da": "Lær at bruge danske forbindelsesord rigtigt",
+ "title_ru": "Учимся правильно использовать датские слова-связки",
+ "summary_ru": "Ведущие разбирают пять пар датских связок, которые по-русски часто переводятся одинаково: ifølge / i henhold til / i overensstemmelse med, som beskrevet i / svarer til, med hensyn til / vedrørende / hvad angår, i forhold til / med hensyn til, i forbindelse med / på grund af. Для каждой пары один ведущий нарочно говорит неправильную фразу, а другой объясняет, почему она не подходит и что сказать вместо неё (речь или письмо, источник, правило, сравнение, повод или причина), — с мини-тестами на примерах из рабочего дня Антона. Главное правило: после связки идёт существительное, а если связка стоит в начале, глагол идёт сразу после неё.",
+ "lines": [
+  {
+   "t": 0.0,
+   "da": "Godmorgen, Anton. Altså, du sidder jo nok i skraldebilen lige nu på vej til depotet i Glostrup.",
+   "ru": "Доброе утро, Антон. Ты, наверное, сейчас сидишь в мусоровозе по дороге на депо в Глострупе."
+  },
+  {
+   "t": 5.2,
+   "da": "Ja, klokken er vel omkring fire om morgenen, ikke også?",
+   "ru": "Да, сейчас, наверное, около четырёх утра, так ведь?"
+  },
+  {
+   "t": 7.0,
+   "da": "Lige præcis. Det er stadig helt mørkt udenfor. Du har sikkert en kop kaffe i holderen.",
+   "ru": "Именно. На улице ещё совсем темно. У тебя наверняка стоит чашка кофе в подстаканнике."
+  },
+  {
+   "t": 11.2,
+   "da": "Og så er det jo den helt perfekte tid til at lære lidt mere dansk.",
+   "ru": "А значит, это самое подходящее время, чтобы выучить ещё немного датского."
+  },
+  {
+   "t": 13.8,
+   "da": "Det er det nemlig. For i dag skal vi nørde os igennem nogle af de her små drilske ord, som vi kalder forbindelsesord.",
+   "ru": "Так и есть. Сегодня мы основательно разберём несколько каверзных маленьких слов, которые называются *forbindelsesord* — связки."
+  },
+  {
+   "t": 20.1,
+   "da": "Altså dem, der binder sætningerne sammen.",
+   "ru": "То есть те, что связывают предложения между собой."
+  },
+  {
+   "t": 22.1,
+   "da": "Ja, og grunden til, at vi kigger på dem, det er, at dit modersmål, altså russisk, der bruger man tit det samme ord til rigtig mange ting.",
+   "ru": "Да, и мы их рассматриваем потому, что в твоём родном языке, то есть в русском, часто одно и то же слово используют для очень многих вещей."
+  },
+  {
+   "t": 27.4,
+   "da": "Det er meget nemmere. Men på dansk er det altså anderledes.",
+   "ru": "Это гораздо проще. Но в датском всё иначе."
+  },
+  {
+   "t": 30.1,
+   "da": "Ja, meget. På dansk har vi utrolig mange forskellige ord for det samme, og man skal ramme fuldstændig plet for at lyde naturligt.",
+   "ru": "Да, очень. В датском невероятно много разных слов для одного и того же, и нужно попасть точно в цель, чтобы звучать естественно."
+  },
+  {
+   "t": 36.6,
+   "da": "Altså, når jeg ser på de her ord, så minder det mig faktisk ret meget om det, du laver hver dag med affaldssortering.",
+   "ru": "Знаешь, когда я смотрю на эти слова, они мне очень напоминают то, чем ты занимаешься каждый день, — сортировку отходов."
+  },
+  {
+   "t": 41.7,
+   "da": "Hvordan tænker du på det?",
+   "ru": "Что ты имеешь в виду?"
+  },
+  {
+   "t": 42.9,
+   "da": "Jo, altså, hvis du nu tager en stor bunke pap og smider det i containeren til glas, så går maskinerne jo i stykker på stationen.",
+   "ru": "Ну, если взять большую кучу картона и бросить её в контейнер для стекла, то машины на станции сломаются."
+  },
+  {
+   "t": 49.6,
+   "da": "Åh ja, systemet bryder sammen.",
+   "ru": "О да, система рушится."
+  },
+  {
+   "t": 51.4,
+   "da": "Nemlig. Og det er præcis det samme med de her danske ord.",
+   "ru": "Именно. И с этими датскими словами — точно так же."
+  },
+  {
+   "t": 53.8,
+   "da": "Hvis du putter et stift bureaukratord i den forkerte samtale, så går snakken simpelthen i stå.",
+   "ru": "Если вставить жёсткое канцелярское слово не в тот разговор, беседа просто застопорится."
+  },
+  {
+   "t": 59.4,
+   "da": "Det er en utrolig god måde at se det på. Det handler om at sortere sproget i de rigtige kasser.",
+   "ru": "Это очень удачный взгляд. Речь о том, чтобы рассортировать язык по правильным ящикам."
+  },
+  {
+   "t": 64.3,
+   "da": "Men før vi overhovedet åbner kasserne, så har du vist en vigtig hovedregel.",
+   "ru": "Но прежде чем вообще открывать ящики, у тебя, кажется, есть одно важное главное правило."
+  },
+  {
+   "t": 68.6,
+   "da": "Ja, lad os lige slå det fast med det samme.",
+   "ru": "Да, давай сразу это закрепим."
+  },
+  {
+   "t": 70.8,
+   "da": "Efter de her forbindelsesord, der kommer der næsten altid bare et navneord.",
+   "ru": "После этих связок почти всегда идёт просто существительное (*navneord*)."
+  },
+  {
+   "t": 74.3,
+   "da": "Okay, så altså bare en ting eller en person?",
+   "ru": "Понятно, то есть просто предмет или человек?"
+  },
+  {
+   "t": 75.8,
+   "da": "Lige nøjagtigt. Man sætter ikke en helt lang sætning ind bagefter.",
+   "ru": "Совершенно верно. Целое длинное предложение после них не ставят."
+  },
+  {
+   "t": 79.1,
+   "da": "Og så er der en ekstremt vigtig ting mere. — Hvad er det?",
+   "ru": "И есть ещё одна чрезвычайно важная вещь. — Какая?"
+  },
+  {
+   "t": 82.0,
+   "da": "Hvis du starter din sætning med udtrykket, altså sætter det helt forrest, så skal dit udsagnsord, altså verbet, komme lige efter.",
+   "ru": "Если ты начинаешь предложение с этого выражения, то есть ставишь его в самое начало, то твой глагол (*udsagnsord*) должен идти сразу после него."
+  },
+  {
+   "t": 90.2,
+   "da": "Ah, okay. Er det ligesom når vi hører radioen i bilen, og de siger: ifølge vejrudsigten bliver det glat?",
+   "ru": "А, понятно. Это как когда мы слушаем радио в машине и там говорят: *ifølge vejrudsigten bliver det glat* — «по прогнозу погоды будет скользко»?"
+  },
+  {
+   "t": 96.3,
+   "da": "Ja, lige præcis. Ifølge vejrudsigten — og så kommer verbet: bliver.",
+   "ru": "Да, именно. *Ifølge vejrudsigten* — и затем идёт глагол: *bliver*."
+  },
+  {
+   "t": 101.5,
+   "da": "Lige bagefter. Du må ikke sige: ifølge vejrudsigten det bliver glat.",
+   "ru": "Сразу после. Нельзя говорить: «(неправильно) *ifølge vejrudsigten det bliver glat*»."
+  },
+  {
+   "t": 104.9,
+   "da": "Ah, verbet skal rykkes frem. Det er godt at huske.",
+   "ru": "А, глагол нужно передвинуть вперёд. Это полезно запомнить."
+  },
+  {
+   "t": 108.8,
+   "da": "Nå, men lad os kigge på den første kasse med ord. Det handler om, hvem der bestemmer.",
+   "ru": "Ну что ж, давай посмотрим на первый ящик со словами. Он о том, кто решает (кто источник)."
+  },
+  {
+   "t": 112.9,
+   "da": "Ja, ordene ifølge, i henhold til og i overensstemmelse med.",
+   "ru": "Да, слова *ifølge*, *i henhold til* и *i overensstemmelse med*."
+  },
+  {
+   "t": 118.3,
+   "da": "Ja, for jeg tænkte, hvis nu Anton snakker med kollegaerne om chefen Sebrina, så kunne han sige:",
+   "ru": "Да, я вот подумал: если Антон говорит с коллегами о начальнице Себрине, он мог бы сказать:"
+  },
+  {
+   "t": 123.6,
+   "da": "I henhold til chefen Sebrina er ruten færdig klokken to.",
+   "ru": "«(неправильно) *I henhold til chefen Sebrina* маршрут заканчивается в два часа»."
+  },
+  {
+   "t": 127.7,
+   "da": "Nej, nej, huha. Det lyder helt forkert.",
+   "ru": "Нет-нет, ой-ой. Это звучит совершенно неправильно."
+  },
+  {
+   "t": 130.2,
+   "da": "Nå, hvorfor det? Det lyder da meget fint.",
+   "ru": "Вот как, почему? По-моему, звучит очень солидно."
+  },
+  {
+   "t": 132.4,
+   "da": "Nej, altså, i henhold til, det er et meget tungt og formelt ord.",
+   "ru": "Нет, понимаешь, *i henhold til* — очень тяжеловесное и официальное выражение."
+  },
+  {
+   "t": 136.2,
+   "da": "Det hører til i gamle kontrakter og på skrift.",
+   "ru": "Ему место в старых договорах и на письме."
+  },
+  {
+   "t": 139.0,
+   "da": "Sebrina er jo en levende person, ikke et stykke papir.",
+   "ru": "А Себрина — живой человек, а не лист бумаги."
+  },
+  {
+   "t": 141.3,
+   "da": "Ah, selvfølgelig. Så hvad siger vi i stedet for, når en person taler?",
+   "ru": "А, конечно. Так что мы говорим вместо этого, когда говорит человек?"
+  },
+  {
+   "t": 144.9,
+   "da": "Så bruger vi ordet ifølge. Det er til levende kilder, personer eller vejrudsigter.",
+   "ru": "Тогда мы используем слово *ifølge*. Оно для «живых» источников — людей или прогнозов погоды."
+  },
+  {
+   "t": 149.9,
+   "da": "Så man siger bare: ifølge chefen Sebrina.",
+   "ru": "Так что говорят просто: *ifølge chefen Sebrina* — «по словам начальницы Себрины»."
+  },
+  {
+   "t": 152.2,
+   "da": "Okay, ifølge chefen. Det er meget mere mundret.",
+   "ru": "Хорошо, *ifølge chefen*. Это звучит гораздо естественнее."
+  },
+  {
+   "t": 156.3,
+   "da": "Men hvornår må vi så bruge det der tunge ord, i henhold til?",
+   "ru": "Но когда же тогда можно использовать это тяжёлое выражение *i henhold til*?"
+  },
+  {
+   "t": 159.9,
+   "da": "Det må du bruge om faste regler og love.",
+   "ru": "Его можно использовать, когда речь о твёрдых правилах и законах."
+  },
+  {
+   "t": 162.3,
+   "da": "F.eks. du holder pause i henhold til køre- og hviletidsreglerne.",
+   "ru": "Например: ты делаешь перерыв *i henhold til* правилами о времени вождения и отдыха."
+  },
+  {
+   "t": 166.2,
+   "da": "Giver mening. Og hvad med det tredje? I overensstemmelse med?",
+   "ru": "Логично. А что с третьим? *I overensstemmelse med*?"
+  },
+  {
+   "t": 170.0,
+   "da": "Det peger på en handling, der er gjort rigtigt.",
+   "ru": "Оно указывает на действие, которое выполнено правильно."
+  },
+  {
+   "t": 171.9,
+   "da": "At du sorterer skrald i overensstemmelse med reglerne.",
+   "ru": "Например, что ты сортируешь мусор *i overensstemmelse med* правилами — в соответствии с ними."
+  },
+  {
+   "t": 174.9,
+   "da": "Så det beviser, at du gør det rigtigt.",
+   "ru": "То есть это подтверждает, что ты делаешь всё правильно."
+  },
+  {
+   "t": 177.2,
+   "da": "Godt, Anton. Lad os tage en lille test. Du lytter med derude, ikke?",
+   "ru": "Хорошо, Антон. Давай устроим небольшой тест. Ты ведь слушаешь нас, да?"
+  },
+  {
+   "t": 180.1,
+   "da": "Ja, du skal tænke selv nu.",
+   "ru": "Да, теперь подумай сам."
+  },
+  {
+   "t": 181.3,
+   "da": "Jeg siger en sætning med et tomt felt.",
+   "ru": "Я скажу предложение с пропуском."
+  },
+  {
+   "t": 184.2,
+   "da": "Tomt felt … radioen er der kø på motorvejen.",
+   "ru": "Пропуск … радио, на автостраде пробка."
+  },
+  {
+   "t": 187.2,
+   "da": "Tænk selv. — Og svaret er ifølge.",
+   "ru": "Подумай сам. — И ответ: *ifølge*."
+  },
+  {
+   "t": 190.1,
+   "da": "For radioen er en levende kilde til information. — Lige præcis.",
+   "ru": "Потому что радио — «живой» источник информации. — Именно."
+  },
+  {
+   "t": 193.5,
+   "da": "Og bemærk, at verbet kommer lige efter: ifølge radioen er der kø. — Nemlig.",
+   "ru": "И заметь, что глагол идёт сразу после: *ifølge radioen er der kø* — «по радио — пробка». — Точно."
+  },
+  {
+   "t": 198.4,
+   "da": "Hvad er næste kasse i systemet?",
+   "ru": "Какой следующий ящик в системе?"
+  },
+  {
+   "t": 200.6,
+   "da": "Næste kasse handler om instruktioner og mængder.",
+   "ru": "Следующий ящик — про инструкции и количества."
+  },
+  {
+   "t": 203.1,
+   "da": "Ordene som beskrevet i … og svarer til.",
+   "ru": "Выражения *som beskrevet i* … и *svarer til*."
+  },
+  {
+   "t": 206.1,
+   "da": "Ja, og de to bliver desværre tit blandet sammen.",
+   "ru": "Да, и эти два, к сожалению, часто путают."
+  },
+  {
+   "t": 209.0,
+   "da": "Jeg faldt faktisk selv i fælden.",
+   "ru": "Я и сам, честно говоря, попался в эту ловушку."
+  },
+  {
+   "t": 210.6,
+   "da": "For jeg tænkte på Antons store bil og sagde, at skraldebilen svarer til manualen.",
+   "ru": "Я подумал о большой машине Антона и сказал: «(неправильно) мусоровоз *svarer til* руководству»."
+  },
+  {
+   "t": 214.7,
+   "da": "Ja, og det lyder jo helt skørt på dansk.",
+   "ru": "Да, а по-датски это звучит совершенно нелепо."
+  },
+  {
+   "t": 216.9,
+   "da": "Jamen, de hører jo sammen.",
+   "ru": "Но ведь они же связаны друг с другом."
+  },
+  {
+   "t": 218.1,
+   "da": "Jo, men du kan ikke sammenligne en stor metallastbil med en papirbog.",
+   "ru": "Да, но нельзя сравнивать большой металлический грузовик с бумажной книжкой."
+  },
+  {
+   "t": 222.3,
+   "da": "Ordet svarer til er et udsagnsord, der sammenligner mængder.",
+   "ru": "*Svarer til* — это глагол, который сравнивает количества."
+  },
+  {
+   "t": 226.0,
+   "da": "Altså, det fungerer lidt ligesom et matematisk lighedstegn.",
+   "ru": "То есть оно работает примерно как математический знак равенства."
+  },
+  {
+   "t": 229.1,
+   "da": "Lige nøjagtigt. Det betyder, at to ting er præcis det samme i værdi.",
+   "ru": "Совершенно верно. Оно означает, что две вещи в точности равны по величине."
+  },
+  {
+   "t": 232.8,
+   "da": "Aha, okay.",
+   "ru": "Ага, понятно."
+  },
+  {
+   "t": 234.4,
+   "da": "Men hvad skal jeg så sige om manualen?",
+   "ru": "Но что же тогда говорить про руководство?"
+  },
+  {
+   "t": 236.3,
+   "da": "Du skal sige: som beskrevet i.",
+   "ru": "Нужно говорить *som beskrevet i* — «как описано в»."
+  },
+  {
+   "t": 238.4,
+   "da": "For det peger på en instruktion eller en tekst, du følger.",
+   "ru": "Потому что это указывает на инструкцию или текст, которому ты следуешь."
+  },
+  {
+   "t": 241.2,
+   "da": "Du reparerer bilen som beskrevet i manualen.",
+   "ru": "Ты ремонтируешь машину *som beskrevet i* руководстве — как там описано."
+  },
+  {
+   "t": 244.1,
+   "da": "Det er en god huskeregel. Instruktioner er som beskrevet i.",
+   "ru": "Это хорошее правило для запоминания: инструкции — это *som beskrevet i*."
+  },
+  {
+   "t": 247.7,
+   "da": "Men lad os lige tage et eksempel med matematikken, når Anton nu handler ind i Sverige.",
+   "ru": "Но давай возьмём пример с математикой — раз уж Антон ездит за покупками в Швецию."
+  },
+  {
+   "t": 251.6,
+   "da": "Ja, svenskerne har jo f.eks. de der svenske mil. — Nemlig.",
+   "ru": "Да, у шведов, например, есть эти шведские мили. — Именно."
+  },
+  {
+   "t": 254.4,
+   "da": "Og der kan vi bruge ordet perfekt og sige, at en svensk mil svarer til 10 km.",
+   "ru": "И тут это выражение подходит идеально: шведская миля *svarer til* 10 км — равна десяти километрам."
+  },
+  {
+   "t": 260.0,
+   "da": "Længden er fuldstændig den samme. — Præcis.",
+   "ru": "Длина абсолютно одинаковая. — Точно."
+  },
+  {
+   "t": 262.6,
+   "da": "Man bruger det da også rigtig meget om valuta.",
+   "ru": "Его также очень часто используют, когда речь о валюте."
+  },
+  {
+   "t": 264.4,
+   "da": "Okay, Anton. Testtid igen.",
+   "ru": "Итак, Антон, снова время теста."
+  },
+  {
+   "t": 266.6,
+   "da": "Sætningen er: prisen for kaffe i Sverige … tomt felt … 50 danske kroner.",
+   "ru": "Предложение: цена кофе в Швеции … пропуск … 50 датским кронам."
+  },
+  {
+   "t": 272.6,
+   "da": "Tænk selv. — Og vi har med tal at gøre, så svaret er svarer til.",
+   "ru": "Подумай сам. — Мы имеем дело с числами, так что ответ — *svarer til*."
+  },
+  {
+   "t": 276.7,
+   "da": "Vi sammenligner to beløb. — Nemlig.",
+   "ru": "Мы сравниваем две суммы. — Точно."
+  },
+  {
+   "t": 278.8,
+   "da": "Det er jo rent sprog og matematik.",
+   "ru": "Это же чистый язык плюс математика."
+  },
+  {
+   "t": 280.0,
+   "da": "Lad os skynde os videre til tredje par.",
+   "ru": "Давай поскорее перейдём к третьей паре."
+  },
+  {
+   "t": 281.9,
+   "da": "Det er breve fra kommunen og hyggesnak ved bordet.",
+   "ru": "Это письма из коммуны и уютная болтовня за столом."
+  },
+  {
+   "t": 284.4,
+   "da": "Ja, her har vi med hensyn til og vedrørende og hvad angår.",
+   "ru": "Да, здесь у нас *med hensyn til*, *vedrørende* и *hvad angår*."
+  },
+  {
+   "t": 289.7,
+   "da": "For jeg forestillede mig Anton ved morgenbordet med sin søn Ivan.",
+   "ru": "Я представил себе Антона за завтраком с сыном Иваном."
+  },
+  {
+   "t": 292.6,
+   "da": "Han kigger på ham og siger, at vedrørende Ivans skole har han lavet lektier.",
+   "ru": "Он смотрит на него и говорит: «(неправильно) *vedrørende* школы Ивана — уроки он сделал»."
+  },
+  {
+   "t": 297.1,
+   "da": "Nå nej, det lyder som om, at drengen sidder nede på kommunekontoret.",
+   "ru": "Ох нет, звучит так, будто мальчик сидит в конторе коммуны."
+  },
+  {
+   "t": 300.9,
+   "da": "Ja, det lød også meget stift, da jeg sagde det.",
+   "ru": "Да, и звучало очень натянуто, когда я это произнёс."
+  },
+  {
+   "t": 304.1,
+   "da": "Vedrørende er nemlig ekstremt formelt.",
+   "ru": "Потому что *vedrørende* — крайне официальное слово."
+  },
+  {
+   "t": 306.4,
+   "da": "Det står næsten kun som overskrift i toppen af officielle breve.",
+   "ru": "Оно почти всегда стоит только как заголовок вверху официальных писем."
+  },
+  {
+   "t": 309.2,
+   "da": "Så hvad putter vi i kassen for almindelig morgenmadsnak?",
+   "ru": "Так что мы кладём в ящик для обычной болтовни за завтраком?"
+  },
+  {
+   "t": 311.6,
+   "da": "Der skal vi have fat i med hensyn til.",
+   "ru": "Тут нам нужно *med hensyn til*."
+  },
+  {
+   "t": 314.2,
+   "da": "Det er meget blødere.",
+   "ru": "Оно гораздо мягче."
+  },
+  {
+   "t": 315.2,
+   "da": "Man kan sige: med hensyn til skolen, har du lavet lektier?",
+   "ru": "Можно сказать: *med hensyn til skolen* — что касается школы, ты сделал уроки?"
+  },
+  {
+   "t": 318.6,
+   "da": "Det lyder tusind gange bedre.",
+   "ru": "Звучит в тысячу раз лучше."
+  },
+  {
+   "t": 320.7,
+   "da": "Men du nævnte også udtrykket hvad angår.",
+   "ru": "Но ты упомянул ещё выражение *hvad angår*."
+  },
+  {
+   "t": 322.6,
+   "da": "Ja, hvad angår, det er rigtig godt, når du vil skifte emne i en samtale.",
+   "ru": "Да, *hvad angår* очень хорошо подходит, когда хочешь сменить тему разговора."
+  },
+  {
+   "t": 326.2,
+   "da": "Altså ligesom et sprogligt blinklys.",
+   "ru": "То есть как языковой поворотник."
+  },
+  {
+   "t": 328.1,
+   "da": "Nu drejer vi samtalen. — Lige præcis.",
+   "ru": "Сейчас мы поворачиваем разговор. — Именно."
+  },
+  {
+   "t": 330.4,
+   "da": "Og her gælder reglen med udsagnsordet igen.",
+   "ru": "И здесь снова действует правило про глагол."
+  },
+  {
+   "t": 332.9,
+   "da": "Prøv at give et eksempel.",
+   "ru": "Приведи пример."
+  },
+  {
+   "t": 333.8,
+   "da": "Hvis du nu taler om biler og vil skifte emne til benzin, så siger du: hvad angår benzin, tanker vi i Danmark.",
+   "ru": "Если ты говоришь о машинах и хочешь перейти к бензину, ты говоришь: *hvad angår benzin, tanker vi i Danmark* — что касается бензина, заправляемся мы в Дании."
+  },
+  {
+   "t": 340.9,
+   "da": "Hvad angår benzin, tanker vi.",
+   "ru": "*Hvad angår benzin, tanker vi.*"
+  },
+  {
+   "t": 343.4,
+   "da": "Verbet tanker kommer lige efter kommaet.",
+   "ru": "Глагол *tanker* идёт сразу после запятой."
+  },
+  {
+   "t": 345.8,
+   "da": "Hvor er det smart. Det giver et utrolig flot sprog.",
+   "ru": "Как ловко. Получается очень красивый язык."
+  },
+  {
+   "t": 348.6,
+   "da": "Til din lille test, Anton.",
+   "ru": "Теперь твой маленький тест, Антон."
+  },
+  {
+   "t": 350.7,
+   "da": "Emnet øverst i et officielt brev lyder: tomt felt … de nye skraldespande.",
+   "ru": "Тема вверху официального письма: пропуск … новых мусорных баков."
+  },
+  {
+   "t": 355.6,
+   "da": "Tænk selv. — Det er skriftligt og officielt, så svaret er vedrørende.",
+   "ru": "Подумай сам. — Это письменно и официально, так что ответ — *vedrørende*."
+  },
+  {
+   "t": 360.6,
+   "da": "Vedrørende skraldespande, ja.",
+   "ru": "*Vedrørende skraldespande* — «касательно мусорных баков», да."
+  },
+  {
+   "t": 362.4,
+   "da": "Men det bringer mig faktisk videre til noget, som danskerne gør helt vildt mærkeligt.",
+   "ru": "Но это подводит меня к одной вещи, которую датчане делают ужасно странно."
+  },
+  {
+   "t": 366.4,
+   "da": "Uh, nu bliver det spændende. Hvad er det?",
+   "ru": "О, становится интересно. Что же это?"
+  },
+  {
+   "t": 369.1,
+   "da": "Jamen, det er fjerde par her.",
+   "ru": "Ну, это четвёртая пара."
+  },
+  {
+   "t": 370.9,
+   "da": "Forskellen på i forhold til og med hensyn til.",
+   "ru": "Разница между *i forhold til* и *med hensyn til*."
+  },
+  {
+   "t": 374.5,
+   "da": "Danskerne går jo rundt og siger i forhold til om alting.",
+   "ru": "Датчане ведь повсюду говорят *i forhold til* обо всём на свете."
+  },
+  {
+   "t": 377.6,
+   "da": "Ja, det er en forfærdelig uvane.",
+   "ru": "Да, это ужасная дурная привычка."
+  },
+  {
+   "t": 379.7,
+   "da": "Sprogfolk river sig i håret over det.",
+   "ru": "Лингвисты рвут на себе волосы из-за этого."
+  },
+  {
+   "t": 381.5,
+   "da": "Jeg kunne jo finde på at sige, at jeg har et spørgsmål i forhold til min ferie.",
+   "ru": "Я вот мог бы сказать: «(неправильно) у меня вопрос *i forhold til* моего отпуска»."
+  },
+  {
+   "t": 385.0,
+   "da": "Men det må jeg ikke?",
+   "ru": "Но так нельзя?"
+  },
+  {
+   "t": 386.7,
+   "da": "Nej, det må du faktisk ikke, selvom mange siger det.",
+   "ru": "Нет, вообще-то нельзя, хотя многие так говорят."
+  },
+  {
+   "t": 389.8,
+   "da": "Udtrykket i forhold til må kun bruges, når man direkte sammenligner to ting.",
+   "ru": "Выражение *i forhold til* можно использовать только тогда, когда напрямую сравниваешь две вещи."
+  },
+  {
+   "t": 394.5,
+   "da": "Så man sætter simpelthen to ting op på en vægt?",
+   "ru": "То есть просто кладёшь две вещи на весы?"
+  },
+  {
+   "t": 396.9,
+   "da": "Lige nøjagtigt.",
+   "ru": "Совершенно верно."
+  },
+  {
+   "t": 397.8,
+   "da": "For eksempel kan du kigge på trafikken og sige, at i forhold til i går er der meget trafik i dag.",
+   "ru": "Например, ты смотришь на движение и говоришь: *i forhold til i går* — по сравнению со вчерашним днём сегодня много машин."
+  },
+  {
+   "t": 402.7,
+   "da": "Ah, så mandag vejes op mod tirsdag. (?)",
+   "ru": "А, то есть понедельник взвешивается против вторника. (?)"
+  },
+  {
+   "t": 406.1,
+   "da": "Men hvad med min ferie så? Jeg sammenligner jo ikke ferien med noget.",
+   "ru": "А как же тогда с моим отпуском? Я ведь не сравниваю отпуск ни с чем."
+  },
+  {
+   "t": 409.4,
+   "da": "Nej, du vil jo bare tale om et emne.",
+   "ru": "Нет, ты просто хочешь поговорить на какую-то тему."
+  },
+  {
+   "t": 411.4,
+   "da": "Og hvilket ord bruger man til det?",
+   "ru": "И какое слово для этого используют?"
+  },
+  {
+   "t": 413.2,
+   "da": "Med hensyn til. — Nemlig.",
+   "ru": "*Med hensyn til*. — Именно."
+  },
+  {
+   "t": 415.3,
+   "da": "Du skal sige, at med hensyn til min ferie har jeg et spørgsmål.",
+   "ru": "Нужно сказать: *med hensyn til min ferie har jeg et spørgsmål* — что касается моего отпуска, у меня есть вопрос."
+  },
+  {
+   "t": 418.6,
+   "da": "Godt fanget. Testtid.",
+   "ru": "Хорошо подмечено. Время теста."
+  },
+  {
+   "t": 420.8,
+   "da": "Du sidder i den store skraldebil og kigger ned på en lille personbil.",
+   "ru": "Ты сидишь в большом мусоровозе и смотришь сверху на маленькую легковушку."
+  },
+  {
+   "t": 424.4,
+   "da": "Sætningen er, at skraldebilen er meget stor … tomt felt … en almindelig bil.",
+   "ru": "Предложение: мусоровоз очень большой … пропуск … обычной машины."
+  },
+  {
+   "t": 430.2,
+   "da": "Tænk selv.",
+   "ru": "Подумай сам."
+  },
+  {
+   "t": 431.4,
+   "da": "Og fordi vi direkte sammenligner to forskellige biler, så er svaret i forhold til.",
+   "ru": "И поскольку мы напрямую сравниваем две разные машины, ответ — *i forhold til*."
+  },
+  {
+   "t": 435.5,
+   "da": "Ja, for vi sammenligner. Den er stor i forhold til den anden bil.",
+   "ru": "Да, ведь мы сравниваем: он большой *i forhold til* — по сравнению с другой машиной."
+  },
+  {
+   "t": 439.5,
+   "da": "Det er meget logisk, når man kender reglen, ikke også? — Meget.",
+   "ru": "Всё очень логично, когда знаешь правило, правда? — Очень."
+  },
+  {
+   "t": 442.7,
+   "da": "Det bringer os faktisk til det sidste par i kassen.",
+   "ru": "Это подводит нас к последней паре в ящике."
+  },
+  {
+   "t": 445.9,
+   "da": "I forbindelse med og på grund af.",
+   "ru": "*I forbindelse med* и *på grund af*."
+  },
+  {
+   "t": 449.5,
+   "da": "Ja, og de handler om, når noget går galt, eller når vi fejrer noget.",
+   "ru": "Да, и они о том, когда что-то идёт не так или когда мы что-то празднуем."
+  },
+  {
+   "t": 452.8,
+   "da": "For jeg tænkte på en stresset situation.",
+   "ru": "Я подумал о стрессовой ситуации."
+  },
+  {
+   "t": 455.3,
+   "da": "Det sner overalt i Glostrup.",
+   "ru": "В Глострупе повсюду идёт снег."
+  },
+  {
+   "t": 456.9,
+   "da": "Anton kommer for sent på arbejde og siger til chefen:",
+   "ru": "Антон опаздывает на работу и говорит начальнице:"
+  },
+  {
+   "t": 459.0,
+   "da": "Jeg kom for sent i forbindelse med sneen.",
+   "ru": "«(неправильно) Я опоздал *i forbindelse med* снегом»."
+  },
+  {
+   "t": 461.6,
+   "da": "Haha, og der ville Sebrina nok kigge meget forvirret.",
+   "ru": "Ха-ха, тут Себрина, наверное, посмотрела бы очень озадаченно."
+  },
+  {
+   "t": 464.8,
+   "da": "Men sneen er da grunden?",
+   "ru": "Но ведь снег — это же причина?"
+  },
+  {
+   "t": 466.6,
+   "da": "Ja, lige præcis. Det er grunden.",
+   "ru": "Да, именно. Это причина."
+  },
+  {
+   "t": 469.0,
+   "da": "Og sne er en fysisk årsag.",
+   "ru": "А снег — это физическая причина."
+  },
+  {
+   "t": 470.6,
+   "da": "Det er ikke en begivenhed eller en fest.",
+   "ru": "Это не событие и не праздник."
+  },
+  {
+   "t": 472.3,
+   "da": "Derfor kan du ikke sige i forbindelse med.",
+   "ru": "Поэтому нельзя сказать *i forbindelse med*."
+  },
+  {
+   "t": 474.7,
+   "da": "Så når vi svarer på spørgsmålet: hvorfor skete det her dårlige? Hvad siger vi så?",
+   "ru": "Так когда мы отвечаем на вопрос «почему случилось это плохое?» — что мы говорим?"
+  },
+  {
+   "t": 479.6,
+   "da": "Så siger vi på grund af.",
+   "ru": "Тогда мы говорим *på grund af* — «из-за»."
+  },
+  {
+   "t": 481.4,
+   "da": "Det viser direkte hen til årsagen.",
+   "ru": "Оно прямо указывает на причину."
+  },
+  {
+   "t": 482.9,
+   "da": "Du skal sige: vi kom for sent på grund af sne.",
+   "ru": "Нужно сказать: *vi kom for sent på grund af sne* — мы опоздали из-за снега."
+  },
+  {
+   "t": 485.4,
+   "da": "Ah, okay.",
+   "ru": "А, понятно."
+  },
+  {
+   "t": 488.6,
+   "da": "Men hvornår bruger man så i forbindelse med?",
+   "ru": "Но когда же тогда используют *i forbindelse med*?"
+  },
+  {
+   "t": 491.2,
+   "da": "Det bruger vi jo med en anledning.",
+   "ru": "Его используют, когда есть повод."
+  },
+  {
+   "t": 492.9,
+   "da": "F.eks. en fest, en jul eller en ferie.",
+   "ru": "Например, праздник, Рождество или отпуск."
+  },
+  {
+   "t": 495.4,
+   "da": "Noget man markerer.",
+   "ru": "Что-то, что отмечают."
+  },
+  {
+   "t": 496.6,
+   "da": "Man kan holde fri i forbindelse med ferien.",
+   "ru": "Можно взять выходной *i forbindelse med ferien* — в связи с отпуском."
+  },
+  {
+   "t": 498.7,
+   "da": "Okay, så det sætter en ramme op om en begivenhed.",
+   "ru": "Понятно, то есть оно задаёт рамку вокруг события."
+  },
+  {
+   "t": 501.5,
+   "da": "Sne er bare en irriterende årsag. — Præcis.",
+   "ru": "А снег — просто досадная причина. — Точно."
+  },
+  {
+   "t": 504.4,
+   "da": "Lad os teste dig, Anton.",
+   "ru": "Давай проверим тебя, Антон."
+  },
+  {
+   "t": 505.8,
+   "da": "Vi er til fest, og sætningen er: vi spiser en stor kage …",
+   "ru": "Мы на празднике, и предложение такое: мы едим большой торт …"
+  },
+  {
+   "t": 509.8,
+   "da": "Tomt felt … Ivans fødselsdag.",
+   "ru": "пропуск … дня рождения Ивана."
+  },
+  {
+   "t": 512.7,
+   "da": "Tænk selv. — En fødselsdag er jo en fantastisk anledning.",
+   "ru": "Подумай сам. — День рождения — это же прекрасный повод."
+  },
+  {
+   "t": 516.2,
+   "da": "Så svaret er i forbindelse med. — Lige præcis.",
+   "ru": "Значит, ответ — *i forbindelse med*. — Именно."
+  },
+  {
+   "t": 519.3,
+   "da": "Vi spiser kage i forbindelse med fødselsdagen.",
+   "ru": "Мы едим торт *i forbindelse med fødselsdagen* — по случаю дня рождения."
+  },
+  {
+   "t": 521.7,
+   "da": "Det er så fint sorteret, det hele.",
+   "ru": "Всё так аккуратно рассортировано."
+  },
+  {
+   "t": 524.5,
+   "da": "Og altså, jeg skal lige sige, jeg læste faktisk en e-mail, Anton har sendt til chefen Sebrina.",
+   "ru": "И знаешь, должен сказать: я как раз прочитал письмо, которое Антон отправил начальнице Себрине."
+  },
+  {
+   "t": 528.5,
+   "da": "Og han rammer altid plet. — Ja, det så jeg godt. Det var helt utroligt.",
+   "ru": "И он всегда попадает в точку. — Да, я заметил. Это просто невероятно."
+  },
+  {
+   "t": 531.9,
+   "da": "Han skriver nemlig: i henhold til aftalen holder jeg fri.",
+   "ru": "Он пишет: *i henhold til aftalen holder jeg fri* — согласно договорённости я беру выходные."
+  },
+  {
+   "t": 535.0,
+   "da": "Og ifølge planen kører jeg rute 615.",
+   "ru": "И *ifølge planen kører jeg rute 615* — по плану я еду по маршруту 615."
+  },
+  {
+   "t": 538.3,
+   "da": "Han bruger det tunge ord, i henhold til, om den faste aftale.",
+   "ru": "Он использует тяжёлое выражение *i henhold til* для твёрдой договорённости."
+  },
+  {
+   "t": 542.2,
+   "da": "Og han bruger det levende ord, ifølge, om selve oversigtsplanen.",
+   "ru": "А «живое» слово *ifølge* — для самого плана-графика."
+  },
+  {
+   "t": 545.7,
+   "da": "Det er perfekt.",
+   "ru": "Это идеально."
+  },
+  {
+   "t": 547.1,
+   "da": "Så lad os koge det helt ned til en enkelt sætning, han kan have med i bilen, som en opsummering.",
+   "ru": "Так давай сведём всё к одной фразе, которую он сможет взять с собой в машину, — как итог."
+  },
+  {
+   "t": 551.6,
+   "da": "Det må være den her. Husk:",
+   "ru": "Пусть будет вот эта. Запомни:"
+  },
+  {
+   "t": 554.0,
+   "da": "ifølge chefen, men i henhold til reglen.",
+   "ru": "*ifølge chefen*, но *i henhold til reglen* — «по словам начальника», но «согласно правилу»."
+  },
+  {
+   "t": 556.6,
+   "da": "Ifølge chefen, men i henhold til reglen.",
+   "ru": "*Ifølge chefen*, но *i henhold til reglen*."
+  },
+  {
+   "t": 560.0,
+   "da": "Levende kilder over for faste love. — Nemlig.",
+   "ru": "Живые источники против твёрдых законов. — Именно."
+  },
+  {
+   "t": 563.3,
+   "da": "Og inden du kører videre ind i dagen, så vil jeg gerne lige give dig en lille provokerende udfordring. (?)",
+   "ru": "И прежде чем ты поедешь дальше навстречу дню, я хочу дать тебе маленькое провокационное задание."
+  },
+  {
+   "t": 568.4,
+   "da": "Oha, hvad er det?",
+   "ru": "Ого, что за задание?"
+  },
+  {
+   "t": 569.4,
+   "da": "Jo, næste gang du åbner et brev fra kommunen, måske om nye skraldespande,",
+   "ru": "А вот: в следующий раз, когда откроешь письмо из коммуны — например, про новые мусорные баки,"
+  },
+  {
+   "t": 574.4,
+   "da": "så prøv at kigge nøje på deres ord.",
+   "ru": "внимательно присмотрись к их словам."
+  },
+  {
+   "t": 576.8,
+   "da": "Du mener, om de selv kan finde ud af reglerne?",
+   "ru": "То есть разбираются ли они сами в правилах?"
+  },
+  {
+   "t": 578.4,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 579.4,
+   "da": "Nu kender du jo systemet bedre end mange danskere.",
+   "ru": "Теперь ты знаешь систему лучше многих датчан."
+  },
+  {
+   "t": 581.9,
+   "da": "Prøv at se, om ikke også kommunen falder i »i forhold til«-fælden",
+   "ru": "Посмотри, не попадает ли и коммуна в ловушку *i forhold til*"
+  },
+  {
+   "t": 585.8,
+   "da": "og blander det hele sammen i deres egne breve.",
+   "ru": "и не путает ли всё подряд в собственных письмах."
+  },
+  {
+   "t": 588.2,
+   "da": "Det er et rigtig godt råd.",
+   "ru": "Это очень хороший совет."
+  },
+  {
+   "t": 589.5,
+   "da": "Så kan du sidde der og rette kommunens sprog, mens du tømmer deres skraldespande.",
+   "ru": "Тогда ты сможешь сидеть и исправлять язык коммуны, пока опустошаешь её мусорные баки."
+  },
+  {
+   "t": 593.5,
+   "da": "Ja, rigtig god arbejdsdag derude på ruten. (?)",
+   "ru": "Да, хорошего рабочего дня там, на маршруте."
+  },
+  {
+   "t": 595.9,
+   "da": "Pas godt på dig selv.",
+   "ru": "Береги себя."
+  },
+  {
+   "t": 596.8,
+   "da": "Husk navneordet og verbet lige efter.",
+   "ru": "Помни про существительное и про глагол сразу после."
+  },
+  {
+   "t": 599.0,
+   "da": "Vi høres ved.",
+   "ru": "До связи."
+  }
+ ],
+ "glossary": [
+  {
+   "da": "et forbindelsesord",
+   "ru": "связка, соединительное слово (союз/предлог-связка)",
+   "note": "тема эпизода; мн. forbindelsesord",
+   "t": 13.8,
+   "status": "-"
+  },
+  {
+   "da": "drilsk",
+   "ru": "каверзный, коварный, озорной",
+   "note": "«små drilske ord» — каверзные словечки",
+   "t": 13.8,
+   "status": "-"
+  },
+  {
+   "da": "et modersmål",
+   "ru": "родной язык",
+   "note": "",
+   "t": 22.1,
+   "status": "-"
+  },
+  {
+   "da": "at ramme plet",
+   "ru": "попасть точно в цель, в яблочко",
+   "note": "«han rammer altid plet» — он всегда попадает в точку",
+   "t": 30.1,
+   "status": "new"
+  },
+  {
+   "da": "en bunke",
+   "ru": "куча, стопка",
+   "note": "«en stor bunke pap» — большая куча картона",
+   "t": 42.9,
+   "status": "-"
+  },
+  {
+   "da": "stiv",
+   "ru": "жёсткий; натянутый, чопорный (о языке)",
+   "note": "форма среднего рода: stift — «et stift bureaukratord»",
+   "t": 53.8,
+   "status": "-"
+  },
+  {
+   "da": "at gå i stå",
+   "ru": "застопориться, заглохнуть, остановиться",
+   "note": "«snakken går i stå» — разговор застопоривается",
+   "t": 53.8,
+   "status": "known"
+  },
+  {
+   "da": "en hovedregel",
+   "ru": "главное правило",
+   "note": "",
+   "t": 64.3,
+   "status": "-"
+  },
+  {
+   "da": "et navneord",
+   "ru": "существительное",
+   "note": "ASR «navnord»; после почти всех связок идёт navneord",
+   "t": 70.8,
+   "status": "-"
+  },
+  {
+   "da": "et udsagnsord",
+   "ru": "глагол (= et verbum)",
+   "note": "ASR «udsætningsord/udsøgnsord/udsangsåret»; в V2 идёт сразу после связки",
+   "t": 82.0,
+   "status": "-"
+  },
+  {
+   "da": "en vejrudsigt / vejrudsigten",
+   "ru": "прогноз погоды",
+   "note": "ASR «verveudsigten»; ifølge vejrudsigten bliver det glat",
+   "t": 90.2,
+   "status": "-"
+  },
+  {
+   "da": "glat",
+   "ru": "скользкий (гололёд); гладкий",
+   "note": "",
+   "t": 90.2,
+   "status": "-"
+  },
+  {
+   "da": "ifølge",
+   "ru": "согласно, по словам, по данным",
+   "note": "КЛЮЧЕВОЕ. Tale og skrift, особенно в речи; источник — человек, радио, прогноз, план. После — существительное (ifølge chefen), без «af»; в начале → глагол сразу после",
+   "t": 90.2,
+   "status": "new"
+  },
+  {
+   "da": "i henhold til",
+   "ru": "согласно (правилу, закону, договору)",
+   "note": "КЛЮЧЕВОЕ. Skrift, официально (сокр. iht.); после — существительное: i henhold til aftalen/reglerne; не о людях",
+   "t": 112.9,
+   "status": "-"
+  },
+  {
+   "da": "i overensstemmelse med",
+   "ru": "в соответствии с",
+   "note": "КЛЮЧЕВОЕ. Skrift, официально; результат соответствует правилам; после — существительное: i overensstemmelse med reglerne",
+   "t": 112.9,
+   "status": "-"
+  },
+  {
+   "da": "en kilde / kilden",
+   "ru": "источник",
+   "note": "levende kilder — «живые» источники (люди, радио)",
+   "t": 144.9,
+   "status": "new"
+  },
+  {
+   "da": "mundret",
+   "ru": "легко произносится, звучит естественно в речи",
+   "note": "«Det er meget mere mundret»",
+   "t": 152.2,
+   "status": "-"
+  },
+  {
+   "da": "en lov / loven",
+   "ru": "закон",
+   "note": "мн. love — «faste regler og love»",
+   "t": 159.9,
+   "status": "known"
+  },
+  {
+   "da": "køre- og hviletid",
+   "ru": "время вождения и отдыха (тахограф)",
+   "note": "køre- og hviletidsreglerne — правила режима труда и отдыха",
+   "t": 162.3,
+   "status": "-"
+  },
+  {
+   "da": "et tomt felt",
+   "ru": "пустое поле, пропуск (в задании)",
+   "note": "tom — пустой; ср. род tomt",
+   "t": 181.3,
+   "status": "-"
+  },
+  {
+   "da": "en mængde / mængden",
+   "ru": "количество, объём",
+   "note": "мн. mængder",
+   "t": 200.6,
+   "status": "-"
+  },
+  {
+   "da": "som beskrevet i",
+   "ru": "как описано в",
+   "note": "КЛЮЧЕВОЕ. Чаще skrift (инструкции, письма), но годится и в речи; после — существительное (текст): som beskrevet i manualen/vejledningen",
+   "t": 203.1,
+   "status": "-"
+  },
+  {
+   "da": "at svare til",
+   "ru": "соответствовать, быть равным",
+   "note": "КЛЮЧЕВОЕ. Это глагол (svarer til); tale og skrift; после — существительное/величина: en svensk mil svarer til 10 km",
+   "t": 205.2,
+   "status": "known"
+  },
+  {
+   "da": "at falde i fælden",
+   "ru": "попасться в ловушку",
+   "note": "en fælde — ловушка; past: faldt",
+   "t": 209.0,
+   "status": "-"
+  },
+  {
+   "da": "at sammenligne",
+   "ru": "сравнивать",
+   "note": "«sammenligne to ting»",
+   "t": 218.1,
+   "status": "-"
+  },
+  {
+   "da": "et lighedstegn",
+   "ru": "знак равенства (=)",
+   "note": "",
+   "t": 226.0,
+   "status": "-"
+  },
+  {
+   "da": "et beløb",
+   "ru": "сумма (денег)",
+   "note": "мн. beløb; «vi sammenligner to beløb»",
+   "t": 276.7,
+   "status": "-"
+  },
+  {
+   "da": "med hensyn til",
+   "ru": "что касается, относительно",
+   "note": "КЛЮЧЕВОЕ. Tale og skrift, нейтрально, в любом месте предложения (сокр. mht.); после — существительное: med hensyn til ferien",
+   "t": 284.4,
+   "status": "-"
+  },
+  {
+   "da": "vedrørende",
+   "ru": "касательно, по поводу",
+   "note": "КЛЮЧЕВОЕ. Skrift, очень официально — тема письма/e-mail (сокр. vedr.); после — существительное: Vedrørende min vagtplan",
+   "t": 284.4,
+   "status": "-"
+  },
+  {
+   "da": "hvad angår",
+   "ru": "что касается",
+   "note": "КЛЮЧЕВОЕ. Tale og skrift; стоит в начале при смене темы; после — существительное, затем запятая и сразу глагол: Hvad angår benzin, tanker vi…",
+   "t": 284.4,
+   "status": "new"
+  },
+  {
+   "da": "et emne / emnet",
+   "ru": "тема; тема письма",
+   "note": "skifte emne — сменить тему; emnefeltet — поле «тема» в письме",
+   "t": 322.6,
+   "status": "-"
+  },
+  {
+   "da": "et blinklys",
+   "ru": "поворотник",
+   "note": "«et sprogligt blinklys» — языковой поворотник",
+   "t": 326.2,
+   "status": "-"
+  },
+  {
+   "da": "i forhold til",
+   "ru": "по сравнению с; по отношению к",
+   "note": "КЛЮЧЕВОЕ. Tale og skrift; для сравнения двух вещей; после — существительное: i forhold til i går. Датчане злоупотребляют им в речи вместо med hensyn til",
+   "t": 370.9,
+   "status": "-"
+  },
+  {
+   "da": "en uvane",
+   "ru": "дурная привычка",
+   "note": "",
+   "t": 377.6,
+   "status": "-"
+  },
+  {
+   "da": "i forbindelse med",
+   "ru": "в связи с, по случаю",
+   "note": "КЛЮЧЕВОЕ. Tale og skrift (сокр. ifm.); повод/событие, а не причина; после — существительное: i forbindelse med ferien/fødselsdagen",
+   "t": 445.9,
+   "status": "new"
+  },
+  {
+   "da": "på grund af",
+   "ru": "из-за, по причине",
+   "note": "КЛЮЧЕВОЕ. Tale og skrift; называет причину; после — существительное: på grund af sne",
+   "t": 445.9,
+   "status": "known"
+  },
+  {
+   "da": "en årsag / årsagen",
+   "ru": "причина",
+   "note": "синоним: grund",
+   "t": 469.0,
+   "status": "new"
+  },
+  {
+   "da": "en begivenhed",
+   "ru": "событие",
+   "note": "",
+   "t": 470.6,
+   "status": "-"
+  },
+  {
+   "da": "en anledning",
+   "ru": "повод, случай",
+   "note": "«en fødselsdag er en fantastisk anledning»",
+   "t": 491.2,
+   "status": "-"
+  },
+  {
+   "da": "en opsummering",
+   "ru": "краткий итог, резюме",
+   "note": "at opsummere — подвести итог",
+   "t": 550.6,
+   "status": "-"
+  }
+ ]
+}
