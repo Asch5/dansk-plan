@@ -1,0 +1,3490 @@
+{
+ "id": "nlm-f3",
+ "title_da": "Undgå fælden med medmindre og hvis",
+ "title_ru": "Как не попасть в ловушку с medmindre и hvis",
+ "summary_ru": "Ведущие разбирают датские связки условия на примерах из будней Антона: тоннель, гололёд, маршрут 615, кемпинг в Швеции с Иваном, чек в магазине. Четыре группы: hvis (+ предложение) против i tilfælde af (+ существительное, как на табличке); hvis / såfremt (официальное «если» для писем) / forudsat at («при условии, что», строгий «замок»); medmindre / hvis ikke — главная ловушка: medmindre уже значит «если НЕ», поэтому после него нельзя ставить ikke; ellers (предупреждение «а то») против i så fald / i givet fald (нейтральный план Б, второе — официальнее). Бонус — ved kontakt med, в конце — сообщение Ивану, где все связки стоят на своих местах.",
+ "lines": [
+  {
+   "t": 0.0,
+   "da": "Øhm, forestil dig lige det her.",
+   "ru": "Э-э, представь себе вот что."
+  },
+  {
+   "t": 2.9,
+   "da": "Du sidder bag rattet i en 26 tons tung skraldebil.",
+   "ru": "Ты сидишь за рулём 26-тонного мусоровоза."
+  },
+  {
+   "t": 6.8,
+   "da": "Det er alligevel en ret stor maskine.",
+   "ru": "Это всё-таки довольно большая машина."
+  },
+  {
+   "t": 8.1,
+   "da": "Ja, ikke? Ja.",
+   "ru": "Да, правда? Да."
+  },
+  {
+   "t": 9.1,
+   "da": "Og du nærmer dig en smal, mørk tunnel midt inde i hjertet af København.",
+   "ru": "И ты приближаешься к узкому тёмному тоннелю в самом сердце Копенгагена."
+  },
+  {
+   "t": 14.5,
+   "da": "Uh, det lyder lidt stressende.",
+   "ru": "Ух, звучит немного напряжённо."
+  },
+  {
+   "t": 15.8,
+   "da": "Det er det også.",
+   "ru": "Так и есть."
+  },
+  {
+   "t": 16.4,
+   "da": "Altså, der er cykler overalt, og stressniveauet er højt.",
+   "ru": "Ну, повсюду велосипеды, и уровень стресса высокий."
+  },
+  {
+   "t": 19.6,
+   "da": "Og pludselig ser du et gult skilt foran tunnelen.",
+   "ru": "И вдруг ты видишь жёлтый знак перед тоннелем."
+  },
+  {
+   "t": 22.8,
+   "da": "Okay, hvad står der på det?",
+   "ru": "Так, а что на нём написано?"
+  },
+  {
+   "t": 23.6,
+   "da": "På skiltet står der: \"Bak ikke, medmindre du ikke har fået ordre til det.\"",
+   "ru": "На знаке написано: (неправильно) «Не сдавай назад, если только тебе НЕ не дали приказа» (*medmindre … ikke* — двойное отрицание)."
+  },
+  {
+   "t": 28.2,
+   "da": "Hold da op. Ja.",
+   "ru": "Ничего себе. Да."
+  },
+  {
+   "t": 29.3,
+   "da": "Det var lidt en mundfuld.",
+   "ru": "Это прямо язык сломаешь (букв. «полный рот»)."
+  },
+  {
+   "t": 30.5,
+   "da": "Ja, præcis.",
+   "ru": "Да, точно."
+  },
+  {
+   "t": 31.6,
+   "da": "Altså, hvad gør du nu?",
+   "ru": "Так что же ты теперь делаешь?"
+  },
+  {
+   "t": 32.9,
+   "da": "Må du køre tilbage, eller skal du bare vente?",
+   "ru": "Можно сдать назад или нужно просто ждать?"
+  },
+  {
+   "t": 36.0,
+   "da": "Det er jo et rigtig godt spørgsmål.",
+   "ru": "Это действительно очень хороший вопрос."
+  },
+  {
+   "t": 37.3,
+   "da": "Næh, men.",
+   "ru": "Ну да, но…"
+  },
+  {
+   "t": 38.2,
+   "da": "Et enkelt lille grammatisk ord kan faktisk være forskellen på en helt rolig arbejdsdag,",
+   "ru": "Одно маленькое грамматическое слово может на самом деле быть разницей между совершенно спокойным рабочим днём"
+  },
+  {
+   "t": 43.5,
+   "da": "og så en totalskadet lastbil.",
+   "ru": "и разбитым вдребезги грузовиком."
+  },
+  {
+   "t": 45.6,
+   "da": "Det er helt sikkert.",
+   "ru": "Это уж точно."
+  },
+  {
+   "t": 46.9,
+   "da": "Så, velkommen til dagens undersøgelse af sproget.",
+   "ru": "Итак, добро пожаловать на сегодняшнее исследование языка."
+  },
+  {
+   "t": 49.9,
+   "da": "I dag er vores samtale skræddersyet fuldstændig til dig, Anton.",
+   "ru": "Сегодня наш разговор полностью сшит по мерке (*skræddersyet*) для тебя, Антон."
+  },
+  {
+   "t": 53.7,
+   "da": "Lige præcis. Og hej, Anton.",
+   "ru": "Именно. И привет, Антон."
+  },
+  {
+   "t": 55.4,
+   "da": "Vi ved jo, at du netop nu sidder derude i din skraldebil på ruten i København.",
+   "ru": "Мы ведь знаем, что ты прямо сейчас сидишь там, в своём мусоровозе, на маршруте в Копенгагене."
+  },
+  {
+   "t": 61.6,
+   "da": "Og med russisk som dit modersmål, der er din hverdag fyldt med danske beskeder, skilte og indviklede regler.",
+   "ru": "А с русским как родным языком твои будни полны датских сообщений, знаков и запутанных правил."
+  },
+  {
+   "t": 68.9,
+   "da": "Ja, det er et utroligt vigtigt stykke arbejde, du udfører for byen, Anton.",
+   "ru": "Да, ты делаешь невероятно важную работу для города, Антон."
+  },
+  {
+   "t": 73.7,
+   "da": "Og vi ved godt, at det danske sprog kan føles som en meget snørklet labyrint nogle gange.",
+   "ru": "И мы прекрасно знаем, что датский язык иногда может казаться очень запутанным лабиринтом."
+  },
+  {
+   "t": 78.2,
+   "da": "Det kan det virkelig.",
+   "ru": "Это правда так."
+  },
+  {
+   "t": 79.8,
+   "da": "Så vores mission i dag, som faktisk er baseret på dine helt egne noter,",
+   "ru": "Так что наша сегодняшняя миссия, которая, кстати, основана на твоих собственных заметках,"
+  },
+  {
+   "t": 83.3,
+   "da": "det er at give dig et helt klart kort.",
+   "ru": "— дать тебе совершенно ясную карту."
+  },
+  {
+   "t": 85.2,
+   "da": "Et kort over de her små, men utrolig magtfulde bindeord på dansk.",
+   "ru": "Карту этих маленьких, но невероятно могущественных союзов (*bindeord*) в датском."
+  },
+  {
+   "t": 89.6,
+   "da": "Ja, det vi kalder betingelser.",
+   "ru": "Да, того, что мы называем условиями (*betingelser*)."
+  },
+  {
+   "t": 90.7,
+   "da": "Lige netop. Altså, hvordan du helt præcist udtrykker ordet \"hvis\" og \"hvis ikke\" i forskellige situationer.",
+   "ru": "Вот именно. То есть как совершенно точно выразить «если» (*hvis*) и «если не» (*hvis ikke*) в разных ситуациях."
+  },
+  {
+   "t": 97.8,
+   "da": "Både i din arbejdsdag og hjemme hos familien.",
+   "ru": "И в рабочий день, и дома с семьёй."
+  },
+  {
+   "t": 100.8,
+   "da": "Og vi tager det hele i et meget roligt og behageligt tempo.",
+   "ru": "И мы пройдём всё это в очень спокойном и приятном темпе."
+  },
+  {
+   "t": 104.3,
+   "da": "Ja, der er ingen grund til at stresse. Nej, vel.",
+   "ru": "Да, нет причин нервничать. Конечно нет."
+  },
+  {
+   "t": 106.5,
+   "da": "Jeg elsker faktisk at tænke på de her grammatiske regler ligesom gadeskiltene i København.",
+   "ru": "Я, кстати, обожаю представлять эти грамматические правила как дорожные знаки в Копенгагене."
+  },
+  {
+   "t": 111.1,
+   "da": "Nå, hvordan det?",
+   "ru": "Да? Это как?"
+  },
+  {
+   "t": 112.3,
+   "da": "Jo, altså, i starten virker trafikken jo helt kaotisk.",
+   "ru": "Ну, поначалу движение кажется совершенно хаотичным."
+  },
+  {
+   "t": 114.8,
+   "da": "Men når du først forstår, hvorfor skiltene står lige præcis der,",
+   "ru": "Но как только ты понимаешь, почему знаки стоят именно там"
+  },
+  {
+   "t": 118.9,
+   "da": "og hvordan vejbanerne fletter sammen,",
+   "ru": "и как полосы сливаются (*fletter sammen*),"
+  },
+  {
+   "t": 121.3,
+   "da": "så glider det hele jo bare meget nemmere.",
+   "ru": "всё идёт гораздо легче."
+  },
+  {
+   "t": 123.9,
+   "da": "Vi skal ikke bare kigge på, hvad ordene betyder.",
+   "ru": "Мы не будем просто смотреть, что слова значат."
+  },
+  {
+   "t": 126.3,
+   "da": "Vi skal også forstå, hvorfor danskerne bruger dem på den måde.",
+   "ru": "Мы также поймём, почему датчане употребляют их именно так."
+  },
+  {
+   "t": 129.0,
+   "da": "Det er en rigtig god indstilling.",
+   "ru": "Это очень правильный настрой."
+  },
+  {
+   "t": 130.6,
+   "da": "Så lad os bare rulle afsted.",
+   "ru": "Так что давай просто покатим."
+  },
+  {
+   "t": 132.1,
+   "da": "Jeg foreslår, at vi starter helt ude i trafikken, hvor tingene er fysiske.",
+   "ru": "Предлагаю начать прямо на дороге, где всё физическое, осязаемое."
+  },
+  {
+   "t": 135.6,
+   "da": "Det lyder som en god plan.",
+   "ru": "Звучит как хороший план."
+  },
+  {
+   "t": 137.1,
+   "da": "Ja, og kigger på vores første par af ord.",
+   "ru": "Да, и посмотрим на нашу первую пару слов."
+  },
+  {
+   "t": 139.6,
+   "da": "Nemlig ordet \"hvis\" over for udtrykket \"i tilfælde af\".",
+   "ru": "А именно слово *hvis* («если») против выражения *i tilfælde af* («в случае»)."
+  },
+  {
+   "t": 143.8,
+   "da": "Det er et helt perfekt sted at starte.",
+   "ru": "Это идеальное место для начала."
+  },
+  {
+   "t": 146.0,
+   "da": "For det handler faktisk om den mest basale form for betingelse.",
+   "ru": "Ведь речь идёт о самой базовой форме условия."
+  },
+  {
+   "t": 149.2,
+   "da": "Okay, fortæl mere.",
+   "ru": "Хорошо, расскажи подробнее."
+  },
+  {
+   "t": 150.9,
+   "da": "Altså, når du kører din rute, Anton, så sætter verden hele tiden betingelser op for dig.",
+   "ru": "Ну, когда ты едешь по своему маршруту, Антон, мир всё время ставит тебе условия."
+  },
+  {
+   "t": 155.4,
+   "da": "Du kan kun gøre én ting, hvis en anden ting sker.",
+   "ru": "Ты можешь сделать одно, только если произойдёт другое."
+  },
+  {
+   "t": 158.3,
+   "da": "Ja, det giver mening.",
+   "ru": "Да, логично."
+  },
+  {
+   "t": 160.1,
+   "da": "Og her er der altså en virkelig afgørende forskel på,",
+   "ru": "И здесь есть действительно решающая разница:"
+  },
+  {
+   "t": 162.5,
+   "da": "om vi bare taler sammen, eller om vi for eksempel læser en officiel advarsel på et skilt.",
+   "ru": "просто ли мы разговариваем или, например, читаем официальное предупреждение на знаке."
+  },
+  {
+   "t": 167.0,
+   "da": "Åh ja.",
+   "ru": "О да."
+  },
+  {
+   "t": 168.4,
+   "da": "Og her må jeg indrømme, at jeg selv tit falder i en fælde.",
+   "ru": "И тут я должна признаться, что сама часто попадаю в ловушку."
+  },
+  {
+   "t": 170.9,
+   "da": "Gør du det?",
+   "ru": "Правда?"
+  },
+  {
+   "t": 171.7,
+   "da": "Ja, fordi jeg elsker at lyde formel og professionel.",
+   "ru": "Да, потому что я обожаю звучать официально и профессионально."
+  },
+  {
+   "t": 174.6,
+   "da": "Ah, okay.",
+   "ru": "А, понятно."
+  },
+  {
+   "t": 175.9,
+   "da": "Så jeg tænkte på en situation i går, hvor jeg gerne ville forklare en vigtig sikkerhedsregel til en kollega.",
+   "ru": "Вот вспомнила ситуацию вчера, когда я хотела объяснить коллеге важное правило безопасности."
+  },
+  {
+   "t": 180.6,
+   "da": "Jeg ville have, at det skulle lyde som en rigtig advarsel, ikke også?",
+   "ru": "Я хотела, чтобы это звучало как настоящее предупреждение, понимаешь?"
+  },
+  {
+   "t": 183.5,
+   "da": "Jo, selvfølgelig.",
+   "ru": "Да, конечно."
+  },
+  {
+   "t": 185.2,
+   "da": "Hvad sagde du så?",
+   "ru": "И что ты сказала?"
+  },
+  {
+   "t": 186.6,
+   "da": "Jeg sagde med meget dyb stemme:",
+   "ru": "Я сказала очень низким голосом:"
+  },
+  {
+   "t": 188.4,
+   "da": "\"I tilfælde af det brænder, ringer du 112.\"",
+   "ru": "(неправильно) «В случае горит — звонишь 112» (*i tilfælde af det brænder*)."
+  },
+  {
+   "t": 191.1,
+   "da": "Nej, okay.",
+   "ru": "Нет, ну ладно…"
+  },
+  {
+   "t": 191.9,
+   "da": "Jeg tænkte jo bare, at \"i tilfælde af\", det er vel bare et flot jakkesæt, man lige tager på ordet \"hvis\".",
+   "ru": "Я просто думала, что *i tilfælde af* — это же просто красивый костюм, который надевают на слово *hvis*."
+  },
+  {
+   "t": 197.0,
+   "da": "Ja, det kan jeg godt forstå, du tænkte.",
+   "ru": "Да, понимаю, почему ты так подумала."
+  },
+  {
+   "t": 198.9,
+   "da": "Men min kollega, han kiggede bare totalt mærkeligt på mig.",
+   "ru": "Но мой коллега посмотрел на меня совершенно странно."
+  },
+  {
+   "t": 201.6,
+   "da": "Det forstår jeg faktisk godt.",
+   "ru": "Это я как раз понимаю."
+  },
+  {
+   "t": 203.3,
+   "da": "For du falder i en meget logisk fælde der.",
+   "ru": "Потому что ты попадаешь в очень логичную ловушку."
+  },
+  {
+   "t": 205.7,
+   "da": "Okay.",
+   "ru": "Так."
+  },
+  {
+   "t": 206.2,
+   "da": "Betydningen inde i dit hoved, den er jo fuldstændig den samme.",
+   "ru": "Смысл у тебя в голове совершенно тот же."
+  },
+  {
+   "t": 208.8,
+   "da": "Men rent grammatisk, der fungerer de to udtryk vidt forskelligt oppe i hjernen på den person, der lytter til dig.",
+   "ru": "Но чисто грамматически эти два выражения работают совсем по-разному в голове человека, который тебя слушает."
+  },
+  {
+   "t": 214.0,
+   "da": "Så jeg lavede en fejl? Ja.",
+   "ru": "Значит, я ошиблась? Да."
+  },
+  {
+   "t": 215.5,
+   "da": "Du blandede et system for samtale sammen med et system for skilte.",
+   "ru": "Ты смешала систему для разговора с системой для знаков."
+  },
+  {
+   "t": 219.0,
+   "da": "Din sætning var faktisk helt grammatisk forkert.",
+   "ru": "Твоё предложение было на самом деле грамматически неправильным."
+  },
+  {
+   "t": 221.4,
+   "da": "Jamen hvorfor?",
+   "ru": "Но почему?"
+  },
+  {
+   "t": 222.5,
+   "da": "Altså, begge dele handler vel bare om, at noget brænder eller starter, og så skal man handle? (?)",
+   "ru": "Ведь оба варианта просто о том, что что-то горит или начинается, и тогда надо действовать?"
+  },
+  {
+   "t": 226.5,
+   "da": "Vi taler om fart og om præcision. Især når vi taler om farlige ulykker.",
+   "ru": "Мы говорим о скорости и точности. Особенно когда речь об опасных авариях."
+  },
+  {
+   "t": 229.7,
+   "da": "Ja, okay. Fart er vigtigt.",
+   "ru": "Да, хорошо. Скорость важна."
+  },
+  {
+   "t": 231.1,
+   "da": "Lad mig prøve at forklare mekanismen bag det her.",
+   "ru": "Давай я попробую объяснить механизм."
+  },
+  {
+   "t": 233.5,
+   "da": "Ordet \"hvis\", det er skabt til vores helt normale samtaler.",
+   "ru": "Слово *hvis* создано для наших совершенно обычных разговоров."
+  },
+  {
+   "t": 236.7,
+   "da": "Det kræver, at du bygger en lille film op inde i hovedet.",
+   "ru": "Оно требует, чтобы ты построила в голове маленький фильм."
+  },
+  {
+   "t": 239.2,
+   "da": "Med en hel sætning.",
+   "ru": "С целым предложением."
+  },
+  {
+   "t": 240.4,
+   "da": "En film?",
+   "ru": "Фильм?"
+  },
+  {
+   "t": 241.3,
+   "da": "Ja. Altså et grundled og et udsagnsord.",
+   "ru": "Да. То есть подлежащее (*grundled*) и глагол (*udsagnsord*)."
+  },
+  {
+   "t": 244.3,
+   "da": "Handlingen skal spilles helt ud.",
+   "ru": "Действие должно быть полностью разыграно."
+  },
+  {
+   "t": 245.7,
+   "da": "Du siger for eksempel: \"Hvis det brænder, ringer du 112.\"",
+   "ru": "Ты говоришь, например: «Если горит (*hvis det brænder*), звонишь 112»."
+  },
+  {
+   "t": 249.1,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 249.8,
+   "da": "Her ser vi ligesom filmen, hvor ilden starter med at brænde.",
+   "ru": "Здесь мы как бы видим фильм, где огонь начинает гореть."
+  },
+  {
+   "t": 253.2,
+   "da": "Åh, det giver god mening.",
+   "ru": "О, это очень понятно."
+  },
+  {
+   "t": 254.6,
+   "da": "En samtale er som at vise en anden små film.",
+   "ru": "Разговор — это как показывать другому маленькие фильмы."
+  },
+  {
+   "t": 258.2,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 259.1,
+   "da": "Men udtrykket \"i tilfælde af\", det er ikke en film.",
+   "ru": "А выражение *i tilfælde af* — это не фильм."
+  },
+  {
+   "t": 262.1,
+   "da": "Det er et fastlåst billede.",
+   "ru": "Это застывшая картинка."
+  },
+  {
+   "t": 263.9,
+   "da": "Et billede? Ja.",
+   "ru": "Картинка? Да."
+  },
+  {
+   "t": 265.2,
+   "da": "Det er nemlig skabt til skilte og manualer, fordi hjernen skal kunne afkode det på et splitsekund.",
+   "ru": "Оно ведь создано для знаков и инструкций, потому что мозг должен расшифровать его за долю секунды."
+  },
+  {
+   "t": 270.2,
+   "da": "Derfor må der kun komme et navneord lige efter \"i tilfælde af\".",
+   "ru": "Поэтому сразу после *i tilfælde af* может стоять только существительное (*navneord*)."
+  },
+  {
+   "t": 274.1,
+   "da": "Nå, kun et navneord?",
+   "ru": "Вот как, только существительное?"
+  },
+  {
+   "t": 275.3,
+   "da": "Lige netop.",
+   "ru": "Именно."
+  },
+  {
+   "t": 276.1,
+   "da": "Altså en fast ting eller et begreb.",
+   "ru": "То есть конкретная вещь или понятие."
+  },
+  {
+   "t": 278.2,
+   "da": "F.eks. ulykke, sygdom eller brand.",
+   "ru": "Например: *ulykke* (авария), *sygdom* (болезнь) или *brand* (пожар)."
+  },
+  {
+   "t": 281.3,
+   "da": "Du må slet ikke sætte en handling ind.",
+   "ru": "Действие туда вставлять нельзя совсем."
+  },
+  {
+   "t": 282.9,
+   "da": "Ah, så fordi jeg sagde \"det brænder\", så startede jeg faktisk en lang film, hvor jeg bare burde have vist et hurtigt stillbillede.",
+   "ru": "А, значит, сказав *det brænder* («горит»), я запустила длинный фильм, а надо было показать быстрый стоп-кадр."
+  },
+  {
+   "t": 290.3,
+   "da": "Altså navneordet.",
+   "ru": "То есть существительное."
+  },
+  {
+   "t": 291.5,
+   "da": "Helt rigtigt.",
+   "ru": "Совершенно верно."
+  },
+  {
+   "t": 292.4,
+   "da": "Du fjerner simpelthen handlingen for at gøre budskabet lynhurtigt.",
+   "ru": "Ты просто убираешь действие, чтобы сообщение доходило молниеносно."
+  },
+  {
+   "t": 296.0,
+   "da": "Så den helt korrekte formelle sætning, den lyder altså sådan her:",
+   "ru": "Так что совершенно правильная официальная фраза звучит вот так:"
+  },
+  {
+   "t": 299.3,
+   "da": "\"I tilfælde af brand ringer du 112.\"",
+   "ru": "«В случае пожара звони 112» (*i tilfælde af brand*)."
+  },
+  {
+   "t": 301.5,
+   "da": "Okay, jeg gentager den lige to gange langsomt, så den sidder helt fast.",
+   "ru": "Так, я повторю её два раза медленно, чтобы она крепко засела."
+  },
+  {
+   "t": 306.3,
+   "da": "I tilfælde af brand ringer du 112.",
+   "ru": "В случае пожара звони 112."
+  },
+  {
+   "t": 309.4,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 310.2,
+   "da": "Og: i tilfælde af brand ringer du 112.",
+   "ru": "И ещё раз: в случае пожара звони 112."
+  },
+  {
+   "t": 314.9,
+   "da": "Det lyder faktisk også meget mere som noget, der står i en sikkerhedsmanual.",
+   "ru": "Это и правда гораздо больше похоже на то, что написано в инструкции по безопасности."
+  },
+  {
+   "t": 317.5,
+   "da": "Ja, det gør det virkelig.",
+   "ru": "Да, действительно."
+  },
+  {
+   "t": 318.9,
+   "da": "Og ude på din rute, Anton, der møder du jo rigtig mange af de her stillbilleder.",
+   "ru": "А на своём маршруте, Антон, ты встречаешь очень много таких стоп-кадров."
+  },
+  {
+   "t": 323.1,
+   "da": "Det gør vi nok, ja.",
+   "ru": "Наверняка, да."
+  },
+  {
+   "t": 323.7,
+   "da": "Lad os tage et eksempel fra dit arbejde i de mørke vintermåneder.",
+   "ru": "Возьмём пример из твоей работы в тёмные зимние месяцы."
+  },
+  {
+   "t": 327.5,
+   "da": "Uhuh, vinter i Danmark.",
+   "ru": "У-у, зима в Дании."
+  },
+  {
+   "t": 329.1,
+   "da": "Ja, brostenene inde i København, de bliver jo isglatte.",
+   "ru": "Да, брусчатка в Копенгагене становится скользкой, как лёд."
+  },
+  {
+   "t": 332.5,
+   "da": "Så din chef sætter en regel op for jeres kørsel.",
+   "ru": "И вот твой начальник вводит правило для вашей езды."
+  },
+  {
+   "t": 335.3,
+   "da": "Han vil ikke starte en lang film, han vil bare give en kort instruks.",
+   "ru": "Он не хочет запускать длинный фильм, он хочет дать короткую инструкцию."
+  },
+  {
+   "t": 338.4,
+   "da": "Okay, hvad siger han så?",
+   "ru": "Хорошо, и что он говорит?"
+  },
+  {
+   "t": 340.4,
+   "da": "Reglen er: \"I tilfælde af glat føre kører jeg langsommere.\"",
+   "ru": "Правило такое: «В случае гололёда (*i tilfælde af glat føre*) я еду медленнее»."
+  },
+  {
+   "t": 344.9,
+   "da": "Jeg siger det lige igen langsomt.",
+   "ru": "Скажу ещё раз медленно."
+  },
+  {
+   "t": 346.8,
+   "da": "I tilfælde af glat føre kører jeg langsommere.",
+   "ru": "В случае гололёда я еду медленнее."
+  },
+  {
+   "t": 350.3,
+   "da": "Okay, fordi \"glat føre\" er navneordet.",
+   "ru": "Так, потому что *glat føre* — это существительное."
+  },
+  {
+   "t": 354.6,
+   "da": "Det er ligesom billedet af isen.",
+   "ru": "Это как картинка льда."
+  },
+  {
+   "t": 357.0,
+   "da": "Så reglen hedder altså: i tilfælde af glat føre kører jeg langsommere.",
+   "ru": "Значит, правило звучит так: в случае гололёда я еду медленнее."
+  },
+  {
+   "t": 361.4,
+   "da": "Helt korrekt.",
+   "ru": "Совершенно верно."
+  },
+  {
+   "t": 362.6,
+   "da": "Man kan næsten sige, at ordet \"hvis\", det er et sporskifte på en togbane,",
+   "ru": "Можно почти сказать, что слово *hvis* — это стрелка на железной дороге,"
+  },
+  {
+   "t": 366.9,
+   "da": "der fører samtalen et helt nyt sted hen.",
+   "ru": "которая уводит разговор в совершенно новое место."
+  },
+  {
+   "t": 369.7,
+   "da": "Mens \"i tilfælde af\", det er det røde advarselsskilt,",
+   "ru": "А *i tilfælde af* — это красный предупреждающий знак,"
+  },
+  {
+   "t": 372.8,
+   "da": "der bare står helt stille inde ved siden af sporet.",
+   "ru": "который просто стоит неподвижно рядом с путями."
+  },
+  {
+   "t": 375.1,
+   "da": "Det er jo et utrolig stærkt værktøj til hverdagen.",
+   "ru": "Это невероятно сильный инструмент на каждый день."
+  },
+  {
+   "t": 377.4,
+   "da": "Man skal simpelthen kende forskel på, om man taler med en person,",
+   "ru": "Нужно просто различать, говоришь ли ты с человеком"
+  },
+  {
+   "t": 381.3,
+   "da": "eller om man læser et skilt.",
+   "ru": "или читаешь знак."
+  },
+  {
+   "t": 382.7,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 383.7,
+   "da": "Og det fører os faktisk meget naturligt videre til næste situation for dig, Anton.",
+   "ru": "И это очень естественно подводит нас к следующей ситуации для тебя, Антон."
+  },
+  {
+   "t": 388.1,
+   "da": "For det er jo kun ude på selve gaden, at tingene er fysiske skilte.",
+   "ru": "Ведь только на самой улице всё — это физические знаки."
+  },
+  {
+   "t": 391.8,
+   "da": "Det er rigtigt. Ja.",
+   "ru": "Это верно. Да."
+  },
+  {
+   "t": 392.8,
+   "da": "Når du kommer hjem efter ruten, vasker hænder, og du åbner din e-Boks på telefonen.",
+   "ru": "Когда ты приходишь домой после маршрута, моешь руки и открываешь свой e-Boks в телефоне."
+  },
+  {
+   "t": 397.2,
+   "da": "Åh, e-Boks, ja.",
+   "ru": "О, e-Boks, да."
+  },
+  {
+   "t": 398.7,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 399.9,
+   "da": "Så skifter det danske sprog fuldstændig karakter.",
+   "ru": "Тогда датский язык полностью меняет характер."
+  },
+  {
+   "t": 402.6,
+   "da": "Fra trafik til kontor.",
+   "ru": "С дороги — в контору."
+  },
+  {
+   "t": 404.1,
+   "da": "Så vores næste gruppe af ord, vi skal se på, det er",
+   "ru": "Так что следующая группа слов, на которую мы посмотрим, это"
+  },
+  {
+   "t": 406.8,
+   "da": "\"hvis\", \"såfremt\" og \"forudsat at\".",
+   "ru": "*hvis*, *såfremt* («если», офиц.) и *forudsat at* («при условии, что»)."
+  },
+  {
+   "t": 409.7,
+   "da": "Ja, og nu træder vi nemlig ind i bureaukratiets verden.",
+   "ru": "Да, и теперь мы входим в мир бюрократии."
+  },
+  {
+   "t": 412.9,
+   "da": "Vi bevæger os ligesom fra gaden og ind på kommunens kontor.",
+   "ru": "Мы как бы переходим с улицы в контору коммуны."
+  },
+  {
+   "t": 416.6,
+   "da": "Eller ind i den formelle kontrakt med dit arbejde.",
+   "ru": "Или в официальный договор с твоей работой."
+  },
+  {
+   "t": 420.3,
+   "da": "Og det er jo et helt andet sprog.",
+   "ru": "А это совсем другой язык."
+  },
+  {
+   "t": 421.9,
+   "da": "Ja, og her vil du opleve, Anton, at ordene for præcis de samme betingelser,",
+   "ru": "Да, и здесь ты увидишь, Антон, что слова для точно таких же условий"
+  },
+  {
+   "t": 425.8,
+   "da": "de ændrer sig simpelthen for at skabe en bestemt følelse.",
+   "ru": "просто меняются, чтобы создать определённое ощущение."
+  },
+  {
+   "t": 428.7,
+   "da": "Og her lavede jeg faktisk et lille sjovt eksperiment forleden.",
+   "ru": "И тут я на днях провела маленький забавный эксперимент."
+  },
+  {
+   "t": 432.2,
+   "da": "Nå, gjorde du det?",
+   "ru": "Да ну, правда?"
+  },
+  {
+   "t": 432.9,
+   "da": "Ja, fordi jeg tænkte over de her noter, vi har fået fra dig, Anton.",
+   "ru": "Да, потому что я думала об этих заметках, которые мы получили от тебя, Антон."
+  },
+  {
+   "t": 436.1,
+   "da": "Og jeg undrede mig rigtig meget over det her ord, \"såfremt\".",
+   "ru": "И меня очень удивило вот это слово — *såfremt*."
+  },
+  {
+   "t": 439.4,
+   "da": "Ja, det er også et specielt ord.",
+   "ru": "Да, это и правда особенное слово."
+  },
+  {
+   "t": 441.3,
+   "da": "Jeg sad hjemme ved spisebordet sammen med en rigtig god ven.",
+   "ru": "Я сидела дома за обеденным столом с очень хорошим другом."
+  },
+  {
+   "t": 443.8,
+   "da": "Det var enormt hyggeligt, og vi sad bare og spiste morgenmad.",
+   "ru": "Было очень уютно, мы просто сидели и завтракали."
+  },
+  {
+   "t": 445.8,
+   "da": "Okay, hyggelig stemning.",
+   "ru": "Так, уютная обстановка."
+  },
+  {
+   "t": 446.9,
+   "da": "Ja, og så kiggede jeg på ham og sagde bare med min allermest normale stemme:",
+   "ru": "Да, и вот я посмотрела на него и сказала самым обычным голосом:"
+  },
+  {
+   "t": 450.4,
+   "da": "\"Såfremt du er sulten, kan du tage et æble.\"",
+   "ru": "«Буде ты голоден, можешь взять яблоко» (*såfremt* за завтраком — канцелярит)."
+  },
+  {
+   "t": 452.3,
+   "da": "Ej, nej, nej.",
+   "ru": "Ой, нет-нет-нет."
+  },
+  {
+   "t": 453.5,
+   "da": "Det lyder jo helt absurd i en hyggelig situation.",
+   "ru": "Это же звучит совершенно абсурдно в уютной обстановке."
+  },
+  {
+   "t": 455.6,
+   "da": "Hvordan reagerede din ven lige på det?",
+   "ru": "И как твой друг на это отреагировал?"
+  },
+  {
+   "t": 457.6,
+   "da": "Jamen, han begyndte jo bare at grine højt.",
+   "ru": "Ну, он просто начал громко смеяться."
+  },
+  {
+   "t": 459.5,
+   "da": "Og han spurgte, om jeg pludselig var blevet ansat som hans advokat.",
+   "ru": "И спросил, не наняли ли меня вдруг его адвокатом."
+  },
+  {
+   "t": 461.9,
+   "da": "Haha, ja.",
+   "ru": "Ха-ха, да."
+  },
+  {
+   "t": 463.5,
+   "da": "Men hvorfor føles det egentlig sådan?",
+   "ru": "Но почему это вообще так ощущается?"
+  },
+  {
+   "t": 465.4,
+   "da": "Ordet betyder vel bare \"hvis\"?",
+   "ru": "Слово ведь просто значит «если»?"
+  },
+  {
+   "t": 467.0,
+   "da": "Jo, altså, betydningen er 100 % den samme som \"hvis\".",
+   "ru": "Да, смысл на сто процентов тот же, что у *hvis*."
+  },
+  {
+   "t": 470.8,
+   "da": "Men sprog, det handler også rigtig meget om magt og om afstand.",
+   "ru": "Но язык — это ещё и очень про власть и дистанцию."
+  },
+  {
+   "t": 474.5,
+   "da": "Magt og afstand? Ja.",
+   "ru": "Власть и дистанцию? Да."
+  },
+  {
+   "t": 476.8,
+   "da": "Når en myndighed, som f.eks. kommunen, de skriver til dig i din e-Boks,",
+   "ru": "Когда орган власти, например коммуна, пишет тебе в e-Boks,"
+  },
+  {
+   "t": 480.3,
+   "da": "så vil de gerne være objektive.",
+   "ru": "он хочет быть объективным."
+  },
+  {
+   "t": 481.8,
+   "da": "De vil jo ikke være dine venner.",
+   "ru": "Они ведь не хотят быть твоими друзьями."
+  },
+  {
+   "t": 483.0,
+   "da": "De vil være reglerne.",
+   "ru": "Они хотят быть правилами."
+  },
+  {
+   "t": 484.0,
+   "da": "Okay, det giver mening.",
+   "ru": "Так, понятно."
+  },
+  {
+   "t": 484.9,
+   "da": "Ordet \"hvis\", det føles meget personligt og tæt på.",
+   "ru": "Слово *hvis* ощущается очень личным и близким."
+  },
+  {
+   "t": 489.0,
+   "da": "Men ordet \"såfremt\", det bygger ligesom en usynlig mur mellem afsenderen og modtageren.",
+   "ru": "А слово *såfremt* как бы строит невидимую стену между отправителем и получателем."
+  },
+  {
+   "t": 493.6,
+   "da": "Det skaber simpelthen en juridisk afstand.",
+   "ru": "Оно просто создаёт юридическую дистанцию."
+  },
+  {
+   "t": 496.0,
+   "da": "Ah, okay.",
+   "ru": "А, понятно."
+  },
+  {
+   "t": 497.0,
+   "da": "Så når kommunen bruger det ord, så er det faktisk ikke for at være besværlig,",
+   "ru": "Значит, когда коммуна использует это слово, она делает это не чтобы усложнить жизнь,"
+  },
+  {
+   "t": 500.4,
+   "da": "men bare for at være neutral.",
+   "ru": "а просто чтобы быть нейтральной."
+  },
+  {
+   "t": 502.1,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 502.9,
+   "da": "Det var den mur, din ven mærkede.",
+   "ru": "Вот эту стену и почувствовал твой друг."
+  },
+  {
+   "t": 504.9,
+   "da": "Du skabte en enorm social afstand midt i morgenmaden.",
+   "ru": "Ты создала огромную социальную дистанцию посреди завтрака."
+  },
+  {
+   "t": 508.0,
+   "da": "Ja, det var ikke så hyggeligt. Nej, vel.",
+   "ru": "Да, было не очень уютно. Ну да."
+  },
+  {
+   "t": 509.6,
+   "da": "Så hjemme hos familien, Anton, der skal du altid bare sige: \"hvis du er sulten\".",
+   "ru": "Так что дома с семьёй, Антон, всегда говори просто: «если ты голоден» (*hvis du er sulten*)."
+  },
+  {
+   "t": 513.4,
+   "da": "Men når du læser en kontrakt fra et fitnesscenter eller et brev om din lejlighed,",
+   "ru": "Но когда ты читаешь договор с фитнес-центром или письмо о своей квартире,"
+  },
+  {
+   "t": 518.7,
+   "da": "så står der typisk noget helt andet.",
+   "ru": "там обычно написано совсем другое."
+  },
+  {
+   "t": 521.0,
+   "da": "Hvad kunne der stå?",
+   "ru": "А что там может быть написано?"
+  },
+  {
+   "t": 521.5,
+   "da": "For eksempel en regel om at stoppe et abonnement.",
+   "ru": "Например, правило о том, как прекратить подписку (абонемент)."
+  },
+  {
+   "t": 525.1,
+   "da": "Det vil lyde sådan her:",
+   "ru": "Это будет звучать так:"
+  },
+  {
+   "t": 526.5,
+   "da": "\"Såfremt du ønsker at afmelde dig, skal det ske skriftligt.\"",
+   "ru": "«В случае если вы желаете отписаться (*såfremt du ønsker at afmelde dig*), это должно быть сделано письменно»."
+  },
+  {
+   "t": 530.7,
+   "da": "Jeg siger den lige langsomt igen. Ja, tak.",
+   "ru": "Скажу её ещё раз медленно. Да, пожалуйста."
+  },
+  {
+   "t": 532.7,
+   "da": "Såfremt du ønsker at afmelde dig, skal det ske skriftligt.",
+   "ru": "В случае если вы желаете отписаться, это должно быть сделано письменно."
+  },
+  {
+   "t": 537.8,
+   "da": "Så det betyder jo bare: hvis du vil stoppe.",
+   "ru": "То есть это просто значит: если хочешь прекратить."
+  },
+  {
+   "t": 540.2,
+   "da": "Men det er skrevet i kontorsprog.",
+   "ru": "Но это написано канцелярским языком."
+  },
+  {
+   "t": 542.5,
+   "da": "Såfremt du ønsker at afmelde dig, skal det ske skriftligt.",
+   "ru": "В случае если вы желаете отписаться, это должно быть сделано письменно."
+  },
+  {
+   "t": 546.3,
+   "da": "Du har fuldstændig ret.",
+   "ru": "Ты совершенно права."
+  },
+  {
+   "t": 548.0,
+   "da": "Og når vi så taler om de her stive, meget formelle regler,",
+   "ru": "А раз уж мы говорим об этих жёстких, очень официальных правилах,"
+  },
+  {
+   "t": 550.9,
+   "da": "så har vi jo også det sidste ord i denne her gruppe, nemlig udtrykket",
+   "ru": "то у нас есть и последнее слово в этой группе, а именно выражение"
+  },
+  {
+   "t": 554.1,
+   "da": "\"forudsat at\".",
+   "ru": "*forudsat at* («при условии, что»)."
+  },
+  {
+   "t": 555.7,
+   "da": "Oh, \"forudsat at\".",
+   "ru": "О, *forudsat at*."
+  },
+  {
+   "t": 557.9,
+   "da": "Det lyder næsten endnu mere stramt.",
+   "ru": "Звучит почти ещё строже."
+  },
+  {
+   "t": 559.7,
+   "da": "Som om betingelsen ligesom er støbt fast i beton.",
+   "ru": "Как будто условие залито в бетон."
+  },
+  {
+   "t": 562.9,
+   "da": "Det er faktisk en rigtig god måde at beskrive det på.",
+   "ru": "Это и правда очень хорошее описание."
+  },
+  {
+   "t": 565.0,
+   "da": "\"Forudsat at\" fungerer fuldstændig som en stærk hængelås.",
+   "ru": "*Forudsat at* работает в точности как крепкий навесной замок."
+  },
+  {
+   "t": 568.1,
+   "da": "En hængelås?",
+   "ru": "Навесной замок?"
+  },
+  {
+   "t": 569.1,
+   "da": "Ja, det er en meget, meget streng betingelse.",
+   "ru": "Да, это очень-очень строгое условие."
+  },
+  {
+   "t": 572.1,
+   "da": "Det betyder i virkeligheden \"kun på denne ene betingelse\",",
+   "ru": "На самом деле оно значит «только при этом единственном условии»"
+  },
+  {
+   "t": 575.2,
+   "da": "og altså ikke på nogen andre betingelser overhovedet.",
+   "ru": "и вообще ни при каких других условиях."
+  },
+  {
+   "t": 578.1,
+   "da": "Nå, på den måde.",
+   "ru": "А, вот оно что."
+  },
+  {
+   "t": 579.5,
+   "da": "Hvor et helt almindeligt \"hvis\" godt kan være lidt blødt og fleksibelt,",
+   "ru": "Если совершенно обычное *hvis* может быть немного мягким и гибким,"
+  },
+  {
+   "t": 583.7,
+   "da": "så lukker \"forudsat at\" simpelthen døren helt i, indtil kravet er opfyldt.",
+   "ru": "то *forudsat at* просто наглухо закрывает дверь, пока требование не выполнено."
+  },
+  {
+   "t": 588.2,
+   "da": "Øhm, kan vi prøve at sætte det ind i Antons virkelighed?",
+   "ru": "Э-э, можем попробовать перенести это в реальность Антона?"
+  },
+  {
+   "t": 591.3,
+   "da": "Altså en travl hverdag, hvor der skal hentes børn, og skraldebilen,",
+   "ru": "То есть загруженные будни, где надо забирать детей, а мусоровоз"
+  },
+  {
+   "t": 594.2,
+   "da": "den skal afleveres på pladsen til tiden?",
+   "ru": "нужно вовремя сдать на стоянку?"
+  },
+  {
+   "t": 596.1,
+   "da": "Jo, lad os prøve det.",
+   "ru": "Да, давай попробуем."
+  },
+  {
+   "t": 597.1,
+   "da": "Lad os sige, at Anton planlægger eftermiddagen over telefonen med sin kone.",
+   "ru": "Допустим, Антон по телефону планирует с женой вторую половину дня."
+  },
+  {
+   "t": 601.9,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 602.6,
+   "da": "Deres søn Ivan, han skal jo hentes.",
+   "ru": "Их сына Ивана ведь нужно забрать."
+  },
+  {
+   "t": 604.4,
+   "da": "Anton vil selvfølgelig rigtig gerne gøre det,",
+   "ru": "Антон, конечно, очень хочет это сделать,"
+  },
+  {
+   "t": 606.0,
+   "da": "men han ved også godt, at trafikken på hans rute, den kan være utrolig uforudsigelig.",
+   "ru": "но он также прекрасно знает, что движение на его маршруте бывает невероятно непредсказуемым."
+  },
+  {
+   "t": 610.0,
+   "da": "Ja, Københavns trafik er slem.",
+   "ru": "Да, копенгагенский трафик ужасный."
+  },
+  {
+   "t": 611.7,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 612.5,
+   "da": "Og han kan jo ikke give et løfte, han måske bliver nødt til at bryde.",
+   "ru": "И он не может дать обещание, которое, возможно, придётся нарушить."
+  },
+  {
+   "t": 615.6,
+   "da": "Så han bruger \"forudsat at\" som en meget skarp hængelås.",
+   "ru": "Поэтому он использует *forudsat at* как очень надёжный замок."
+  },
+  {
+   "t": 619.8,
+   "da": "Okay, hvad siger han så til hende?",
+   "ru": "Хорошо, и что он ей говорит?"
+  },
+  {
+   "t": 621.0,
+   "da": "Han siger: \"Jeg kan hente Ivan, forudsat at jeg er færdig med ruten inden klokken to.\"",
+   "ru": "Он говорит: «Я могу забрать Ивана при условии, что (*forudsat at*) закончу маршрут до двух часов»."
+  },
+  {
+   "t": 626.5,
+   "da": "Jeg tager den lige igen for Anton.",
+   "ru": "Повторю её ещё раз для Антона."
+  },
+  {
+   "t": 628.2,
+   "da": "Jeg kan hente Ivan, forudsat at jeg er færdig med ruten inden klokken to.",
+   "ru": "Я могу забрать Ивана при условии, что закончу маршрут до двух часов."
+  },
+  {
+   "t": 633.3,
+   "da": "Arh, det er smart.",
+   "ru": "А-а, умно."
+  },
+  {
+   "t": 634.3,
+   "da": "Han siger ikke bare \"hvis\".",
+   "ru": "Он не говорит просто «если»."
+  },
+  {
+   "t": 636.2,
+   "da": "Han siger \"kun på den betingelse\".",
+   "ru": "Он говорит «только при этом условии»."
+  },
+  {
+   "t": 638.9,
+   "da": "Så der er ligesom ingen falske forventninger.",
+   "ru": "Так что никаких ложных ожиданий."
+  },
+  {
+   "t": 640.9,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 641.6,
+   "da": "Han siger altså: jeg kan hente Ivan, forudsat at jeg er færdig med ruten inden klokken to.",
+   "ru": "Итак, он говорит: я могу забрать Ивана при условии, что закончу маршрут до двух часов."
+  },
+  {
+   "t": 646.7,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 647.1,
+   "da": "Og ved at bruge netop det udtryk, så viser han meget tydeligt, at betingelsen er ufravigelig.",
+   "ru": "И именно этим выражением он очень ясно показывает, что условие непреложно."
+  },
+  {
+   "t": 652.7,
+   "da": "Det er jo rart for begge parter at kende de præcise rammer for dagen.",
+   "ru": "Обеим сторонам ведь приятно знать точные рамки дня."
+  },
+  {
+   "t": 655.7,
+   "da": "Helt sikkert.",
+   "ru": "Безусловно."
+  },
+  {
+   "t": 656.5,
+   "da": "Men nu, Anton.",
+   "ru": "Но теперь, Антон."
+  },
+  {
+   "t": 658.5,
+   "da": "Nu vil jeg bede dig om at holde ekstra godt fast i rattet derude i bilen.",
+   "ru": "Теперь я попрошу тебя покрепче держать руль там, в машине."
+  },
+  {
+   "t": 662.2,
+   "da": "Jo, hvorfor det?",
+   "ru": "Так, а почему?"
+  },
+  {
+   "t": 662.9,
+   "da": "For nu nærmer vi os det, der uden tvivl er den største grammatiske ulykke overhovedet i det danske sprog.",
+   "ru": "Потому что сейчас мы приближаемся к тому, что без сомнения является самой большой грамматической аварией во всём датском языке."
+  },
+  {
+   "t": 669.5,
+   "da": "Den helt store fælde. Ja.",
+   "ru": "Самая большая ловушка. Да."
+  },
+  {
+   "t": 670.9,
+   "da": "Vi har jo indtil nu brugt meget tid på at forstå, hvordan betingelser sættes op, når noget rent faktisk skal ske.",
+   "ru": "До сих пор мы много времени потратили на то, как ставятся условия, когда что-то действительно должно произойти."
+  },
+  {
+   "t": 677.8,
+   "da": "Rigtigt.",
+   "ru": "Верно."
+  },
+  {
+   "t": 678.1,
+   "da": "Men nu skal vi dykke ned i, hvad der sker, når en betingelse handler om, at noget ikke sker.",
+   "ru": "А теперь погрузимся в то, что происходит, когда условие — о том, что чего-то НЕ происходит."
+  },
+  {
+   "t": 683.8,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 684.0,
+   "da": "Vi skal nemlig se på ordene \"medmindre\" og \"hvis ikke\".",
+   "ru": "Мы посмотрим на слова *medmindre* («если не», «разве что») и *hvis ikke* («если нет»)."
+  },
+  {
+   "t": 688.2,
+   "da": "Og her tænker jeg altså, at vi skal bruge lidt ekstra tid, ikke også?",
+   "ru": "И здесь, думаю, нам стоит потратить немного больше времени, правда?"
+  },
+  {
+   "t": 690.7,
+   "da": "For hjernen, der bliver simpelthen snydt.",
+   "ru": "Потому что мозг здесь просто обманывается."
+  },
+  {
+   "t": 693.2,
+   "da": "Det gør den i rigtig, rigtig høj grad.",
+   "ru": "Ещё как, в очень-очень большой степени."
+  },
+  {
+   "t": 695.8,
+   "da": "Og det har faktisk meget at gøre med, hvordan vi mennesker behandler negativ information oppe i hovedet.",
+   "ru": "И это во многом связано с тем, как мы, люди, обрабатываем в голове отрицательную информацию."
+  },
+  {
+   "t": 700.7,
+   "da": "Det kræver meget mere energi af hjernen at forstå et nej end at forstå et ja.",
+   "ru": "Мозгу нужно гораздо больше энергии, чтобы понять «нет», чем чтобы понять «да»."
+  },
+  {
+   "t": 704.9,
+   "da": "Åh, det mærkede jeg utrolig tydeligt i forgårs.",
+   "ru": "О, я это очень отчётливо почувствовала позавчера."
+  },
+  {
+   "t": 708.5,
+   "da": "Nå, hvad skete der?",
+   "ru": "Да? А что случилось?"
+  },
+  {
+   "t": 709.7,
+   "da": "Jo, altså, jeg kender jo lidt til dine planer, Anton.",
+   "ru": "Ну, я ведь немного знаю о твоих планах, Антон."
+  },
+  {
+   "t": 711.9,
+   "da": "Jeg ved nemlig, at du og Ivan, I har en tur planlagt.",
+   "ru": "Я знаю, что вы с Иваном запланировали поездку."
+  },
+  {
+   "t": 714.5,
+   "da": "Ja. Ja, det er rigtigt.",
+   "ru": "Да. Да, это верно."
+  },
+  {
+   "t": 716.3,
+   "da": "Ja, I skal jo på campingtur i Sverige i løbet af weekenden.",
+   "ru": "Да, вы же на выходных едете в кемпинг-поход в Швецию."
+  },
+  {
+   "t": 718.8,
+   "da": "I skal slå et telt op og bare hygge jer.",
+   "ru": "Поставите палатку и просто будете отдыхать."
+  },
+  {
+   "t": 720.4,
+   "da": "Det lyder fantastisk. Det gør det.",
+   "ru": "Звучит потрясающе. Это точно."
+  },
+  {
+   "t": 722.1,
+   "da": "Så jeg ville fortælle den her gode nyhed videre til en fælles bekendt, vi har.",
+   "ru": "И вот я хотела передать эту хорошую новость нашему общему знакомому."
+  },
+  {
+   "t": 725.7,
+   "da": "Okay.",
+   "ru": "Так."
+  },
+  {
+   "t": 726.2,
+   "da": "Og jeg sagde jo bare glad:",
+   "ru": "И я просто радостно сказала:"
+  },
+  {
+   "t": 727.8,
+   "da": "\"Anton og Ivan tager på camping i Sverige, medmindre det ikke regner.\"",
+   "ru": "(неправильно) «Антон и Иван поедут в кемпинг в Швецию, если только НЕ не будет дождя» (*medmindre det ikke regner*)."
+  },
+  {
+   "t": 731.7,
+   "da": "Åh nej. Jo.",
+   "ru": "Ох нет. Да-да."
+  },
+  {
+   "t": 733.0,
+   "da": "Og pludselig blev personen jo bare helt forvirret.",
+   "ru": "И вдруг человек совершенно растерялся."
+  },
+  {
+   "t": 735.6,
+   "da": "De spurgte mig, hvorfor vi dog skulle slå et telt op i øsende regnvejr. (?)",
+   "ru": "Он спросил меня, зачем же ставить палатку под проливным дождём."
+  },
+  {
+   "t": 738.7,
+   "da": "Det giver jo slet ingen mening.",
+   "ru": "Это же совершенно бессмысленно."
+  },
+  {
+   "t": 739.8,
+   "da": "Nej, det giver overhovedet ingen mening. Nej.",
+   "ru": "Нет, это вообще никакого смысла не имеет. Нет."
+  },
+  {
+   "t": 742.1,
+   "da": "Og du tvang faktisk din vens hjerne til at lave en virkelig, virkelig kompliceret matematisk beregning der.",
+   "ru": "И ты фактически заставила мозг своего друга проделать очень-очень сложный математический расчёт."
+  },
+  {
+   "t": 747.2,
+   "da": "Gjorde jeg det? Ja.",
+   "ru": "Правда? Да."
+  },
+  {
+   "t": 749.1,
+   "da": "Problemet er nemlig, at ordet \"medmindre\", det er en snyder.",
+   "ru": "Проблема в том, что слово *medmindre* — обманщик."
+  },
+  {
+   "t": 752.1,
+   "da": "En snyder?",
+   "ru": "Обманщик?"
+  },
+  {
+   "t": 753.3,
+   "da": "Ja, det er ikke bare et almindeligt bindeord.",
+   "ru": "Да, это не просто обычный союз."
+  },
+  {
+   "t": 755.4,
+   "da": "Det er ligesom en kasse, der allerede har et skjult \"ikke\" liggende nede i sig.",
+   "ru": "Это как коробка, в которой на дне уже лежит спрятанное *ikke* («не»)."
+  },
+  {
+   "t": 759.8,
+   "da": "Ordet \"medmindre\" betyder i sig selv: hvis det ikke sker.",
+   "ru": "Слово *medmindre* само по себе значит: если этого не произойдёт."
+  },
+  {
+   "t": 763.0,
+   "da": "Hvor indviklet. (?)",
+   "ru": "Как запутанно."
+  },
+  {
+   "t": 763.9,
+   "da": "Så selve ordet er altså født negativt?",
+   "ru": "Значит, само слово рождено отрицательным?"
+  },
+  {
+   "t": 767.1,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 767.8,
+   "da": "Det bærer på en negativ vægt.",
+   "ru": "Оно несёт отрицательный груз."
+  },
+  {
+   "t": 769.6,
+   "da": "Prøv lige at huske tilbage på din matematikundervisning.",
+   "ru": "Попробуй вспомнить свои уроки математики."
+  },
+  {
+   "t": 772.0,
+   "da": "Okay, det er lidt længe siden.",
+   "ru": "Так, это было довольно давно."
+  },
+  {
+   "t": 773.0,
+   "da": "Jamen, hvad sker der, hvis du trækker noget fra, som allerede er et minus?",
+   "ru": "Ну, что будет, если вычесть что-то, что уже является минусом?"
+  },
+  {
+   "t": 777.2,
+   "da": "Altså minus gange minus.",
+   "ru": "То есть минус на минус."
+  },
+  {
+   "t": 778.9,
+   "da": "Jamen, så giver det vel et plus?",
+   "ru": "Ну, тогда получится плюс?"
+  },
+  {
+   "t": 781.2,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 781.8,
+   "da": "Og det er præcis det samme, du gør rent sprogligt her.",
+   "ru": "И ровно то же самое ты делаешь здесь с языком."
+  },
+  {
+   "t": 784.5,
+   "da": "Nå? Ja.",
+   "ru": "Да? Да."
+  },
+  {
+   "t": 785.6,
+   "da": "Når du sætter et \"ikke\" ind efter \"medmindre\", så skaber du dobbelt minus.",
+   "ru": "Когда ты ставишь *ikke* после *medmindre*, ты создаёшь двойной минус."
+  },
+  {
+   "t": 789.4,
+   "da": "Okay, lad mig se.",
+   "ru": "Так, дай-ка посмотрю."
+  },
+  {
+   "t": 790.1,
+   "da": "Du siger \"medmindre\", det er et minus.",
+   "ru": "Ты говоришь *medmindre* — это минус."
+  },
+  {
+   "t": 793.0,
+   "da": "Det \"ikke\", det er et minus mere. \"Regner.\"",
+   "ru": "Это *ikke* — ещё один минус. «Идёт дождь»."
+  },
+  {
+   "t": 795.9,
+   "da": "To gange minus bliver et plus.",
+   "ru": "Минус на минус даёт плюс."
+  },
+  {
+   "t": 798.0,
+   "da": "Så din sætning, den betød pludselig: hvis det regner, så tager vi afsted.",
+   "ru": "Так что твоя фраза вдруг стала значить: если пойдёт дождь, тогда мы поедем."
+  },
+  {
+   "t": 802.0,
+   "da": "Du vender hele virkeligheden fuldstændig på hovedet, uden at du lægger mærke til det.",
+   "ru": "Ты переворачиваешь всю реальность с ног на голову и даже не замечаешь этого."
+  },
+  {
+   "t": 805.6,
+   "da": "Hold da helt op.",
+   "ru": "Ну ничего себе."
+  },
+  {
+   "t": 807.3,
+   "da": "Min hjerne, den slår næsten knuder på sig selv bare ved at prøve at forstå det, du siger nu.",
+   "ru": "Мой мозг чуть не завязывается узлом, просто пытаясь понять то, что ты сейчас говоришь."
+  },
+  {
+   "t": 811.5,
+   "da": "Det er også svært.",
+   "ru": "Это и правда сложно."
+  },
+  {
+   "t": 812.6,
+   "da": "Så det vigtigste for Anton at huske, det er bare, at han skal stole på, at \"medmindre\", det ord klarer arbejdet helt alene.",
+   "ru": "Так что самое важное, что Антону надо запомнить: он должен доверять тому, что слово *medmindre* справляется с работой совершенно само."
+  },
+  {
+   "t": 819.2,
+   "da": "Det er den fuldstændig perfekte måde at sige det på.",
+   "ru": "Это совершенно идеальный способ это сказать."
+  },
+  {
+   "t": 822.0,
+   "da": "\"Medmindre\" klarer det negative arbejde helt alene.",
+   "ru": "*Medmindre* делает всю «отрицательную» работу совершенно самостоятельно."
+  },
+  {
+   "t": 825.1,
+   "da": "Okay.",
+   "ru": "Так."
+  },
+  {
+   "t": 825.6,
+   "da": "Der må aldrig, og jeg mener aldrig, komme et \"ikke\" bagefter ordet.",
+   "ru": "После этого слова никогда — я имею в виду НИКОГДА — не должно стоять *ikke*."
+  },
+  {
+   "t": 830.2,
+   "da": "Den korrekte, rene sætning, hvor hjernen slet ikke bliver stresset, den er simpelthen:",
+   "ru": "Правильная, чистая фраза, от которой мозг совсем не напрягается, — просто такая:"
+  },
+  {
+   "t": 834.7,
+   "da": "\"Vi tager på camping i Sverige, medmindre det regner.\"",
+   "ru": "«Мы поедем в кемпинг в Швецию, если не будет дождя (*medmindre det regner*)»."
+  },
+  {
+   "t": 837.4,
+   "da": "Og jeg gentager den lige.",
+   "ru": "И я её повторю."
+  },
+  {
+   "t": 838.5,
+   "da": "Vi tager på camping i Sverige, medmindre det regner.",
+   "ru": "Мы поедем в кемпинг в Швецию, если не будет дождя."
+  },
+  {
+   "t": 841.1,
+   "da": "Det føles også meget let at sige, når man fjerner det der klodsede \"ikke\".",
+   "ru": "И сказать это гораздо легче, когда убираешь это неуклюжее *ikke*."
+  },
+  {
+   "t": 844.4,
+   "da": "Ja, ikke også?",
+   "ru": "Да, правда же?"
+  },
+  {
+   "t": 845.1,
+   "da": "Vi tager på camping i Sverige, medmindre det regner.",
+   "ru": "Мы поедем в кемпинг в Швецию, если не будет дождя."
+  },
+  {
+   "t": 847.6,
+   "da": "Men hvad så med Antons hverdag ude i skraldebilen?",
+   "ru": "А как же будни Антона в мусоровозе?"
+  },
+  {
+   "t": 851.0,
+   "da": "Vi talte jo om den der mørke tunnel i starten af vores samtale.",
+   "ru": "Мы же говорили о том тёмном тоннеле в начале нашего разговора."
+  },
+  {
+   "t": 854.0,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 854.7,
+   "da": "Lad os vende tilbage til den.",
+   "ru": "Давай вернёмся к нему."
+  },
+  {
+   "t": 855.8,
+   "da": "For det er jo netop en vigtig sikkerhedsregel, hvor man rigtig hurtigt kan komme til at bygge det forkerte sproglige puslespil.",
+   "ru": "Ведь это как раз важное правило безопасности, где очень легко собрать неправильный языковой пазл."
+  },
+  {
+   "t": 861.4,
+   "da": "Okay.",
+   "ru": "Так."
+  },
+  {
+   "t": 862.5,
+   "da": "Hvis chefen for eksempel vil sikre sig, at Anton aldrig nogensinde bakker ind i en farlig tunnel,",
+   "ru": "Если начальник, например, хочет убедиться, что Антон никогда-никогда не въедет задним ходом в опасный тоннель —"
+  },
+  {
+   "t": 867.3,
+   "da": "altså medmindre han har fået grønt lys over radioen, vel at mærke.",
+   "ru": "то есть если только ему не дали зелёный свет по рации, заметь."
+  },
+  {
+   "t": 870.3,
+   "da": "Ja, det er ret vigtigt.",
+   "ru": "Да, это довольно важно."
+  },
+  {
+   "t": 871.6,
+   "da": "Så skal reglen skæres helt, helt rent til.",
+   "ru": "Тогда правило нужно выкроить совершенно чисто."
+  },
+  {
+   "t": 874.7,
+   "da": "Den skal lyde:",
+   "ru": "Оно должно звучать так:"
+  },
+  {
+   "t": 875.9,
+   "da": "\"Bak ikke i tunnelen, medmindre du får ordre til det.\"",
+   "ru": "«Не сдавай назад в тоннеле, если тебе не прикажут (*medmindre du får ordre til det*)»."
+  },
+  {
+   "t": 879.9,
+   "da": "Jeg siger det langsomt igen.",
+   "ru": "Скажу ещё раз медленно."
+  },
+  {
+   "t": 881.6,
+   "da": "Bak ikke i tunnelen, medmindre du får ordre til det.",
+   "ru": "Не сдавай назад в тоннеле, если тебе не прикажут."
+  },
+  {
+   "t": 885.9,
+   "da": "Okay, jeg tjekker lige matematikken inde i mit eget hoved nu.",
+   "ru": "Так, я сейчас проверю математику у себя в голове."
+  },
+  {
+   "t": 889.0,
+   "da": "Bak ikke i tunnelen.",
+   "ru": "Не сдавай назад в тоннеле."
+  },
+  {
+   "t": 890.9,
+   "da": "Minus: du får ordre til det.",
+   "ru": "Минус: тебе дают приказ."
+  },
+  {
+   "t": 892.6,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 892.8,
+   "da": "Så det bliver: hvis du ikke får ordre til det, bliv holdende.",
+   "ru": "Значит, получается: если приказа нет — стой на месте."
+  },
+  {
+   "t": 897.0,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 897.9,
+   "da": "Sætningen er altså: bak ikke i tunnelen, medmindre du får ordre til det.",
+   "ru": "Итак, фраза: не сдавай назад в тоннеле, если тебе не прикажут."
+  },
+  {
+   "t": 902.2,
+   "da": "Det sidder jo lige i skabet, det der.",
+   "ru": "Вот это прямо в яблочко (*sidder lige i skabet*)."
+  },
+  {
+   "t": 905.2,
+   "da": "Men for at gøre det hele bare lidt mere nuanceret, så har vi jo faktisk også det andet udtryk i det her par.",
+   "ru": "Но чтобы всё было чуть более тонко, у нас есть и второе выражение в этой паре."
+  },
+  {
+   "t": 910.9,
+   "da": "Nemlig bare de to små ord \"hvis ikke\".",
+   "ru": "А именно два маленьких слова *hvis ikke*."
+  },
+  {
+   "t": 913.5,
+   "da": "Jamen, må man så slet ikke bruge dem sammen overhovedet? Hvorfor har vi dem så?",
+   "ru": "Подожди, их что, вообще нельзя употреблять вместе? Зачем они тогда у нас есть?"
+  },
+  {
+   "t": 917.2,
+   "da": "Jo, jo.",
+   "ru": "Можно, можно."
+  },
+  {
+   "t": 918.0,
+   "da": "\"Hvis ikke\", det er faktisk et fantastisk effektivt redskab at have, Anton.",
+   "ru": "*Hvis ikke* — на самом деле потрясающе эффективный инструмент, Антон."
+  },
+  {
+   "t": 921.9,
+   "da": "Men det bruges bare på en helt anden måde.",
+   "ru": "Просто его используют совсем по-другому."
+  },
+  {
+   "t": 924.7,
+   "da": "Okay, hvordan?",
+   "ru": "Так, как?"
+  },
+  {
+   "t": 925.8,
+   "da": "Det bruges nemlig næsten altid som et meget kort, praktisk svar.",
+   "ru": "Его почти всегда используют как очень короткий практичный ответ."
+  },
+  {
+   "t": 929.1,
+   "da": "I stedet for at gentage en enorm lang sætning, som en eller anden lige har sagt før dig, så kan du bare klippe den over med et \"hvis ikke\".",
+   "ru": "Вместо того чтобы повторять огромное длинное предложение, которое кто-то только что сказал до тебя, ты можешь просто отрезать его одним *hvis ikke*."
+  },
+  {
+   "t": 936.2,
+   "da": "Ja, altså ligesom en saks.",
+   "ru": "Да, прямо как ножницами."
+  },
+  {
+   "t": 937.8,
+   "da": "Kan du give et eksempel på det? Ja.",
+   "ru": "Можешь привести пример? Да."
+  },
+  {
+   "t": 940.9,
+   "da": "Tænk på en situation nede i en almindelig tøjbutik.",
+   "ru": "Представь ситуацию в обычном магазине одежды."
+  },
+  {
+   "t": 943.4,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 943.5,
+   "da": "Du har købt et par sko, der desværre er lidt for små.",
+   "ru": "Ты купил пару обуви, которая, к сожалению, немного мала."
+  },
+  {
+   "t": 946.8,
+   "da": "Og nu står du så ved kassen for at aflevere dem tilbage.",
+   "ru": "И вот ты стоишь у кассы, чтобы их вернуть."
+  },
+  {
+   "t": 949.7,
+   "da": "Ekspedienten har jo brug for et bevis på selve købet.",
+   "ru": "Продавцу нужно доказательство самой покупки."
+  },
+  {
+   "t": 952.6,
+   "da": "En kvittering.",
+   "ru": "Чек."
+  },
+  {
+   "t": 953.3,
+   "da": "Det er præcis.",
+   "ru": "Именно так."
+  },
+  {
+   "t": 954.3,
+   "da": "I stedet for at sige en lang sætning som \"hvis du ikke har en kvittering, som viser, at du har købt dem lige her i butikken\",",
+   "ru": "Вместо длинной фразы вроде «если у вас нет чека, который показывает, что вы купили их именно в этом магазине»,"
+  },
+  {
+   "t": 960.4,
+   "da": "så siger ekspedienten bare meget kort og præcist:",
+   "ru": "продавец говорит очень коротко и точно:"
+  },
+  {
+   "t": 963.2,
+   "da": "\"Har du kvitteringen?",
+   "ru": "«У вас есть чек?"
+  },
+  {
+   "t": 964.2,
+   "da": "Hvis ikke, kan du ikke bytte skoene.\"",
+   "ru": "Если нет (*hvis ikke*), вы не сможете обменять обувь»."
+  },
+  {
+   "t": 965.6,
+   "da": "Og jeg gentager den lige for at være sikker.",
+   "ru": "И я повторю, чтобы наверняка."
+  },
+  {
+   "t": 967.9,
+   "da": "Har du kvitteringen?",
+   "ru": "У вас есть чек?"
+  },
+  {
+   "t": 969.1,
+   "da": "Hvis ikke, kan du ikke bytte skoene.",
+   "ru": "Если нет, вы не сможете обменять обувь."
+  },
+  {
+   "t": 971.3,
+   "da": "Det er jo supersmart.",
+   "ru": "Это же суперудобно."
+  },
+  {
+   "t": 973.1,
+   "da": "Så \"hvis ikke\" fungerer som en sproglig saks.",
+   "ru": "Значит, *hvis ikke* работает как языковые ножницы."
+  },
+  {
+   "t": 976.0,
+   "da": "Den klipper alt det der unødvendige fra, som vi jo egentlig godt ved i forvejen.",
+   "ru": "Они отрезают всё лишнее, что мы, по сути, и так уже знаем."
+  },
+  {
+   "t": 979.5,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 980.4,
+   "da": "Sætningen lyder altså bare: Har du kvitteringen?",
+   "ru": "Итак, фраза звучит просто: у вас есть чек?"
+  },
+  {
+   "t": 983.4,
+   "da": "Hvis ikke, kan du ikke bytte skoene.",
+   "ru": "Если нет, вы не сможете обменять обувь."
+  },
+  {
+   "t": 985.2,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 986.2,
+   "da": "Det sparer utrolig meget tid og energi.",
+   "ru": "Это экономит невероятно много времени и сил."
+  },
+  {
+   "t": 988.6,
+   "da": "Og nu tænker jeg faktisk, Anton, at vi skal teste her.",
+   "ru": "А теперь, Антон, я думаю, нам стоит устроить проверку."
+  },
+  {
+   "t": 991.2,
+   "da": "Vi skal teste, hvordan hjernen håndterer det her dobbelte minus, vi talte om før.",
+   "ru": "Проверим, как мозг справляется с тем двойным минусом, о котором мы говорили."
+  },
+  {
+   "t": 995.6,
+   "da": "Uh, en test.",
+   "ru": "У-у, тест."
+  },
+  {
+   "t": 997.0,
+   "da": "Ja, vi laver simpelthen en lille mental øvelse.",
+   "ru": "Да, просто сделаем маленькое упражнение в уме."
+  },
+  {
+   "t": 999.5,
+   "da": "Lige her og nu i lastbilen.",
+   "ru": "Прямо здесь и сейчас, в грузовике."
+  },
+  {
+   "t": 1001.1,
+   "da": "Det er en rigtig god idé.",
+   "ru": "Отличная идея."
+  },
+  {
+   "t": 1002.4,
+   "da": "Lad os se, om vi kan snyde hjernen, eller om reglen rent faktisk sidder fast.",
+   "ru": "Посмотрим, получится ли обмануть мозг или правило действительно засело."
+  },
+  {
+   "t": 1006.7,
+   "da": "Anton, prøv lige at forestille dig det her.",
+   "ru": "Антон, попробуй представить себе вот что."
+  },
+  {
+   "t": 1008.1,
+   "da": "Ja, lyt godt efter.",
+   "ru": "Да, слушай внимательно."
+  },
+  {
+   "t": 1009.6,
+   "da": "Du holder pause fra kørslen, og du taler med din faste kollega.",
+   "ru": "У тебя перерыв в езде, и ты разговариваешь со своим постоянным коллегой."
+  },
+  {
+   "t": 1013.2,
+   "da": "Du vil gerne fortælle ham, at du regner med at køre din helt normale faste rute 615 i morgen.",
+   "ru": "Ты хочешь сказать ему, что рассчитываешь завтра ехать по своему обычному постоянному маршруту 615."
+  },
+  {
+   "t": 1018.4,
+   "da": "Okay.",
+   "ru": "Так."
+  },
+  {
+   "t": 1018.9,
+   "da": "Men der er en meget lille chance for, at kørselslederen pludselig ringer og beder dig køre et helt andet sted hen.",
+   "ru": "Но есть очень маленький шанс, что диспетчер вдруг позвонит и попросит тебя поехать совсем в другое место."
+  },
+  {
+   "t": 1025.1,
+   "da": "Ja, det sker jo.",
+   "ru": "Да, такое бывает."
+  },
+  {
+   "t": 1026.7,
+   "da": "Så du siger til din kollega: \"Jeg kører rute 615 i morgen …\", og så mangler der et ord her:",
+   "ru": "И ты говоришь коллеге: «Я завтра еду по маршруту 615 …», и тут не хватает одного слова:"
+  },
+  {
+   "t": 1032.8,
+   "da": "\"… chefen ringer.\"",
+   "ru": "«… начальник позвонит»."
+  },
+  {
+   "t": 1033.8,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1035.2,
+   "da": "Hvilket ord skal der stå på den tomme plads, for at sætningen betyder \"hvis chefen ikke ringer\"?",
+   "ru": "Какое слово должно стоять на пустом месте, чтобы фраза значила «если начальник не позвонит»?"
+  },
+  {
+   "t": 1041.1,
+   "da": "Tænk lige over den i to sekunder, Anton.",
+   "ru": "Подумай над этим пару секунд, Антон."
+  },
+  {
+   "t": 1042.7,
+   "da": "Vi holder en helt kort pause.",
+   "ru": "Сделаем совсем короткую паузу."
+  },
+  {
+   "t": 1044.0,
+   "da": "Ja, tænk dig om.",
+   "ru": "Да, подумай."
+  },
+  {
+   "t": 1044.7,
+   "da": "Okay, nu har du forhåbentlig dit svar klar derude.",
+   "ru": "Так, надеюсь, теперь у тебя там готов ответ."
+  },
+  {
+   "t": 1048.2,
+   "da": "Hvad er det rigtige ord, der mangler i puslespillet her?",
+   "ru": "Какое правильное слово не хватает в этом пазле?"
+  },
+  {
+   "t": 1051.6,
+   "da": "Det eneste rigtige svar, det er faktisk ordet \"medmindre\".",
+   "ru": "Единственный правильный ответ — слово *medmindre*."
+  },
+  {
+   "t": 1055.1,
+   "da": "Yes.",
+   "ru": "Есть!"
+  },
+  {
+   "t": 1056.2,
+   "da": "Sætningen hedder i sin fulde form:",
+   "ru": "Фраза целиком звучит так:"
+  },
+  {
+   "t": 1058.3,
+   "da": "\"Jeg kører rute 615 i morgen, medmindre chefen ringer.\"",
+   "ru": "«Я завтра еду по маршруту 615, если только начальник не позвонит (*medmindre chefen ringer*)»."
+  },
+  {
+   "t": 1062.6,
+   "da": "Altså fordi det simpelthen betyder: hvis chefen ikke ringer, så kører jeg bare fuldstændig, som jeg plejer.",
+   "ru": "То есть потому, что это просто значит: если начальник не позвонит, я еду совершенно как обычно."
+  },
+  {
+   "t": 1066.9,
+   "da": "Netop.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1067.1,
+   "da": "Du undgik helt at sætte et \"ikke\" ind bagefter, og derfor passer ordet \"medmindre\" helt perfekt og gør alt arbejdet.",
+   "ru": "Ты совсем не поставил после него *ikke*, и поэтому слово *medmindre* подходит идеально и делает всю работу."
+  },
+  {
+   "t": 1074.3,
+   "da": "Ja, sejt.",
+   "ru": "Да, круто."
+  },
+  {
+   "t": 1075.9,
+   "da": "Fremragende klaret, hvis du fangede den derude, Anton. Det er en virkelig svær disciplin.",
+   "ru": "Блестяще, если ты это уловил, Антон. Это действительно трудная дисциплина."
+  },
+  {
+   "t": 1080.6,
+   "da": "Det er det virkelig.",
+   "ru": "Это правда так."
+  },
+  {
+   "t": 1081.5,
+   "da": "Og det bringer os faktisk frem til vores fjerde og allersidste gruppe af ord for i dag.",
+   "ru": "И это подводит нас к нашей четвёртой и самой последней группе слов на сегодня."
+  },
+  {
+   "t": 1086.2,
+   "da": "Ja, vi nærmer os enden.",
+   "ru": "Да, мы приближаемся к концу."
+  },
+  {
+   "t": 1087.8,
+   "da": "Vi har nu styr på alle de her ord, der sætter selve betingelsen op, ikke også?",
+   "ru": "Теперь мы разобрались со всеми словами, которые ставят само условие, так?"
+  },
+  {
+   "t": 1091.6,
+   "da": "Men enhver handling har jo også en konsekvens.",
+   "ru": "Но у каждого действия ведь есть и последствие."
+  },
+  {
+   "t": 1094.0,
+   "da": "Nu skal vi kigge på de ord, der beskriver for modtageren, hvad selve resultatet bliver.",
+   "ru": "Теперь посмотрим на слова, которые описывают слушателю, каким будет сам результат."
+  },
+  {
+   "t": 1098.7,
+   "da": "Altså, hvad sker der bagefter?",
+   "ru": "То есть что будет потом?"
+  },
+  {
+   "t": 1100.4,
+   "da": "Det er nemlig rigtig vigtigt.",
+   "ru": "Это очень важно."
+  },
+  {
+   "t": 1102.0,
+   "da": "De sidste ord, vi undersøger i dag, det er ordene \"ellers\", \"i så fald\" og \"i givet fald\".",
+   "ru": "Последние слова, которые мы сегодня разберём, — *ellers* («иначе, а то»), *i så fald* («в таком случае») и *i givet fald* («в случае чего», офиц.)."
+  },
+  {
+   "t": 1108.0,
+   "da": "Her handler det rigtig meget om at skabe et flow i selve samtalen.",
+   "ru": "Здесь очень многое зависит от того, чтобы создать плавность в самом разговоре."
+  },
+  {
+   "t": 1112.5,
+   "da": "At vise vej igennem de mulige resultater.",
+   "ru": "Показать путь через возможные результаты."
+  },
+  {
+   "t": 1115.3,
+   "da": "Men det handler altså også meget om tonen.",
+   "ru": "Но это также очень зависит от тона."
+  },
+  {
+   "t": 1117.0,
+   "da": "Tonen?",
+   "ru": "От тона?"
+  },
+  {
+   "t": 1117.4,
+   "da": "Ja, der er nemlig en enormt stor forskel på at give en venlig mulighed og så på at give en meget streng advarsel.",
+   "ru": "Да, есть огромная разница между тем, чтобы предложить дружелюбный вариант, и тем, чтобы дать очень строгое предупреждение."
+  },
+  {
+   "t": 1125.5,
+   "da": "Åh, den forskel, den mærkede jeg ret kraftigt forleden dag.",
+   "ru": "О, эту разницу я очень сильно ощутила на днях."
+  },
+  {
+   "t": 1128.8,
+   "da": "Nå, fortæl.",
+   "ru": "Да? Рассказывай."
+  },
+  {
+   "t": 1129.5,
+   "da": "Jamen, jeg skulle passe min lille nevø en tidlig, kold morgen.",
+   "ru": "Ну, мне нужно было присмотреть за маленьким племянником ранним холодным утром."
+  },
+  {
+   "t": 1132.5,
+   "da": "Og altså, rimfrosten lå over hele København.",
+   "ru": "И весь Копенгаген был покрыт инеем."
+  },
+  {
+   "t": 1135.0,
+   "da": "Og han nægtede simpelthen at tage sin varme vinterjakke på.",
+   "ru": "А он наотрез отказывался надевать тёплую зимнюю куртку."
+  },
+  {
+   "t": 1138.1,
+   "da": "Børn og overtøj, det er altid en kamp.",
+   "ru": "Дети и верхняя одежда — это всегда борьба."
+  },
+  {
+   "t": 1140.4,
+   "da": "Altid.",
+   "ru": "Всегда."
+  },
+  {
+   "t": 1141.3,
+   "da": "Og jeg ville jo gerne advare ham om, at det var en rigtig dårlig idé.",
+   "ru": "И я хотела предупредить его, что это очень плохая идея."
+  },
+  {
+   "t": 1143.8,
+   "da": "Men jeg ville samtidig gerne lyde pædagogisk og rolig.",
+   "ru": "Но при этом хотела звучать педагогично и спокойно."
+  },
+  {
+   "t": 1147.2,
+   "da": "Okay.",
+   "ru": "Так."
+  },
+  {
+   "t": 1147.8,
+   "da": "Hvad sagde du så til ham?",
+   "ru": "И что ты ему сказала?"
+  },
+  {
+   "t": 1149.0,
+   "da": "Jeg kiggede på ham og sagde: \"Tag en jakke på, i så fald fryser du.\"",
+   "ru": "Я посмотрела на него и сказала: (неправильно) «Надень куртку, в таком случае ты замёрзнешь» (*i så fald fryser du*)."
+  },
+  {
+   "t": 1152.5,
+   "da": "Ej, gjorde du virkelig det?",
+   "ru": "Да ладно, ты правда так сказала?"
+  },
+  {
+   "t": 1153.8,
+   "da": "Ja, men han kiggede bare helt vildt mærkeligt på mig, rystede på hovedet og løb ud.",
+   "ru": "Да, но он посмотрел на меня ужасно странно, помотал головой и выбежал."
+  },
+  {
+   "t": 1157.9,
+   "da": "Og så frøs han sådan enormt meget to minutter senere. (?)",
+   "ru": "А через две минуты страшно замёрз."
+  },
+  {
+   "t": 1160.0,
+   "da": "Ja, det tror jeg gerne.",
+   "ru": "Да уж, охотно верю."
+  },
+  {
+   "t": 1161.1,
+   "da": "Men hvorfor virkede min fine advarsel slet ikke efter hensigten der?",
+   "ru": "Но почему моё прекрасное предупреждение совсем не сработало как задумано?"
+  },
+  {
+   "t": 1164.6,
+   "da": "Jamen, din advarsel virkede ikke, fordi du rent grammatisk slet ikke gav ham en advarsel.",
+   "ru": "Ну, твоё предупреждение не сработало, потому что чисто грамматически ты его вовсе не предупредила."
+  },
+  {
+   "t": 1169.3,
+   "da": "Gjorde jeg ikke? Nej.",
+   "ru": "Разве? Нет."
+  },
+  {
+   "t": 1170.0,
+   "da": "Du blandede igen kategorierne helt sammen.",
+   "ru": "Ты опять перепутала категории."
+  },
+  {
+   "t": 1173.6,
+   "da": "Ordet \"ellers\" er nemlig det eneste rigtige ord til en advarsel på dansk.",
+   "ru": "Слово *ellers* — единственное правильное слово для предупреждения по-датски."
+  },
+  {
+   "t": 1178.0,
+   "da": "Okay.",
+   "ru": "Так."
+  },
+  {
+   "t": 1178.8,
+   "da": "Det bærer betydningen: gør denne her ene ting.",
+   "ru": "Оно несёт смысл: сделай вот эту одну вещь."
+  },
+  {
+   "t": 1181.8,
+   "da": "For hvis du lader være, så garanterer jeg dig for, at noget ubehageligt vil ske.",
+   "ru": "Потому что если не сделаешь, я тебе гарантирую, что случится что-то неприятное."
+  },
+  {
+   "t": 1185.7,
+   "da": "Aha, okay.",
+   "ru": "Ага, понятно."
+  },
+  {
+   "t": 1186.8,
+   "da": "Og for ligesom at understrege advarslen, så skal udsagnsordet komme lige efter.",
+   "ru": "И чтобы как бы подчеркнуть предупреждение, глагол должен идти сразу после него."
+  },
+  {
+   "t": 1190.9,
+   "da": "Altså handling og konsekvens kobles meget tæt sammen.",
+   "ru": "То есть действие и последствие очень тесно связаны."
+  },
+  {
+   "t": 1194.3,
+   "da": "Ah, så ordet \"ellers\", det er simpelthen en sproglig trussel om, at det går galt?",
+   "ru": "А, значит, слово *ellers* — это просто языковая угроза, что всё пойдёт плохо?"
+  },
+  {
+   "t": 1199.1,
+   "da": "Ja, det kan man faktisk godt sige.",
+   "ru": "Да, так вполне можно сказать."
+  },
+  {
+   "t": 1201.0,
+   "da": "Den naturlige og helt korrekte måde at bygge den advarsel op på til et barn, den er meget mere direkte.",
+   "ru": "Естественный и совершенно правильный способ построить такое предупреждение для ребёнка гораздо прямее."
+  },
+  {
+   "t": 1206.2,
+   "da": "Hvordan?",
+   "ru": "Как?"
+  },
+  {
+   "t": 1206.9,
+   "da": "Du skal sige: \"Tag en jakke på, ellers fryser du.\"",
+   "ru": "Нужно сказать: «Надень куртку, а то замёрзнешь (*ellers fryser du*)»."
+  },
+  {
+   "t": 1210.3,
+   "da": "Jeg tager den lige igen, så den sidder der.",
+   "ru": "Повторю ещё раз, чтобы засело."
+  },
+  {
+   "t": 1212.1,
+   "da": "Tag en jakke på, ellers fryser du.",
+   "ru": "Надень куртку, а то замёрзнешь."
+  },
+  {
+   "t": 1213.9,
+   "da": "Ja, det lyder da også meget mere som noget, rigtige forældre eller bedsteforældre ville stå og sige ude i gangen.",
+   "ru": "Да, это и правда гораздо больше похоже на то, что настоящие родители или бабушки с дедушками говорят в прихожей."
+  },
+  {
+   "t": 1219.5,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1220.4,
+   "da": "Det er meget mere direkte og uden så mange dikkedarer.",
+   "ru": "Это гораздо прямее и без лишних церемоний (*dikkedarer*)."
+  },
+  {
+   "t": 1223.0,
+   "da": "Sætningen er bare: tag en jakke på, ellers fryser du.",
+   "ru": "Фраза просто: надень куртку, а то замёрзнешь."
+  },
+  {
+   "t": 1225.9,
+   "da": "Fuldstændig.",
+   "ru": "Совершенно верно."
+  },
+  {
+   "t": 1226.7,
+   "da": "Det efterlader overhovedet ingen tvivl hos barnet.",
+   "ru": "У ребёнка не остаётся никаких сомнений."
+  },
+  {
+   "t": 1229.2,
+   "da": "Men det ord, som du i virkeligheden prøvede at bruge før?",
+   "ru": "А то слово, которое ты на самом деле пыталась использовать до этого?"
+  },
+  {
+   "t": 1231.9,
+   "da": "\"I så fald.\" Ja, \"i så fald\".",
+   "ru": "*I så fald*. Да, *i så fald*."
+  },
+  {
+   "t": 1234.3,
+   "da": "Det fungerer helt, helt anderledes.",
+   "ru": "Оно работает совсем-совсем по-другому."
+  },
+  {
+   "t": 1236.6,
+   "da": "Det er nemlig ikke en advarsel om en dårlig ting.",
+   "ru": "Это вовсе не предупреждение о чём-то плохом."
+  },
+  {
+   "t": 1238.4,
+   "da": "Det er bare en fuldstændig neutral plan B for en mulighed, I lige har talt om.",
+   "ru": "Это просто совершенно нейтральный план Б для возможности, о которой вы только что говорили."
+  },
+  {
+   "t": 1242.7,
+   "da": "En plan B?",
+   "ru": "План Б?"
+  },
+  {
+   "t": 1244.5,
+   "da": "Ja, det betyder bare \"i det tilfælde, at muligheden bliver til virkelighed\".",
+   "ru": "Да, это просто значит «в том случае, если эта возможность станет реальностью»."
+  },
+  {
+   "t": 1249.0,
+   "da": "Hmm.",
+   "ru": "Хм."
+  },
+  {
+   "t": 1250.1,
+   "da": "Kan du måske sætte det ind i en sammenhæng, som Anton ville kunne kende fra sit eget liv?",
+   "ru": "Можешь поместить это в контекст, который Антон узнал бы из собственной жизни?"
+  },
+  {
+   "t": 1254.9,
+   "da": "Jo.",
+   "ru": "Да."
+  },
+  {
+   "t": 1255.7,
+   "da": "Tænk på en helt almindelig samtale om vejret i weekenden.",
+   "ru": "Представь совершенно обычный разговор о погоде на выходных."
+  },
+  {
+   "t": 1258.5,
+   "da": "Okay.",
+   "ru": "Так."
+  },
+  {
+   "t": 1259.2,
+   "da": "Det kunne for eksempel lyde sådan her:",
+   "ru": "Это могло бы звучать, например, вот так:"
+  },
+  {
+   "t": 1261.1,
+   "da": "\"Måske regner det i morgen.",
+   "ru": "«Может быть, завтра будет дождь."
+  },
+  {
+   "t": 1262.7,
+   "da": "I så fald bliver vi hjemme.\"",
+   "ru": "В таком случае (*i så fald*) мы останемся дома»."
+  },
+  {
+   "t": 1264.2,
+   "da": "Og jeg siger den lige en gang til.",
+   "ru": "И скажу её ещё раз."
+  },
+  {
+   "t": 1265.8,
+   "da": "Måske regner det i morgen.",
+   "ru": "Может быть, завтра будет дождь."
+  },
+  {
+   "t": 1267.4,
+   "da": "I så fald bliver vi hjemme.",
+   "ru": "В таком случае мы останемся дома."
+  },
+  {
+   "t": 1269.1,
+   "da": "Ah, jeg kan mærke forskellen nu.",
+   "ru": "А, теперь я чувствую разницу."
+  },
+  {
+   "t": 1270.9,
+   "da": "Her er der overhovedet ingen trussel gemt.",
+   "ru": "Здесь вообще не спрятано никакой угрозы."
+  },
+  {
+   "t": 1274.0,
+   "da": "Nej, slet ikke.",
+   "ru": "Нет, совсем нет."
+  },
+  {
+   "t": 1274.8,
+   "da": "Bare et faktum om regnen og en plan om at blive indendørs.",
+   "ru": "Просто факт о дожде и план остаться в помещении."
+  },
+  {
+   "t": 1278.1,
+   "da": "Det er ligesom en meget blød overgang, der bare fortæller den næste logiske handling.",
+   "ru": "Это как очень мягкий переход, который просто называет следующее логичное действие."
+  },
+  {
+   "t": 1281.5,
+   "da": "Helt uden drama.",
+   "ru": "Совсем без драмы."
+  },
+  {
+   "t": 1282.7,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1283.6,
+   "da": "Måske regner det i morgen.",
+   "ru": "Может быть, завтра будет дождь."
+  },
+  {
+   "t": 1284.9,
+   "da": "I så fald bliver vi hjemme.",
+   "ru": "В таком случае мы останемся дома."
+  },
+  {
+   "t": 1285.8,
+   "da": "Men hvad så med udtrykket \"i givet fald\"?",
+   "ru": "А как же выражение *i givet fald*?"
+  },
+  {
+   "t": 1288.9,
+   "da": "Det har jo en lidt sjov, øh,",
+   "ru": "У него такой немного забавный, э-э,"
+  },
+  {
+   "t": 1290.2,
+   "da": "sådan en næsten støvet, gammel klang. (?)",
+   "ru": "такой почти пыльный, старомодный оттенок."
+  },
+  {
+   "t": 1292.4,
+   "da": "Det har det nemlig, ja.",
+   "ru": "Это точно, да."
+  },
+  {
+   "t": 1293.5,
+   "da": "\"I givet fald.\"",
+   "ru": "*I givet fald*."
+  },
+  {
+   "t": 1294.7,
+   "da": "Det er ligesom storebroren til \"i så fald\".",
+   "ru": "Это как старший брат *i så fald*."
+  },
+  {
+   "t": 1297.2,
+   "da": "Storebroren? Okay. Ja.",
+   "ru": "Старший брат? Так. Да."
+  },
+  {
+   "t": 1299.1,
+   "da": "Det er meget mere formelt og har næsten altid en underliggende klang af:",
+   "ru": "Оно гораздо официальнее и почти всегда имеет скрытый оттенок:"
+  },
+  {
+   "t": 1302.6,
+   "da": "kun hvis det bliver allermest nødvendigt, og vi simpelthen er tvunget til det.",
+   "ru": "только если это станет совершенно необходимо и мы просто будем вынуждены."
+  },
+  {
+   "t": 1305.9,
+   "da": "Nå, på den måde.",
+   "ru": "А, вот как."
+  },
+  {
+   "t": 1306.8,
+   "da": "Det bruges rigtig ofte om nødløsninger.",
+   "ru": "Его очень часто используют для запасных, вынужденных решений."
+  },
+  {
+   "t": 1309.7,
+   "da": "F.eks. på en iskold morgen før arbejde.",
+   "ru": "Например, ледяным утром перед работой."
+  },
+  {
+   "t": 1311.7,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 1312.6,
+   "da": "Du vil meget hellere køre i din egen varme bil.",
+   "ru": "Ты бы гораздо охотнее поехал на своей тёплой машине."
+  },
+  {
+   "t": 1315.1,
+   "da": "Men du kender jo vilkårene med frostvejr.",
+   "ru": "Но ты же знаешь, как оно бывает в мороз."
+  },
+  {
+   "t": 1317.9,
+   "da": "Så du siger: \"Bilen starter måske ikke i frosten.",
+   "ru": "И ты говоришь: «Машина, может, не заведётся на морозе."
+  },
+  {
+   "t": 1320.8,
+   "da": "I givet fald tager vi toget.\"",
+   "ru": "В этом случае (*i givet fald*) поедем на поезде»."
+  },
+  {
+   "t": 1322.6,
+   "da": "Så toget, det er plan B.",
+   "ru": "Значит, поезд — это план Б."
+  },
+  {
+   "t": 1324.3,
+   "da": "Og vi gør det kun, fordi vi er tvunget til det i den her kulde.",
+   "ru": "И мы делаем это, только потому что вынуждены в этот холод."
+  },
+  {
+   "t": 1327.0,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1327.8,
+   "da": "Og jeg gentager den lige.",
+   "ru": "И я её повторю."
+  },
+  {
+   "t": 1329.2,
+   "da": "Bilen starter måske ikke i frosten.",
+   "ru": "Машина, может, не заведётся на морозе."
+  },
+  {
+   "t": 1331.3,
+   "da": "I givet fald tager vi toget.",
+   "ru": "В этом случае поедем на поезде."
+  },
+  {
+   "t": 1333.0,
+   "da": "Nej, det giver jo rigtig god mening.",
+   "ru": "Да, это очень логично."
+  },
+  {
+   "t": 1335.0,
+   "da": "Især med det danske vejr.",
+   "ru": "Особенно с датской погодой."
+  },
+  {
+   "t": 1336.3,
+   "da": "Det må man sige.",
+   "ru": "Что верно, то верно."
+  },
+  {
+   "t": 1337.9,
+   "da": "Men inden vi runder alle de her mange betingelser og advarsler helt af for i dag,",
+   "ru": "Но прежде чем мы совсем закруглимся со всеми этими условиями и предупреждениями на сегодня,"
+  },
+  {
+   "t": 1342.4,
+   "da": "så har jeg faktisk fundet en lille sjov sproglig bonus i dine noter, Anton.",
+   "ru": "я нашла в твоих заметках маленький забавный языковой бонус, Антон."
+  },
+  {
+   "t": 1346.7,
+   "da": "Nå, hvad er det?",
+   "ru": "Да? И что это?"
+  },
+  {
+   "t": 1347.6,
+   "da": "Noget, du med garanti ser i din hverdag.",
+   "ru": "То, что ты гарантированно видишь в своих буднях."
+  },
+  {
+   "t": 1349.6,
+   "da": "Og som er ret specielt for netop dansk.",
+   "ru": "И что довольно характерно именно для датского."
+  },
+  {
+   "t": 1352.4,
+   "da": "Det er et udtryk, du rigtig ofte møder på små advarselsskilte.",
+   "ru": "Это выражение, которое ты очень часто встречаешь на маленьких предупреждающих табличках."
+  },
+  {
+   "t": 1356.1,
+   "da": "Er det ude på ruten?",
+   "ru": "Это на маршруте?"
+  },
+  {
+   "t": 1357.5,
+   "da": "Ja, både på dunke med kemikalier nede på genbrugsstationen.",
+   "ru": "Да, и на канистрах с химикатами на пункте приёма отходов (*genbrugsstation*)."
+  },
+  {
+   "t": 1360.5,
+   "da": "Eller måske bare ude i naturen.",
+   "ru": "Или, может быть, просто на природе."
+  },
+  {
+   "t": 1362.7,
+   "da": "Udtrykket, det er de her tre små ord:",
+   "ru": "Выражение — это вот эти три маленьких слова:"
+  },
+  {
+   "t": 1364.9,
+   "da": "\"ved kontakt med\".",
+   "ru": "*ved kontakt med* («при контакте с»)."
+  },
+  {
+   "t": 1367.2,
+   "da": "Ah, det er faktisk en utrolig vigtig og meget specifik detalje at få med.",
+   "ru": "А, это действительно невероятно важная и очень конкретная деталь."
+  },
+  {
+   "t": 1372.0,
+   "da": "Hvorfor det?",
+   "ru": "Почему?"
+  },
+  {
+   "t": 1373.0,
+   "da": "Fordi \"ved kontakt med\", det bruges udelukkende, når noget fysisk rører ved noget helt andet.",
+   "ru": "Потому что *ved kontakt med* употребляется исключительно, когда что-то физически касается чего-то другого."
+  },
+  {
+   "t": 1378.9,
+   "da": "Okay, så fysisk berøring.",
+   "ru": "Так, значит, физическое прикосновение."
+  },
+  {
+   "t": 1380.7,
+   "da": "Ja, det er ikke en abstrakt betingelse om tid eller en bevidst handling.",
+   "ru": "Да, это не абстрактное условие о времени или сознательном действии."
+  },
+  {
+   "t": 1384.8,
+   "da": "Det er ren fysisk berøring.",
+   "ru": "Это чисто физическое прикосновение."
+  },
+  {
+   "t": 1386.4,
+   "da": "Det er ligesom der, hvor kemien eller biologien bare overtager.",
+   "ru": "Это как раз там, где просто вступает в дело химия или биология."
+  },
+  {
+   "t": 1389.8,
+   "da": "Kan du give et eksempel? Ja.",
+   "ru": "Можешь привести пример? Да."
+  },
+  {
+   "t": 1392.1,
+   "da": "For eksempel kender alle danskere jo til de der meget ubehagelige planter,",
+   "ru": "Например, все датчане знают эти очень неприятные растения —"
+  },
+  {
+   "t": 1395.5,
+   "da": "brændenælderne,",
+   "ru": "крапиву,"
+  },
+  {
+   "t": 1396.1,
+   "da": "der vokser i skovkanten om sommeren.",
+   "ru": "которая летом растёт на опушке леса."
+  },
+  {
+   "t": 1397.6,
+   "da": "Åh ja, de gør ondt. (?) Ja, de gør.",
+   "ru": "О да, она жжётся. Да, ещё как."
+  },
+  {
+   "t": 1400.2,
+   "da": "Og her siger vi faktisk på dansk:",
+   "ru": "И вот тут мы по-датски говорим:"
+  },
+  {
+   "t": 1402.5,
+   "da": "\"Brændenælder brænder ved kontakt med huden.\"",
+   "ru": "«Крапива жжётся при контакте с кожей (*ved kontakt med huden*)»."
+  },
+  {
+   "t": 1405.2,
+   "da": "Jeg siger den lige langsomt to gange.",
+   "ru": "Скажу её медленно два раза."
+  },
+  {
+   "t": 1408.1,
+   "da": "Brændenælder brænder ved kontakt med huden.",
+   "ru": "Крапива жжётся при контакте с кожей."
+  },
+  {
+   "t": 1410.7,
+   "da": "Som når man mærker den der stikkende, meget kløende smerte,",
+   "ru": "Как когда чувствуешь эту колющую, очень зудящую боль"
+  },
+  {
+   "t": 1414.8,
+   "da": "bare fordi man kom til at gå lidt for tæt på busken,",
+   "ru": "просто потому, что случайно подошёл слишком близко к кусту"
+  },
+  {
+   "t": 1417.3,
+   "da": "og bladene rørte ens bare arm.",
+   "ru": "и листья коснулись голой руки."
+  },
+  {
+   "t": 1419.2,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1420.7,
+   "da": "Så reglen er simpelthen ren fysik.",
+   "ru": "Так что правило — это просто чистая физика."
+  },
+  {
+   "t": 1422.6,
+   "da": "Brændenælder brænder ved kontakt med huden.",
+   "ru": "Крапива жжётся при контакте с кожей."
+  },
+  {
+   "t": 1425.7,
+   "da": "Det er utrolig godt at have med i sit ordforråd.",
+   "ru": "Это невероятно полезно иметь в своём словаре."
+  },
+  {
+   "t": 1427.7,
+   "da": "Især når man arbejder fysisk udendørs hver dag.",
+   "ru": "Особенно когда каждый день работаешь физически на улице."
+  },
+  {
+   "t": 1430.0,
+   "da": "Ligesom du gør, Anton.",
+   "ru": "Как ты, Антон."
+  },
+  {
+   "t": 1431.0,
+   "da": "Helt sikkert.",
+   "ru": "Безусловно."
+  },
+  {
+   "t": 1432.0,
+   "da": "Nu har vi efterhånden navigeret os igennem både gadeskilte, bureaukrati, dobbeltminusser og meget stærke advarsler.",
+   "ru": "Теперь мы постепенно провели себя через дорожные знаки, бюрократию, двойные минусы и очень сильные предупреждения."
+  },
+  {
+   "t": 1439.2,
+   "da": "Vi har været vidt omkring i dag.",
+   "ru": "Мы сегодня много где побывали."
+  },
+  {
+   "t": 1440.7,
+   "da": "Og forhåbentlig har det fjernet noget forvirring derude i lastbilen.",
+   "ru": "И, надеюсь, это убрало немного путаницы там, в грузовике."
+  },
+  {
+   "t": 1443.5,
+   "da": "Det håber jeg.",
+   "ru": "Я тоже надеюсь."
+  },
+  {
+   "t": 1444.6,
+   "da": "For lige at bygge en bro over alt det, vi har lært, her til sidst,",
+   "ru": "Чтобы под конец перекинуть мостик через всё, что мы выучили,"
+  },
+  {
+   "t": 1447.7,
+   "da": "så synes jeg faktisk, vi skal samle alle de korrekte udtryk i en sammenhængende historie.",
+   "ru": "я думаю, нам стоит собрать все правильные выражения в одну связную историю."
+  },
+  {
+   "t": 1452.3,
+   "da": "Det er en rigtig god idé.",
+   "ru": "Отличная идея."
+  },
+  {
+   "t": 1453.9,
+   "da": "Forestil dig lige, Anton, at du skriver en kort besked til din søn Ivan.",
+   "ru": "Представь, Антон, что ты пишешь короткое сообщение своему сыну Ивану."
+  },
+  {
+   "t": 1458.3,
+   "da": "Når du følger alle de regler, vi lige har gennemgået,",
+   "ru": "Когда ты следуешь всем правилам, которые мы только что разобрали,"
+  },
+  {
+   "t": 1460.9,
+   "da": "så glider beskeden faktisk helt ubesværet.",
+   "ru": "сообщение идёт совершенно легко."
+  },
+  {
+   "t": 1463.0,
+   "da": "Og der kan slet ikke opstå nogen misforståelser.",
+   "ru": "И никаких недоразумений просто не может возникнуть."
+  },
+  {
+   "t": 1465.2,
+   "da": "Lad os høre den.",
+   "ru": "Давай послушаем."
+  },
+  {
+   "t": 1466.5,
+   "da": "Ja, lyt til, hvordan det hele hænger sammen her.",
+   "ru": "Да, послушай, как здесь всё складывается."
+  },
+  {
+   "t": 1468.2,
+   "da": "\"Hej Ivan. Jeg henter dig kl. 3,",
+   "ru": "«Привет, Иван. Я заберу тебя в три,"
+  },
+  {
+   "t": 1471.7,
+   "da": "forudsat at ruten er færdig til tiden.",
+   "ru": "при условии, что маршрут будет закончен вовремя."
+  },
+  {
+   "t": 1474.0,
+   "da": "Hvis ikke, ringer jeg.",
+   "ru": "Если нет — я позвоню."
+  },
+  {
+   "t": 1475.6,
+   "da": "Medmindre det regner, kører vi til Sverige på lørdag.",
+   "ru": "Если не будет дождя, в субботу едем в Швецию."
+  },
+  {
+   "t": 1478.5,
+   "da": "I så fald skal du pakke tasken i aften.",
+   "ru": "В таком случае тебе надо собрать сумку сегодня вечером."
+  },
+  {
+   "t": 1481.2,
+   "da": "Tag din jakke med,",
+   "ru": "Возьми с собой куртку,"
+  },
+  {
+   "t": 1482.3,
+   "da": "ellers fryser du i teltet.\"",
+   "ru": "а то замёрзнешь в палатке»."
+  },
+  {
+   "t": 1483.8,
+   "da": "Det er jo fantastisk.",
+   "ru": "Это же потрясающе."
+  },
+  {
+   "t": 1485.2,
+   "da": "Alt er jo med der.",
+   "ru": "Там же всё есть."
+  },
+  {
+   "t": 1486.8,
+   "da": "Beskeden, den sætter først en streng hængelås for at blive hentet med \"forudsat at\".",
+   "ru": "Сообщение сначала вешает строгий замок на «забрать» с помощью *forudsat at*."
+  },
+  {
+   "t": 1491.0,
+   "da": "Så bruger den den hurtige saks til at forklare en ændring med \"hvis ikke\".",
+   "ru": "Потом использует быстрые ножницы *hvis ikke*, чтобы объяснить изменение."
+  },
+  {
+   "t": 1495.6,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 1495.9,
+   "da": "Og så klarer den sandelig også betingelsen om vejret helt uden at lave et dobbelt minus.",
+   "ru": "А потом и условие о погоде решает без всякого двойного минуса."
+  },
+  {
+   "t": 1500.4,
+   "da": "Nemlig med ordet \"medmindre\".",
+   "ru": "А именно словом *medmindre*."
+  },
+  {
+   "t": 1502.8,
+   "da": "Den giver en god plan B for pakningen med \"i så fald\".",
+   "ru": "Она даёт хороший план Б для сборов с помощью *i så fald*."
+  },
+  {
+   "t": 1506.0,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 1506.5,
+   "da": "Og så slutter den af med en utrolig klar advarsel om kulden med ordet \"ellers\".",
+   "ru": "И заканчивается невероятно ясным предупреждением о холоде со словом *ellers*."
+  },
+  {
+   "t": 1510.8,
+   "da": "Det er netop pointen med det hele.",
+   "ru": "В этом как раз и весь смысл."
+  },
+  {
+   "t": 1513.4,
+   "da": "Når man kender mekanismerne bag, så er sproget slet ikke længere en forhindring.",
+   "ru": "Когда знаешь механизмы, язык больше совсем не препятствие."
+  },
+  {
+   "t": 1517.1,
+   "da": "Det bliver tværtimod et meget effektivt redskab til at skabe ro.",
+   "ru": "Наоборот, он становится очень эффективным инструментом, чтобы создавать спокойствие."
+  },
+  {
+   "t": 1520.3,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 1520.6,
+   "da": "Og det betyder færre misforståelser med kørselslederen over radioen i hverdagen.",
+   "ru": "И это значит меньше недоразумений с диспетчером по рации в будни."
+  },
+  {
+   "t": 1524.5,
+   "da": "Og det betyder, at alle derhjemme ved præcis, hvad planen for dagen er.",
+   "ru": "И это значит, что все дома точно знают, какой план на день."
+  },
+  {
+   "t": 1528.2,
+   "da": "Hvilket er utrolig værdifuldt i en travl hverdag, Anton.",
+   "ru": "Что невероятно ценно в загруженные будни, Антон."
+  },
+  {
+   "t": 1531.1,
+   "da": "Det må man sige.",
+   "ru": "Что верно, то верно."
+  },
+  {
+   "t": 1532.3,
+   "da": "Inden vi siger tak for i dag og lader dig køre videre på ruten, så har jeg faktisk gemt en sidste lille ting. (?)",
+   "ru": "Прежде чем мы попрощаемся на сегодня и отпустим тебя дальше по маршруту, у меня припасена ещё одна маленькая вещь."
+  },
+  {
+   "t": 1537.6,
+   "da": "Ja, hvad er det?",
+   "ru": "Да, что это?"
+  },
+  {
+   "t": 1538.2,
+   "da": "En observation, der forhåbentlig kan give dig et lille smil på læben i løbet af din arbejdsdag.",
+   "ru": "Наблюдение, которое, надеюсь, вызовет у тебя лёгкую улыбку в течение рабочего дня."
+  },
+  {
+   "t": 1542.6,
+   "da": "Ja, for vi har jo brugt rigtig meget tid på den der fælde omkring ordet \"medmindre\" og det her indbyggede minus.",
+   "ru": "Да, ведь мы потратили очень много времени на ловушку со словом *medmindre* и этим встроенным минусом."
+  },
+  {
+   "t": 1550.3,
+   "da": "Vi har talt en del om, hvor ekstremt svært det er for hjernen at kapere.",
+   "ru": "Мы много говорили о том, как чрезвычайно трудно мозгу это переварить."
+  },
+  {
+   "t": 1554.2,
+   "da": "Men sandheden er faktisk, Anton, at hvis du ruller vinduet i lastbilen helt ned og lytter rigtig, rigtig godt efter derude på gaden i København,",
+   "ru": "Но правда в том, Антон, что если ты опустишь окно в грузовике до конца и очень-очень внимательно прислушаешься там, на улицах Копенгагена,"
+  },
+  {
+   "t": 1562.4,
+   "da": "så vil du opdage noget ret sjovt.",
+   "ru": "ты обнаружишь кое-что довольно забавное."
+  },
+  {
+   "t": 1564.2,
+   "da": "Okay.",
+   "ru": "Так."
+  },
+  {
+   "t": 1564.5,
+   "da": "Rigtig mange indfødte danske københavnere,",
+   "ru": "Очень многие коренные копенгагенцы-датчане"
+  },
+  {
+   "t": 1568.6,
+   "da": "de kan faktisk slet ikke selv finde ud af det her.",
+   "ru": "на самом деле сами совсем не могут с этим разобраться."
+  },
+  {
+   "t": 1570.4,
+   "da": "Ej, mener du det? Danskere, der altså har talt sproget hele deres liv?",
+   "ru": "Да ладно, ты серьёзно? Датчане, которые говорят на этом языке всю жизнь?"
+  },
+  {
+   "t": 1573.9,
+   "da": "Ja, helt bestemt.",
+   "ru": "Да, совершенно точно."
+  },
+  {
+   "t": 1575.7,
+   "da": "Det er simpelthen bare, fordi det kræver så meget mental energi.",
+   "ru": "Просто потому, что это требует так много умственной энергии."
+  },
+  {
+   "t": 1578.7,
+   "da": "Når danskere taler meget hurtigt og ivrigt, og de måske også er lidt stressede.",
+   "ru": "Когда датчане говорят очень быстро и увлечённо, а может, ещё и немного нервничают."
+  },
+  {
+   "t": 1582.8,
+   "da": "Ja, så går det galt.",
+   "ru": "Да, тогда всё идёт наперекосяк."
+  },
+  {
+   "t": 1583.6,
+   "da": "Ja, så snubler deres hjerner rigtig ofte.",
+   "ru": "Да, тогда их мозги очень часто спотыкаются."
+  },
+  {
+   "t": 1586.0,
+   "da": "Og så siger de netop \"medmindre det ikke\".",
+   "ru": "И тогда они говорят как раз (неправильно) *medmindre det ikke …*."
+  },
+  {
+   "t": 1589.3,
+   "da": "Helt uden overhovedet at opdage den store fejl.",
+   "ru": "Даже не замечая этой большой ошибки."
+  },
+  {
+   "t": 1591.4,
+   "da": "Jamen, det er jo underligt at vide. Så Anton, du har faktisk fået et lille hemmeligt våben med i bagagen nu.",
+   "ru": "Ну, это же странно знать. Так что, Антон, у тебя теперь есть маленькое секретное оружие в багаже."
+  },
+  {
+   "t": 1596.7,
+   "da": "Det har han nemlig.",
+   "ru": "Ещё как есть."
+  },
+  {
+   "t": 1597.8,
+   "da": "Næste gang du står nede i supermarkedet, eller du bare taler med en kollega,",
+   "ru": "В следующий раз, когда ты будешь в супермаркете или просто разговаривать с коллегой"
+  },
+  {
+   "t": 1601.2,
+   "da": "og du hører dem lave netop den her fejl, altså dobbelt-minus-fejlen,",
+   "ru": "и услышишь, как они делают именно эту ошибку, то есть ошибку двойного минуса,"
+  },
+  {
+   "t": 1604.4,
+   "da": "så kan du bare smile lidt indvendigt.",
+   "ru": "ты можешь просто чуть-чуть улыбнуться про себя."
+  },
+  {
+   "t": 1607.1,
+   "da": "Du ved nu, at lige præcis på det her punkt, der har du en meget dybere og stærkere forståelse",
+   "ru": "Теперь ты знаешь, что именно в этом пункте у тебя гораздо более глубокое и прочное понимание"
+  },
+  {
+   "t": 1611.8,
+   "da": "for mekanikken i det danske sprog end rigtig mange af dem, der rent faktisk er født med det.",
+   "ru": "механики датского языка, чем у очень многих из тех, кто с ним родился."
+  },
+  {
+   "t": 1616.0,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 1617.0,
+   "da": "Måske kan han endda rette dem lidt,",
+   "ru": "Может быть, он даже сможет их слегка поправить —"
+  },
+  {
+   "t": 1619.0,
+   "da": "blidt og roligt, næste gang de holder pause på arbejdet.",
+   "ru": "мягко и спокойно, в следующий раз, когда у них будет перерыв на работе."
+  },
+  {
+   "t": 1621.5,
+   "da": "Det synes jeg bestemt, han skal gøre.",
+   "ru": "Я считаю, ему обязательно стоит это сделать."
+  },
+  {
+   "t": 1623.2,
+   "da": "Sproget, det tilhører jo dem, der tager sig tid til at forstå det.",
+   "ru": "Язык ведь принадлежит тем, кто находит время его понять."
+  },
+  {
+   "t": 1625.6,
+   "da": "Det er et fantastisk budskab at slutte af på.",
+   "ru": "Это прекрасная мысль, чтобы закончить."
+  },
+  {
+   "t": 1627.9,
+   "da": "Ja, det er det.",
+   "ru": "Да, верно."
+  },
+  {
+   "t": 1629.3,
+   "da": "Vi vil gerne sige en kæmpe tak, fordi vi måtte dykke ned i dine personlige noter og din hverdag, Anton.",
+   "ru": "Мы хотим сказать огромное спасибо за то, что нам можно было погрузиться в твои личные заметки и твои будни, Антон."
+  },
+  {
+   "t": 1633.8,
+   "da": "Vi håber meget, at det har givet dig mod på at bruge alle disse stærke bindeord med stor selvtillid.",
+   "ru": "Очень надеемся, что это придало тебе смелости уверенно использовать все эти сильные союзы."
+  },
+  {
+   "t": 1638.1,
+   "da": "Ja, held og lykke med det.",
+   "ru": "Да, удачи с этим."
+  },
+  {
+   "t": 1639.7,
+   "da": "Vi ønsker dig en rigtig god og sikker arbejdsdag resten af turen ude i skraldebilen.",
+   "ru": "Желаем тебе очень хорошего и безопасного рабочего дня до конца смены в мусоровозе."
+  },
+  {
+   "t": 1643.2,
+   "da": "Pas rigtig godt på byen, pas på trafikken og frem for alt pas på dig selv.",
+   "ru": "Береги город, будь внимателен на дороге и прежде всего береги себя."
+  },
+  {
+   "t": 1647.1,
+   "da": "Mange tak for vores undersøgelse i dag, Anton.",
+   "ru": "Большое спасибо за наше сегодняшнее исследование, Антон."
+  },
+  {
+   "t": 1650.0,
+   "da": "Og husk: næste gang du skal bakke den store lastbil ned ad en mørk, snørklet gade inde i byen,",
+   "ru": "И помни: в следующий раз, когда тебе нужно будет сдавать назад на большом грузовике по тёмной извилистой улице в городе"
+  },
+  {
+   "t": 1655.2,
+   "da": "og skiltene, de bare virker totalt uforståelige, så tag lige en dyb indånding.",
+   "ru": "и знаки покажутся совершенно непонятными, — просто сделай глубокий вдох."
+  },
+  {
+   "t": 1659.5,
+   "da": "Ja, træk vejret.",
+   "ru": "Да, дыши."
+  },
+  {
+   "t": 1661.0,
+   "da": "Det er fuldstændig ligesom grammatikken.",
+   "ru": "Это совершенно как с грамматикой."
+  },
+  {
+   "t": 1662.7,
+   "da": "Det handler bare om at afkode de små billeder, at kende de faste regler,",
+   "ru": "Нужно просто расшифровывать маленькие картинки, знать твёрдые правила"
+  },
+  {
+   "t": 1666.4,
+   "da": "og så huske en meget vigtig ting.",
+   "ru": "и помнить одну очень важную вещь."
+  },
+  {
+   "t": 1669.6,
+   "da": "Og hvad er det?",
+   "ru": "И какую?"
+  },
+  {
+   "t": 1670.5,
+   "da": "Du må aldrig bakke i tunnelen, medmindre du får ordre til det.",
+   "ru": "Никогда не сдавай назад в тоннеле, если тебе не прикажут."
+  },
+  {
+   "t": 1674.2,
+   "da": "Hav en helt fantastisk dag derude.",
+   "ru": "Хорошего тебе дня там, на маршруте!"
+  }
+ ],
+ "glossary": [
+  {
+   "da": "et rat / rattet",
+   "ru": "руль",
+   "note": "sidde bag rattet — сидеть за рулём; holde fast i rattet — держать руль",
+   "t": 2.9,
+   "status": "-"
+  },
+  {
+   "da": "at bakke",
+   "ru": "сдавать назад, ехать задним ходом",
+   "note": "повелит.: Bak ikke! — Не сдавай назад! bakke ind i en tunnel",
+   "t": 23.6,
+   "status": "-"
+  },
+  {
+   "da": "en ordre",
+   "ru": "приказ, распоряжение",
+   "note": "få ordre til noget — получить приказ на что-то",
+   "t": 23.6,
+   "status": "learning"
+  },
+  {
+   "da": "medmindre",
+   "ru": "если не; разве что, если только не",
+   "note": "ЦЕЛЕВОЕ; tale + skrift; после него — целое предложение. ПРАВИЛО: medmindre = hvis … ikke, отрицание уже внутри → ✗ «medmindre det ikke regner», ✓ «medmindre det regner» (= если не будет дождя). ASR часто пишет «med mindre»",
+   "t": 23.6,
+   "status": "-"
+  },
+  {
+   "da": "totalskadet",
+   "ru": "полностью разбитый (не подлежит ремонту)",
+   "note": "en totalskadet lastbil",
+   "t": 43.5,
+   "status": "-"
+  },
+  {
+   "da": "skræddersyet",
+   "ru": "сшитый на заказ, индивидуальный",
+   "note": "букв. «сшитый портным»; skræddersyet til dig",
+   "t": 49.9,
+   "status": "-"
+  },
+  {
+   "da": "indviklet",
+   "ru": "запутанный, сложный",
+   "note": "indviklede regler",
+   "t": 61.6,
+   "status": "-"
+  },
+  {
+   "da": "en betingelse",
+   "ru": "условие",
+   "note": "pl. betingelser; sætte betingelser op — ставить условия; på den betingelse — при этом условии",
+   "t": 89.6,
+   "status": "-"
+  },
+  {
+   "da": "hvis",
+   "ru": "если",
+   "note": "ЦЕЛЕВОЕ; обычное слово, tale + skrift, личное, «близкое»; после него — целое ПРЕДЛОЖЕНИЕ (подлежащее + глагол): «Hvis det brænder, ringer du 112»",
+   "t": 90.7,
+   "status": "-"
+  },
+  {
+   "da": "hvis ikke",
+   "ru": "если нет; если не",
+   "note": "ЦЕЛЕВОЕ; tale + skrift; чаще всего короткий ответ на только что сказанное («ножницы»): «Har du kvitteringen? Hvis ikke, kan du ikke bytte skoene.» После него обычно сразу глагол",
+   "t": 90.7,
+   "status": "-"
+  },
+  {
+   "da": "i tilfælde af",
+   "ru": "в случае (чего-либо)",
+   "note": "ЦЕЛЕВОЕ; скорее skrift: таблички, правила, инструкции; после него только СУЩЕСТВИТЕЛЬНОЕ: «i tilfælde af brand» ✓, ✗ «i tilfælde af det brænder»",
+   "t": 139.6,
+   "status": "-"
+  },
+  {
+   "da": "en advarsel",
+   "ru": "предупреждение",
+   "note": "pl. advarsler; at advare — предупреждать; et advarselsskilt — предупреждающий знак",
+   "t": 162.5,
+   "status": "-"
+  },
+  {
+   "da": "en fælde / fælden",
+   "ru": "ловушка",
+   "note": "falde i en fælde — попасть в ловушку",
+   "t": 168.4,
+   "status": "new"
+  },
+  {
+   "da": "at indrømme",
+   "ru": "признавать (вину, ошибку)",
+   "note": "jeg må indrømme, at … — должна признаться, что …",
+   "t": 168.4,
+   "status": "new"
+  },
+  {
+   "da": "et udsagnsord",
+   "ru": "глагол (грам. термин)",
+   "note": "= et verbum; et grundled — подлежащее; ASR: «udsandsord»",
+   "t": 241.3,
+   "status": "-"
+  },
+  {
+   "da": "et navneord",
+   "ru": "существительное (грам. термин)",
+   "note": "= et substantiv; в речи часто звучит «navnord»",
+   "t": 270.2,
+   "status": "-"
+  },
+  {
+   "da": "glat føre",
+   "ru": "гололёд, скользкая дорога",
+   "note": "føre здесь — состояние дороги (не глагол «вести»); i tilfælde af glat føre — в случае гололёда; isglat — скользкий, как лёд",
+   "t": 340.4,
+   "status": "-"
+  },
+  {
+   "da": "såfremt",
+   "ru": "если, в случае если (офиц.)",
+   "note": "ЦЕЛЕВОЕ; = hvis, но только skrift: письма, договоры, правила; в разговоре звучит канцелярски/смешно; после него — целое предложение: «Såfremt du ønsker at afmelde dig, skal det ske skriftligt»",
+   "t": 406.8,
+   "status": "-"
+  },
+  {
+   "da": "forudsat at",
+   "ru": "при условии, что",
+   "note": "ЦЕЛЕВОЕ; tale + skrift; строгое условие «только если это выполнено» («навесной замок»); после него — целое предложение: «Jeg kan hente Ivan, forudsat at jeg er færdig med ruten inden klokken to»",
+   "t": 406.8,
+   "status": "-"
+  },
+  {
+   "da": "at afmelde sig",
+   "ru": "отписаться, отменить регистрацию",
+   "note": "ønske at afmelde sig — желать отписаться (офиц.); ≠ at melde sig til — записаться",
+   "t": 526.5,
+   "status": "-"
+  },
+  {
+   "da": "skriftligt",
+   "ru": "письменно, в письменной форме",
+   "note": "det skal ske skriftligt — это должно быть сделано письменно",
+   "t": 526.5,
+   "status": "-"
+  },
+  {
+   "da": "en hængelås",
+   "ru": "навесной замок",
+   "note": "образ для forudsat at",
+   "t": 565.0,
+   "status": "-"
+  },
+  {
+   "da": "at opfylde",
+   "ru": "выполнять (требование, условие)",
+   "note": "indtil kravet er opfyldt — пока требование не выполнено; et krav — требование",
+   "t": 583.7,
+   "status": "-"
+  },
+  {
+   "da": "uforudsigelig",
+   "ru": "непредсказуемый",
+   "note": "trafikken kan være uforudsigelig",
+   "t": 606.0,
+   "status": "-"
+  },
+  {
+   "da": "ufravigelig",
+   "ru": "непреложный, обязательный, без исключений",
+   "note": "betingelsen er ufravigelig",
+   "t": 647.1,
+   "status": "-"
+  },
+  {
+   "da": "at snyde",
+   "ru": "обманывать, жульничать",
+   "note": "past: snød; snydt — обманутый; en snyder — обманщик",
+   "t": 690.7,
+   "status": "-"
+  },
+  {
+   "da": "en ekspedient",
+   "ru": "продавец (в магазине)",
+   "note": "ekspedienten har brug for et bevis",
+   "t": 949.7,
+   "status": "-"
+  },
+  {
+   "da": "en kvittering",
+   "ru": "чек, квитанция",
+   "note": "Har du kvitteringen?",
+   "t": 952.6,
+   "status": "-"
+  },
+  {
+   "da": "at bytte",
+   "ru": "обменивать",
+   "note": "bytte skoene — обменять обувь",
+   "t": 964.2,
+   "status": "new"
+  },
+  {
+   "da": "en kørselsleder",
+   "ru": "диспетчер, руководитель движения",
+   "note": "kørselslederen ringer — звонит диспетчер",
+   "t": 1018.9,
+   "status": "-"
+  },
+  {
+   "da": "ellers",
+   "ru": "иначе, а то",
+   "note": "ЦЕЛЕВОЕ; tale + skrift; ПРЕДУПРЕЖДЕНИЕ «сделай, а то будет плохо»; ГЛАГОЛ сразу после: «Tag en jakke på, ellers fryser du»",
+   "t": 1102.0,
+   "status": "known"
+  },
+  {
+   "da": "i så fald",
+   "ru": "в таком случае",
+   "note": "ЦЕЛЕВОЕ; tale + skrift; нейтральный план Б для только что названной возможности; глагол сразу после: «Måske regner det i morgen. I så fald bliver vi hjemme.» ✗ не для предупреждений",
+   "t": 1102.0,
+   "status": "-"
+  },
+  {
+   "da": "i givet fald",
+   "ru": "в случае чего; в этом случае; если понадобится",
+   "note": "ЦЕЛЕВОЕ; формальнее, чем i så fald (больше skrift), «старший брат»; оттенок вынужденного запасного решения: «Bilen starter måske ikke i frosten. I givet fald tager vi toget.»",
+   "t": 1102.0,
+   "status": "-"
+  },
+  {
+   "da": "at fryse",
+   "ru": "мёрзнуть; замерзать",
+   "note": "present: fryser; past: frøs; ellers fryser du — а то замёрзнешь",
+   "t": 1149.0,
+   "status": "new"
+  },
+  {
+   "da": "dikkedarer",
+   "ru": "лишние церемонии, выкрутасы",
+   "note": "разг.; uden dikkedarer — без лишних церемоний",
+   "t": 1220.4,
+   "status": "-"
+  },
+  {
+   "da": "en nødløsning",
+   "ru": "вынужденное (запасное) решение",
+   "note": "en nød — нужда, беда",
+   "t": 1306.8,
+   "status": "-"
+  },
+  {
+   "da": "en dunk",
+   "ru": "канистра, бидон",
+   "note": "pl. dunke; dunke med kemikalier på genbrugsstationen",
+   "t": 1357.5,
+   "status": "-"
+  },
+  {
+   "da": "ved kontakt med",
+   "ru": "при контакте с, при соприкосновении с",
+   "note": "ЦЕЛЕВОЕ (бонус); skrift: этикетки, предупреждения; только о физическом касании; после него — существительное: «ved kontakt med huden»",
+   "t": 1364.9,
+   "status": "-"
+  },
+  {
+   "da": "en brændenælde",
+   "ru": "крапива",
+   "note": "d немое; pl. brændenælder; Brændenælder brænder ved kontakt med huden",
+   "t": 1395.5,
+   "status": "-"
+  },
+  {
+   "da": "en misforståelse",
+   "ru": "недоразумение",
+   "note": "pl. misforståelser; der kan ikke opstå misforståelser",
+   "t": 1463.0,
+   "status": "-"
+  }
+ ]
+}

@@ -1,0 +1,1825 @@
+{
+ "id": "nlm-f4",
+ "title_da": "Fra stift papirsprog til naturligt talesprog",
+ "title_ru": "От чопорного канцелярита к естественной разговорной речи",
+ "summary_ru": "Ведущие объясняют Антону датские связки уступки, исключения и цели и показывают разницу между письменным официальным языком и живой речью. Разбираются selv om (+ предложение, глагол сразу после — «правило якоря») и alligevel, alligevel против dog, uanset (+ существительное или вопросительное слово), i stedet for, официальные med henblik på, finder anvendelse и med undtagelse af с разговорными заменами for at, gælder и bortset fra, а также der er tale om. Примеры — дождь и сауна, будильник в четыре утра, покупка спальника, скидки в магазине и поездка в Швецию с Иваном; в конце — короткая история со всеми связками.",
+ "lines": [
+  {
+   "t": 0.2,
+   "da": "Forestil dig, at et meget lille ord på tre bogstaver – at det kan afgøre, om du lyder som en stiv advokat.",
+   "ru": "Представь себе, что одно совсем маленькое слово из трёх букв может решить, звучишь ли ты как чопорный адвокат."
+  },
+  {
+   "t": 8.7,
+   "da": "Ja, eller en robot, ikke?",
+   "ru": "Да, или как робот, правда?"
+  },
+  {
+   "t": 9.9,
+   "da": "Nemlig. Eller om du lyder som en ægte lokal københavner.",
+   "ru": "Именно. Или звучишь как настоящий местный копенгагенец."
+  },
+  {
+   "t": 14.3,
+   "da": "Altså en, man har lyst til at drikke kaffe med.",
+   "ru": "То есть как человек, с которым хочется выпить кофе."
+  },
+  {
+   "t": 16.2,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 17.6,
+   "da": "Godmorgen og velkommen til vores samtale i dag.",
+   "ru": "Доброе утро и добро пожаловать на наш сегодняшний разговор."
+  },
+  {
+   "t": 19.7,
+   "da": "I dag taler vi direkte til dig, Anton.",
+   "ru": "Сегодня мы обращаемся прямо к тебе, Антон."
+  },
+  {
+   "t": 22.2,
+   "da": "Et stort godmorgen til dig, Anton.",
+   "ru": "Большое доброе утро тебе, Антон."
+  },
+  {
+   "t": 24.3,
+   "da": "Du sidder højst sandsynligt i førerhuset, altså i din store orange skraldebil lige nu.",
+   "ru": "Скорее всего, ты сейчас сидишь в кабине — то есть в своём большом оранжевом мусоровозе."
+  },
+  {
+   "t": 30.3,
+   "da": "Måske kører du rundt på de små gader i København.",
+   "ru": "Может быть, ты ездишь по узким улочкам Копенгагена."
+  },
+  {
+   "t": 33.4,
+   "da": "Mhm. De våde gader?",
+   "ru": "Угу. По мокрым улицам?"
+  },
+  {
+   "t": 35.2,
+   "da": "Ja, de våde gader.",
+   "ru": "Да, по мокрым улицам."
+  },
+  {
+   "t": 36.7,
+   "da": "Måske holder du for rødt lys og ser på folk, der cykler i regnen.",
+   "ru": "Может быть, ты стоишь на красный свет и смотришь на людей, которые едут на велосипедах под дождём."
+  },
+  {
+   "t": 40.9,
+   "da": "Uanset hvor du er, så er vi utrolig glade for, at du lytter med.",
+   "ru": "Где бы ты ни был (*uanset hvor*), мы невероятно рады, что ты нас слушаешь."
+  },
+  {
+   "t": 44.3,
+   "da": "Helt sikkert.",
+   "ru": "Абсолютно."
+  },
+  {
+   "t": 45.2,
+   "da": "Dagens mission er ret speciel.",
+   "ru": "Сегодняшняя миссия довольно особенная."
+  },
+  {
+   "t": 47.0,
+   "da": "Vi skal ikke bare lære nye svære ord.",
+   "ru": "Мы не будем просто учить новые трудные слова."
+  },
+  {
+   "t": 49.7,
+   "da": "Vi skal se på små ord, der binder sætninger sammen.",
+   "ru": "Мы посмотрим на маленькие слова, которые связывают предложения."
+  },
+  {
+   "t": 52.6,
+   "da": "Det er dem, der får dit dansk til at lyde naturligt, når du taler med folk på gaden.",
+   "ru": "Именно они делают твой датский естественным, когда ты говоришь с людьми на улице."
+  },
+  {
+   "t": 56.6,
+   "da": "Ja, byggeklodserne i sproget.",
+   "ru": "Да, кирпичики языка."
+  },
+  {
+   "t": 58.6,
+   "da": "Lige præcis.",
+   "ru": "Вот именно."
+  },
+  {
+   "t": 59.1,
+   "da": "Så Anton, tag en dyb indånding.",
+   "ru": "Итак, Антон, сделай глубокий вдох."
+  },
+  {
+   "t": 62.0,
+   "da": "Hold hænderne på rattet.",
+   "ru": "Держи руки на руле."
+  },
+  {
+   "t": 63.4,
+   "da": "Og lyt godt efter.",
+   "ru": "И слушай внимательно."
+  },
+  {
+   "t": 65.5,
+   "da": "Okay, lad os pakke det her ud.",
+   "ru": "Хорошо, давай разберём это."
+  },
+  {
+   "t": 67.6,
+   "da": "Det er en fantastisk mission at starte dagen med.",
+   "ru": "С такой миссии здорово начинать день."
+  },
+  {
+   "t": 70.6,
+   "da": "Og det, der er fascinerende her, er, hvordan et enkelt lille ord nærmest kan ændre hele stemningen.",
+   "ru": "И что здесь завораживает — как одно-единственное маленькое слово может чуть ли не полностью изменить всё настроение."
+  },
+  {
+   "t": 75.9,
+   "da": "Ja, helt vildt.",
+   "ru": "Да, это просто поразительно."
+  },
+  {
+   "t": 77.3,
+   "da": "Mange tror, at man skal kende alle de svære ord i en tyk ordbog.",
+   "ru": "Многие думают, что нужно знать все трудные слова из толстого словаря."
+  },
+  {
+   "t": 80.7,
+   "da": "Men virkeligheden er altså en helt anden.",
+   "ru": "Но на самом деле всё совсем иначе."
+  },
+  {
+   "t": 83.3,
+   "da": "Det vigtigste er at forstå forskellen på det talte sprog og det skrevne sprog.",
+   "ru": "Самое важное — понимать разницу между устной и письменной речью."
+  },
+  {
+   "t": 88.0,
+   "da": "Mhm, papirsproget.",
+   "ru": "Угу, «бумажный» язык (канцелярит)."
+  },
+  {
+   "t": 89.6,
+   "da": "Nemlig. Vi taler jo ikke, som kommunen skriver et brev, eller?",
+   "ru": "Именно. Мы ведь не говорим так, как коммуна пишет письмо, верно?"
+  },
+  {
+   "t": 92.4,
+   "da": "Vi taler med genveje og bløde ord.",
+   "ru": "Мы говорим короче, срезая углы (*genveje*), и мягкими словами."
+  },
+  {
+   "t": 94.9,
+   "da": "Et stift ord kan bygge en mur.",
+   "ru": "Одно чопорное слово может построить стену."
+  },
+  {
+   "t": 97.0,
+   "da": "Men et naturligt ord bryder den mur ned.",
+   "ru": "А естественное слово эту стену разрушает."
+  },
+  {
+   "t": 99.3,
+   "da": "Det er en rigtig god pointe.",
+   "ru": "Это очень верное замечание."
+  },
+  {
+   "t": 101.6,
+   "da": "Sproget bygger bro mellem mennesker.",
+   "ru": "Язык строит мост между людьми."
+  },
+  {
+   "t": 103.7,
+   "da": "Lad os starte med noget, der altid påvirker din dag, Anton.",
+   "ru": "Давай начнём с того, что всегда влияет на твой день, Антон."
+  },
+  {
+   "t": 106.2,
+   "da": "Nemlig vejret i København.",
+   "ru": "А именно — с погоды в Копенгагене."
+  },
+  {
+   "t": 107.6,
+   "da": "Åha, det skifter hurtigt.",
+   "ru": "О да, она быстро меняется."
+  },
+  {
+   "t": 109.6,
+   "da": "Det gør det.",
+   "ru": "Это точно."
+  },
+  {
+   "t": 110.5,
+   "da": "Forestil dig, at regnen slår mod ruden på din skraldebil.",
+   "ru": "Представь, что дождь хлещет по стеклу твоего мусоровоза."
+  },
+  {
+   "t": 114.0,
+   "da": "Vi vil gerne gå en tur i skoven, men vejret er forfærdeligt.",
+   "ru": "Мы хотим прогуляться в лесу, но погода ужасная."
+  },
+  {
+   "t": 117.3,
+   "da": "Mhm.",
+   "ru": "Угу."
+  },
+  {
+   "t": 118.1,
+   "da": "Når jeg prøver at sige det på dansk, Anton, så laver jeg tit en fejl.",
+   "ru": "Когда я пытаюсь сказать это по-датски, Антон, я часто делаю ошибку."
+  },
+  {
+   "t": 121.0,
+   "da": "Jeg vil sige: alligevel det regner, går vi en tur i skoven.",
+   "ru": "Я бы сказала: (неправильно) «*alligevel* идёт дождь, мы идём гулять в лес»."
+  },
+  {
+   "t": 125.5,
+   "da": "Ja, jeg kan godt høre det.",
+   "ru": "Да, я это слышу."
+  },
+  {
+   "t": 126.8,
+   "da": "Det føles logisk i mit hoved, men jeg ved godt, at der er noget galt.",
+   "ru": "В голове это кажется логичным, но я понимаю, что что-то не так."
+  },
+  {
+   "t": 130.9,
+   "da": "Du er slet ikke den eneste, der gør det.",
+   "ru": "Ты совсем не единственная, кто так делает."
+  },
+  {
+   "t": 132.5,
+   "da": "Det er faktisk meget logisk.",
+   "ru": "Это на самом деле очень логично."
+  },
+  {
+   "t": 134.1,
+   "da": "Fordi alligevel betyder, at man gør noget på trods af modstand.",
+   "ru": "Потому что *alligevel* значит, что человек что-то делает вопреки сопротивлению."
+  },
+  {
+   "t": 137.6,
+   "da": "Ja, præcis.",
+   "ru": "Да, точно."
+  },
+  {
+   "t": 138.6,
+   "da": "Men på dansk kan man alligevel simpelthen ikke starte en bisætning på den måde.",
+   "ru": "Но по-датски со словом *alligevel* так начать придаточное предложение просто нельзя."
+  },
+  {
+   "t": 142.6,
+   "da": "Det ord, du skal bruge som startskud, er selv om.",
+   "ru": "Слово, которое нужно для старта, — это *selv om*."
+  },
+  {
+   "t": 145.5,
+   "da": "Ah, okay.",
+   "ru": "А, понятно."
+  },
+  {
+   "t": 147.1,
+   "da": "Selv om.",
+   "ru": "*Selv om*."
+  },
+  {
+   "t": 147.8,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 148.5,
+   "da": "Selv om fortæller lytteren, at nu kommer der et problem.",
+   "ru": "*Selv om* сообщает слушателю, что сейчас будет проблема (помеха)."
+  },
+  {
+   "t": 151.6,
+   "da": "Og her har vi en vigtig regel.",
+   "ru": "И здесь у нас есть важное правило."
+  },
+  {
+   "t": 153.1,
+   "da": "Vi kan kalde den ankerreglen.",
+   "ru": "Можно назвать его «правилом якоря»."
+  },
+  {
+   "t": 155.3,
+   "da": "Ankerreglen. – Ja.",
+   "ru": "Правило якоря. — Да."
+  },
+  {
+   "t": 156.1,
+   "da": "Forestil dig, at udsagnsordet, altså vores handling, at vi går, er et tungt skibsanker.",
+   "ru": "Представь, что глагол — то есть наше действие, что мы идём, — это тяжёлый корабельный якорь."
+  },
+  {
+   "t": 163.0,
+   "da": "Det skal kastes ned lige efter selv om-delen.",
+   "ru": "Его надо бросить сразу после части с *selv om*."
+  },
+  {
+   "t": 166.2,
+   "da": "Så vi siger «går vi» og ikke «vi går».",
+   "ru": "Поэтому мы говорим «*går vi*», а не «*vi går*»."
+  },
+  {
+   "t": 169.7,
+   "da": "Ah, så handlingen kommer først.",
+   "ru": "А, значит, действие идёт первым."
+  },
+  {
+   "t": 171.4,
+   "da": "Lige præcis.",
+   "ru": "Именно так."
+  },
+  {
+   "t": 172.6,
+   "da": "Jeg siger lige den rigtige sætning to gange helt langsomt, så Anton kan mærke ankret falde på plads.",
+   "ru": "Я скажу правильное предложение два раза совсем медленно, чтобы Антон почувствовал, как якорь встаёт на место."
+  },
+  {
+   "t": 178.3,
+   "da": "Her kommer første gang.",
+   "ru": "Вот первый раз."
+  },
+  {
+   "t": 179.0,
+   "da": "Selv om det regner, går vi en tur i skoven.",
+   "ru": "Хотя идёт дождь, мы идём гулять в лес."
+  },
+  {
+   "t": 183.4,
+   "da": "Det lyder meget bedre.",
+   "ru": "Звучит гораздо лучше."
+  },
+  {
+   "t": 185.1,
+   "da": "Og anden gang.",
+   "ru": "И второй раз."
+  },
+  {
+   "t": 186.6,
+   "da": "Selv om det regner, går vi en tur i skoven.",
+   "ru": "Хотя идёт дождь, мы идём гулять в лес."
+  },
+  {
+   "t": 190.0,
+   "da": "Jeg kan tydeligt mærke rytmen der.",
+   "ru": "Я отчётливо чувствую здесь ритм."
+  },
+  {
+   "t": 192.3,
+   "da": "Selv om præsenterer problemet, og så falder ankret.",
+   "ru": "*Selv om* представляет проблему, а потом падает якорь."
+  },
+  {
+   "t": 196.0,
+   "da": "Men hvad gør vi så med alligevel?",
+   "ru": "А что тогда делать с *alligevel*?"
+  },
+  {
+   "t": 198.8,
+   "da": "Kan de arbejde sammen?",
+   "ru": "Могут они работать вместе?"
+  },
+  {
+   "t": 200.0,
+   "da": "Ja, de er et fantastisk makkerpar.",
+   "ru": "Да, они отличная пара напарников."
+  },
+  {
+   "t": 202.7,
+   "da": "Alligevel er ligesom belønningen til sidst.",
+   "ru": "*Alligevel* — это как бы награда в конце."
+  },
+  {
+   "t": 204.7,
+   "da": "Det står tit over i den anden halvdel af sætningen.",
+   "ru": "Оно обычно стоит во второй половине предложения."
+  },
+  {
+   "t": 206.9,
+   "da": "Du bygger op med selv om og slår fast, at du vinder over regnen, med alligevel.",
+   "ru": "Ты строишь фразу с *selv om*, а словом *alligevel* закрепляешь, что победил дождь."
+  },
+  {
+   "t": 213.0,
+   "da": "Nå, lad os teste det.",
+   "ru": "Ну, давай проверим."
+  },
+  {
+   "t": 215.2,
+   "da": "Nu skal du tænke dig om, Anton.",
+   "ru": "Теперь подумай, Антон."
+  },
+  {
+   "t": 216.6,
+   "da": "Du sidder i skraldebilen.",
+   "ru": "Ты сидишь в мусоровозе."
+  },
+  {
+   "t": 218.1,
+   "da": "Du og vennerne vil i sauna.",
+   "ru": "Ты с друзьями хотите в сауну."
+  },
+  {
+   "t": 219.9,
+   "da": "Regnen er problemet.",
+   "ru": "Проблема — дождь."
+  },
+  {
+   "t": 221.4,
+   "da": "Hvordan siger du, at det regnede, men at I tog i sauna?",
+   "ru": "Как сказать, что шёл дождь, но вы всё равно поехали в сауну?"
+  },
+  {
+   "t": 225.1,
+   "da": "Tænk selv, vi holder lige en pause her.",
+   "ru": "Подумай сам, мы сделаем здесь паузу."
+  },
+  {
+   "t": 227.4,
+   "da": "Ja, tænk lidt over de to ord sammen.",
+   "ru": "Да, подумай, как соединить эти два слова."
+  },
+  {
+   "t": 230.6,
+   "da": "Okay, svaret er: Selv om det regnede, tog vi alligevel i sauna.",
+   "ru": "Итак, ответ: хотя шёл дождь, мы всё равно поехали в сауну."
+  },
+  {
+   "t": 236.0,
+   "da": "Perfekt.",
+   "ru": "Отлично."
+  },
+  {
+   "t": 236.4,
+   "da": "Man starter med problemet og sætter trumf på til sidst.",
+   "ru": "Начинаешь с проблемы, а в конце кладёшь козырь."
+  },
+  {
+   "t": 239.7,
+   "da": "Det er godt bygget sprog. (?)",
+   "ru": "Это хорошо построенная речь. (?)"
+  },
+  {
+   "t": 241.2,
+   "da": "Men lad os fortsætte historien, Anton.",
+   "ru": "Но давай продолжим историю, Антон."
+  },
+  {
+   "t": 243.4,
+   "da": "I ankommer til saunaen.",
+   "ru": "Вы приезжаете в сауну."
+  },
+  {
+   "t": 245.0,
+   "da": "Men åh nej, saunaen er helt fuld.",
+   "ru": "Но, о нет, сауна полностью забита."
+  },
+  {
+   "t": 247.3,
+   "da": "Der er mennesker overalt.",
+   "ru": "Повсюду люди."
+  },
+  {
+   "t": 248.7,
+   "da": "Det er typisk København om vinteren.",
+   "ru": "Типичный Копенгаген зимой."
+  },
+  {
+   "t": 250.7,
+   "da": "Ja, det er det.",
+   "ru": "Да, это так."
+  },
+  {
+   "t": 252.0,
+   "da": "Alt ser umuligt ud.",
+   "ru": "Кажется, что ничего не выйдет."
+  },
+  {
+   "t": 253.4,
+   "da": "Men pludselig bliver der en lille plads til jer.",
+   "ru": "Но вдруг для вас находится маленькое местечко."
+  },
+  {
+   "t": 256.5,
+   "da": "Hvordan beskriver man den følelse?",
+   "ru": "Как описать это чувство?"
+  },
+  {
+   "t": 258.3,
+   "da": "For jeg tror tit, at alligevel og dog betyder præcis det samme.",
+   "ru": "Потому что мне часто кажется, что *alligevel* и *dog* значат ровно одно и то же."
+  },
+  {
+   "t": 263.2,
+   "da": "Hmm, det forstår jeg godt.",
+   "ru": "Хм, это я хорошо понимаю."
+  },
+  {
+   "t": 264.3,
+   "da": "Jeg vil sige: Saunaen var fuld, men vi fik alligevel en plads.",
+   "ru": "Я бы сказала: «Сауна была полна, но мы всё равно получили место»."
+  },
+  {
+   "t": 268.6,
+   "da": "Eller skal jeg sige dog?",
+   "ru": "Или надо сказать *dog*?"
+  },
+  {
+   "t": 270.5,
+   "da": "Det er en almindelig forvirring.",
+   "ru": "Это частая путаница."
+  },
+  {
+   "t": 272.8,
+   "da": "De er i familie, men har forskellig personlighed.",
+   "ru": "Они родственники, но характер у них разный."
+  },
+  {
+   "t": 275.4,
+   "da": "Alligevel er en kamp mod en forhindring.",
+   "ru": "*Alligevel* — это борьба с препятствием."
+  },
+  {
+   "t": 277.8,
+   "da": "Du kæmper mod regnen.",
+   "ru": "Ты борешься с дождём."
+  },
+  {
+   "t": 279.1,
+   "da": "Men dog er mere en undtagelse.",
+   "ru": "А *dog* — это скорее исключение."
+  },
+  {
+   "t": 282.3,
+   "da": "En undtagelse?",
+   "ru": "Исключение?"
+  },
+  {
+   "t": 283.4,
+   "da": "Ja, som et lille plot twist.",
+   "ru": "Да, как маленький неожиданный поворот сюжета."
+  },
+  {
+   "t": 285.4,
+   "da": "Det betyder «men i det mindste».",
+   "ru": "Оно значит «но по крайней мере»."
+  },
+  {
+   "t": 287.5,
+   "da": "Det er en uventet gave.",
+   "ru": "Это неожиданный подарок."
+  },
+  {
+   "t": 288.4,
+   "da": "Man skal også vide, at dog tit bruges i skriftlige regler, som «reglen gælder dog ikke for små biler».",
+   "ru": "Надо ещё знать, что *dog* часто используют в письменных правилах, например: «Правило, однако, не распространяется на маленькие машины»."
+  },
+  {
+   "t": 295.1,
+   "da": "Ah, okay.",
+   "ru": "А, понятно."
+  },
+  {
+   "t": 296.1,
+   "da": "Men i situationen med saunaen er dog et smukt ord at bruge i tale.",
+   "ru": "Но в ситуации с сауной *dog* — красивое слово и для устной речи."
+  },
+  {
+   "t": 299.8,
+   "da": "Det giver en følelse af lettelse.",
+   "ru": "Оно передаёт чувство облегчения."
+  },
+  {
+   "t": 301.7,
+   "da": "Jeg siger den rigtige sætning to gange meget langsomt.",
+   "ru": "Скажу правильное предложение два раза очень медленно."
+  },
+  {
+   "t": 304.8,
+   "da": "Saunaen var fuld, men vi fik dog en plads til sidst.",
+   "ru": "Сауна была полна, но в конце концов мы всё-таки получили место."
+  },
+  {
+   "t": 308.6,
+   "da": "Jeg lytter.",
+   "ru": "Слушаю."
+  },
+  {
+   "t": 309.5,
+   "da": "Og en gang til.",
+   "ru": "И ещё раз."
+  },
+  {
+   "t": 310.7,
+   "da": "Saunaen var fuld, men vi fik dog en plads til sidst.",
+   "ru": "Сауна была полна, но в конце концов мы всё-таки получили место."
+  },
+  {
+   "t": 313.9,
+   "da": "Jeg kan virkelig godt lide det lille plot twist.",
+   "ru": "Мне очень нравится этот маленький поворот сюжета."
+  },
+  {
+   "t": 317.4,
+   "da": "Det er et lyspunkt.",
+   "ru": "Это светлый момент."
+  },
+  {
+   "t": 318.9,
+   "da": "Men lad os forlade saunaen.",
+   "ru": "Но давай покинем сауну."
+  },
+  {
+   "t": 320.6,
+   "da": "For uanset vejret stopper en dygtig skraldebilchauffør aldrig.",
+   "ru": "Потому что независимо от погоды хороший водитель мусоровоза никогда не останавливается."
+  },
+  {
+   "t": 324.6,
+   "da": "Her bliver det virkelig interessant, Anton.",
+   "ru": "Вот тут становится по-настоящему интересно, Антон."
+  },
+  {
+   "t": 326.5,
+   "da": "Huh, hvad tænker du på?",
+   "ru": "Хм, что ты имеешь в виду?"
+  },
+  {
+   "t": 327.8,
+   "da": "Hvordan siger man på dansk, at det er fuldstændig lige meget?",
+   "ru": "Как сказать по-датски, что это совершенно неважно?"
+  },
+  {
+   "t": 331.4,
+   "da": "Nå, der er et udtryk.",
+   "ru": "Ну, для этого есть выражение."
+  },
+  {
+   "t": 332.8,
+   "da": "Hvis intet kan stoppe ens plan, bruger vi ordet uanset.",
+   "ru": "Если ничто не может остановить твой план, мы используем слово *uanset*."
+  },
+  {
+   "t": 336.9,
+   "da": "Det er et meget stærkt ord.",
+   "ru": "Это очень сильное слово."
+  },
+  {
+   "t": 338.1,
+   "da": "Men det kræver at blive sat sammen med et navneord.",
+   "ru": "Но оно требует, чтобы рядом стояло существительное."
+  },
+  {
+   "t": 340.8,
+   "da": "Altså en ting – eller et spørgeord.",
+   "ru": "То есть предмет — или вопросительное слово."
+  },
+  {
+   "t": 342.8,
+   "da": "Okay, lad mig prøve at lave en fejl.",
+   "ru": "Хорошо, дай я попробую сделать ошибку."
+  },
+  {
+   "t": 345.3,
+   "da": "Vækkeuret ringer, og jeg siger:",
+   "ru": "Звонит будильник, и я говорю:"
+  },
+  {
+   "t": 347.6,
+   "da": "Jeg møder klokken fire, uanset at det regner.",
+   "ru": "(неправильно) «Я выхожу на работу в четыре, *uanset at* идёт дождь»."
+  },
+  {
+   "t": 351.4,
+   "da": "Jeg forstår godt meningen,",
+   "ru": "Смысл я понимаю,"
+  },
+  {
+   "t": 352.7,
+   "da": "men du prøver at bruge en hel sætning efter uanset.",
+   "ru": "но ты пытаешься поставить после *uanset* целое предложение."
+  },
+  {
+   "t": 355.7,
+   "da": "Det går ikke.",
+   "ru": "Так не получится."
+  },
+  {
+   "t": 356.8,
+   "da": "«At det regner» er en handling.",
+   "ru": "«Что идёт дождь» — это действие."
+  },
+  {
+   "t": 359.1,
+   "da": "Ah, så jeg skal bruge en ting i stedet.",
+   "ru": "А, значит, вместо этого нужен предмет."
+  },
+  {
+   "t": 362.0,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 363.3,
+   "da": "Hvad er regn?",
+   "ru": "Что такое дождь?"
+  },
+  {
+   "t": 364.6,
+   "da": "Det er vejr.",
+   "ru": "Это погода."
+  },
+  {
+   "t": 365.4,
+   "da": "Så vi tager ordet vejret.",
+   "ru": "Поэтому берём слово *vejret* («погода»)."
+  },
+  {
+   "t": 367.3,
+   "da": "Jeg siger den rigtige version to gange langsomt.",
+   "ru": "Скажу правильный вариант два раза медленно."
+  },
+  {
+   "t": 369.2,
+   "da": "Lyt til rytmen, Anton.",
+   "ru": "Слушай ритм, Антон."
+  },
+  {
+   "t": 370.1,
+   "da": "Jeg møder klokken fire, uanset vejret.",
+   "ru": "Я выхожу на работу в четыре при любой погоде (*uanset vejret*)."
+  },
+  {
+   "t": 374.4,
+   "da": "Mhm.",
+   "ru": "Угу."
+  },
+  {
+   "t": 375.3,
+   "da": "Det er meget mere direkte.",
+   "ru": "Это гораздо прямее."
+  },
+  {
+   "t": 376.5,
+   "da": "Ja, en gang til.",
+   "ru": "Да, ещё раз."
+  },
+  {
+   "t": 378.3,
+   "da": "Jeg møder klokken fire, uanset vejret.",
+   "ru": "Я выхожу на работу в четыре при любой погоде."
+  },
+  {
+   "t": 381.4,
+   "da": "Okay, Anton.",
+   "ru": "Итак, Антон."
+  },
+  {
+   "t": 382.5,
+   "da": "Tænk selv nu.",
+   "ru": "Теперь подумай сам."
+  },
+  {
+   "t": 383.7,
+   "da": "Det er weekend.",
+   "ru": "Выходные."
+  },
+  {
+   "t": 384.7,
+   "da": "Du står i en butik for at købe en sovepose.",
+   "ru": "Ты стоишь в магазине, чтобы купить спальный мешок."
+  },
+  {
+   "t": 387.1,
+   "da": "Den er rigtig dyr.",
+   "ru": "Он очень дорогой."
+  },
+  {
+   "t": 388.6,
+   "da": "Hvordan siger du, at det er lige meget, hvad den koster?",
+   "ru": "Как сказать, что неважно, сколько он стоит?"
+  },
+  {
+   "t": 391.0,
+   "da": "I køber soveposen.",
+   "ru": "Вы покупаете спальник."
+  },
+  {
+   "t": 392.5,
+   "da": "Vi holder en lille pause.",
+   "ru": "Сделаем небольшую паузу."
+  },
+  {
+   "t": 393.3,
+   "da": "Ja, brug et spørgeord her.",
+   "ru": "Да, используй здесь вопросительное слово."
+  },
+  {
+   "t": 396.1,
+   "da": "Svaret er: Uanset hvad det koster, køber vi en ny sovepose.",
+   "ru": "Ответ: сколько бы он ни стоил (*uanset hvad det koster*), мы покупаем новый спальник."
+  },
+  {
+   "t": 400.8,
+   "da": "Man bruger simpelthen spørgeordet hvad.",
+   "ru": "Просто используешь вопросительное слово *hvad*."
+  },
+  {
+   "t": 402.8,
+   "da": "Helt rigtigt.",
+   "ru": "Совершенно верно."
+  },
+  {
+   "t": 403.9,
+   "da": "Det er en perfekt pakke til uanset.",
+   "ru": "Это идеальная связка для *uanset*."
+  },
+  {
+   "t": 406.5,
+   "da": "Det lyder 100 % som en naturlig dansker.",
+   "ru": "Звучит на все сто как у настоящего датчанина."
+  },
+  {
+   "t": 408.8,
+   "da": "Lad os køre videre med morgenen i skraldebilen.",
+   "ru": "Поехали дальше — утро в мусоровозе."
+  },
+  {
+   "t": 411.6,
+   "da": "Chefen har bedt dig køre en anden rute i dag.",
+   "ru": "Начальник попросил тебя сегодня ехать по другому маршруту."
+  },
+  {
+   "t": 414.4,
+   "da": "Her har vi et godt udtryk.",
+   "ru": "Тут у нас есть хорошее выражение."
+  },
+  {
+   "t": 416.1,
+   "da": "I stedet for.",
+   "ru": "*I stedet for* («вместо»)."
+  },
+  {
+   "t": 417.7,
+   "da": "Jeg siger lige en sætning om ruten to gange langsomt.",
+   "ru": "Скажу одно предложение про маршрут два раза медленно."
+  },
+  {
+   "t": 419.9,
+   "da": "Ja, lad os høre.",
+   "ru": "Да, давай послушаем."
+  },
+  {
+   "t": 420.7,
+   "da": "I stedet for er et meget nyttigt værktøj.",
+   "ru": "*I stedet for* — очень полезный инструмент."
+  },
+  {
+   "t": 433.0,
+   "da": "Man tager bare én ting ud og sætter en ny ind.",
+   "ru": "Просто убираешь одну вещь и ставишь новую."
+  },
+  {
+   "t": 435.1,
+   "da": "Ja, det er ret nemt. (?)",
+   "ru": "Да, это довольно просто. (?)"
+  },
+  {
+   "t": 436.8,
+   "da": "Men når jeg vil lyde lidt klog, låner jeg tit ord fra breve fra banken.",
+   "ru": "Но когда я хочу звучать умно, я часто заимствую слова из писем из банка."
+  },
+  {
+   "t": 441.5,
+   "da": "Hvis jeg forklarer, hvorfor jeg læser dansk, siger jeg:",
+   "ru": "Если я объясняю, зачем учу датский, я говорю:"
+  },
+  {
+   "t": 444.4,
+   "da": "Jeg læser dansk hver dag med henblik på at få et bedre job.",
+   "ru": "(слишком официально) «Я учу датский каждый день с целью (*med henblik på*) получить лучшую работу»."
+  },
+  {
+   "t": 448.0,
+   "da": "Uha. Hvis vi sætter det i et større perspektiv, så rører du ved kernen af vores snak i dag.",
+   "ru": "Ох. Если посмотреть шире, ты затрагиваешь самую суть нашего сегодняшнего разговора."
+  },
+  {
+   "t": 454.2,
+   "da": "Grammatisk er der ingen fejl der.",
+   "ru": "Грамматически ошибки тут нет."
+  },
+  {
+   "t": 456.0,
+   "da": "Men det lyder forkert.",
+   "ru": "Но звучит это неправильно."
+  },
+  {
+   "t": 457.5,
+   "da": "Socialt er det helt ved siden af.",
+   "ru": "Для разговора с людьми это совсем мимо."
+  },
+  {
+   "t": 459.3,
+   "da": "Med henblik på hører til på et kontor på kommunen.",
+   "ru": "*Med henblik på* уместно в конторе коммуны."
+  },
+  {
+   "t": 463.1,
+   "da": "Det er stift papirsprog.",
+   "ru": "Это чопорный канцелярит."
+  },
+  {
+   "t": 464.7,
+   "da": "Det skaber afstand til lytteren.",
+   "ru": "Оно создаёт дистанцию со слушателем."
+  },
+  {
+   "t": 466.4,
+   "da": "Og vi vil jo gerne have nærvær, når vi taler.",
+   "ru": "А мы ведь хотим близости, когда разговариваем."
+  },
+  {
+   "t": 468.9,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 469.3,
+   "da": "I almindelig tale koger vi den ned til to små ord.",
+   "ru": "В обычной речи мы ужимаем это до двух маленьких слов."
+  },
+  {
+   "t": 472.2,
+   "da": "Vi siger bare for at.",
+   "ru": "Мы просто говорим *for at* («чтобы»)."
+  },
+  {
+   "t": 474.0,
+   "da": "Det betyder det samme, men det er varmt og naturligt.",
+   "ru": "Значит то же самое, но звучит тепло и естественно."
+  },
+  {
+   "t": 477.2,
+   "da": "Jeg siger lige den talesætning to gange langsomt.",
+   "ru": "Скажу эту разговорную фразу два раза медленно."
+  },
+  {
+   "t": 480.3,
+   "da": "Jeg læser dansk hver dag for at få et bedre job.",
+   "ru": "Я учу датский каждый день, чтобы получить работу получше."
+  },
+  {
+   "t": 483.2,
+   "da": "Det lyder meget hyggeligere.",
+   "ru": "Звучит гораздо уютнее."
+  },
+  {
+   "t": 484.8,
+   "da": "En gang mere.",
+   "ru": "Ещё раз."
+  },
+  {
+   "t": 485.8,
+   "da": "Jeg læser dansk hver dag for at få et bedre job.",
+   "ru": "Я учу датский каждый день, чтобы получить работу получше."
+  },
+  {
+   "t": 488.5,
+   "da": "Kæmpe forskel.",
+   "ru": "Огромная разница."
+  },
+  {
+   "t": 489.4,
+   "da": "Man skal smide papirsproget ud af vinduet.",
+   "ru": "Канцелярит надо выбросить в окно."
+  },
+  {
+   "t": 492.5,
+   "da": "Og apropos at smide ud: Hvad er det for noget skrald, du har bag i vognen?",
+   "ru": "И кстати о выбрасывании: что за мусор у тебя в кузове?"
+  },
+  {
+   "t": 496.3,
+   "da": "Vi kan bruge udtrykket «der er tale om».",
+   "ru": "Можно использовать выражение *der er tale om* («речь идёт о»)."
+  },
+  {
+   "t": 498.5,
+   "da": "Ja, det er et fint udtryk.",
+   "ru": "Да, хорошее выражение."
+  },
+  {
+   "t": 500.0,
+   "da": "Jeg forklarer det lige to gange langsomt.",
+   "ru": "Объясню это два раза медленно."
+  },
+  {
+   "t": 502.3,
+   "da": "Det er ikke farligt, der er tale om almindeligt husholdningsaffald.",
+   "ru": "Это не опасно, речь идёт об обычных бытовых отходах."
+  },
+  {
+   "t": 506.3,
+   "da": "Igen.",
+   "ru": "Ещё раз."
+  },
+  {
+   "t": 507.1,
+   "da": "Det er ikke farligt, der er tale om almindeligt husholdningsaffald.",
+   "ru": "Это не опасно, речь идёт об обычных бытовых отходах."
+  },
+  {
+   "t": 510.5,
+   "da": "Det er meget præcist brugt.",
+   "ru": "Это употреблено очень точно."
+  },
+  {
+   "t": 512.3,
+   "da": "Men det rejser et vigtigt spørgsmål om det formelle sprog, vi lige talte om.",
+   "ru": "Но это поднимает важный вопрос об официальном языке, о котором мы только что говорили."
+  },
+  {
+   "t": 515.7,
+   "da": "For når vi taler om regler eller penge, sniger papirsproget sig ind igen.",
+   "ru": "Потому что когда речь о правилах или деньгах, канцелярит снова прокрадывается в речь."
+  },
+  {
+   "t": 519.9,
+   "da": "Åh ja, papirsproget.",
+   "ru": "О да, канцелярит."
+  },
+  {
+   "t": 521.4,
+   "da": "For eksempel det meget formelle udtryk:",
+   "ru": "Например, очень официальное выражение:"
+  },
+  {
+   "t": 523.2,
+   "da": "«finder ikke anvendelse».",
+   "ru": "*finder ikke anvendelse* («не применяется»)."
+  },
+  {
+   "t": 524.8,
+   "da": "Ej, den kender jeg.",
+   "ru": "О, это я знаю."
+  },
+  {
+   "t": 526.1,
+   "da": "Lad mig prøve at bruge det i supermarkedet.",
+   "ru": "Дай я попробую употребить его в супермаркете."
+  },
+  {
+   "t": 527.7,
+   "da": "Du har fri, Anton, og du køber ind.",
+   "ru": "У тебя выходной, Антон, и ты делаешь покупки."
+  },
+  {
+   "t": 529.9,
+   "da": "Du har en rabatkupon med.",
+   "ru": "У тебя с собой купон на скидку."
+  },
+  {
+   "t": 531.3,
+   "da": "Du går op til kassedamen og siger pænt:",
+   "ru": "Ты подходишь к кассирше и вежливо говоришь:"
+  },
+  {
+   "t": 533.4,
+   "da": "Rabatten finder ikke anvendelse på tilbudsvarer.",
+   "ru": "(слишком официально) «Скидка не применяется к товарам по акции»."
+  },
+  {
+   "t": 535.9,
+   "da": "Vel?",
+   "ru": "Так ведь?"
+  },
+  {
+   "t": 536.7,
+   "da": "Altså, hun ville jo kigge på dig, som om du var en computer, der talte.",
+   "ru": "Ну, она бы посмотрела на тебя, как на говорящий компьютер."
+  },
+  {
+   "t": 539.8,
+   "da": "Hah, var det så slemt?",
+   "ru": "Ха, неужели так плохо?"
+  },
+  {
+   "t": 541.5,
+   "da": "Det er virkelig papirsproget.",
+   "ru": "Это прямо настоящий канцелярит."
+  },
+  {
+   "t": 543.3,
+   "da": "«Finder anvendelse» står kun på gule skilte for at beskytte butikken juridisk.",
+   "ru": "*Finder anvendelse* пишут только на жёлтых табличках, чтобы юридически защитить магазин."
+  },
+  {
+   "t": 547.2,
+   "da": "Når vi mennesker taler sammen i en butik, siger vi bare «gælder» eller «gælder ikke».",
+   "ru": "Когда мы, люди, разговариваем в магазине, мы просто говорим *gælder* («действует») или *gælder ikke* («не действует»)."
+  },
+  {
+   "t": 551.5,
+   "da": "Det er da meget nemmere.",
+   "ru": "Это же гораздо проще."
+  },
+  {
+   "t": 552.3,
+   "da": "Det er supersimpelt.",
+   "ru": "Это суперпросто."
+  },
+  {
+   "t": 554.3,
+   "da": "Jeg siger den naturlige sætning to gange langsomt.",
+   "ru": "Скажу естественную фразу два раза медленно."
+  },
+  {
+   "t": 557.0,
+   "da": "Rabatten gælder ikke for tilbudsvarer.",
+   "ru": "Скидка не действует на товары по акции."
+  },
+  {
+   "t": 559.6,
+   "da": "Okay. Anden gang.",
+   "ru": "Хорошо. Второй раз."
+  },
+  {
+   "t": 561.6,
+   "da": "Rabatten gælder ikke for tilbudsvarer.",
+   "ru": "Скидка не действует на товары по акции."
+  },
+  {
+   "t": 564.3,
+   "da": "Gælder ikke.",
+   "ru": "*Gælder ikke*."
+  },
+  {
+   "t": 565.8,
+   "da": "Det er rart og blødt.",
+   "ru": "Это приятно и мягко."
+  },
+  {
+   "t": 567.5,
+   "da": "Det er ægte talesprog.",
+   "ru": "Это настоящая разговорная речь."
+  },
+  {
+   "t": 569.1,
+   "da": "Nu skal vi over til en hyggeligere historie.",
+   "ru": "Теперь перейдём к более уютной истории."
+  },
+  {
+   "t": 571.0,
+   "da": "Anton, du tager på tur til Sverige med din søn Ivan.",
+   "ru": "Антон, ты едешь в поездку в Швецию с сыном Иваном."
+  },
+  {
+   "t": 574.3,
+   "da": "I spiser god mad i skoven.",
+   "ru": "Вы едите вкусную еду в лесу."
+  },
+  {
+   "t": 576.0,
+   "da": "Det lyder skønt.",
+   "ru": "Звучит чудесно."
+  },
+  {
+   "t": 576.9,
+   "da": "Alt var godt.",
+   "ru": "Всё было хорошо."
+  },
+  {
+   "t": 577.8,
+   "da": "På nær en ting.",
+   "ru": "Кроме одного."
+  },
+  {
+   "t": 578.4,
+   "da": "Det regnede helt vildt den ene dag.",
+   "ru": "В один из дней шёл ужасный ливень."
+  },
+  {
+   "t": 580.9,
+   "da": "Jeg vil fortælle, at turen var god, trods regnen.",
+   "ru": "Я хочу рассказать, что поездка была хорошей, несмотря на дождь."
+  },
+  {
+   "t": 583.5,
+   "da": "Så jeg siger: Med undtagelse af regnen var det en god tur.",
+   "ru": "И я говорю: (слишком официально) «За исключением (*med undtagelse af*) дождя, поездка была хорошей»."
+  },
+  {
+   "t": 587.2,
+   "da": "Nu har du taget den stive advokatskjorte på igen.",
+   "ru": "Ты опять надела чопорную рубашку адвоката."
+  },
+  {
+   "t": 589.5,
+   "da": "Åh nej, gør jeg det?",
+   "ru": "Ой нет, правда?"
+  },
+  {
+   "t": 590.5,
+   "da": "Ja.",
+   "ru": "Да."
+  },
+  {
+   "t": 591.2,
+   "da": "Med undtagelse af er til skilte og regler.",
+   "ru": "*Med undtagelse af* — для табличек и правил."
+  },
+  {
+   "t": 594.3,
+   "da": "En butik kan skrive: Åben hver dag med undtagelse af juledag.",
+   "ru": "Магазин может написать: «Открыто каждый день, за исключением Рождества»."
+  },
+  {
+   "t": 597.9,
+   "da": "Men en ven vil aldrig sige sådan.",
+   "ru": "Но друг никогда так не скажет."
+  },
+  {
+   "t": 599.6,
+   "da": "En ven siger «bortset fra».",
+   "ru": "Друг скажет *bortset fra* («кроме, не считая»)."
+  },
+  {
+   "t": 601.8,
+   "da": "Bortset fra. – Ja.",
+   "ru": "*Bortset fra*. — Да."
+  },
+  {
+   "t": 603.6,
+   "da": "Tænk på det som et lille viskelæder.",
+   "ru": "Думай о нём как о маленьком ластике."
+  },
+  {
+   "t": 604.9,
+   "da": "Du tegner en smuk tegning, men der er en grim regnsky.",
+   "ru": "Ты рисуешь красивый рисунок, но на нём уродливая дождевая туча."
+  },
+  {
+   "t": 607.7,
+   "da": "Du tager viskelæderet, fjerner skyen og siger: Bortset fra det var alt godt.",
+   "ru": "Ты берёшь ластик, стираешь тучу и говоришь: «Не считая этого, всё было хорошо»."
+  },
+  {
+   "t": 612.9,
+   "da": "Jeg siger det to gange langsomt.",
+   "ru": "Скажу это два раза медленно."
+  },
+  {
+   "t": 614.5,
+   "da": "Lad os høre viskelæderet i aktion.",
+   "ru": "Давай послушаем ластик в действии."
+  },
+  {
+   "t": 616.6,
+   "da": "Bortset fra regnen var det en god tur.",
+   "ru": "Если не считать дождя, поездка была хорошей."
+  },
+  {
+   "t": 619.6,
+   "da": "Og en gang til.",
+   "ru": "И ещё раз."
+  },
+  {
+   "t": 620.6,
+   "da": "Bortset fra regnen var det en god tur.",
+   "ru": "Если не считать дождя, поездка была хорошей."
+  },
+  {
+   "t": 623.3,
+   "da": "Det er et fantastisk billede.",
+   "ru": "Это замечательный образ."
+  },
+  {
+   "t": 625.1,
+   "da": "Okay, Anton.",
+   "ru": "Итак, Антон."
+  },
+  {
+   "t": 625.9,
+   "da": "Sidste test.",
+   "ru": "Последний тест."
+  },
+  {
+   "t": 626.8,
+   "da": "Tænk selv nu.",
+   "ru": "Теперь подумай сам."
+  },
+  {
+   "t": 628.1,
+   "da": "Turen hjem fra Sverige var god.",
+   "ru": "Обратная дорога из Швеции была хорошей."
+  },
+  {
+   "t": 629.7,
+   "da": "Men der var en frygtelig lang kø ved broen.",
+   "ru": "Но у моста была ужасно длинная пробка."
+  },
+  {
+   "t": 632.1,
+   "da": "Ja. – Køen er det, der skal slettes.",
+   "ru": "Да. — Пробку и надо стереть."
+  },
+  {
+   "t": 633.7,
+   "da": "Præcis.",
+   "ru": "Точно."
+  },
+  {
+   "t": 635.2,
+   "da": "Hvordan siger du, at kun køen ved broen var dårlig?",
+   "ru": "Как сказать, что плохой была только пробка у моста?"
+  },
+  {
+   "t": 638.4,
+   "da": "Vi holder lige en kort pause.",
+   "ru": "Сделаем короткую паузу."
+  },
+  {
+   "t": 640.0,
+   "da": "Brug viskelæderet her.",
+   "ru": "Используй здесь ластик."
+  },
+  {
+   "t": 641.5,
+   "da": "Svaret er: Bortset fra køen ved broen gik alt fint.",
+   "ru": "Ответ: если не считать пробки у моста, всё прошло отлично."
+  },
+  {
+   "t": 646.3,
+   "da": "Helt perfekt.",
+   "ru": "Просто идеально."
+  },
+  {
+   "t": 647.6,
+   "da": "Det lyder præcis som en flydende københavnsk samtale.",
+   "ru": "Звучит в точности как беглый копенгагенский разговор."
+  },
+  {
+   "t": 650.3,
+   "da": "Vi har været igennem en lang dag med dig i dag, Anton.",
+   "ru": "Мы прошли с тобой сегодня долгий день, Антон."
+  },
+  {
+   "t": 654.1,
+   "da": "Fra regn i skraldebilen, sauna, ruter, butikker og til Sverige med Ivan.",
+   "ru": "От дождя в мусоровозе, сауны, маршрутов, магазинов — и до Швеции с Иваном."
+  },
+  {
+   "t": 660.5,
+   "da": "Så hvad betyder alt det her?",
+   "ru": "Так что же всё это значит?"
+  },
+  {
+   "t": 662.6,
+   "da": "Kan du opsummere historien med alle de ord, vi har lært?",
+   "ru": "Можешь подытожить историю всеми словами, которые мы выучили?"
+  },
+  {
+   "t": 665.5,
+   "da": "Ja, meget gerne.",
+   "ru": "Да, с удовольствием."
+  },
+  {
+   "t": 667.5,
+   "da": "Lyt godt med her til den samlede historie, Anton.",
+   "ru": "Слушай внимательно всю историю целиком, Антон."
+  },
+  {
+   "t": 670.7,
+   "da": "Selv om det var koldt, kørte I alligevel til Sverige.",
+   "ru": "Хотя было холодно, вы всё равно поехали в Швецию."
+  },
+  {
+   "t": 673.6,
+   "da": "Butikken var åben med undtagelse af søndag, men I kom dog lørdag.",
+   "ru": "Магазин был открыт, кроме воскресенья, но вы, к счастью (*dog*), приехали в субботу."
+  },
+  {
+   "t": 677.3,
+   "da": "Ja, heldigvis.",
+   "ru": "Да, к счастью."
+  },
+  {
+   "t": 678.1,
+   "da": "Bortset fra køen gik alt fint.",
+   "ru": "Не считая пробки, всё прошло отлично."
+  },
+  {
+   "t": 681.3,
+   "da": "Ivan købte en jakke i stedet for en sweater.",
+   "ru": "Иван купил куртку вместо свитера."
+  },
+  {
+   "t": 684.1,
+   "da": "Lige præcis.",
+   "ru": "Именно."
+  },
+  {
+   "t": 685.1,
+   "da": "Rabatten fandt ikke anvendelse – det vil sige, den gjaldt ikke.",
+   "ru": "Скидка «не нашла применения» — то есть она не действовала."
+  },
+  {
+   "t": 687.8,
+   "da": "Men uanset prisen var Ivan glad.",
+   "ru": "Но независимо от цены Иван был доволен."
+  },
+  {
+   "t": 690.1,
+   "da": "Det er simpelthen en perfekt lille historie med fantastisk sprog.",
+   "ru": "Это просто идеальная маленькая история с прекрасным языком."
+  },
+  {
+   "t": 693.6,
+   "da": "En sidste tanke til dig, Anton, før vi slutter.",
+   "ru": "Последняя мысль для тебя, Антон, прежде чем мы закончим."
+  },
+  {
+   "t": 696.2,
+   "da": "Tænk over, hvor meget venligere du lyder, når du vælger talesproget.",
+   "ru": "Подумай, насколько дружелюбнее ты звучишь, когда выбираешь разговорный язык."
+  },
+  {
+   "t": 699.8,
+   "da": "Det gør en enorm forskel.",
+   "ru": "Это огромная разница."
+  },
+  {
+   "t": 701.0,
+   "da": "Når du siger «for at» i stedet for det stive «med henblik på».",
+   "ru": "Когда ты говоришь *for at* вместо чопорного *med henblik på*."
+  },
+  {
+   "t": 705.5,
+   "da": "Når du bruger «gælder».",
+   "ru": "Когда ты используешь *gælder*."
+  },
+  {
+   "t": 706.8,
+   "da": "Og når du finder viskelæderet frem og siger «bortset fra».",
+   "ru": "И когда достаёшь ластик и говоришь *bortset fra*."
+  },
+  {
+   "t": 710.5,
+   "da": "Det er nøglen til at lyde som en rigtig københavner.",
+   "ru": "Это ключ к тому, чтобы звучать как настоящий копенгагенец."
+  },
+  {
+   "t": 712.8,
+   "da": "Og du kan bruge ordene hver eneste dag.",
+   "ru": "И эти слова можно использовать каждый божий день."
+  },
+  {
+   "t": 715.0,
+   "da": "Nemlig.",
+   "ru": "Именно."
+  },
+  {
+   "t": 716.0,
+   "da": "Formålet er jo at skabe kontakt og bygge bro mellem mennesker.",
+   "ru": "Ведь цель — наладить контакт и построить мост между людьми."
+  },
+  {
+   "t": 719.3,
+   "da": "De små ord klarer det meget bedre end det formelle skriftsprog.",
+   "ru": "Маленькие слова справляются с этим гораздо лучше, чем официальный письменный язык."
+  },
+  {
+   "t": 721.9,
+   "da": "Tusind tak, fordi du kørte med os i dag, Anton.",
+   "ru": "Огромное спасибо, что ехал сегодня с нами, Антон."
+  },
+  {
+   "t": 724.9,
+   "da": "Vi håber, trafikken i København er god ved dig i dag.",
+   "ru": "Надеемся, движение в Копенгагене сегодня к тебе благосклонно."
+  },
+  {
+   "t": 727.3,
+   "da": "Og at du ikke får for meget regn på din rute.",
+   "ru": "И что на маршруте тебе не достанется слишком много дождя."
+  },
+  {
+   "t": 730.3,
+   "da": "Pas rigtig godt på dig selv derude i skraldebilen.",
+   "ru": "Береги себя там, в мусоровозе."
+  },
+  {
+   "t": 732.5,
+   "da": "Farvel for denne gang.",
+   "ru": "До свидания, на этот раз всё."
+  },
+  {
+   "t": 734.0,
+   "da": "Ja, tusind tak herfra også.",
+   "ru": "Да, и от меня тоже огромное спасибо."
+  },
+  {
+   "t": 735.9,
+   "da": "Farvel og rigtig god arbejdslyst, Anton.",
+   "ru": "До свидания и удачной, бодрой работы, Антон."
+  },
+  {
+   "t": 737.7,
+   "da": "Tak, fordi du lyttede, københavner. (?)",
+   "ru": "Спасибо, что слушал, копенгагенец. (?)"
+  }
+ ],
+ "glossary": [
+  {
+   "da": "at afgøre",
+   "ru": "решать, определять (исход)",
+   "note": "«et lille ord kan afgøre, om du lyder som en stiv advokat»; d немое",
+   "t": 0.2,
+   "status": "-"
+  },
+  {
+   "da": "stiv / stift",
+   "ru": "жёсткий; чопорный, деревянный (о языке)",
+   "note": "et stift ord, stift papirsprog, den stive advokat",
+   "t": 0.2,
+   "status": "-"
+  },
+  {
+   "da": "højst sandsynligt",
+   "ru": "скорее всего, по всей вероятности",
+   "note": "«du sidder højst sandsynligt i førerhuset»",
+   "t": 24.3,
+   "status": "-"
+  },
+  {
+   "da": "uanset",
+   "ru": "независимо от; где/что бы ни…",
+   "note": "целевое; tale + skrift; после него СУЩЕСТВИТЕЛЬНОЕ (uanset vejret, uanset prisen) или вопросительное слово + предложение (uanset hvad det koster, uanset hvor du er); ✗ «uanset at det regner»; также «uanset om…»",
+   "t": 40.9,
+   "status": "-"
+  },
+  {
+   "da": "en indånding",
+   "ru": "вдох",
+   "note": "tage en dyb indånding — сделать глубокий вдох",
+   "t": 59.1,
+   "status": "-"
+  },
+  {
+   "da": "et rat / rattet",
+   "ru": "руль",
+   "note": "hold hænderne på rattet; ASR: «rette»",
+   "t": 62.0,
+   "status": "-"
+  },
+  {
+   "da": "papirsprog / papirsproget",
+   "ru": "канцелярит, «бумажный» язык",
+   "note": "разговорный термин; противоположность — talesprog",
+   "t": 88.0,
+   "status": "-"
+  },
+  {
+   "da": "en genvej / genveje",
+   "ru": "короткий путь, срезка",
+   "note": "tale med genveje — говорить коротко, срезая углы",
+   "t": 92.4,
+   "status": "-"
+  },
+  {
+   "da": "alligevel",
+   "ru": "всё равно, всё-таки",
+   "note": "целевое; tale + skrift; стоит в ГЛАВНОМ предложении, обычно после глагола: «…tog vi alligevel i sauna»; не может начинать придаточное: ✗ «alligevel det regner»",
+   "t": 121.0,
+   "status": "learning"
+  },
+  {
+   "da": "en bisætning",
+   "ru": "придаточное предложение",
+   "note": "грамматический термин",
+   "t": 138.6,
+   "status": "-"
+  },
+  {
+   "da": "selv om (selvom)",
+   "ru": "хотя, даже если",
+   "note": "целевое; tale + skrift; после него целое ПРЕДЛОЖЕНИЕ; если оно стоит первым, в главном сразу глагол: «Selv om det regner, går vi…»; можно вместе с alligevel",
+   "t": 142.6,
+   "status": "-"
+  },
+  {
+   "da": "et udsagnsord",
+   "ru": "глагол",
+   "note": "= et verbum; ASR: «udsangsåret»",
+   "t": 156.1,
+   "status": "-"
+  },
+  {
+   "da": "dog",
+   "ru": "однако, всё же; (по крайней мере)",
+   "note": "целевое; чуть более письменное; ограничение или исключение: «Reglen gælder dog ikke for små biler»; в речи — облегчение: «vi fik dog en plads til sidst»",
+   "t": 258.3,
+   "status": "-"
+  },
+  {
+   "da": "en forhindring",
+   "ru": "препятствие, помеха",
+   "note": "en kamp mod en forhindring — борьба с препятствием",
+   "t": 275.4,
+   "status": "-"
+  },
+  {
+   "da": "en undtagelse",
+   "ru": "исключение",
+   "note": "pl. undtagelser",
+   "t": 279.1,
+   "status": "new"
+  },
+  {
+   "da": "at gælde",
+   "ru": "действовать, распространяться (о правиле, скидке)",
+   "note": "past: gjaldt; tale + skrift; разговорная замена для «finder anvendelse»: «Rabatten gælder ikke for tilbudsvarer»",
+   "t": 288.4,
+   "status": "-"
+  },
+  {
+   "da": "en lettelse",
+   "ru": "облегчение",
+   "note": "en følelse af lettelse",
+   "t": 299.8,
+   "status": "-"
+  },
+  {
+   "da": "et navneord",
+   "ru": "существительное",
+   "note": "= et substantiv",
+   "t": 338.1,
+   "status": "-"
+  },
+  {
+   "da": "et spørgeord",
+   "ru": "вопросительное слово",
+   "note": "hvad, hvor, hvem…; uanset + spørgeord",
+   "t": 340.8,
+   "status": "-"
+  },
+  {
+   "da": "et vækkeur",
+   "ru": "будильник",
+   "note": "vækkeuret ringer; ASR: «vækkeordet»",
+   "t": 345.3,
+   "status": "-"
+  },
+  {
+   "da": "en sovepose",
+   "ru": "спальный мешок",
+   "note": "",
+   "t": 384.7,
+   "status": "-"
+  },
+  {
+   "da": "i stedet for",
+   "ru": "вместо",
+   "note": "целевое; tale + skrift; после него существительное или at + глагол: «i stedet for en sweater», «i stedet for at køre bil»",
+   "t": 416.1,
+   "status": "learning"
+  },
+  {
+   "da": "et værktøj",
+   "ru": "инструмент",
+   "note": "et nyttigt værktøj — полезный инструмент",
+   "t": 420.7,
+   "status": "-"
+  },
+  {
+   "da": "med henblik på",
+   "ru": "с целью, в целях",
+   "note": "целевое; skrift, официально; после него существительное или at + глагол; в речи вместо этого — «for at»: «…for at få et bedre job»",
+   "t": 444.4,
+   "status": "-"
+  },
+  {
+   "da": "en afstand",
+   "ru": "расстояние, дистанция",
+   "note": "skabe afstand til nogen — создавать дистанцию",
+   "t": 464.7,
+   "status": "-"
+  },
+  {
+   "da": "for at",
+   "ru": "чтобы",
+   "note": "целевое; tale (и skrift); + инфинитив: «for at få et bedre job» — разговорная замена «med henblik på»",
+   "t": 472.2,
+   "status": "learning"
+  },
+  {
+   "da": "at smide (ud)",
+   "ru": "бросать, выбрасывать",
+   "note": "smide papirsproget ud af vinduet; past: smed",
+   "t": 489.4,
+   "status": "-"
+  },
+  {
+   "da": "der er tale om",
+   "ru": "речь идёт о",
+   "note": "целевое; tale + skrift (нейтрально-деловое); дальше существительное: «der er tale om almindeligt husholdningsaffald»",
+   "t": 496.3,
+   "status": "known"
+  },
+  {
+   "da": "husholdningsaffald",
+   "ru": "бытовые (хозяйственные) отходы",
+   "note": "рабочее слово: restaffald, bioaffald…",
+   "t": 502.3,
+   "status": "-"
+  },
+  {
+   "da": "at finde (ikke) anvendelse",
+   "ru": "(не) применяться",
+   "note": "целевое; очень официально, только skrift (правила, таблички); «Rabatten finder ikke anvendelse på tilbudsvarer»; в речи — «gælder (ikke) for»; past: fandt",
+   "t": 523.2,
+   "status": "-"
+  },
+  {
+   "da": "en kassedame",
+   "ru": "кассирша",
+   "note": "ASR: «kærsedame»",
+   "t": 531.3,
+   "status": "-"
+  },
+  {
+   "da": "tilbudsvarer",
+   "ru": "товары по акции (со скидкой)",
+   "note": "et tilbud — предложение, акция",
+   "t": 533.4,
+   "status": "-"
+  },
+  {
+   "da": "et skilt / skilte",
+   "ru": "табличка, вывеска, знак",
+   "note": "",
+   "t": 543.3,
+   "status": "-"
+  },
+  {
+   "da": "på nær",
+   "ru": "кроме, за исключением",
+   "note": "разговорное: «Alt var godt, på nær én ting»",
+   "t": 577.8,
+   "status": "learning"
+  },
+  {
+   "da": "trods",
+   "ru": "несмотря на",
+   "note": "trods regnen = på trods af regnen",
+   "t": 580.9,
+   "status": "new"
+  },
+  {
+   "da": "med undtagelse af",
+   "ru": "за исключением, кроме",
+   "note": "целевое; skrift / официально (таблички, правила, часы работы): «åben hver dag med undtagelse af juledag»; в речи — «bortset fra»",
+   "t": 583.5,
+   "status": "new"
+  },
+  {
+   "da": "bortset fra",
+   "ru": "кроме, не считая",
+   "note": "целевое; tale; часто о плохом, что «стираем»: «Bortset fra regnen var det en god tur»",
+   "t": 599.6,
+   "status": "learning"
+  },
+  {
+   "da": "et viskelæder",
+   "ru": "ластик",
+   "note": "образ из эпизода для «bortset fra»",
+   "t": 603.6,
+   "status": "-"
+  },
+  {
+   "da": "en kø / køen",
+   "ru": "очередь; пробка",
+   "note": "en lang kø ved broen",
+   "t": 629.7,
+   "status": "-"
+  },
+  {
+   "da": "arbejdslyst",
+   "ru": "желание работать",
+   "note": "«god arbejdslyst!» — пожелание хорошей работы",
+   "t": 735.9,
+   "status": "-"
+  }
+ ]
+}

@@ -158,7 +158,7 @@
 "dur": 530
 },
 "dur": 1676,
-"text": false
+"text": true
 },
 {
 "id": "nlm-f4",
@@ -177,6 +177,6 @@
 "dur": 489
 },
 "dur": 738,
-"text": false
+"text": true
 }
 ]
