@@ -106,6 +106,9 @@ input[type=range]{width:100%;accent-color:var(--accent)}
 .pop b{font-family:var(--f-display);font-size:1.1rem}
 @media (prefers-reduced-motion: reduce){*{scroll-behavior:auto!important}}
 @media (max-width:460px){h1{font-size:1.85rem}.ep{grid-template-columns:2.4rem 1fr}.ep .meta{grid-column:2;text-align:left}.nav a{padding:10px 7px}}
+.sep{border:0;border-top:1px dashed var(--line);margin:12px 0}
+.media video{width:100%;border-radius:10px;background:#000;display:block}
+.media{margin:10px 0 6px}
 </style>
 </head>
 <body>
@@ -142,7 +145,8 @@ let follow=store.get('follow',true), ruAll=store.get('ruAll',false), tab='text';
 const SPEEDS=[0.75,0.85,1,1.15]; let spd=store.get('spd',1);
 const fmt=s=>{s=Math.max(0,Math.floor(s||0));return Math.floor(s/60)+':'+String(s%60).padStart(2,'0')};
 const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const MODE={S:['📖','изучение','в плеере с текстом и переводом, пройти слова (на перерыве или дома)'],R:['🔁','повтор','в кабине без текста, ловить слова из списка'],I:['🔄','интервальный повтор','без текста; непонятные места — открыть текст'],T:['🧪','тест','попробовать плеер с текстом']};
+const MODE={S:['📖','изучение','в плеере с текстом и переводом, пройти слова (на перерыве или дома)'],R:['🔁','повтор','в кабине без текста, ловить слова из списка'],I:['🔄','интервальный повтор','без текста; непонятные места — открыть текст'],T:['🧪','тест','попробовать плеер с текстом'],F:['🧭','знакомство','① русское объяснение → ② видео (дома) → ③ датский подкаст (в кабине)']};
+const lab=e=>typeof e.n==='number'?'NLM-'+String(e.n).padStart(2,'0'):String(e.n);
 const MON=['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
 
 function todayISO(){const d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0')}
@@ -186,7 +190,16 @@ function load(item,{play=false}={}){
   bar.hidden=false; $('#nowt').textContent='▸ '+item.title; $('#nowt').href=item.href;
   if(play) au.play().catch(()=>{});
 }
-const epItem=ep=>({key:ep.id,src:'audio/'+ep.id+'.mp3',title:'NLM-'+String(ep.n).padStart(2,'0')+' · '+ep.da,href:'#'+ep.id});
+const epItem=ep=>({key:ep.id,src:'audio/'+ep.id+'.mp3',title:lab(ep)+' · '+ep.da,href:'#'+ep.id});
+const ruItem=ep=>({key:ep.ru.id,src:'audio/'+ep.ru.id+'.mp3',title:lab(ep)+' · RU · '+ep.ru.t,href:'#'+ep.id});
+function podHTML(p){const ep=EPS.find(e=>e.id===p.id), m=MODE[p.mode]||MODE.S;
+  if(!ep) return `<small>${esc(p.id)} — эпизода нет.</small>`;
+  let acts='';
+  if(p.mode==='F'&&ep.ru) acts+=`<button class="btn" data-play="ru:${ep.id}">① 🇷🇺 Объяснение ${fmt(ep.ru.dur)}</button>`;
+  if(p.mode==='F'&&ep.video) acts+=`<a class="btn ghost" href="#${ep.id}">② 🎬 Видео ${fmt(ep.video.dur)}</a>`;
+  acts+=`<button class="btn" data-play="ep:${ep.id}">${p.mode==='F'?'③ ':''}▶ ${ep.series?'🇩🇰 Подкаст':'Слушать'}</button>`;
+  if(p.mode!=='F') acts+=`<a class="btn ghost" href="#${ep.id}">${ep.text?'Текст и слова':(ep.video?'Видео и RU':'Открыть')}</a>`;
+  return `<b>${esc(lab(ep))}</b> · <span lang="da">${esc(ep.da)}</span> · ${fmt(ep.dur)}<br>${m[0]} <b>${m[1]}</b>: <small>${m[2]}</small>${(ep.text||ep.series)?'':'<br><small>Текст и перевод ещё готовятся — пока только аудио.</small>'}<div class="acts">${acts}</div>`;}
 const radioItem=r=>({key:'radio-'+r.id,src:'audio/radio-'+r.id+'.mp3',title:'Радио · '+r.label,href:'#radio/'+r.id});
 au.addEventListener('timeupdate',()=>{
   $('#tm').textContent=fmt(au.currentTime)+' / '+fmt(au.duration);
@@ -196,6 +209,7 @@ au.addEventListener('timeupdate',()=>{
 });
 au.addEventListener('play',()=>{$('#pp').textContent='❚❚';$('#pp').setAttribute('aria-label','Пауза')});
 au.addEventListener('pause',()=>{$('#pp').textContent='▶';$('#pp').setAttribute('aria-label','Играть'); if(cur) store.set('pos:'+cur.key,au.currentTime)});
+au.addEventListener('play',()=>{const v=document.getElementById('vid'); if(v&&!v.paused) v.pause();});
 au.addEventListener('ended',()=>{ if(cur) store.set('pos:'+cur.key,0) });
 $('#pp').onclick=()=>au.paused?au.play().catch(()=>{}):au.pause();
 $('#b10').onclick=()=>au.currentTime=Math.max(0,au.currentTime-10);
@@ -210,7 +224,7 @@ function showDay(iso){
   const i=PLAN.days.findIndex(d=>d.date===iso); const d=PLAN.days[i>=0?i:0]; iso=d.date;
   const prev=PLAN.days[i-1], next=PLAN.days[i+1], isToday=iso===todayISO();
   const done=store.get('done:'+iso,{});
-  const ep=EPS.find(e=>e.id===d.pod.id), r=RADIO.find(x=>x.id===d.radio), m=MODE[d.pod.mode]||MODE.S;
+  const pods=d.pods||[d.pod], r=RADIO.find(x=>x.id===d.radio);
   const weekT=d.week?(PLAN.weeks[String(d.week)]||''):'Подготовка';
   const newTxt=d.cm.new.length?d.cm.new.map(n=>`${esc(n.col)} <b>${n.n}</b>${n.words?` — <span class="words" lang="da">${esc(n.words)}</span>`:''}`).join('<br>'):'нет';
   const blk=(no,k,body,acts)=>`<li class="blk ${done[no]?'done':''}" data-no="${no}"><span class="no">${no}</span><span class="k">${k}</span>
@@ -226,8 +240,7 @@ function showDay(iso){
      `<a class="btn ghost" href="https://www.clozemaster.com/l/dan-eng" target="_blank" rel="noopener">Открыть Clozemaster ↗</a>`)}
   ${blk(2,'Радио'+(d.radio_opt?' <span class="tag">по желанию</span>':''),r?`${esc(r.label)} · ${fmt(r.dur)} · ${r.count} предложений<br><small>DA → RU → DA медленно. Запустить до выезда.</small>`:`<small>Выпуск ${esc(d.radio)} ещё не собран (собирается в воскресенье).</small>`,
      r?`<button class="btn" data-play="radio:${r.id}">▶ Радио</button><a class="btn ghost" href="#radio/${r.id}">Предложения</a>`:'')}
-  ${blk(3,'Подкаст',ep?`<b>NLM-${String(ep.n).padStart(2,'0')}</b> · <span lang="da">${esc(ep.da)}</span> · ${fmt(ep.dur)}<br>${m[0]} <b>${m[1]}</b>: <small>${m[2]}</small>${ep.text?'':'<br><small>Текст и перевод ещё готовятся — пока только аудио.</small>'}`:`<small>${esc(d.pod.id)} — эпизода нет.</small>`,
-     ep?`<button class="btn" data-play="ep:${ep.id}">▶ Слушать</button><a class="btn ghost" href="#${ep.id}">${ep.text?'Текст и слова':'Открыть'}</a>`:'')}
+  ${blk(3,'Подкаст'+(pods.length>1?'ы':''),pods.map(podHTML).join('<hr class="sep">'),'')}
   ${blk(4,'Фон',esc(d.bg))}
   </ol>
   <p class="how">Отметки ✓ сохраняются только в этом браузере. Вечером напиши Claude «аудио N мин» — он внесёт день в журнал.</p>`;
@@ -235,6 +248,7 @@ function showDay(iso){
     const c=e.target.closest('.chk'); if(c){const no=c.dataset.no;const dn=store.get('done:'+iso,{});dn[no]=!dn[no];store.set('done:'+iso,dn);showDay(iso);return}
     const p=e.target.closest('[data-play]'); if(p){const [t,id]=p.dataset.play.split(':');
       if(t==='ep'){const ep=EPS.find(x=>x.id===id); load(epItem(ep),{play:true});}
+      else if(t==='ru'){const ep=EPS.find(x=>x.id===id); load(ruItem(ep),{play:true});}
       else {const r=RADIO.find(x=>x.id===id); load(radioItem(r),{play:true});}}
   };
   window.scrollTo(0,0);
@@ -247,10 +261,10 @@ function showPlan(){
   let wk=null;
   PLAN.days.forEach(d=>{
     if(d.week!==wk){ if(wk!==null) html+='</ul>'; wk=d.week; html+=`<h3>${esc(d.week?PLAN.weeks[String(d.week)]:'Подготовка')}</h3><ul class="plan">`; }
-    const ep=EPS.find(e=>e.id===d.pod.id), m=MODE[d.pod.mode]||MODE.S, dn=store.get('done:'+d.date,{}), n=Object.values(dn).filter(Boolean).length;
+    const what=(d.pods||[d.pod]).map(p=>{const ep=EPS.find(e=>e.id===p.id), m=MODE[p.mode]||MODE.S; return `${m[0]} <b>${ep?esc(lab(ep)):esc(p.id)}</b> ${ep?esc(String(ep.topic).split(' — ')[0]):''}`}).join('<br>'), dn=store.get('done:'+d.date,{}), n=Object.values(dn).filter(Boolean).length;
     const pv=d.cm.new.find(x=>x.col==='Prefix verbs');
     html+=`<li><a class="pd ${d.date===t?'today':''}" href="#day/${d.date}"><span class="dt">${d.dow} ${+d.date.slice(8)}.${d.date.slice(5,7)}<small>${d.cm.reviews} повт · ${d.cm.new_total} нов</small></span>
-      <span class="what">${m[0]} <b>NLM-${d.pod.id.slice(4)}</b> ${ep?esc(ep.topic):''}${pv?`<br><span lang="da">${esc(pv.words)}</span>`:''}</span><span class="st">${n?n+'/4 ✓':''}</span></a></li>`;
+      <span class="what">${what}${pv?`<br><span lang="da">${esc(pv.words)}</span>`:''}</span><span class="st">${n?n+'/4 ✓':''}</span></a></li>`;
   });
   html+='</ul>'; app.innerHTML=html; window.scrollTo(0,0);
   const el=app.querySelector('.pd.today'); if(el) el.scrollIntoView({block:'center'});
@@ -262,9 +276,9 @@ function showPods(){
   app.innerHTML=`<p class="eyebrow">NotebookLM · dansk B1</p><h1>Подкасты</h1>
   <p class="lede">${EPS.length} эпизодов · текст с переводом готов для ${ready}. Строка, которую говорят сейчас, подсвечивается.</p>
   <ul class="list">${EPS.map(e=>{const d=CACHE[e.id];const pos=store.get('pos:'+e.id,0);
-    return `<li><a class="ep" href="#${e.id}"><span class="num">${String(e.n).padStart(2,'0')}</span>
+    return `<li><a class="ep" href="#${e.id}"><span class="num">${typeof e.n==='number'?String(e.n).padStart(2,'0'):esc(e.n)}</span>
     <span class="t"><span class="da" lang="da">${esc(e.da)}</span><span class="ru">${esc(d&&d.title_ru||e.topic)}</span>
-    <span class="badge ${d?'ok':''}">${d?'текст + перевод + '+d.glossary.length+' слов':'только аудио · текст готовится'}</span></span>
+    <span class="badge ${d||e.series?'ok':''}">${d?'текст + перевод + '+d.glossary.length+' слов':(e.series?'🇩🇰 подкаст + 🇷🇺 объяснение + 🎬 видео':'только аудио · текст готовится')}</span></span>
     <span class="meta">${fmt(e.dur)}${pos>30?'<br>с '+fmt(pos):''}</span></a></li>`}).join('')}</ul>
   <div class="how"><b>Как пользоваться.</b> Нажми на время строки — переход к этому месту. Нажми на датский текст — перевод этой строки, или включи <b>RU</b> для всех. Подчёркнутые слова есть в словарике. Позиция в каждом эпизоде запоминается.</div>`;
   app.onclick=null; window.scrollTo(0,0);
@@ -283,9 +297,11 @@ function markLine(text,forms){
 }
 function showEp(ep){
   const d=CACHE[ep.id]; load(epItem(ep)); tab='text';
-  const n=String(ep.n).padStart(2,'0');
+  const n=lab(ep);
   app.innerHTML=`<a class="back" href="#pod">← все подкасты</a>
-  <p class="eyebrow">Эпизод ${n} · ${fmt(ep.dur)}</p><h2 lang="da">${esc(ep.da)}</h2>
+  <p class="eyebrow">${esc(n)} · ${fmt(ep.dur)}${ep.series?' · '+esc(ep.series):''}</p><h2 lang="da">${esc(ep.da)}</h2>
+  ${ep.video?`<div class="media"><video id="vid" controls preload="metadata" playsinline src="video/${ep.video.id}.mp4"></video><p><small>🎬 ${esc(ep.video.t)} · ${fmt(ep.video.dur)} · по-русски, датские примеры на слайдах</small></p></div>`:''}
+  ${ep.ru?`<div class="acts"><button class="btn" id="ruplay">🇷🇺 ${esc(ep.ru.t)} · ${fmt(ep.ru.dur)}</button><button class="btn" id="daplay">🇩🇰 Подкаст · ${fmt(ep.dur)}</button></div>`:''}
   <p class="summary">${esc(d?(d.title_ru+'. '+(d.summary_ru||'')):ep.topic)}</p>
   <div class="tabs" role="tablist">
     <button class="tab" role="tab" id="t-text" aria-selected="true">Текст</button>
@@ -293,6 +309,9 @@ function showEp(ep){
     <span class="tools"><button class="chip" id="ru" aria-pressed="${ruAll}">RU</button><button class="chip" id="fol" aria-pressed="${follow}">следить</button></span>
   </div><div id="pane"></div>`;
   $('#t-text').onclick=()=>{tab='text';renderPane(d)};
+  if($('#ruplay')) $('#ruplay').onclick=()=>load(ruItem(ep),{play:true});
+  if($('#daplay')) $('#daplay').onclick=()=>load(epItem(ep),{play:true});
+  if($('#vid')) $('#vid').addEventListener('play',()=>au.pause());
   $('#t-gl').onclick=()=>{tab='gl';renderPane(d)};
   $('#ru').onclick=e=>{ruAll=!ruAll;store.set('ruAll',ruAll);e.currentTarget.setAttribute('aria-pressed',ruAll);document.querySelectorAll('.ru-t').forEach(x=>x.hidden=!ruAll)};
   $('#fol').onclick=e=>{follow=!follow;store.set('follow',follow);e.currentTarget.setAttribute('aria-pressed',follow)};

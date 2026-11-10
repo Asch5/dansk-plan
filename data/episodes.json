@@ -80,6 +80,14 @@
 "text": false
 },
 {
+"id": "nlm-11",
+"n": 11,
+"da": "Lær feriedansk bag lastbilens rat",
+"topic": "Путешествие и транспорт (к отпуску)",
+"dur": 1120,
+"text": false
+},
+{
 "id": "nlm-12",
 "n": 12,
 "da": "13 vigtige forbindelsesord for chauffører",
@@ -93,6 +101,82 @@
 "da": "Ordfamilierne læsse og vise for chauffører",
 "topic": "Приставочные глаголы: LÆSSE и VISE",
 "dur": 771,
+"text": false
+},
+{
+"id": "nlm-f1",
+"n": "F1",
+"da": "Lær at bruge danske forbindelsesord rigtigt",
+"topic": "Связки 1: откуда информация и о чём речь — ifølge, i henhold til, med hensyn til, vedrørende…",
+"series": "Forbindere forklaret",
+"ru": {
+"id": "nlm-f1r",
+"t": "Пять коварных датских связок для водителей",
+"dur": 127
+},
+"video": {
+"id": "nlm-f1v",
+"t": "Датские связки: без путаницы",
+"dur": 353
+},
+"dur": 599,
+"text": false
+},
+{
+"id": "nlm-f2",
+"n": "F2",
+"da": "Sådan forklarer du chefen hvorfor",
+"topic": "Связки 2: причина и следствие — på grund af / fordi, derfor / altså…",
+"series": "Forbindere forklaret",
+"ru": {
+"id": "nlm-f2r",
+"t": "Главные датские союзы причины и следствия",
+"dur": 122
+},
+"video": {
+"id": "nlm-f2v",
+"t": "Датская грамматика: причина и следствие",
+"dur": 396
+},
+"dur": 823,
+"text": false
+},
+{
+"id": "nlm-f3",
+"n": "F3",
+"da": "Undgå fælden med medmindre og hvis",
+"topic": "Связки 3: условия — hvis, medmindre, forudsat at, ellers, i så fald…",
+"series": "Forbindere forklaret",
+"ru": {
+"id": "nlm-f3r",
+"t": "Главные датские условные союзы",
+"dur": 133
+},
+"video": {
+"id": "nlm-f3v",
+"t": "Датские условные союзы",
+"dur": 530
+},
+"dur": 1676,
+"text": false
+},
+{
+"id": "nlm-f4",
+"n": "F4",
+"da": "Fra stift papirsprog til naturligt talesprog",
+"topic": "Связки 4: хотя, всё равно, кроме, вместо — selv om, alligevel, bortset fra…",
+"series": "Forbindere forklaret",
+"ru": {
+"id": "nlm-f4r",
+"t": "Хитрые датские слова-связки для работы",
+"dur": 110
+},
+"video": {
+"id": "nlm-f4v",
+"t": "Разбор: датские союзы",
+"dur": 489
+},
+"dur": 738,
 "text": false
 }
 ]
