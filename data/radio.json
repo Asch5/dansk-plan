@@ -2,8 +2,8 @@
 {
 "id": "cn-01",
 "num": "1",
-"group": "Колоды Clozemaster: связки и глаголы",
-"group_desc": "Ровно те предложения, что в коллекциях Connectors (65) и Prefix verbs (239), в том же порядке, что выпадают новыми. DA → RU → DA медленно.",
+"group": "Колоды Clozemaster",
+"group_desc": "Ровно те предложения, что в коллекциях Connectors, Prefix verbs и Affald, в том же порядке, что выпадают новыми. DA → RU → DA медленно.",
 "label": "Связки · вся колода (65)",
 "desc": "i henhold til … i hvert fald, faktisk — 63 связки, по одному бытовому предложению",
 "week": "1",
@@ -13,7 +13,7 @@
 {
 "id": "pv-01",
 "num": "2",
-"group": "Колоды Clozemaster: связки и глаголы",
+"group": "Колоды Clozemaster",
 "label": "Глаголы · часть 1 (120)",
 "desc": "føre, give, tage, holde, fylde, læsse, vise, gå, lade — якорь семьи во всех формах, остальные глаголы: инфинитив + частая форма",
 "week": "2",
@@ -23,12 +23,22 @@
 {
 "id": "pv-02",
 "num": "3",
-"group": "Колоды Clozemaster: связки и глаголы",
+"group": "Колоды Clozemaster",
 "label": "Глаголы · часть 2 (119)",
 "desc": "stå, bringe, dele, skrive, sætte, lægge, søge, lyse, sende, gøre, stille",
 "week": "3",
 "count": 119,
 "dur": 2136
+},
+{
+"id": "affald-01",
+"num": "4",
+"group": "Колоды Clozemaster",
+"label": "Affald · вся колода (149)",
+"desc": "контейнеры, виды отходов, места и доступ, указания с планшета, формулировки для офиса, машина и диспетчер, безопасность",
+"week": "4",
+"count": 149,
+"dur": 2930
 },
 {
 "id": "uge45",
