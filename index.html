@@ -22,7 +22,7 @@
   --accent:#f2b51c; --accent-ink:#14191c; --now:#2e2a17; --ru:#9cc0d4; --mark:#f2c14e; --done:#6cc492; color-scheme:dark}}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--ink);font:16px/1.5 var(--f-read);margin:0}
-.wrap{max-width:720px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:8px 150px}
+.wrap{max-width:720px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:8px 210px}
 h1,h2,h3{font-family:var(--f-display);font-weight:700;letter-spacing:.01em;text-wrap:balance;margin:0}
 h1{font-size:2.1rem;line-height:1.05} h2{font-size:1.7rem;line-height:1.1} h3{font-size:1.25rem;line-height:1.15;margin-top:22px}
 .eyebrow{font:500 .78rem/1 var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
@@ -98,12 +98,32 @@ mark.g{background:none;color:inherit;border-bottom:2px solid var(--accent);curso
 .row{display:flex;align-items:center;gap:8px}
 .now-t{font:600 .95rem/1.2 var(--f-display);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none}
 .play{width:46px;height:46px;border-radius:50%;background:var(--accent);color:var(--accent-ink);font:700 1.1rem/1 var(--f-display);flex:none}
-.sk{font:500 .8rem/1 var(--f-mono);padding:8px 6px;border:1px solid var(--line);border-radius:8px;flex:none}
-.spd{margin-left:auto}
+/* transport: big Play in the middle, ±5 s well apart so a thumb can't hit the wrong one */
+.trans{display:flex;justify-content:center;align-items:center;gap:clamp(28px,10vw,56px)}
+#pp{width:72px;height:72px;font-size:1.7rem;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+.sk{font:600 1.15rem/1 var(--f-mono);width:64px;height:52px;border:1px solid var(--line);border-radius:14px;flex:none;background:var(--bg)}
+.spd{font:500 .8rem/1 var(--f-mono);padding:8px 8px;border:1px solid var(--line);border-radius:8px;flex:none}
 .time{font:400 .75rem/1 var(--f-mono);color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
 input[type=range]{width:100%;accent-color:var(--accent)}
-.pop{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(130px + env(safe-area-inset-bottom,0px));max-width:min(92vw,520px);background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:10px;font-size:.95rem;z-index:30;box-shadow:0 6px 24px rgba(0,0,0,.25)}
-.pop b{font-family:var(--f-display);font-size:1.1rem}
+.row input[type=range]{flex:1;min-width:0}
+/* word popup: stays until closed with ✕ (or replaced by another word) */
+.pop{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(185px + env(safe-area-inset-bottom,0px));width:max-content;max-width:min(92vw,520px);background:var(--ink);color:var(--bg);padding:12px 52px 12px 16px;border-radius:12px;font-size:1.05rem;z-index:30;box-shadow:0 6px 24px rgba(0,0,0,.3)}
+.pop b{font-family:var(--f-display);font-size:1.25rem}
+.x{position:absolute;top:4px;right:4px;width:44px;height:44px;border-radius:10px;font:600 1.3rem/1 var(--f-display);color:inherit}
+/* big-text mode: only the current phrase, as large as fits, for a phone in a car holder */
+.big{position:fixed;left:0;right:0;top:0;z-index:15;background:var(--bg);display:flex;flex-direction:column;
+  padding:calc(8px + env(safe-area-inset-top,0px)) max(18px,env(safe-area-inset-right,0px)) 12px max(18px,env(safe-area-inset-left,0px))}
+.big[hidden]{display:none}
+.big-top{position:relative;min-height:44px;display:flex;align-items:center;padding-right:52px}
+.big-top .x{top:0;right:0;border:1px solid var(--line)}
+.big-in{flex:1;min-height:0;overflow:hidden;display:flex;flex-direction:column;justify-content:center;gap:.6em;max-width:900px;width:100%;margin:0 auto}
+.big-da{font-family:var(--f-read);font-weight:600;line-height:1.28;overflow-wrap:normal}
+.big-da mark.g{border-bottom-width:4px}
+.big-ru{color:var(--ru);font-size:.5em;line-height:1.35}
+.big-ru:empty{display:none}
+.big.ru-now .big-ru{color:var(--ink)}
+.rs li.now{background:var(--now);border-radius:6px}
+.rs li{scroll-margin:130px}
 @media (prefers-reduced-motion: reduce){*{scroll-behavior:auto!important}}
 @media (max-width:460px){h1{font-size:1.85rem}.ep{grid-template-columns:2.4rem 1fr}.ep .meta{grid-column:2;text-align:left}.nav a{padding:10px 7px}}
 .sep{border:0;border-top:1px dashed var(--line);margin:12px 0}
@@ -122,15 +142,21 @@ input[type=range]{width:100%;accent-color:var(--accent)}
 <div class="bar" id="bar" hidden>
   <div class="bar-in">
     <a class="now-t" id="nowt" href="#"></a>
-    <div class="row">
-      <button class="sk" id="b10" aria-label="Назад 10 секунд">−10</button>
+    <div class="trans">
+      <button class="sk" id="b10" aria-label="Назад 5 секунд">−5</button>
       <button class="play" id="pp" aria-label="Играть">▶</button>
-      <button class="sk" id="f10" aria-label="Вперёд 10 секунд">+10</button>
-      <span class="time" id="tm">0:00 / 0:00</span>
-      <button class="sk spd" id="spd" aria-label="Скорость">1×</button>
+      <button class="sk" id="f10" aria-label="Вперёд 5 секунд">+5</button>
     </div>
-    <input type="range" id="seek" min="0" max="1000" value="0" aria-label="Позиция">
+    <div class="row">
+      <span class="time" id="tm">0:00 / 0:00</span>
+      <input type="range" id="seek" min="0" max="1000" value="0" aria-label="Позиция">
+      <button class="spd" id="spd" aria-label="Скорость">1×</button>
+    </div>
   </div>
+</div>
+<div class="big" id="big" hidden>
+  <div class="big-top"><span class="eyebrow" id="bigmeta"></span><button class="chip" id="bigrub" aria-pressed="false" style="margin-left:auto;margin-right:8px">RU</button><button class="x" id="bigx" aria-label="Закрыть крупный текст">✕</button></div>
+  <div class="big-in" id="bigin"><div class="big-da" id="bigda" lang="da"></div><div class="big-ru" id="bigru" lang="ru"></div></div>
 </div>
 <div class="pop" id="pop" hidden></div>
 <audio id="au" preload="metadata"></audio>
@@ -141,6 +167,8 @@ const $=s=>document.querySelector(s);
 const app=$('#app'), au=$('#au'), bar=$('#bar'), pop=$('#pop');
 const store={get(k,d){try{const v=localStorage.getItem('dp:'+k);return v==null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem('dp:'+k,JSON.stringify(v))}catch(e){}}};
 let EPS=[], RADIO=[], PLAN=null, CACHE={}, cur=null, lineEls=[], lineT=[], last=-1;
+// viewKey = player key of the page on screen (podcast id or 'radio-<id>'); lineData[i] = {da (html), ru, tRu} for the big-text view
+let viewKey=null, lineData=[], bigOn=false, wake=null, bigGloss=null;
 let follow=store.get('follow',true), ruAll=store.get('ruAll',false), tab='text';
 const SPEEDS=[0.75,0.85,1,1.15]; let spd=store.get('spd',1);
 const fmt=s=>{s=Math.max(0,Math.floor(s||0));return Math.floor(s/60)+':'+String(s%60).padStart(2,'0')};
@@ -163,7 +191,7 @@ async function init(){
 function nav(n){document.querySelectorAll('#nav a').forEach(a=>a.toggleAttribute('aria-current',a.dataset.n===n)&&a.setAttribute('aria-current','page'))}
 function route(){
   const h=decodeURIComponent(location.hash.slice(1))||'today';
-  pop.hidden=true; lineEls=[];
+  pop.hidden=true; lineEls=[]; lineData=[]; viewKey=null; closeBig();
   if(h==='today'){nav('today');return showDay(pickToday())}
   if(h.startsWith('day/')){nav('plan');return showDay(h.slice(4))}
   if(h==='plan'){nav('plan');return showPlan()}
@@ -212,8 +240,9 @@ au.addEventListener('pause',()=>{$('#pp').textContent='▶';$('#pp').setAttribut
 au.addEventListener('play',()=>{const v=document.getElementById('vid'); if(v&&!v.paused) v.pause();});
 au.addEventListener('ended',()=>{ if(cur) store.set('pos:'+cur.key,0) });
 $('#pp').onclick=()=>au.paused?au.play().catch(()=>{}):au.pause();
-$('#b10').onclick=()=>au.currentTime=Math.max(0,au.currentTime-10);
-$('#f10').onclick=()=>au.currentTime=Math.min(au.duration||1e9,au.currentTime+10);
+const STEP=5;
+$('#b10').onclick=()=>au.currentTime=Math.max(0,au.currentTime-STEP);
+$('#f10').onclick=()=>au.currentTime=Math.min(au.duration||1e9,au.currentTime+STEP);
 $('#seek').oninput=e=>{ if(au.duration) au.currentTime=e.target.value/1000*au.duration; };
 const spdBtn=$('#spd'); const spdTxt=()=>spdBtn.textContent=(+spd.toFixed(2))+'×'; spdTxt();
 spdBtn.onclick=()=>{spd=SPEEDS[(SPEEDS.indexOf(spd)+1)%SPEEDS.length]||1;au.playbackRate=spd;store.set('spd',spd);spdTxt()};
@@ -306,8 +335,10 @@ function showEp(ep){
   <div class="tabs" role="tablist">
     <button class="tab" role="tab" id="t-text" aria-selected="true">Текст</button>
     <button class="tab" role="tab" id="t-gl" aria-selected="false">Слова${d?' ('+d.glossary.length+')':''}</button>
-    <span class="tools"><button class="chip" id="ru" aria-pressed="${ruAll}">RU</button><button class="chip" id="fol" aria-pressed="${follow}">следить</button></span>
+    <span class="tools"><button class="chip" id="ru" aria-pressed="${ruAll}">RU</button><button class="chip" id="fol" aria-pressed="${follow}">следить</button>${d?'<button class="chip" id="bigb" aria-pressed="false">Aa крупно</button>':''}</span>
   </div><div id="pane"></div>`;
+  viewKey=ep.id; bigGloss=d?d.glossary:null;
+  if($('#bigb')) $('#bigb').onclick=openBig;
   $('#t-text').onclick=()=>{tab='text';renderPane(d)};
   if($('#ruplay')) $('#ruplay').onclick=()=>load(ruItem(ep),{play:true});
   if($('#daplay')) $('#daplay').onclick=()=>load(epItem(ep),{play:true});
@@ -319,7 +350,7 @@ function showEp(ep){
 }
 function renderPane(d){
   $('#t-text').setAttribute('aria-selected',tab==='text'); $('#t-gl').setAttribute('aria-selected',tab==='gl');
-  const pane=$('#pane'); lineEls=[]; lineT=[]; last=-1;
+  const pane=$('#pane'); lineEls=[]; lineT=[]; lineData=[]; last=-1;
   if(!d){ pane.innerHTML='<div class="empty">Текст и перевод для этого эпизода ещё готовятся. Аудио уже можно слушать — кнопка ▶ внизу.</div>'; return; }
   const ST={known:'знаешь в Clozemaster',learning:'учишь в Clozemaster',new:'есть в Clozemaster, ещё не начато'};
   if(tab==='gl'){
@@ -330,24 +361,67 @@ function renderPane(d){
     const forms=glossForms(d.glossary);
     pane.innerHTML=`<ol class="lines">${d.lines.map((l,i)=>`<li class="ln" data-i="${i}"><button class="ts" data-t="${l.t}">${fmt(l.t)}</button>
       <div class="txt"><div class="da-t" lang="da">${markLine(l.da,forms)}</div><div class="ru-t" lang="ru" ${ruAll?'':'hidden'}>${esc(l.ru)}</div></div></li>`).join('')}</ol>`;
-    lineEls=[...pane.querySelectorAll('.ln')]; lineT=d.lines.map(l=>l.t); highlight(true);
+    lineEls=[...pane.querySelectorAll('.ln')]; lineT=d.lines.map(l=>l.t);
+    lineData=d.lines.map(l=>({da:markLine(l.da,forms),ru:l.ru}));
+    highlight(true);
   }
   pane.onclick=e=>{
     const ts=e.target.closest('.ts'); if(ts){ au.currentTime=+ts.dataset.t; au.play().catch(()=>{}); if(tab==='gl'){tab='text';renderPane(d)} return; }
-    const m=e.target.closest('mark.g'); if(m){ const g=d.glossary[+m.dataset.i]; showPop(`<b>${esc(g.da)}</b> — ${esc(g.ru)}${g.note?'<br><small>'+esc(g.note)+'</small>':''}`); return; }
+    const m=e.target.closest('mark.g'); if(m){ glossPop(d.glossary[+m.dataset.i]); return; }
     const da=e.target.closest('.da-t'); if(da){ const r=da.nextElementSibling; r.hidden=!r.hidden; }
   };
 }
 function highlight(force){
-  if(!lineEls.length||!cur||cur.key!==(location.hash.slice(1))) return;
+  if(!lineEls.length||!cur||cur.key!==viewKey) return;
   const t=au.currentTime; let i=0,lo=0,hi=lineT.length-1;
   while(lo<=hi){const m=(lo+hi)>>1; if(lineT[m]<=t+0.15){i=m;lo=m+1}else hi=m-1}
   if(i!==last||force){ if(lineEls[last]) lineEls[last].classList.remove('now'); lineEls[i].classList.add('now');
-    if(follow&&!au.paused&&i!==last) lineEls[i].scrollIntoView({block:'center',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+    if(follow&&!au.paused&&i!==last&&!bigOn) lineEls[i].scrollIntoView({block:'center',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+    if(bigOn&&i!==last) renderBig(i);
     last=i; }
+  if(bigOn){ const L=lineData[i]; big.classList.toggle('ru-now',!!(L&&L.tRu!=null&&t+0.15>=L.tRu)); }
 }
-let popT; function showPop(h){pop.innerHTML=h;pop.hidden=false;clearTimeout(popT);popT=setTimeout(()=>pop.hidden=true,4500)}
-pop.onclick=()=>pop.hidden=true;
+/* word popup: no auto-hide; closes with ✕, a new word replaces it */
+function showPop(h){pop.innerHTML=`<button class="x" aria-label="Закрыть">✕</button><div>${h}</div>`;pop.hidden=false}
+pop.onclick=e=>{ if(e.target.closest('.x')) pop.hidden=true; };
+function glossPop(g){ showPop(`<b lang="da">${esc(g.da)}</b> — ${esc(g.ru)}${g.note?'<br><small>'+esc(g.note)+'</small>':''}`); }
+
+/* ---------- big-text mode ---------- */
+const big=$('#big'), bigIn=$('#bigin');
+function openBig(){
+  if(!lineData.length) return;
+  bigOn=true; big.hidden=false; document.body.style.overflow='hidden';
+  big.style.bottom=(bar.hidden?0:bar.offsetHeight)+'px';
+  $('#bigrub').hidden=!!lineData[0].showRu; syncRu();
+  highlight(true); renderBig(last>=0?last:0);
+  keepAwake();
+}
+function closeBig(){
+  if(!bigOn) return; bigOn=false; big.hidden=true; document.body.style.overflow=''; pop.hidden=true;
+  if(wake){wake.release().catch(()=>{}); wake=null}
+  if(lineEls[last]) lineEls[last].scrollIntoView({block:'center'});
+}
+function renderBig(i){
+  const L=lineData[i]; if(!L) return;
+  $('#bigda').innerHTML=L.da;
+  $('#bigru').textContent=(L.showRu||ruAll)?(L.ru||''):'';
+  $('#bigmeta').textContent=(i+1)+' / '+lineData.length;
+  fitBig();
+}
+function fitBig(){ // largest font at which the phrase (+ translation) fits the screen
+  // words are never cut: the font shrinks until the longest word fits the width; only below 20 px may a word wrap
+  let s=Math.min(72,Math.max(28,Math.round(innerWidth/7)));
+  const da=$('#bigda'); da.style.overflowWrap='normal'; bigIn.style.fontSize=s+'px';
+  while(s>20&&(bigIn.scrollHeight>bigIn.clientHeight+1||da.scrollWidth>da.clientWidth+1)){s-=2;bigIn.style.fontSize=s+'px'}
+  if(da.scrollWidth>da.clientWidth+1) da.style.overflowWrap='anywhere';
+}
+async function keepAwake(){ try{ if('wakeLock' in navigator&&bigOn&&!wake){ wake=await navigator.wakeLock.request('screen'); wake.addEventListener('release',()=>wake=null); } }catch(e){} }
+document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible') keepAwake(); });
+addEventListener('resize',()=>{ if(bigOn){ big.style.bottom=(bar.hidden?0:bar.offsetHeight)+'px'; fitBig(); } });
+$('#bigx').onclick=closeBig;
+$('#bigrub').onclick=()=>{ ruAll=!ruAll; store.set('ruAll',ruAll); syncRu(); if(last>=0) renderBig(last); };
+function syncRu(){ document.querySelectorAll('#ru,#bigrub').forEach(b=>b.setAttribute('aria-pressed',ruAll)); document.querySelectorAll('#app .ru-t').forEach(x=>x.hidden=!ruAll); }
+bigIn.onclick=e=>{ const m=e.target.closest('mark.g'); if(m&&bigGloss){ glossPop(bigGloss[+m.dataset.i]); } };
 
 /* ---------- radio ---------- */
 function showRadioList(){
@@ -366,13 +440,24 @@ async function showRadio(id){
   const r=RADIO.find(x=>x.id===id); if(!r){showRadioList();return}
   load(radioItem(r));
   const items=await loadData('radio-'+id)||[];
+  const synced=items.length>0&&items.every(x=>typeof x[2]==='number'); // [da, ru, tStart, tRu, tSlow] when timings exist
   app.innerHTML=`<a class="back" href="#radio">← все выпуски</a><p class="eyebrow">Радио · ${fmt(r.dur)}</p><h2>${esc(r.label)}</h2>
   <p class="summary">${esc(r.desc||'')}</p>
-  <p><button class="btn" id="rp">▶ Слушать</button> <button class="chip" id="ru" aria-pressed="${ruAll}">RU</button></p>
-  <ol class="rs">${items.map(x=>`<li><div class="da-t" lang="da">${esc(x[0])}</div><div class="ru-t" lang="ru" ${ruAll?'':'hidden'}>${esc(x[1])}</div></li>`).join('')}</ol>`;
+  <p class="acts" style="margin-left:0"><button class="btn" id="rp">▶ Слушать</button> <button class="chip" id="ru" aria-pressed="${ruAll}">RU</button>${synced?` <button class="chip" id="fol" aria-pressed="${follow}">следить</button> <button class="chip" id="bigb" aria-pressed="false">Aa крупно</button>`:''}</p>
+  ${synced?'<p class="lede">Предложение, которое звучит сейчас, подсвечивается. Нажми на предложение — перейти к нему. «Aa крупно» — на весь экран предложение и перевод.</p>':''}
+  <ol class="rs">${items.map((x,i)=>`<li data-i="${i}"><div class="da-t" lang="da" ${synced?'style="cursor:pointer"':''}>${esc(x[0])}</div><div class="ru-t" lang="ru" ${ruAll?'':'hidden'}>${esc(x[1])}</div></li>`).join('')}</ol>`;
   $('#rp').onclick=()=>au.play().catch(()=>{});
-  $('#ru').onclick=e=>{ruAll=!ruAll;store.set('ruAll',ruAll);e.currentTarget.setAttribute('aria-pressed',ruAll);document.querySelectorAll('.ru-t').forEach(x=>x.hidden=!ruAll)};
+  $('#ru').onclick=()=>{ruAll=!ruAll;store.set('ruAll',ruAll);syncRu()};
   app.onclick=null; window.scrollTo(0,0);
+  if(synced){
+    viewKey='radio-'+id; bigGloss=null;
+    lineEls=[...app.querySelectorAll('.rs li')]; lineT=items.map(x=>x[2]); last=-1;
+    lineData=items.map(x=>({da:esc(x[0]),ru:x[1],tRu:x[3],showRu:true}));
+    $('#fol').onclick=e=>{follow=!follow;store.set('follow',follow);e.currentTarget.setAttribute('aria-pressed',follow)};
+    $('#bigb').onclick=openBig;
+    app.querySelector('.rs').onclick=e=>{const li=e.target.closest('li'); if(li){au.currentTime=lineT[+li.dataset.i]; au.play().catch(()=>{});}};
+    highlight(true);
+  }
 }
 init();
 })();
